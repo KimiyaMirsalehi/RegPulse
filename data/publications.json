@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T16:10:15.188Z",
+  "generatedAt": "2026-06-08T17:22:22.764Z",
   "totalPublications": 264,
   "totalSources": 12,
   "successfulSources": 12,
@@ -14,51 +14,51 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 110
+      "count": 115
     },
     {
       "topic": "Governance",
-      "count": 56
+      "count": 58
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 16
+      "count": 17
     },
     {
       "topic": "Payments / Open Finance",
       "count": 13
     },
     {
+      "topic": "Capital Requirements",
+      "count": 10
+    },
+    {
       "topic": "Recovery / Resolution",
       "count": 10
     },
     {
-      "topic": "Capital Requirements",
-      "count": 8
-    },
-    {
       "topic": "Crypto / Digital Assets",
-      "count": 5
-    },
-    {
-      "topic": "Climate / ESG",
-      "count": 5
-    },
-    {
-      "topic": "DORA / Operational Resilience",
-      "count": 4
+      "count": 7
     },
     {
       "topic": "Consumer Protection",
+      "count": 6
+    },
+    {
+      "topic": "Climate / ESG",
+      "count": 6
+    },
+    {
+      "topic": "DORA / Operational Resilience",
+      "count": 5
+    },
+    {
+      "topic": "Stress Testing",
       "count": 4
     },
     {
       "topic": "AML / Financial Crime",
       "count": 4
-    },
-    {
-      "topic": "Stress Testing",
-      "count": 3
     },
     {
       "topic": "AI",
@@ -76,15 +76,15 @@
   "keywordSummary": [
     {
       "keyword": "supervision",
-      "count": 39
+      "count": 42
     },
     {
       "keyword": "board",
-      "count": 34
+      "count": 36
     },
     {
       "keyword": "its",
-      "count": 31
+      "count": 32
     },
     {
       "keyword": "conduct",
@@ -115,11 +115,15 @@
       "count": 9
     },
     {
-      "keyword": "climate",
-      "count": 5
+      "keyword": "payment",
+      "count": 8
     },
     {
-      "keyword": "payment",
+      "keyword": "climate",
+      "count": 6
+    },
+    {
+      "keyword": "operational resilience",
       "count": 5
     },
     {
@@ -139,7 +143,35 @@
       "count": 4
     },
     {
-      "keyword": "operational resilience",
+      "keyword": "transparency",
+      "count": 3
+    },
+    {
+      "keyword": "crypto",
+      "count": 3
+    },
+    {
+      "keyword": "stablecoins",
+      "count": 3
+    },
+    {
+      "keyword": "retail investors",
+      "count": 3
+    },
+    {
+      "keyword": "crr",
+      "count": 3
+    },
+    {
+      "keyword": "governance",
+      "count": 3
+    },
+    {
+      "keyword": "consumer duty",
+      "count": 3
+    },
+    {
+      "keyword": "payment services",
       "count": 3
     },
     {
@@ -151,15 +183,11 @@
       "count": 3
     },
     {
-      "keyword": "transparency",
-      "count": 2
-    },
-    {
       "keyword": "pillar 3",
       "count": 2
     },
     {
-      "keyword": "algorithm",
+      "keyword": "stress testing",
       "count": 2
     },
     {
@@ -171,11 +199,11 @@
       "count": 2
     },
     {
-      "keyword": "governance",
+      "keyword": "financial promotions",
       "count": 2
     },
     {
-      "keyword": "financial promotions",
+      "keyword": "authorisation",
       "count": 2
     },
     {
@@ -183,23 +211,19 @@
       "count": 2
     },
     {
-      "keyword": "payment services",
-      "count": 2
-    },
-    {
-      "keyword": "crypto",
-      "count": 2
-    },
-    {
-      "keyword": "crr",
-      "count": 2
-    },
-    {
       "keyword": "resolvability",
       "count": 2
     },
     {
+      "keyword": "own funds",
+      "count": 2
+    },
+    {
       "keyword": "bail-in",
+      "count": 2
+    },
+    {
+      "keyword": "bail in",
       "count": 2
     },
     {
@@ -227,11 +251,23 @@
       "count": 1
     },
     {
+      "keyword": "digital operational resilience act",
+      "count": 1
+    },
+    {
+      "keyword": "ict risks",
+      "count": 1
+    },
+    {
       "keyword": "cybersecurity",
       "count": 1
     },
     {
       "keyword": "stablecoin",
+      "count": 1
+    },
+    {
+      "keyword": "mica",
       "count": 1
     },
     {
@@ -243,6 +279,18 @@
       "count": 1
     },
     {
+      "keyword": "deep learning",
+      "count": 1
+    },
+    {
+      "keyword": "neural network",
+      "count": 1
+    },
+    {
+      "keyword": "neural networks",
+      "count": 1
+    },
+    {
       "keyword": "penalty",
       "count": 1
     },
@@ -251,7 +299,7 @@
       "count": 1
     },
     {
-      "keyword": "stress testing",
+      "keyword": "nature related",
       "count": 1
     },
     {
@@ -263,7 +311,11 @@
       "count": 1
     },
     {
-      "keyword": "authorisation",
+      "keyword": "crd",
+      "count": 1
+    },
+    {
+      "keyword": "ai in financial services",
       "count": 1
     },
     {
@@ -280,6 +332,10 @@
     },
     {
       "keyword": "sustainability",
+      "count": 1
+    },
+    {
+      "keyword": "greenwashing",
       "count": 1
     },
     {
@@ -303,7 +359,7 @@
       "count": 1
     },
     {
-      "keyword": "consumer duty",
+      "keyword": "retail customers",
       "count": 1
     },
     {
@@ -331,7 +387,7 @@
       "count": 1
     },
     {
-      "keyword": "own funds",
+      "keyword": "resolution planning",
       "count": 1
     },
     {
@@ -339,7 +395,15 @@
       "count": 1
     },
     {
+      "keyword": "recovery plans",
+      "count": 1
+    },
+    {
       "keyword": "incident reporting",
+      "count": 1
+    },
+    {
+      "keyword": "basel 3",
       "count": 1
     }
   ],
@@ -363,9 +427,19 @@
         "transparency",
         "data standards"
       ],
+      "topicMatches": [
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "transparency",
+            "data standards"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.866Z"
+      "collectedAt": "2026-06-08T17:22:22.238Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -385,9 +459,18 @@
       "matchedKeywords": [
         "pillar 3"
       ],
+      "topicMatches": [
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "pillar 3"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.729Z"
+      "collectedAt": "2026-06-08T17:22:18.040Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -408,9 +491,19 @@
         "reporting",
         "integrated reporting framework"
       ],
+      "topicMatches": [
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "reporting",
+            "integrated reporting framework"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:11.298Z"
+      "collectedAt": "2026-06-08T17:22:16.209Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -430,9 +523,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.109Z"
+      "collectedAt": "2026-06-08T17:22:17.252Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -448,9 +550,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:11.298Z"
+      "collectedAt": "2026-06-08T17:22:16.209Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -466,9 +569,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:11.298Z"
+      "collectedAt": "2026-06-08T17:22:16.209Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -488,9 +592,18 @@
       "matchedKeywords": [
         "operational resilience"
       ],
+      "topicMatches": [
+        {
+          "topic": "DORA / Operational Resilience",
+          "topicId": "dora-operational-resilience",
+          "keywords": [
+            "operational resilience"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:11.298Z"
+      "collectedAt": "2026-06-08T17:22:16.210Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -512,9 +625,25 @@
         "operational resilience",
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "DORA / Operational Resilience",
+          "topicId": "dora-operational-resilience",
+          "keywords": [
+            "operational resilience"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.110Z"
+      "collectedAt": "2026-06-08T17:22:17.252Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -532,9 +661,10 @@
       ],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:10:11.831Z"
+      "collectedAt": "2026-06-08T17:22:16.627Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -552,9 +682,10 @@
       ],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:10:11.831Z"
+      "collectedAt": "2026-06-08T17:22:16.628Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -576,14 +707,44 @@
       "matchedKeywords": [
         "dora",
         "digital operational resilience",
+        "digital operational resilience act",
         "operational resilience",
+        "ict risks",
         "cybersecurity",
         "reporting",
         "supervisory"
       ],
+      "topicMatches": [
+        {
+          "topic": "DORA / Operational Resilience",
+          "topicId": "dora-operational-resilience",
+          "keywords": [
+            "dora",
+            "digital operational resilience",
+            "digital operational resilience act",
+            "operational resilience",
+            "ict risks",
+            "cybersecurity"
+          ]
+        },
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.730Z"
+      "collectedAt": "2026-06-08T17:22:18.041Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -599,9 +760,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:11.298Z"
+      "collectedAt": "2026-06-08T17:22:16.210Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -620,12 +782,32 @@
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "crypto",
         "stablecoin",
+        "mica",
         "supervision"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Crypto / Digital Assets",
+          "topicId": "crypto-digital-assets",
+          "keywords": [
+            "crypto",
+            "stablecoin",
+            "mica"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
       ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.730Z"
+      "collectedAt": "2026-06-08T17:22:18.041Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -647,9 +829,18 @@
       "matchedKeywords": [
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:10:11.832Z"
+      "collectedAt": "2026-06-08T17:22:16.629Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -669,9 +860,18 @@
       "matchedKeywords": [
         "transparency"
       ],
+      "topicMatches": [
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "transparency"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.731Z"
+      "collectedAt": "2026-06-08T17:22:18.041Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -687,9 +887,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:11.298Z"
+      "collectedAt": "2026-06-08T17:22:16.210Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -705,9 +906,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:10:11.832Z"
+      "collectedAt": "2026-06-08T17:22:16.629Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -725,9 +927,10 @@
       ],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:10:11.832Z"
+      "collectedAt": "2026-06-08T17:22:16.629Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -743,9 +946,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:11.298Z"
+      "collectedAt": "2026-06-08T17:22:16.210Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -759,11 +963,24 @@
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260601~38dffe5ec5.en.html",
       "publishedAt": "2026-06-01T00:10:00.000Z",
       "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
+      "topics": [
+        "Crypto / Digital Assets"
+      ],
+      "matchedKeywords": [
+        "stablecoins"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Crypto / Digital Assets",
+          "topicId": "crypto-digital-assets",
+          "keywords": [
+            "stablecoins"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:11.298Z"
+      "collectedAt": "2026-06-08T17:22:16.211Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -779,9 +996,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:11.298Z"
+      "collectedAt": "2026-06-08T17:22:16.211Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -799,9 +1017,10 @@
       ],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:10:11.832Z"
+      "collectedAt": "2026-06-08T17:22:16.629Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -817,9 +1036,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:11.299Z"
+      "collectedAt": "2026-06-08T17:22:16.211Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -835,9 +1055,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:11.299Z"
+      "collectedAt": "2026-06-08T17:22:16.211Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -855,9 +1076,10 @@
       ],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:10:11.832Z"
+      "collectedAt": "2026-06-08T17:22:16.630Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -873,9 +1095,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:11.299Z"
+      "collectedAt": "2026-06-08T17:22:16.212Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -891,9 +1114,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:11.299Z"
+      "collectedAt": "2026-06-08T17:22:16.212Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -910,14 +1134,32 @@
         "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3239~efed05d5c7.en.pdf"
       ],
       "topics": [
+        "Consumer Protection",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "retail investors",
         "its"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Consumer Protection",
+          "topicId": "consumer-protection",
+          "keywords": [
+            "retail investors"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
       ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:10:11.833Z"
+      "collectedAt": "2026-06-08T17:22:16.630Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -935,9 +1177,10 @@
       ],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:10:11.833Z"
+      "collectedAt": "2026-06-08T17:22:16.631Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -955,9 +1198,10 @@
       ],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:11.299Z"
+      "collectedAt": "2026-06-08T17:22:16.212Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -973,9 +1217,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:11.299Z"
+      "collectedAt": "2026-06-08T17:22:16.212Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -991,9 +1236,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:10:11.833Z"
+      "collectedAt": "2026-06-08T17:22:16.631Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -1007,15 +1253,12 @@
       "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_03~90365ff1cb.en.html",
       "publishedAt": "2026-05-27T08:00:00.000Z",
       "pdfLinks": [],
-      "topics": [
-        "AI"
-      ],
-      "matchedKeywords": [
-        "algorithm"
-      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:10:11.834Z"
+      "collectedAt": "2026-06-08T17:22:16.631Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -1037,9 +1280,25 @@
         "credit risk",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Credit Risk",
+          "topicId": "credit-risk",
+          "keywords": [
+            "credit risk"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:10:11.834Z"
+      "collectedAt": "2026-06-08T17:22:16.632Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -1054,14 +1313,32 @@
       "publishedAt": "2026-05-27T08:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Stress Testing",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "stress testing",
         "its"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Stress Testing",
+          "topicId": "stress-testing",
+          "keywords": [
+            "stress testing"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
       ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:10:11.834Z"
+      "collectedAt": "2026-06-08T17:22:16.633Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -1085,9 +1362,20 @@
         "carbon",
         "emissions"
       ],
+      "topicMatches": [
+        {
+          "topic": "Climate / ESG",
+          "topicId": "climate-esg",
+          "keywords": [
+            "climate",
+            "carbon",
+            "emissions"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:10:11.835Z"
+      "collectedAt": "2026-06-08T17:22:16.633Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -1108,13 +1396,34 @@
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
-        "algorithm",
+        "deep learning",
+        "neural network",
+        "neural networks",
         "penalty",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "AI",
+          "topicId": "ai",
+          "keywords": [
+            "deep learning",
+            "neural network",
+            "neural networks"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "penalty",
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:10:11.835Z"
+      "collectedAt": "2026-06-08T17:22:16.634Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -1138,9 +1447,25 @@
         "climate",
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Climate / ESG",
+          "topicId": "climate-esg",
+          "keywords": [
+            "climate"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.110Z"
+      "collectedAt": "2026-06-08T17:22:17.252Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -1160,9 +1485,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.110Z"
+      "collectedAt": "2026-06-08T17:22:17.252Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -1182,9 +1516,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.110Z"
+      "collectedAt": "2026-06-08T17:22:17.253Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -1205,9 +1548,19 @@
         "supervision",
         "supervisory"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.110Z"
+      "collectedAt": "2026-06-08T17:22:17.253Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -1227,9 +1580,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.110Z"
+      "collectedAt": "2026-06-08T17:22:17.253Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -1249,9 +1611,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.111Z"
+      "collectedAt": "2026-06-08T17:22:17.253Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -1271,9 +1642,18 @@
       "matchedKeywords": [
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.731Z"
+      "collectedAt": "2026-06-08T17:22:18.042Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -1293,9 +1673,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.111Z"
+      "collectedAt": "2026-06-08T17:22:17.253Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -1317,9 +1706,25 @@
         "board",
         "supervisory"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.731Z"
+      "collectedAt": "2026-06-08T17:22:18.042Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -1339,9 +1744,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.111Z"
+      "collectedAt": "2026-06-08T17:22:17.253Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -1361,9 +1775,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.111Z"
+      "collectedAt": "2026-06-08T17:22:17.254Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1387,12 +1810,38 @@
       "matchedKeywords": [
         "climate",
         "nature-related",
+        "nature related",
         "stress testing",
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Climate / ESG",
+          "topicId": "climate-esg",
+          "keywords": [
+            "climate",
+            "nature-related",
+            "nature related"
+          ]
+        },
+        {
+          "topic": "Stress Testing",
+          "topicId": "stress-testing",
+          "keywords": [
+            "stress testing"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.238Z"
+      "collectedAt": "2026-06-08T17:22:17.342Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1416,9 +1865,25 @@
         "climate",
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Climate / ESG",
+          "topicId": "climate-esg",
+          "keywords": [
+            "climate"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.238Z"
+      "collectedAt": "2026-06-08T17:22:17.342Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -1438,14 +1903,35 @@
       ],
       "matchedKeywords": [
         "capital requirements",
+        "crr",
         "supervisory",
         "regulatory technical standards",
         "rts",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Capital Requirements",
+          "topicId": "capital-requirements",
+          "keywords": [
+            "capital requirements",
+            "crr"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervisory",
+            "regulatory technical standards",
+            "rts",
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.732Z"
+      "collectedAt": "2026-06-08T17:22:18.043Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -1467,9 +1953,20 @@
         "guidelines",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "final report",
+            "guidelines",
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.732Z"
+      "collectedAt": "2026-06-08T17:22:18.043Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -1489,9 +1986,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.111Z"
+      "collectedAt": "2026-06-08T17:22:17.254Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -1513,9 +2019,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.111Z"
+      "collectedAt": "2026-06-08T17:22:17.254Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1540,9 +2055,26 @@
         "supervision",
         "supervisory"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.238Z"
+      "collectedAt": "2026-06-08T17:22:17.343Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -1563,14 +2095,41 @@
       ],
       "matchedKeywords": [
         "capital requirements",
+        "crd",
         "governance",
         "supervisory",
         "guidelines",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Capital Requirements",
+          "topicId": "capital-requirements",
+          "keywords": [
+            "capital requirements",
+            "crd"
+          ]
+        },
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "governance"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervisory",
+            "guidelines",
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.732Z"
+      "collectedAt": "2026-06-08T17:22:18.043Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -1591,9 +2150,19 @@
         "guidelines",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "guidelines",
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.733Z"
+      "collectedAt": "2026-06-08T17:22:18.044Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1615,9 +2184,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.239Z"
+      "collectedAt": "2026-06-08T17:22:17.343Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1639,9 +2217,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.239Z"
+      "collectedAt": "2026-06-08T17:22:17.343Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -1661,9 +2248,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.111Z"
+      "collectedAt": "2026-06-08T17:22:17.254Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -1683,9 +2279,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.111Z"
+      "collectedAt": "2026-06-08T17:22:17.254Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1702,15 +2307,34 @@
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.mepletter260320_Farantouris~332d1ec6d5.en.pdf"
       ],
       "topics": [
+        "Governance",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "board",
         "supervision",
         "supervisory"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.239Z"
+      "collectedAt": "2026-06-08T17:22:17.343Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1731,9 +2355,19 @@
         "supervision",
         "supervisory"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.239Z"
+      "collectedAt": "2026-06-08T17:22:17.343Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1756,9 +2390,19 @@
         "supervision",
         "supervisory"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.239Z"
+      "collectedAt": "2026-06-08T17:22:17.344Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1780,9 +2424,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.239Z"
+      "collectedAt": "2026-06-08T17:22:17.344Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1802,9 +2455,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.239Z"
+      "collectedAt": "2026-06-08T17:22:17.344Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1821,15 +2483,34 @@
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.mepletter260122_Eickhout~8205edb8b4.en.pdf"
       ],
       "topics": [
+        "Governance",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "board",
         "supervision",
         "supervisory"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.239Z"
+      "collectedAt": "2026-06-08T17:22:17.344Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1851,9 +2532,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.239Z"
+      "collectedAt": "2026-06-08T17:22:17.345Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1875,9 +2565,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.240Z"
+      "collectedAt": "2026-06-08T17:22:17.345Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1900,9 +2599,19 @@
         "supervision",
         "supervisory"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.240Z"
+      "collectedAt": "2026-06-08T17:22:17.345Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1922,9 +2631,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.240Z"
+      "collectedAt": "2026-06-08T17:22:17.345Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4NzE2",
@@ -1948,9 +2666,32 @@
         "conduct",
         "authorisation"
       ],
+      "topicMatches": [
+        {
+          "topic": "Consumer Protection",
+          "topicId": "consumer-protection",
+          "keywords": [
+            "financial promotions"
+          ]
+        },
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "authorisation"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.963Z"
+      "collectedAt": "2026-06-08T17:22:18.180Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4Njcx",
@@ -1972,9 +2713,25 @@
         "conduct",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.963Z"
+      "collectedAt": "2026-06-08T17:22:18.180Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4NTkx",
@@ -1998,9 +2755,32 @@
         "conduct",
         "enforcement"
       ],
+      "topicMatches": [
+        {
+          "topic": "AML / Financial Crime",
+          "topicId": "aml-financial-crime",
+          "keywords": [
+            "financial crime"
+          ]
+        },
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.964Z"
+      "collectedAt": "2026-06-08T17:22:18.181Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4Mzk2",
@@ -2015,17 +2795,45 @@
       "publishedAt": "Monday, June 8, 2026 - 09:07",
       "pdfLinks": [],
       "topics": [
+        "AI",
         "Consumer Protection",
         "Governance"
       ],
       "matchedKeywords": [
+        "ai in financial services",
+        "consumer duty",
         "fair treatment",
         "governance",
         "conduct"
       ],
+      "topicMatches": [
+        {
+          "topic": "AI",
+          "topicId": "ai",
+          "keywords": [
+            "ai in financial services"
+          ]
+        },
+        {
+          "topic": "Consumer Protection",
+          "topicId": "consumer-protection",
+          "keywords": [
+            "consumer duty",
+            "fair treatment"
+          ]
+        },
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "governance",
+            "conduct"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.965Z"
+      "collectedAt": "2026-06-08T17:22:18.182Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4NTcx",
@@ -2051,9 +2859,34 @@
         "enforcement",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Consumer Protection",
+          "topicId": "consumer-protection",
+          "keywords": [
+            "complaints",
+            "consumer finance"
+          ]
+        },
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "enforcement",
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.967Z"
+      "collectedAt": "2026-06-08T17:22:18.184Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4NjUx",
@@ -2075,14 +2908,47 @@
       ],
       "matchedKeywords": [
         "financial crime",
+        "governance",
         "conduct",
         "its",
         "payment",
         "payment services"
       ],
+      "topicMatches": [
+        {
+          "topic": "AML / Financial Crime",
+          "topicId": "aml-financial-crime",
+          "keywords": [
+            "financial crime"
+          ]
+        },
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "governance",
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        },
+        {
+          "topic": "Payments / Open Finance",
+          "topicId": "payments-open-finance",
+          "keywords": [
+            "payment",
+            "payment services"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.968Z"
+      "collectedAt": "2026-06-08T17:22:18.185Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MTk2",
@@ -2104,9 +2970,25 @@
         "conduct",
         "resolution"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Recovery / Resolution",
+          "topicId": "resolution-recovery",
+          "keywords": [
+            "resolution"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.968Z"
+      "collectedAt": "2026-06-08T17:22:18.185Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4NDU2",
@@ -2128,9 +3010,25 @@
         "conduct",
         "resolution"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Recovery / Resolution",
+          "topicId": "resolution-recovery",
+          "keywords": [
+            "resolution"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.968Z"
+      "collectedAt": "2026-06-08T17:22:18.186Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4NDcx",
@@ -2152,9 +3050,25 @@
         "conduct",
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.969Z"
+      "collectedAt": "2026-06-08T17:22:18.186Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4NDkx",
@@ -2170,6 +3084,7 @@
       "pdfLinks": [],
       "topics": [
         "Climate / ESG",
+        "Consumer Protection",
         "Governance",
         "Reporting / Disclosure",
         "Supervision / Enforcement"
@@ -2177,16 +3092,62 @@
       "matchedKeywords": [
         "climate",
         "sustainability",
+        "greenwashing",
         "emissions",
+        "consumer duty",
+        "retail investors",
         "conduct",
         "reporting",
         "disclosure",
         "consultation paper",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Climate / ESG",
+          "topicId": "climate-esg",
+          "keywords": [
+            "climate",
+            "sustainability",
+            "greenwashing",
+            "emissions"
+          ]
+        },
+        {
+          "topic": "Consumer Protection",
+          "topicId": "consumer-protection",
+          "keywords": [
+            "consumer duty",
+            "retail investors"
+          ]
+        },
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "reporting",
+            "disclosure"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "consultation paper",
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.970Z"
+      "collectedAt": "2026-06-08T17:22:18.187Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4NDUx",
@@ -2210,9 +3171,27 @@
         "investigation",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "enforcement",
+            "investigation",
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.971Z"
+      "collectedAt": "2026-06-08T17:22:18.189Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MzI2",
@@ -2229,16 +3208,48 @@
       "topics": [
         "Crypto / Digital Assets",
         "AML / Financial Crime",
-        "Governance"
+        "Governance",
+        "Supervision / Enforcement"
       ],
       "matchedKeywords": [
         "crypto",
         "money laundering",
-        "conduct"
+        "conduct",
+        "authorisation"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Crypto / Digital Assets",
+          "topicId": "crypto-digital-assets",
+          "keywords": [
+            "crypto"
+          ]
+        },
+        {
+          "topic": "AML / Financial Crime",
+          "topicId": "aml-financial-crime",
+          "keywords": [
+            "money laundering"
+          ]
+        },
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "authorisation"
+          ]
+        }
       ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.971Z"
+      "collectedAt": "2026-06-08T17:22:18.190Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4Mjgx",
@@ -2262,9 +3273,27 @@
         "open banking",
         "open finance"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Payments / Open Finance",
+          "topicId": "payments-open-finance",
+          "keywords": [
+            "payments",
+            "open banking",
+            "open finance"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.972Z"
+      "collectedAt": "2026-06-08T17:22:18.190Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MjQ2",
@@ -2287,9 +3316,26 @@
         "payment",
         "payment services"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Payments / Open Finance",
+          "topicId": "payments-open-finance",
+          "keywords": [
+            "payment",
+            "payment services"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.972Z"
+      "collectedAt": "2026-06-08T17:22:18.191Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MjUx",
@@ -2311,11 +3357,36 @@
       "matchedKeywords": [
         "conduct",
         "its",
+        "payment",
         "payments"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        },
+        {
+          "topic": "Payments / Open Finance",
+          "topicId": "payments-open-finance",
+          "keywords": [
+            "payment",
+            "payments"
+          ]
+        }
       ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.973Z"
+      "collectedAt": "2026-06-08T17:22:18.192Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MTcx",
@@ -2339,9 +3410,32 @@
         "conduct",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "AML / Financial Crime",
+          "topicId": "aml-financial-crime",
+          "keywords": [
+            "sanctions"
+          ]
+        },
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.973Z"
+      "collectedAt": "2026-06-08T17:22:18.193Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MTgx",
@@ -2361,11 +3455,29 @@
       ],
       "matchedKeywords": [
         "conduct",
-        "payment"
+        "payment",
+        "payment services"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Payments / Open Finance",
+          "topicId": "payments-open-finance",
+          "keywords": [
+            "payment",
+            "payment services"
+          ]
+        }
       ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.974Z"
+      "collectedAt": "2026-06-08T17:22:18.193Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MTUx",
@@ -2385,12 +3497,33 @@
       ],
       "matchedKeywords": [
         "consumer duty",
+        "retail customers",
+        "retail investors",
         "financial promotions",
         "conduct"
       ],
+      "topicMatches": [
+        {
+          "topic": "Consumer Protection",
+          "topicId": "consumer-protection",
+          "keywords": [
+            "consumer duty",
+            "retail customers",
+            "retail investors",
+            "financial promotions"
+          ]
+        },
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.974Z"
+      "collectedAt": "2026-06-08T17:22:18.194Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MTM2",
@@ -2405,14 +3538,32 @@
       "publishedAt": "Wednesday, May 27, 2026 - 10:00",
       "pdfLinks": [],
       "topics": [
-        "Governance"
+        "Governance",
+        "Supervision / Enforcement"
       ],
       "matchedKeywords": [
-        "conduct"
+        "conduct",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
       ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.975Z"
+      "collectedAt": "2026-06-08T17:22:18.194Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MTA2",
@@ -2435,9 +3586,26 @@
         "conduct",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "accountability",
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:12.975Z"
+      "collectedAt": "2026-06-08T17:22:18.195Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MTE4REQy",
@@ -2457,9 +3625,18 @@
       "matchedKeywords": [
         "capital requirements"
       ],
+      "topicMatches": [
+        {
+          "topic": "Capital Requirements",
+          "topicId": "capital-requirements",
+          "keywords": [
+            "capital requirements"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.874Z"
+      "collectedAt": "2026-06-08T17:22:19.557Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NjUzN0VD",
@@ -2475,9 +3652,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.874Z"
+      "collectedAt": "2026-06-08T17:22:19.558Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17Qzg4QkRD",
@@ -2493,9 +3671,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.874Z"
+      "collectedAt": "2026-06-08T17:22:19.558Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17Qjg1RkM3",
@@ -2511,9 +3690,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.874Z"
+      "collectedAt": "2026-06-08T17:22:19.558Z"
     },
     {
       "id": "c2VjLXByZXNzLWU3NDdkZGIyLWQ0NTYt",
@@ -2529,9 +3709,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.866Z"
+      "collectedAt": "2026-06-08T17:22:22.239Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MTJDRDQ0",
@@ -2547,9 +3728,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.874Z"
+      "collectedAt": "2026-06-08T17:22:19.558Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2569,9 +3751,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.132Z"
+      "collectedAt": "2026-06-08T17:22:19.871Z"
     },
     {
       "id": "c2VjLXByZXNzLTkwMTYzNmMyLTUzZmEt",
@@ -2587,9 +3778,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.866Z"
+      "collectedAt": "2026-06-08T17:22:22.239Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTM5NjwY29uc",
@@ -2605,9 +3797,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.184Z"
+      "collectedAt": "2026-06-08T17:22:22.761Z"
     },
     {
       "id": "c2VjLXByZXNzLTE0MjVlNjZkLWEyZGUt",
@@ -2627,9 +3820,18 @@
       "matchedKeywords": [
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.866Z"
+      "collectedAt": "2026-06-08T17:22:22.239Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -2645,9 +3847,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.363Z"
+      "collectedAt": "2026-06-08T17:22:19.076Z"
     },
     {
       "id": "c2VjLXByZXNzLTkxMjdiOWNhLTZlNDkt",
@@ -2662,14 +3865,32 @@
       "publishedAt": "2026-05-29T14:50:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Climate / ESG",
         "Reporting / Disclosure"
       ],
       "matchedKeywords": [
+        "climate",
         "disclosure"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Climate / ESG",
+          "topicId": "climate-esg",
+          "keywords": [
+            "climate"
+          ]
+        },
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "disclosure"
+          ]
+        }
       ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.867Z"
+      "collectedAt": "2026-06-08T17:22:22.240Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NDI5NDM0",
@@ -2685,9 +3906,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.874Z"
+      "collectedAt": "2026-06-08T17:22:19.559Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2709,9 +3931,25 @@
         "board",
         "enforcement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.132Z"
+      "collectedAt": "2026-06-08T17:22:19.871Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NzlEMUZC",
@@ -2727,9 +3965,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.875Z"
+      "collectedAt": "2026-06-08T17:22:19.559Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -2749,9 +3988,18 @@
       "matchedKeywords": [
         "policy statement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.364Z"
+      "collectedAt": "2026-06-08T17:22:19.076Z"
     },
     {
       "id": "c2VjLXByZXNzLTA2ZWZmNDhmLTJkNmIt",
@@ -2767,9 +4015,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.867Z"
+      "collectedAt": "2026-06-08T17:22:22.240Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -2791,9 +4040,25 @@
         "crr",
         "policy statement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Capital Requirements",
+          "topicId": "capital-requirements",
+          "keywords": [
+            "crr"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.364Z"
+      "collectedAt": "2026-06-08T17:22:19.076Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2813,9 +4078,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.132Z"
+      "collectedAt": "2026-06-08T17:22:19.872Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2837,9 +4111,25 @@
         "board",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.132Z"
+      "collectedAt": "2026-06-08T17:22:19.872Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2861,9 +4151,25 @@
         "board",
         "resolution"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Recovery / Resolution",
+          "topicId": "resolution-recovery",
+          "keywords": [
+            "resolution"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.132Z"
+      "collectedAt": "2026-06-08T17:22:19.873Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QjdBQjRG",
@@ -2879,9 +4185,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.875Z"
+      "collectedAt": "2026-06-08T17:22:19.559Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QzU4MTEx",
@@ -2897,9 +4204,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.875Z"
+      "collectedAt": "2026-06-08T17:22:19.560Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MUQ0MkY1",
@@ -2915,9 +4223,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.875Z"
+      "collectedAt": "2026-06-08T17:22:19.560Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2939,9 +4248,25 @@
         "board",
         "enforcement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.133Z"
+      "collectedAt": "2026-06-08T17:22:19.873Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17M0ZFQjZE",
@@ -2957,9 +4282,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.875Z"
+      "collectedAt": "2026-06-08T17:22:19.560Z"
     },
     {
       "id": "c2VjLXByZXNzLTkxYTYyYjQ5LTNmNTct",
@@ -2975,9 +4301,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.867Z"
+      "collectedAt": "2026-06-08T17:22:22.240Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -2997,9 +4324,18 @@
       "matchedKeywords": [
         "policy statement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.364Z"
+      "collectedAt": "2026-06-08T17:22:19.077Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -3019,12 +4355,31 @@
       ],
       "matchedKeywords": [
         "board",
+        "payment",
         "payments",
         "clearing"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Payments / Open Finance",
+          "topicId": "payments-open-finance",
+          "keywords": [
+            "payment",
+            "payments",
+            "clearing"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.133Z"
+      "collectedAt": "2026-06-08T17:22:19.873Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -3044,9 +4399,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.133Z"
+      "collectedAt": "2026-06-08T17:22:19.874Z"
     },
     {
       "id": "c2VjLXByZXNzLWE4M2UwMTkxLWY1Njkt",
@@ -3070,9 +4434,32 @@
         "reporting",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.867Z"
+      "collectedAt": "2026-06-08T17:22:22.241Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17RTI0MjBB",
@@ -3093,9 +4480,19 @@
         "resolution",
         "resolvability"
       ],
+      "topicMatches": [
+        {
+          "topic": "Recovery / Resolution",
+          "topicId": "resolution-recovery",
+          "keywords": [
+            "resolution",
+            "resolvability"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.875Z"
+      "collectedAt": "2026-06-08T17:22:19.560Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QzZBRkMx",
@@ -3111,9 +4508,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.875Z"
+      "collectedAt": "2026-06-08T17:22:19.560Z"
     },
     {
       "id": "c2VjLXByZXNzLTU0YTYxMDY3LWVmMmYt",
@@ -3135,9 +4533,20 @@
         "sanction",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "enforcement",
+            "sanction",
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.868Z"
+      "collectedAt": "2026-06-08T17:22:22.241Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3151,11 +4560,24 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/letter/2026/innovations-in-the-use-of-deposits-emoney-and-regulated-stablecoins",
       "publishedAt": "2026-05-18T08:00:00.000Z",
       "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
+      "topics": [
+        "Crypto / Digital Assets"
+      ],
+      "matchedKeywords": [
+        "stablecoins"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Crypto / Digital Assets",
+          "topicId": "crypto-digital-assets",
+          "keywords": [
+            "stablecoins"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.364Z"
+      "collectedAt": "2026-06-08T17:22:19.077Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3173,11 +4595,22 @@
         "Crypto / Digital Assets"
       ],
       "matchedKeywords": [
-        "cryptoasset"
+        "cryptoasset",
+        "stablecoins"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Crypto / Digital Assets",
+          "topicId": "crypto-digital-assets",
+          "keywords": [
+            "cryptoasset",
+            "stablecoins"
+          ]
+        }
       ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.364Z"
+      "collectedAt": "2026-06-08T17:22:19.078Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MEM2NTgw",
@@ -3199,9 +4632,25 @@
         "consultation paper",
         "settlement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "consultation paper"
+          ]
+        },
+        {
+          "topic": "Payments / Open Finance",
+          "topicId": "payments-open-finance",
+          "keywords": [
+            "settlement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.875Z"
+      "collectedAt": "2026-06-08T17:22:19.561Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -3221,9 +4670,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.133Z"
+      "collectedAt": "2026-06-08T17:22:19.874Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -3243,9 +4701,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.133Z"
+      "collectedAt": "2026-06-08T17:22:19.874Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -3265,9 +4732,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.133Z"
+      "collectedAt": "2026-06-08T17:22:19.874Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -3289,9 +4765,25 @@
         "board",
         "enforcement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.134Z"
+      "collectedAt": "2026-06-08T17:22:19.875Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3307,9 +4799,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.364Z"
+      "collectedAt": "2026-06-08T17:22:19.078Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -3329,9 +4822,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.134Z"
+      "collectedAt": "2026-06-08T17:22:19.875Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QkNDQjcz",
@@ -3347,9 +4849,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.876Z"
+      "collectedAt": "2026-06-08T17:22:19.561Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -3369,9 +4872,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.134Z"
+      "collectedAt": "2026-06-08T17:22:19.875Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -3391,9 +4903,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.134Z"
+      "collectedAt": "2026-06-08T17:22:19.875Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -3415,9 +4936,25 @@
         "board",
         "enforcement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.135Z"
+      "collectedAt": "2026-06-08T17:22:19.876Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17RTlCN0Ez",
@@ -3442,9 +4979,33 @@
         "final report",
         "settlement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Crypto / Digital Assets",
+          "topicId": "crypto-digital-assets",
+          "keywords": [
+            "distributed ledger",
+            "dlt"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "final report"
+          ]
+        },
+        {
+          "topic": "Payments / Open Finance",
+          "topicId": "payments-open-finance",
+          "keywords": [
+            "settlement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.876Z"
+      "collectedAt": "2026-06-08T17:22:19.561Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17REI3MEI4",
@@ -3460,9 +5021,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.876Z"
+      "collectedAt": "2026-06-08T17:22:19.561Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -3482,9 +5044,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.135Z"
+      "collectedAt": "2026-06-08T17:22:19.876Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17N0U1MTM2",
@@ -3500,9 +5071,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.876Z"
+      "collectedAt": "2026-06-08T17:22:19.561Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NzIwNDc4",
@@ -3518,9 +5090,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.877Z"
+      "collectedAt": "2026-06-08T17:22:19.561Z"
     },
     {
       "id": "c2VjLXByZXNzLThjNmE3YjA3LTI1MmYt",
@@ -3536,9 +5109,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.868Z"
+      "collectedAt": "2026-06-08T17:22:22.241Z"
     },
     {
       "id": "c2VjLXByZXNzLTZkMWVjYjlmLTM5YmQt",
@@ -3554,9 +5128,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.868Z"
+      "collectedAt": "2026-06-08T17:22:22.242Z"
     },
     {
       "id": "c2VjLXByZXNzLTdjNWJjNGI3LTY3YmMt",
@@ -3576,9 +5151,18 @@
       "matchedKeywords": [
         "reporting"
       ],
+      "topicMatches": [
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.868Z"
+      "collectedAt": "2026-06-08T17:22:22.242Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MDM0N0Qx",
@@ -3592,11 +5176,24 @@
       "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q1",
       "publishedAt": "2026-05-05T11:00:00.000Z",
       "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "transparency"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "transparency"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.877Z"
+      "collectedAt": "2026-06-08T17:22:19.561Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -3616,9 +5213,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.135Z"
+      "collectedAt": "2026-06-08T17:22:19.876Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17Qjg1NjND",
@@ -3634,9 +5240,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.877Z"
+      "collectedAt": "2026-06-08T17:22:19.561Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3652,9 +5259,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.365Z"
+      "collectedAt": "2026-06-08T17:22:19.078Z"
     },
     {
       "id": "c2VjLXByZXNzLWU2YTMwNzJjLTdjMjkt",
@@ -3674,9 +5282,18 @@
       "matchedKeywords": [
         "enforcement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.869Z"
+      "collectedAt": "2026-06-08T17:22:22.242Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NDdEODNB",
@@ -3692,9 +5309,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.877Z"
+      "collectedAt": "2026-06-08T17:22:19.562Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QzNGODg0",
@@ -3714,9 +5332,18 @@
       "matchedKeywords": [
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.877Z"
+      "collectedAt": "2026-06-08T17:22:19.562Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -3736,9 +5363,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.135Z"
+      "collectedAt": "2026-06-08T17:22:19.876Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3754,9 +5390,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.365Z"
+      "collectedAt": "2026-06-08T17:22:19.078Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3772,9 +5409,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.365Z"
+      "collectedAt": "2026-06-08T17:22:19.079Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3790,9 +5428,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.365Z"
+      "collectedAt": "2026-06-08T17:22:19.079Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3812,9 +5451,18 @@
       "matchedKeywords": [
         "consultation paper"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "consultation paper"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.365Z"
+      "collectedAt": "2026-06-08T17:22:19.079Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3830,9 +5478,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.365Z"
+      "collectedAt": "2026-06-08T17:22:19.080Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QkE1OUNC",
@@ -3848,9 +5497,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.877Z"
+      "collectedAt": "2026-06-08T17:22:19.562Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -3870,9 +5520,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.135Z"
+      "collectedAt": "2026-06-08T17:22:19.876Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QTNBQ0Ew",
@@ -3893,9 +5552,19 @@
         "payment",
         "payments"
       ],
+      "topicMatches": [
+        {
+          "topic": "Payments / Open Finance",
+          "topicId": "payments-open-finance",
+          "keywords": [
+            "payment",
+            "payments"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.877Z"
+      "collectedAt": "2026-06-08T17:22:19.562Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17OUMwRDQ2",
@@ -3915,9 +5584,18 @@
       "matchedKeywords": [
         "reporting"
       ],
+      "topicMatches": [
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.878Z"
+      "collectedAt": "2026-06-08T17:22:19.562Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MkFFQjJC",
@@ -3933,9 +5611,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.878Z"
+      "collectedAt": "2026-06-08T17:22:19.562Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -3957,9 +5636,25 @@
         "leverage ratio",
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Capital Requirements",
+          "topicId": "capital-requirements",
+          "keywords": [
+            "leverage ratio"
+          ]
+        },
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.350Z"
+      "collectedAt": "2026-06-08T17:22:20.078Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17M0MzMUMw",
@@ -3975,9 +5670,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.878Z"
+      "collectedAt": "2026-06-08T17:22:19.562Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3993,9 +5689,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.365Z"
+      "collectedAt": "2026-06-08T17:22:19.080Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -4011,9 +5708,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.366Z"
+      "collectedAt": "2026-06-08T17:22:19.080Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -4035,9 +5733,25 @@
         "board",
         "enforcement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.350Z"
+      "collectedAt": "2026-06-08T17:22:20.078Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -4057,9 +5771,18 @@
       "matchedKeywords": [
         "policy statement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.366Z"
+      "collectedAt": "2026-06-08T17:22:19.080Z"
     },
     {
       "id": "c2VjLXByZXNzLWIyZjQzMjY2LWU0N2Yt",
@@ -4079,9 +5802,18 @@
       "matchedKeywords": [
         "reporting"
       ],
+      "topicMatches": [
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.869Z"
+      "collectedAt": "2026-06-08T17:22:22.243Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QUE0QjQy",
@@ -4102,9 +5834,19 @@
         "supervision",
         "consultation paper"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision",
+            "consultation paper"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.878Z"
+      "collectedAt": "2026-06-08T17:22:19.562Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -4124,9 +5866,18 @@
       "matchedKeywords": [
         "consultation paper"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "consultation paper"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.366Z"
+      "collectedAt": "2026-06-08T17:22:19.080Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -4142,9 +5893,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.366Z"
+      "collectedAt": "2026-06-08T17:22:19.081Z"
     },
     {
       "id": "c2VjLXByZXNzLTljMWRhMjBiLWJjYjkt",
@@ -4160,9 +5912,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.869Z"
+      "collectedAt": "2026-06-08T17:22:22.243Z"
     },
     {
       "id": "c2VjLXByZXNzLWJkM2Q0Yzg0LTlhMGUt",
@@ -4178,9 +5931,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.869Z"
+      "collectedAt": "2026-06-08T17:22:22.243Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NjRBQjdB",
@@ -4196,9 +5950,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.878Z"
+      "collectedAt": "2026-06-08T17:22:19.563Z"
     },
     {
       "id": "c2VjLXByZXNzLTUwZWY3OWVmLWQ4Njkt",
@@ -4214,9 +5969,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.870Z"
+      "collectedAt": "2026-06-08T17:22:22.243Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MTEyOTcy",
@@ -4232,9 +5988,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.878Z"
+      "collectedAt": "2026-06-08T17:22:19.563Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NThEMTA3",
@@ -4257,11 +6014,37 @@
         "own funds",
         "disclosure",
         "resolution",
-        "bail-in"
+        "bail-in",
+        "bail in"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Capital Requirements",
+          "topicId": "capital-requirements",
+          "keywords": [
+            "own funds"
+          ]
+        },
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "disclosure"
+          ]
+        },
+        {
+          "topic": "Recovery / Resolution",
+          "topicId": "resolution-recovery",
+          "keywords": [
+            "resolution",
+            "bail-in",
+            "bail in"
+          ]
+        }
       ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.878Z"
+      "collectedAt": "2026-06-08T17:22:19.563Z"
     },
     {
       "id": "c2VjLXByZXNzLTQ0OTgwYjU3LTY0ODct",
@@ -4281,9 +6064,53 @@
       "matchedKeywords": [
         "clearing"
       ],
+      "topicMatches": [
+        {
+          "topic": "Payments / Open Finance",
+          "topicId": "payments-open-finance",
+          "keywords": [
+            "clearing"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.870Z"
+      "collectedAt": "2026-06-08T17:22:22.244Z"
+    },
+    {
+      "id": "Ym9lLXB1YmxpY2F0aW9ucy17OTZGODNG",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "title": "Operational guide to bail-in resolution",
+      "summary": "This publication describes how the Bank could execute a bail-in resolution, and the operational processes and arrangements that may be involved in this.",
+      "link": "https://www.bankofengland.co.uk/paper/2026/operational-guide-to-bail-in-resolution",
+      "publishedAt": "2026-04-13T10:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "resolution",
+        "bail-in",
+        "bail in"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Recovery / Resolution",
+          "topicId": "resolution-recovery",
+          "keywords": [
+            "resolution",
+            "bail-in",
+            "bail in"
+          ]
+        }
+      ],
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "feedUsedFallback": false,
+      "collectedAt": "2026-06-08T17:22:19.563Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NTAzNjVF",
@@ -4303,32 +6130,18 @@
       "matchedKeywords": [
         "resolution"
       ],
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.878Z"
-    },
-    {
-      "id": "Ym9lLXB1YmxpY2F0aW9ucy17OTZGODNG",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "title": "Operational guide to bail-in resolution",
-      "summary": "This publication describes how the Bank could execute a bail-in resolution, and the operational processes and arrangements that may be involved in this.",
-      "link": "https://www.bankofengland.co.uk/paper/2026/operational-guide-to-bail-in-resolution",
-      "publishedAt": "2026-04-13T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Recovery / Resolution"
-      ],
-      "matchedKeywords": [
-        "resolution",
-        "bail-in"
+      "topicMatches": [
+        {
+          "topic": "Recovery / Resolution",
+          "topicId": "resolution-recovery",
+          "keywords": [
+            "resolution"
+          ]
+        }
       ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.879Z"
+      "collectedAt": "2026-06-08T17:22:19.563Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QjBGNjM5",
@@ -4344,9 +6157,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.879Z"
+      "collectedAt": "2026-06-08T17:22:19.563Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QUM5RjlF",
@@ -4362,9 +6176,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.879Z"
+      "collectedAt": "2026-06-08T17:22:19.563Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NjNDODlC",
@@ -4380,9 +6195,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.879Z"
+      "collectedAt": "2026-06-08T17:22:19.564Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MEM2MkI0",
@@ -4398,9 +6214,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.879Z"
+      "collectedAt": "2026-06-08T17:22:19.564Z"
     },
     {
       "id": "c2VjLXByZXNzLTlhYTJmMWRlLWJmNjct",
@@ -4420,9 +6237,18 @@
       "matchedKeywords": [
         "enforcement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.870Z"
+      "collectedAt": "2026-06-08T17:22:22.244Z"
     },
     {
       "id": "c2VjLXByZXNzLTc5Yjg5ODg1LTgwNjAt",
@@ -4442,9 +6268,18 @@
       "matchedKeywords": [
         "enforcement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.870Z"
+      "collectedAt": "2026-06-08T17:22:22.244Z"
     },
     {
       "id": "c2VjLXByZXNzLWNmNWE1ZTlhLTUyMmMt",
@@ -4464,9 +6299,18 @@
       "matchedKeywords": [
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.870Z"
+      "collectedAt": "2026-06-08T17:22:22.244Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MTQ1RERD",
@@ -4482,9 +6326,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.879Z"
+      "collectedAt": "2026-06-08T17:22:19.564Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QTFENEU0",
@@ -4500,9 +6345,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.880Z"
+      "collectedAt": "2026-06-08T17:22:19.564Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NDlEREFD",
@@ -4518,9 +6364,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.880Z"
+      "collectedAt": "2026-06-08T17:22:19.564Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QkUwQzQ2",
@@ -4536,9 +6383,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.880Z"
+      "collectedAt": "2026-06-08T17:22:19.564Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17ODBBNzRC",
@@ -4554,9 +6402,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.880Z"
+      "collectedAt": "2026-06-08T17:22:19.565Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -4576,9 +6425,18 @@
       "matchedKeywords": [
         "consultation paper"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "consultation paper"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.367Z"
+      "collectedAt": "2026-06-08T17:22:19.081Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -4594,9 +6452,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.367Z"
+      "collectedAt": "2026-06-08T17:22:19.081Z"
     },
     {
       "id": "c2VjLXByZXNzLTlmOWE4ZTgwLTAwYjMt",
@@ -4612,9 +6471,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.871Z"
+      "collectedAt": "2026-06-08T17:22:22.244Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MzUxODgx",
@@ -4630,9 +6490,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.880Z"
+      "collectedAt": "2026-06-08T17:22:19.565Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -4652,9 +6513,18 @@
       "matchedKeywords": [
         "policy statement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.367Z"
+      "collectedAt": "2026-06-08T17:22:19.082Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTM2MDwY29uc",
@@ -4670,9 +6540,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.184Z"
+      "collectedAt": "2026-06-08T17:22:22.761Z"
     },
     {
       "id": "c2VjLXByZXNzLWU1Mjk5NGQ4LWJjNTkt",
@@ -4688,9 +6559,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.871Z"
+      "collectedAt": "2026-06-08T17:22:22.244Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17ODU0MzhE",
@@ -4710,9 +6582,18 @@
       "matchedKeywords": [
         "liquidity"
       ],
+      "topicMatches": [
+        {
+          "topic": "Liquidity",
+          "topicId": "liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.881Z"
+      "collectedAt": "2026-06-08T17:22:19.565Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17OTU3ODgz",
@@ -4728,9 +6609,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.881Z"
+      "collectedAt": "2026-06-08T17:22:19.565Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MERFNzMx",
@@ -4746,9 +6628,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.881Z"
+      "collectedAt": "2026-06-08T17:22:19.565Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -4768,9 +6651,18 @@
       "matchedKeywords": [
         "supervisory"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.367Z"
+      "collectedAt": "2026-06-08T17:22:19.082Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -4793,11 +6685,37 @@
         "reporting",
         "policy statement",
         "resolution",
+        "resolution planning",
         "mrel"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        },
+        {
+          "topic": "Recovery / Resolution",
+          "topicId": "resolution-recovery",
+          "keywords": [
+            "resolution",
+            "resolution planning",
+            "mrel"
+          ]
+        }
       ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.367Z"
+      "collectedAt": "2026-06-08T17:22:19.082Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -4822,9 +6740,33 @@
         "policy statement",
         "resolvability"
       ],
+      "topicMatches": [
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "disclosure",
+            "pillar 3"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        },
+        {
+          "topic": "Recovery / Resolution",
+          "topicId": "resolution-recovery",
+          "keywords": [
+            "resolvability"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.367Z"
+      "collectedAt": "2026-06-08T17:22:19.082Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -4844,11 +6786,29 @@
       ],
       "matchedKeywords": [
         "policy statement",
+        "recovery plans",
         "resolution"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        },
+        {
+          "topic": "Recovery / Resolution",
+          "topicId": "resolution-recovery",
+          "keywords": [
+            "recovery plans",
+            "resolution"
+          ]
+        }
       ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.367Z"
+      "collectedAt": "2026-06-08T17:22:19.082Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NUU2NkVF",
@@ -4864,9 +6824,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.881Z"
+      "collectedAt": "2026-06-08T17:22:19.565Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MTE0MTA3",
@@ -4882,9 +6843,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.881Z"
+      "collectedAt": "2026-06-08T17:22:19.565Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MkEyRTU0",
@@ -4900,9 +6862,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.881Z"
+      "collectedAt": "2026-06-08T17:22:19.565Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -4922,9 +6885,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.350Z"
+      "collectedAt": "2026-06-08T17:22:20.079Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -4944,13 +6916,38 @@
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "operational resilience",
         "incident reporting",
         "reporting",
         "supervisory"
       ],
+      "topicMatches": [
+        {
+          "topic": "DORA / Operational Resilience",
+          "topicId": "dora-operational-resilience",
+          "keywords": [
+            "operational resilience",
+            "incident reporting"
+          ]
+        },
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.368Z"
+      "collectedAt": "2026-06-08T17:22:19.083Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -4965,16 +6962,41 @@
       "publishedAt": "2026-03-18T10:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "DORA / Operational Resilience",
         "Reporting / Disclosure",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "operational resilience",
         "reporting",
         "policy statement"
       ],
+      "topicMatches": [
+        {
+          "topic": "DORA / Operational Resilience",
+          "topicId": "dora-operational-resilience",
+          "keywords": [
+            "operational resilience"
+          ]
+        },
+        {
+          "topic": "Reporting / Disclosure",
+          "topicId": "reporting-disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.368Z"
+      "collectedAt": "2026-06-08T17:22:19.083Z"
     },
     {
       "id": "c2VjLXByZXNzLTMwOGI3YjBlLTJhYTUt",
@@ -4994,9 +7016,18 @@
       "matchedKeywords": [
         "crypto"
       ],
+      "topicMatches": [
+        {
+          "topic": "Crypto / Digital Assets",
+          "topicId": "crypto-digital-assets",
+          "keywords": [
+            "crypto"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.871Z"
+      "collectedAt": "2026-06-08T17:22:22.245Z"
     },
     {
       "id": "c2VjLXByZXNzLTFjNzQxNzgzLWZkMTAt",
@@ -5012,9 +7043,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.871Z"
+      "collectedAt": "2026-06-08T17:22:22.245Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5036,9 +7068,25 @@
         "liquidity",
         "consultation paper"
       ],
+      "topicMatches": [
+        {
+          "topic": "Liquidity",
+          "topicId": "liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "consultation paper"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.368Z"
+      "collectedAt": "2026-06-08T17:22:19.083Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -5058,9 +7106,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.350Z"
+      "collectedAt": "2026-06-08T17:22:20.079Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5080,9 +7137,18 @@
       "matchedKeywords": [
         "policy statement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.368Z"
+      "collectedAt": "2026-06-08T17:22:19.083Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5098,9 +7164,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.368Z"
+      "collectedAt": "2026-06-08T17:22:19.083Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5120,9 +7187,18 @@
       "matchedKeywords": [
         "stress test"
       ],
+      "topicMatches": [
+        {
+          "topic": "Stress Testing",
+          "topicId": "stress-testing",
+          "keywords": [
+            "stress test"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.368Z"
+      "collectedAt": "2026-06-08T17:22:19.084Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5137,14 +7213,32 @@
       "publishedAt": "2026-02-25T10:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Capital Requirements",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "own funds",
         "consultation paper"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Capital Requirements",
+          "topicId": "capital-requirements",
+          "keywords": [
+            "own funds"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "consultation paper"
+          ]
+        }
       ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.369Z"
+      "collectedAt": "2026-06-08T17:22:19.084Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -5167,9 +7261,26 @@
         "supervision",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision",
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.350Z"
+      "collectedAt": "2026-06-08T17:22:20.079Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5189,9 +7300,18 @@
       "matchedKeywords": [
         "policy statement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.369Z"
+      "collectedAt": "2026-06-08T17:22:19.084Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5211,9 +7331,18 @@
       "matchedKeywords": [
         "consultation paper"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "consultation paper"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.369Z"
+      "collectedAt": "2026-06-08T17:22:19.084Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5233,9 +7362,18 @@
       "matchedKeywords": [
         "consultation paper"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "consultation paper"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.369Z"
+      "collectedAt": "2026-06-08T17:22:19.085Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTM0NTwY29uc",
@@ -5251,9 +7389,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.184Z"
+      "collectedAt": "2026-06-08T17:22:22.761Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -5279,9 +7418,39 @@
         "board",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Capital Requirements",
+          "topicId": "capital-requirements",
+          "keywords": [
+            "capital requirements"
+          ]
+        },
+        {
+          "topic": "Stress Testing",
+          "topicId": "stress-testing",
+          "keywords": [
+            "stress test"
+          ]
+        },
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.350Z"
+      "collectedAt": "2026-06-08T17:22:20.079Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5297,9 +7466,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.369Z"
+      "collectedAt": "2026-06-08T17:22:19.085Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5315,9 +7485,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.369Z"
+      "collectedAt": "2026-06-08T17:22:19.085Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5337,9 +7508,18 @@
       "matchedKeywords": [
         "policy statement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.370Z"
+      "collectedAt": "2026-06-08T17:22:19.085Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5359,9 +7539,18 @@
       "matchedKeywords": [
         "policy statement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.370Z"
+      "collectedAt": "2026-06-08T17:22:19.086Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5376,14 +7565,32 @@
       "publishedAt": "2026-01-20T07:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Capital Requirements",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "basel 3",
         "policy statement"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Capital Requirements",
+          "topicId": "capital-requirements",
+          "keywords": [
+            "basel 3"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
       ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.370Z"
+      "collectedAt": "2026-06-08T17:22:19.086Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5405,9 +7612,25 @@
         "crr",
         "policy statement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Capital Requirements",
+          "topicId": "capital-requirements",
+          "keywords": [
+            "crr"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.370Z"
+      "collectedAt": "2026-06-08T17:22:19.086Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5421,11 +7644,24 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/letter-from-rebecca-jackson-and-alison-scott-international-banks-supervision-2026-priorities",
       "publishedAt": "2026-01-15T10:00:00.000Z",
       "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.370Z"
+      "collectedAt": "2026-06-08T17:22:19.086Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5439,11 +7675,24 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/letter-from-gareth-truran-and-shoib-khan-insurance-supervision-2026-priorities",
       "publishedAt": "2026-01-15T10:00:00.000Z",
       "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.370Z"
+      "collectedAt": "2026-06-08T17:22:19.086Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5457,11 +7706,24 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/letter-from-charlotte-gerken-and-laura-wallis-uk-deposit-takers-supervision-2026-priorities",
       "publishedAt": "2026-01-15T10:00:00.000Z",
       "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.370Z"
+      "collectedAt": "2026-06-08T17:22:19.086Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5481,9 +7743,18 @@
       "matchedKeywords": [
         "consultation paper"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "consultation paper"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.371Z"
+      "collectedAt": "2026-06-08T17:22:19.087Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -5503,9 +7774,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.351Z"
+      "collectedAt": "2026-06-08T17:22:20.080Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTMzMjwY29uc",
@@ -5521,9 +7801,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.185Z"
+      "collectedAt": "2026-06-08T17:22:22.762Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5539,9 +7820,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.371Z"
+      "collectedAt": "2026-06-08T17:22:19.087Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5557,9 +7839,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.371Z"
+      "collectedAt": "2026-06-08T17:22:19.087Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5579,9 +7862,18 @@
       "matchedKeywords": [
         "guidelines"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "guidelines"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.371Z"
+      "collectedAt": "2026-06-08T17:22:19.087Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -5601,9 +7893,18 @@
       "matchedKeywords": [
         "board"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.351Z"
+      "collectedAt": "2026-06-08T17:22:20.080Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -5627,9 +7928,32 @@
         "its",
         "payment"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        },
+        {
+          "topic": "Payments / Open Finance",
+          "topicId": "payments-open-finance",
+          "keywords": [
+            "payment"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.351Z"
+      "collectedAt": "2026-06-08T17:22:20.080Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -5649,12 +7973,31 @@
       ],
       "matchedKeywords": [
         "board",
+        "payment",
         "payments",
         "clearing"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Payments / Open Finance",
+          "topicId": "payments-open-finance",
+          "keywords": [
+            "payment",
+            "payments",
+            "clearing"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.352Z"
+      "collectedAt": "2026-06-08T17:22:20.081Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5674,9 +8017,18 @@
       "matchedKeywords": [
         "supervisory"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.371Z"
+      "collectedAt": "2026-06-08T17:22:19.088Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -5692,9 +8044,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:13.372Z"
+      "collectedAt": "2026-06-08T17:22:19.088Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -5716,9 +8069,25 @@
         "board",
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.352Z"
+      "collectedAt": "2026-06-08T17:22:20.081Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -5740,9 +8109,25 @@
         "board",
         "policy statement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Governance",
+          "topicId": "governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:14.352Z"
+      "collectedAt": "2026-06-08T17:22:20.081Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTMxNDwY29uc",
@@ -5758,9 +8143,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.185Z"
+      "collectedAt": "2026-06-08T17:22:22.762Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTMxMzwY29uc",
@@ -5776,9 +8162,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.185Z"
+      "collectedAt": "2026-06-08T17:22:22.762Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTI5NjwY29uc",
@@ -5798,9 +8185,18 @@
       "matchedKeywords": [
         "supervision"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.185Z"
+      "collectedAt": "2026-06-08T17:22:22.762Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTI5MDwY29uc",
@@ -5816,9 +8212,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.185Z"
+      "collectedAt": "2026-06-08T17:22:22.762Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTI2NjwY29uc",
@@ -5840,9 +8237,25 @@
         "its",
         "settlement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        },
+        {
+          "topic": "Payments / Open Finance",
+          "topicId": "payments-open-finance",
+          "keywords": [
+            "settlement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.186Z"
+      "collectedAt": "2026-06-08T17:22:22.763Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTI1NDwY29uc",
@@ -5862,9 +8275,18 @@
       "matchedKeywords": [
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.186Z"
+      "collectedAt": "2026-06-08T17:22:22.763Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTI1MjwY29uc",
@@ -5884,9 +8306,18 @@
       "matchedKeywords": [
         "enforcement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.186Z"
+      "collectedAt": "2026-06-08T17:22:22.763Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTI0ODwY29uc",
@@ -5908,9 +8339,20 @@
         "enforcement",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision",
+            "enforcement",
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.186Z"
+      "collectedAt": "2026-06-08T17:22:22.763Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTI0MzwY29uc",
@@ -5931,9 +8373,19 @@
         "supervision",
         "enforcement"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision",
+            "enforcement"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.186Z"
+      "collectedAt": "2026-06-08T17:22:22.763Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTIzODwY29uc",
@@ -5949,9 +8401,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.187Z"
+      "collectedAt": "2026-06-08T17:22:22.763Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTIzNjwY29uc",
@@ -5973,9 +8426,20 @@
         "enforcement",
         "its"
       ],
+      "topicMatches": [
+        {
+          "topic": "Supervision / Enforcement",
+          "topicId": "supervision-enforcement",
+          "keywords": [
+            "supervision",
+            "enforcement",
+            "its"
+          ]
+        }
+      ],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.187Z"
+      "collectedAt": "2026-06-08T17:22:22.763Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTIzNDwY29uc",
@@ -5991,9 +8455,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.187Z"
+      "collectedAt": "2026-06-08T17:22:22.763Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTIxMzwY29uc",
@@ -6009,9 +8474,10 @@
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
+      "topicMatches": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:10:15.187Z"
+      "collectedAt": "2026-06-08T17:22:22.764Z"
     }
   ]
 }

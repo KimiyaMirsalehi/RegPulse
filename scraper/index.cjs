@@ -138,39 +138,52 @@ function createPublicationId(source, item) {
 }
 
 function normaliseForMatching(value) {
-  return ` ${String(value || '').toLowerCase().replace(/\s+/g, ' ')} `;
+  return ` ${String(value || '')
+    .toLowerCase()
+    .replace(/&nbsp;/g, ' ')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()} `;
 }
 
-function keywordMatchesText(keyword, text) {
+function keywordMatchesText(keyword, searchableText) {
   const normalisedKeyword = normaliseForMatching(keyword);
 
-  return text.includes(normalisedKeyword);
+  return searchableText.includes(normalisedKeyword);
 }
 
 function tagPublication(title, summary, institution) {
   const searchableText = normaliseForMatching(`${title} ${summary} ${institution}`);
 
-  const matchedTopics = [];
-  const matchedKeywords = [];
+  const topicMatches = [];
 
   topics.forEach((topic) => {
-    const topicMatches = [];
+    const matchedKeywordsForTopic = [];
 
     topic.keywords.forEach((keyword) => {
       if (keywordMatchesText(keyword, searchableText)) {
-        topicMatches.push(keyword.trim());
+        matchedKeywordsForTopic.push(keyword.trim());
       }
     });
 
-    if (topicMatches.length > 0) {
-      matchedTopics.push(topic.label);
-      matchedKeywords.push(...topicMatches);
+    const uniqueMatchedKeywords = [...new Set(matchedKeywordsForTopic)];
+
+    if (uniqueMatchedKeywords.length > 0) {
+      topicMatches.push({
+        topic: topic.label,
+        topicId: topic.id,
+        keywords: uniqueMatchedKeywords
+      });
     }
   });
 
+  const matchedTopics = topicMatches.map((match) => match.topic);
+  const matchedKeywords = topicMatches.flatMap((match) => match.keywords);
+
   return {
     topics: [...new Set(matchedTopics)],
-    matchedKeywords: [...new Set(matchedKeywords)]
+    matchedKeywords: [...new Set(matchedKeywords)],
+    topicMatches
   };
 }
 
@@ -200,6 +213,7 @@ function normaliseItem(source, item, feedMeta) {
     pdfLinks: extractPdfLinks(item),
     topics: tagging.topics,
     matchedKeywords: tagging.matchedKeywords,
+    topicMatches: tagging.topicMatches,
     officialSourcePage: source.officialSourcePage,
     feedUsedFallback: feedMeta.usedFallback,
     collectedAt: new Date().toISOString()
