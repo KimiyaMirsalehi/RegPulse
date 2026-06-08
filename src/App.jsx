@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import publicationsData from '../data/publications.json';
 
 const PAGE_SIZE = 10;
