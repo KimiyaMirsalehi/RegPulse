@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ecb-press",
+    "name": "ECB Press",
+    "institution": "European Central Bank",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "rss",
+    "url": "https://www.ecb.europa.eu/rss/press.html",
+    "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+    "notes": "Official ECB RSS feed for press releases, speeches, interviews and press conference transcripts."
+  },
+  {
+    "id": "ecb-publications",
+    "name": "ECB Publications",
+    "institution": "European Central Bank",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "rss",
+    "url": "https://www.ecb.europa.eu/rss/pub.html",
+    "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+    "notes": "Official ECB RSS feed for publications."
+  },
+  {
+    "id": "ecb-supervision-press",
+    "name": "ECB Banking Supervision Press",
+    "institution": "ECB Banking Supervision",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "rss",
+    "url": "https://www.bankingsupervision.europa.eu/rss/press.html",
+    "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+    "notes": "Official ECB Banking Supervision RSS feed for press releases, speeches, interviews and transcripts."
+  },
+  {
+    "id": "ecb-supervision-publications",
+    "name": "ECB Banking Supervision Publications",
+    "institution": "ECB Banking Supervision",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "rss",
+    "url": "https://www.bankingsupervision.europa.eu/rss/pub.html",
+    "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+    "notes": "Official ECB Banking Supervision RSS feed for publications."
+  },
+  {
+    "id": "eba-news",
+    "name": "EBA News & Press",
+    "institution": "European Banking Authority",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "rss",
+    "url": "https://www.eba.europa.eu/news-press/news/rss.xml",
+    "officialSourcePage": "https://www.eba.europa.eu/news-press",
+    "notes": "Official EBA News & Press RSS feed linked from EBA website footer."
+  },
+  {
+    "id": "fca-news",
+    "name": "FCA News",
+    "institution": "Financial Conduct Authority",
+    "region": "UK",
+    "jurisdiction": "UK",
+    "type": "rss",
+    "url": "https://www.fca.org.uk/news/rss.xml",
+    "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+    "notes": "Official FCA RSS feed for news and warnings."
+  },
+  {
+    "id": "boe-prudential-publications",
+    "name": "BoE Prudential Regulation Publications",
+    "institution": "Bank of England / Prudential Regulation Authority",
+    "region": "UK",
+    "jurisdiction": "UK",
+    "type": "rss",
+    "url": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+    "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+    "notes": "Official Bank of England RSS feed for prudential regulation publications."
+  },
+  {
+    "id": "boe-publications",
+    "name": "BoE Publications",
+    "institution": "Bank of England",
+    "region": "UK",
+    "jurisdiction": "UK",
+    "type": "rss",
+    "url": "https://www.bankofengland.co.uk/rss/publications",
+    "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+    "notes": "Official Bank of England RSS feed for publications."
+  },
+  {
+    "id": "federal-reserve-press",
+    "name": "Federal Reserve Press Releases",
+    "institution": "Federal Reserve Board",
+    "region": "US",
+    "jurisdiction": "US",
+    "type": "rss",
+    "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+    "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+    "notes": "Official Federal Reserve RSS feed for all press releases."
+  },
+  {
+    "id": "federal-reserve-banking-reg",
+    "name": "Federal Reserve Banking and Consumer Regulatory Policy",
+    "institution": "Federal Reserve Board",
+    "region": "US",
+    "jurisdiction": "US",
+    "type": "rss",
+    "url": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
+    "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+    "notes": "Official Federal Reserve RSS feed for banking and consumer regulatory policy."
+  },
+  {
+    "id": "sec-press",
+    "name": "SEC Press Releases",
+    "institution": "U.S. Securities and Exchange Commission",
+    "region": "US",
+    "jurisdiction": "US",
+    "type": "rss",
+    "url": "https://www.sec.gov/news/pressreleases.rss",
+    "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+    "notes": "Official SEC RSS feed for press releases."
+  },
+  {
+    "id": "cfpb-newsroom",
+    "name": "CFPB Newsroom",
+    "institution": "Consumer Financial Protection Bureau",
+    "region": "US",
+    "jurisdiction": "US",
+    "type": "rss",
+    "url": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
+    "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
+    "notes": "Official CFPB newsroom RSS feed."
+  }
+]

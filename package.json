@@ -1,0 +1,22 @@
+{
+  "name": "regpulse",
+  "version": "1.0.0",
+  "description": "RegPulse - regulatory publication monitoring tool",
+  "main": "scraper/index.js",
+  "scripts": {
+    "scrape": "node scraper/index.js",
+    "check:sources": "node scraper/checkSources.js"
+  },
+  "keywords": [
+    "regulation",
+    "risk",
+    "rss",
+    "crawler",
+    "regtech"
+  ],
+  "author": "Kimiya Mirsalehi",
+  "license": "MIT",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

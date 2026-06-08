@@ -1,0 +1,47 @@
+name: RegPulse Daily Scraper
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check source health
+        run: npm run check:sources
+        continue-on-error: true
+
+      - name: Run scraper
+        run: npm run scrape
+
+      - name: Commit updated publications data
+        run: |
+          git config user.name "RegPulse Bot"
+          git config user.email "regpulse-bot@users.noreply.github.com"
+
+          git add data/publications.json
+
+          if git diff --cached --quiet; then
+            echo "No publication data changes to commit."
+          else
+            git commit -m "Update regulatory publications data"
+            git push
+          fi
