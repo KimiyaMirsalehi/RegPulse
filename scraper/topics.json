@@ -1,0 +1,348 @@
+[
+  {
+    "id": "ai",
+    "label": "AI",
+    "keywords": [
+      "artificial intelligence",
+      " ai ",
+      "ai act",
+      "machine learning",
+      "algorithmic",
+      "algorithm",
+      "model governance",
+      "automated decision",
+      "automated decision-making",
+      "generative ai",
+      "foundation model",
+      "large language model",
+      "llm",
+      "chatbot",
+      "high-risk ai"
+    ]
+  },
+  {
+    "id": "eu-ai-act",
+    "label": "EU AI Act",
+    "keywords": [
+      "eu ai act",
+      "artificial intelligence act",
+      "ai act",
+      "high-risk ai",
+      "general-purpose ai",
+      "gpaI",
+      "ai office",
+      "ai regulatory sandbox"
+    ]
+  },
+  {
+    "id": "dora-operational-resilience",
+    "label": "DORA / Operational Resilience",
+    "keywords": [
+      "dora",
+      "digital operational resilience",
+      "operational resilience",
+      "ict risk",
+      "ict third-party",
+      "third-party risk",
+      "outsourcing",
+      "cyber resilience",
+      "cybersecurity",
+      "incident reporting",
+      "operational disruption",
+      "business continuity",
+      "resilience testing",
+      "critical third-party provider"
+    ]
+  },
+  {
+    "id": "capital-requirements",
+    "label": "Capital Requirements",
+    "keywords": [
+      "capital requirement",
+      "capital requirements",
+      "own funds",
+      "capital adequacy",
+      "capital ratio",
+      "cet1",
+      "tier 1",
+      "pillar 1",
+      "pillar 2",
+      "capital buffer",
+      "leverage ratio",
+      "crr",
+      "crd",
+      "basel iii",
+      "basel 3",
+      "risk-weighted assets",
+      "rwa"
+    ]
+  },
+  {
+    "id": "liquidity",
+    "label": "Liquidity",
+    "keywords": [
+      "liquidity",
+      "liquidity coverage ratio",
+      "lcr",
+      "net stable funding ratio",
+      "nsfr",
+      "funding risk",
+      "liquidity risk",
+      "liquidity buffer",
+      "cash flow",
+      "deposit outflow",
+      "funding stress"
+    ]
+  },
+  {
+    "id": "credit-risk",
+    "label": "Credit Risk",
+    "keywords": [
+      "credit risk",
+      "expected credit loss",
+      "ecl",
+      "ifrs 9",
+      "default risk",
+      "probability of default",
+      "pd model",
+      "loss given default",
+      "lgd",
+      "exposure at default",
+      "ead",
+      "non-performing loan",
+      "npl",
+      "credit quality",
+      "credit exposure",
+      "loan loss"
+    ]
+  },
+  {
+    "id": "market-risk",
+    "label": "Market Risk",
+    "keywords": [
+      "market risk",
+      "trading book",
+      "interest rate risk",
+      "irrbb",
+      "value-at-risk",
+      "var",
+      "expected shortfall",
+      "fx risk",
+      "commodity risk",
+      "equity risk",
+      "counterparty credit risk",
+      "cva",
+      "fRTB",
+      "fundamental review of the trading book"
+    ]
+  },
+  {
+    "id": "climate-esg",
+    "label": "Climate / ESG",
+    "keywords": [
+      "climate",
+      "climate risk",
+      "environmental risk",
+      "nature-related",
+      "biodiversity",
+      "esg",
+      "sustainability",
+      "sustainable finance",
+      "greenwashing",
+      "transition risk",
+      "physical risk",
+      "net zero",
+      "carbon",
+      "emissions",
+      "taxonomy",
+      "sfdr"
+    ]
+  },
+  {
+    "id": "crypto-digital-assets",
+    "label": "Crypto / Digital Assets",
+    "keywords": [
+      "crypto",
+      "cryptoasset",
+      "cryptoassets",
+      "digital asset",
+      "digital assets",
+      "stablecoin",
+      "tokenisation",
+      "tokenization",
+      "distributed ledger",
+      "dlt",
+      "blockchain",
+      "mica",
+      "central bank digital currency",
+      "cbdc",
+      "digital euro"
+    ]
+  },
+  {
+    "id": "aml-financial-crime",
+    "label": "AML / Financial Crime",
+    "keywords": [
+      "aml",
+      "anti-money laundering",
+      "money laundering",
+      "financial crime",
+      "terrorist financing",
+      "cft",
+      "sanctions",
+      "fraud",
+      "market abuse",
+      "suspicious activity",
+      "beneficial ownership",
+      "customer due diligence",
+      "kyc"
+    ]
+  },
+  {
+    "id": "consumer-protection",
+    "label": "Consumer Protection",
+    "keywords": [
+      "consumer protection",
+      "consumer duty",
+      "retail customer",
+      "retail investor",
+      "vulnerable customer",
+      "fair treatment",
+      "mis-selling",
+      "complaints",
+      "redress",
+      "borrower protection",
+      "consumer finance",
+      "financial promotions"
+    ]
+  },
+  {
+    "id": "stress-testing",
+    "label": "Stress Testing",
+    "keywords": [
+      "stress test",
+      "stress testing",
+      "scenario analysis",
+      "adverse scenario",
+      "baseline scenario",
+      "sensitivity analysis",
+      "climate stress test",
+      "solvency stress",
+      "macro stress",
+      "reverse stress"
+    ]
+  },
+  {
+    "id": "governance",
+    "label": "Governance",
+    "keywords": [
+      "governance",
+      "board",
+      "senior management",
+      "accountability",
+      "internal control",
+      "risk culture",
+      "remuneration",
+      "fit and proper",
+      "conduct",
+      "compliance framework",
+      "three lines of defence",
+      "three lines of defense"
+    ]
+  },
+  {
+    "id": "reporting-disclosure",
+    "label": "Reporting / Disclosure",
+    "keywords": [
+      "reporting",
+      "disclosure",
+      "pillar 3",
+      "regulatory reporting",
+      "supervisory reporting",
+      "transparency",
+      "financial disclosure",
+      "data standards",
+      "taxonomy",
+      "xbrl",
+      "integrated reporting framework",
+      "iref"
+    ]
+  },
+  {
+    "id": "model-risk",
+    "label": "Model Risk",
+    "keywords": [
+      "model risk",
+      "model validation",
+      "model governance",
+      "internal model",
+      "internal models",
+      "rating model",
+      "irb model",
+      "model change",
+      "back-testing",
+      "backtesting",
+      "benchmarking",
+      "challenger model"
+    ]
+  },
+  {
+    "id": "supervision-enforcement",
+    "label": "Supervision / Enforcement",
+    "keywords": [
+      "supervision",
+      "supervisory",
+      "enforcement",
+      "fine",
+      "penalty",
+      "sanction",
+      "investigation",
+      "authorisation",
+      "authorization",
+      "consultation paper",
+      "policy statement",
+      "final report",
+      "guidelines",
+      "regulatory technical standards",
+      "implementing technical standards",
+      "rts",
+      "its"
+    ]
+  },
+  {
+    "id": "payments-open-finance",
+    "label": "Payments / Open Finance",
+    "keywords": [
+      "payment",
+      "payments",
+      "open banking",
+      "open finance",
+      "psd2",
+      "psd3",
+      "payment services",
+      "instant payments",
+      "settlement",
+      "clearing",
+      "payment systems",
+      "account information service",
+      "payment initiation service"
+    ]
+  },
+  {
+    "id": "resolution-recovery",
+    "label": "Recovery / Resolution",
+    "keywords": [
+      "recovery plan",
+      "resolution",
+      "resolution planning",
+      "mrel",
+      "tlac",
+      "bail-in",
+      "resolvability",
+      "crisis management",
+      "deposit guarantee",
+      "deposit insurance",
+      "bank failure"
+    ]
+  }
+]

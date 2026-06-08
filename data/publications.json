@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T16:01:55.781Z",
+  "generatedAt": "2026-06-08T16:10:15.188Z",
   "totalPublications": 264,
   "totalSources": 12,
   "successfulSources": 12,
@@ -11,6 +11,338 @@
     }
   ],
   "failedSources": [],
+  "topicSummary": [
+    {
+      "topic": "Supervision / Enforcement",
+      "count": 110
+    },
+    {
+      "topic": "Governance",
+      "count": 56
+    },
+    {
+      "topic": "Reporting / Disclosure",
+      "count": 16
+    },
+    {
+      "topic": "Payments / Open Finance",
+      "count": 13
+    },
+    {
+      "topic": "Recovery / Resolution",
+      "count": 10
+    },
+    {
+      "topic": "Capital Requirements",
+      "count": 8
+    },
+    {
+      "topic": "Crypto / Digital Assets",
+      "count": 5
+    },
+    {
+      "topic": "Climate / ESG",
+      "count": 5
+    },
+    {
+      "topic": "DORA / Operational Resilience",
+      "count": 4
+    },
+    {
+      "topic": "Consumer Protection",
+      "count": 4
+    },
+    {
+      "topic": "AML / Financial Crime",
+      "count": 4
+    },
+    {
+      "topic": "Stress Testing",
+      "count": 3
+    },
+    {
+      "topic": "AI",
+      "count": 2
+    },
+    {
+      "topic": "Liquidity",
+      "count": 2
+    },
+    {
+      "topic": "Credit Risk",
+      "count": 1
+    }
+  ],
+  "keywordSummary": [
+    {
+      "keyword": "supervision",
+      "count": 39
+    },
+    {
+      "keyword": "board",
+      "count": 34
+    },
+    {
+      "keyword": "its",
+      "count": 31
+    },
+    {
+      "keyword": "conduct",
+      "count": 21
+    },
+    {
+      "keyword": "enforcement",
+      "count": 16
+    },
+    {
+      "keyword": "policy statement",
+      "count": 16
+    },
+    {
+      "keyword": "supervisory",
+      "count": 14
+    },
+    {
+      "keyword": "consultation paper",
+      "count": 11
+    },
+    {
+      "keyword": "reporting",
+      "count": 10
+    },
+    {
+      "keyword": "resolution",
+      "count": 9
+    },
+    {
+      "keyword": "climate",
+      "count": 5
+    },
+    {
+      "keyword": "payment",
+      "count": 5
+    },
+    {
+      "keyword": "payments",
+      "count": 5
+    },
+    {
+      "keyword": "capital requirements",
+      "count": 4
+    },
+    {
+      "keyword": "guidelines",
+      "count": 4
+    },
+    {
+      "keyword": "disclosure",
+      "count": 4
+    },
+    {
+      "keyword": "operational resilience",
+      "count": 3
+    },
+    {
+      "keyword": "clearing",
+      "count": 3
+    },
+    {
+      "keyword": "settlement",
+      "count": 3
+    },
+    {
+      "keyword": "transparency",
+      "count": 2
+    },
+    {
+      "keyword": "pillar 3",
+      "count": 2
+    },
+    {
+      "keyword": "algorithm",
+      "count": 2
+    },
+    {
+      "keyword": "emissions",
+      "count": 2
+    },
+    {
+      "keyword": "final report",
+      "count": 2
+    },
+    {
+      "keyword": "governance",
+      "count": 2
+    },
+    {
+      "keyword": "financial promotions",
+      "count": 2
+    },
+    {
+      "keyword": "financial crime",
+      "count": 2
+    },
+    {
+      "keyword": "payment services",
+      "count": 2
+    },
+    {
+      "keyword": "crypto",
+      "count": 2
+    },
+    {
+      "keyword": "crr",
+      "count": 2
+    },
+    {
+      "keyword": "resolvability",
+      "count": 2
+    },
+    {
+      "keyword": "bail-in",
+      "count": 2
+    },
+    {
+      "keyword": "liquidity",
+      "count": 2
+    },
+    {
+      "keyword": "stress test",
+      "count": 2
+    },
+    {
+      "keyword": "data standards",
+      "count": 1
+    },
+    {
+      "keyword": "integrated reporting framework",
+      "count": 1
+    },
+    {
+      "keyword": "dora",
+      "count": 1
+    },
+    {
+      "keyword": "digital operational resilience",
+      "count": 1
+    },
+    {
+      "keyword": "cybersecurity",
+      "count": 1
+    },
+    {
+      "keyword": "stablecoin",
+      "count": 1
+    },
+    {
+      "keyword": "credit risk",
+      "count": 1
+    },
+    {
+      "keyword": "carbon",
+      "count": 1
+    },
+    {
+      "keyword": "penalty",
+      "count": 1
+    },
+    {
+      "keyword": "nature-related",
+      "count": 1
+    },
+    {
+      "keyword": "stress testing",
+      "count": 1
+    },
+    {
+      "keyword": "regulatory technical standards",
+      "count": 1
+    },
+    {
+      "keyword": "rts",
+      "count": 1
+    },
+    {
+      "keyword": "authorisation",
+      "count": 1
+    },
+    {
+      "keyword": "fair treatment",
+      "count": 1
+    },
+    {
+      "keyword": "complaints",
+      "count": 1
+    },
+    {
+      "keyword": "consumer finance",
+      "count": 1
+    },
+    {
+      "keyword": "sustainability",
+      "count": 1
+    },
+    {
+      "keyword": "investigation",
+      "count": 1
+    },
+    {
+      "keyword": "money laundering",
+      "count": 1
+    },
+    {
+      "keyword": "open banking",
+      "count": 1
+    },
+    {
+      "keyword": "open finance",
+      "count": 1
+    },
+    {
+      "keyword": "sanctions",
+      "count": 1
+    },
+    {
+      "keyword": "consumer duty",
+      "count": 1
+    },
+    {
+      "keyword": "accountability",
+      "count": 1
+    },
+    {
+      "keyword": "sanction",
+      "count": 1
+    },
+    {
+      "keyword": "cryptoasset",
+      "count": 1
+    },
+    {
+      "keyword": "distributed ledger",
+      "count": 1
+    },
+    {
+      "keyword": "dlt",
+      "count": 1
+    },
+    {
+      "keyword": "leverage ratio",
+      "count": 1
+    },
+    {
+      "keyword": "own funds",
+      "count": 1
+    },
+    {
+      "keyword": "mrel",
+      "count": 1
+    },
+    {
+      "keyword": "incident reporting",
+      "count": 1
+    }
+  ],
   "publications": [
     {
       "id": "c2VjLXByZXNzLTlkODkxM2RhLTgzODIt",
@@ -24,9 +356,16 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-53-sec-establishes-joint-data-standards-required-under-financial-data-transparency-act-2022",
       "publishedAt": "2026-06-08T14:36:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "transparency",
+        "data standards"
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.866Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -40,9 +379,15 @@
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-discussion-paper-pillar-3-data-hub-small-banks",
       "publishedAt": "2026-06-08T11:34:12.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "pillar 3"
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.465Z"
+      "collectedAt": "2026-06-08T16:10:12.729Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -56,9 +401,16 @@
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260608~6766ec7154.en.html",
       "publishedAt": "2026-06-08T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "reporting",
+        "integrated reporting framework"
+      ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:53.348Z"
+      "collectedAt": "2026-06-08T16:10:11.298Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -72,9 +424,15 @@
       "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260605~d9376a730f.en.html",
       "publishedAt": "2026-06-05T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.596Z"
+      "collectedAt": "2026-06-08T16:10:12.109Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -88,9 +446,11 @@
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260604~f5d373b29f.en.html",
       "publishedAt": "2026-06-04T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:53.348Z"
+      "collectedAt": "2026-06-08T16:10:11.298Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -104,9 +464,11 @@
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260603_1~2801335beb.en.html",
       "publishedAt": "2026-06-03T13:30:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:53.348Z"
+      "collectedAt": "2026-06-08T16:10:11.298Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -120,9 +482,15 @@
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260603~5b8e67f237.en.html",
       "publishedAt": "2026-06-03T09:55:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "DORA / Operational Resilience"
+      ],
+      "matchedKeywords": [
+        "operational resilience"
+      ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:53.348Z"
+      "collectedAt": "2026-06-08T16:10:11.298Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -136,9 +504,17 @@
       "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260603~255bec155b.en.html",
       "publishedAt": "2026-06-03T09:55:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "operational resilience",
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.596Z"
+      "collectedAt": "2026-06-08T16:10:12.110Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -154,9 +530,11 @@
       "pdfLinks": [
         "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3244~0e92afef7d.en.pdf"
       ],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:01:54.042Z"
+      "collectedAt": "2026-06-08T16:10:11.831Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -172,9 +550,11 @@
       "pdfLinks": [
         "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3243~a05b1e07b4.en.pdf"
       ],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:01:54.042Z"
+      "collectedAt": "2026-06-08T16:10:11.831Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -188,9 +568,22 @@
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-publish-first-report-dora-major-ict-related-incidents",
       "publishedAt": "2026-06-03T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "dora",
+        "digital operational resilience",
+        "operational resilience",
+        "cybersecurity",
+        "reporting",
+        "supervisory"
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.465Z"
+      "collectedAt": "2026-06-08T16:10:12.730Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -204,9 +597,11 @@
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260602~101b71c594.en.html",
       "publishedAt": "2026-06-02T14:35:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:53.348Z"
+      "collectedAt": "2026-06-08T16:10:11.298Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -220,9 +615,17 @@
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-and-new-york-state-department-financial-services-sign-memorandum-understanding-foster",
       "publishedAt": "2026-06-02T09:28:21.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Crypto / Digital Assets",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "stablecoin",
+        "supervision"
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.465Z"
+      "collectedAt": "2026-06-08T16:10:12.730Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -238,9 +641,15 @@
       "pdfLinks": [
         "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3242~873057c617.en.pdf"
       ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:01:54.042Z"
+      "collectedAt": "2026-06-08T16:10:11.832Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -254,9 +663,15 @@
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-list-other-systemically-important-institutions-2",
       "publishedAt": "2026-06-02T08:58:15.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "transparency"
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.465Z"
+      "collectedAt": "2026-06-08T16:10:12.731Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -270,9 +685,11 @@
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260602~f941e87516.en.html",
       "publishedAt": "2026-06-02T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:53.348Z"
+      "collectedAt": "2026-06-08T16:10:11.298Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -286,9 +703,11 @@
       "link": "https://www.ecb.europa.eu//press/other-publications/ire/html/ecb.ire202606.en.html",
       "publishedAt": "2026-06-02T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:01:54.042Z"
+      "collectedAt": "2026-06-08T16:10:11.832Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -304,9 +723,11 @@
       "pdfLinks": [
         "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3241~e5f6278489.en.pdf"
       ],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:01:54.042Z"
+      "collectedAt": "2026-06-08T16:10:11.832Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -320,9 +741,11 @@
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html",
       "publishedAt": "2026-06-01T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:53.348Z"
+      "collectedAt": "2026-06-08T16:10:11.298Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -336,9 +759,11 @@
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260601~38dffe5ec5.en.html",
       "publishedAt": "2026-06-01T00:10:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:53.348Z"
+      "collectedAt": "2026-06-08T16:10:11.298Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -352,9 +777,11 @@
       "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260531~f648dbde70.en.html",
       "publishedAt": "2026-05-31T14:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:53.348Z"
+      "collectedAt": "2026-06-08T16:10:11.298Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -370,9 +797,11 @@
       "pdfLinks": [
         "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260529_Fabio_de_Masi~7462168237.en.pdf"
       ],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:01:54.042Z"
+      "collectedAt": "2026-06-08T16:10:11.832Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -386,9 +815,11 @@
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260529~2699fd8390.en.html",
       "publishedAt": "2026-05-29T00:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:53.348Z"
+      "collectedAt": "2026-06-08T16:10:11.299Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -402,9 +833,11 @@
       "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260528~a93230dc4b.en.html",
       "publishedAt": "2026-05-28T11:30:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:53.348Z"
+      "collectedAt": "2026-06-08T16:10:11.299Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -420,9 +853,11 @@
       "pdfLinks": [
         "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3240~37b21c7b50.en.pdf"
       ],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:01:54.042Z"
+      "collectedAt": "2026-06-08T16:10:11.832Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -436,9 +871,11 @@
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260528_1~7bb2eecfe5.en.html",
       "publishedAt": "2026-05-28T08:30:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:53.348Z"
+      "collectedAt": "2026-06-08T16:10:11.299Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -452,9 +889,11 @@
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260528~0cb263f599.en.html",
       "publishedAt": "2026-05-28T07:10:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:53.348Z"
+      "collectedAt": "2026-06-08T16:10:11.299Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -470,9 +909,15 @@
       "pdfLinks": [
         "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3239~efed05d5c7.en.pdf"
       ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:01:54.042Z"
+      "collectedAt": "2026-06-08T16:10:11.833Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -488,9 +933,11 @@
       "pdfLinks": [
         "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3238~5b04fbe5e5.en.pdf"
       ],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:01:54.042Z"
+      "collectedAt": "2026-06-08T16:10:11.833Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -506,9 +953,11 @@
       "pdfLinks": [
         "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260527~bc724e42c1.en.pdf"
       ],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:53.349Z"
+      "collectedAt": "2026-06-08T16:10:11.299Z"
     },
     {
       "id": "ZWNiLXByZXNzLWh0dHBzOi8vd3d3LmVj",
@@ -522,9 +971,11 @@
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260527~92140c5054.en.html",
       "publishedAt": "2026-05-27T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:53.349Z"
+      "collectedAt": "2026-06-08T16:10:11.299Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -538,9 +989,11 @@
       "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/html/ecb.fsr202605~50566915a7.en.html",
       "publishedAt": "2026-05-27T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:01:54.042Z"
+      "collectedAt": "2026-06-08T16:10:11.833Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -554,9 +1007,15 @@
       "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_03~90365ff1cb.en.html",
       "publishedAt": "2026-05-27T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "AI"
+      ],
+      "matchedKeywords": [
+        "algorithm"
+      ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:01:54.043Z"
+      "collectedAt": "2026-06-08T16:10:11.834Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -570,9 +1029,17 @@
       "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_02~0fd2f6b569.en.html",
       "publishedAt": "2026-05-27T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Credit Risk",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "credit risk",
+        "its"
+      ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:01:54.043Z"
+      "collectedAt": "2026-06-08T16:10:11.834Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -586,9 +1053,15 @@
       "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_01~fe2f4ea541.en.html",
       "publishedAt": "2026-05-27T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:01:54.043Z"
+      "collectedAt": "2026-06-08T16:10:11.834Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -604,9 +1077,17 @@
       "pdfLinks": [
         "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3237~617a2b8de5.en.pdf"
       ],
+      "topics": [
+        "Climate / ESG"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "carbon",
+        "emissions"
+      ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:01:54.043Z"
+      "collectedAt": "2026-06-08T16:10:11.835Z"
     },
     {
       "id": "ZWNiLXB1YmxpY2F0aW9ucy1odHRwczov",
@@ -622,9 +1103,18 @@
       "pdfLinks": [
         "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3236~1dc726a7fe.en.pdf"
       ],
+      "topics": [
+        "AI",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "algorithm",
+        "penalty",
+        "its"
+      ],
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "feedUsedFallback": true,
-      "collectedAt": "2026-06-08T16:01:54.043Z"
+      "collectedAt": "2026-06-08T16:10:11.835Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -640,9 +1130,17 @@
       "pdfLinks": [
         "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260521~799a75d8d9.en.pdf"
       ],
+      "topics": [
+        "Climate / ESG",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.596Z"
+      "collectedAt": "2026-06-08T16:10:12.110Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -656,9 +1154,15 @@
       "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260519~eb90c081f4.en.html",
       "publishedAt": "2026-05-19T12:10:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.596Z"
+      "collectedAt": "2026-06-08T16:10:12.110Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -672,9 +1176,15 @@
       "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260518~0c6457d9f7.en.html",
       "publishedAt": "2026-05-18T15:15:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.596Z"
+      "collectedAt": "2026-06-08T16:10:12.110Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -688,9 +1198,16 @@
       "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260514~4917539c35.en.html",
       "publishedAt": "2026-05-14T12:10:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "supervisory"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.596Z"
+      "collectedAt": "2026-06-08T16:10:12.110Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -704,9 +1221,15 @@
       "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260513_1~bbdaaea337.en.html",
       "publishedAt": "2026-05-13T11:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.596Z"
+      "collectedAt": "2026-06-08T16:10:12.110Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -720,9 +1243,15 @@
       "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260513~cb8e1269c5.en.html",
       "publishedAt": "2026-05-13T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.596Z"
+      "collectedAt": "2026-06-08T16:10:12.111Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -736,9 +1265,15 @@
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-opinion-about-austrian-macroprudential-measure",
       "publishedAt": "2026-05-12T12:43:32.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.465Z"
+      "collectedAt": "2026-06-08T16:10:12.731Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -752,9 +1287,15 @@
       "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260512~683430d655.en.html",
       "publishedAt": "2026-05-12T10:40:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.596Z"
+      "collectedAt": "2026-06-08T16:10:12.111Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -768,9 +1309,17 @@
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/european-commission-launches-call-candidates-esas-board-appeal",
       "publishedAt": "2026-05-12T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "supervisory"
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.465Z"
+      "collectedAt": "2026-06-08T16:10:12.731Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -784,9 +1333,15 @@
       "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260511~a38d273de0.en.html",
       "publishedAt": "2026-05-11T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.596Z"
+      "collectedAt": "2026-06-08T16:10:12.111Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -800,9 +1355,15 @@
       "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260509~a01253fc16.en.html",
       "publishedAt": "2026-05-09T11:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.596Z"
+      "collectedAt": "2026-06-08T16:10:12.111Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -818,9 +1379,20 @@
       "pdfLinks": [
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.202605_ECBreport_on_good_practices_for_climate_and_nature_stress_testing.en.pdf"
       ],
+      "topics": [
+        "Climate / ESG",
+        "Stress Testing",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "nature-related",
+        "stress testing",
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.755Z"
+      "collectedAt": "2026-06-08T16:10:12.238Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -836,9 +1408,17 @@
       "pdfLinks": [
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.thematicreviewcercompendiumgoodpractices052026.en.pdf"
       ],
+      "topics": [
+        "Climate / ESG",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.755Z"
+      "collectedAt": "2026-06-08T16:10:12.238Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -852,9 +1432,20 @@
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-amendments-rts-assignment-risk-weights-specialised-lending-exposures-under-supervisory",
       "publishedAt": "2026-05-07T12:50:08.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Capital Requirements",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "capital requirements",
+        "supervisory",
+        "regulatory technical standards",
+        "rts",
+        "its"
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.465Z"
+      "collectedAt": "2026-06-08T16:10:12.732Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -868,9 +1459,17 @@
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
       "publishedAt": "2026-05-07T12:43:02.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "final report",
+        "guidelines",
+        "its"
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.465Z"
+      "collectedAt": "2026-06-08T16:10:12.732Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -884,9 +1483,15 @@
       "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260506_1~a116abc727.en.html",
       "publishedAt": "2026-05-06T09:45:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.596Z"
+      "collectedAt": "2026-06-08T16:10:12.111Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -902,9 +1507,15 @@
       "pdfLinks": [
         "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260506~530f6aa051.en.pdf"
       ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.596Z"
+      "collectedAt": "2026-06-08T16:10:12.111Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -920,9 +1531,18 @@
       "pdfLinks": [
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.written_overview260504.en.pdf"
       ],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "supervision",
+        "supervisory"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.755Z"
+      "collectedAt": "2026-06-08T16:10:12.238Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -936,9 +1556,21 @@
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-guidelines-supervisory-independence",
       "publishedAt": "2026-04-29T13:20:30.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Capital Requirements",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "capital requirements",
+        "governance",
+        "supervisory",
+        "guidelines",
+        "its"
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.465Z"
+      "collectedAt": "2026-06-08T16:10:12.732Z"
     },
     {
       "id": "ZWJhLW5ld3MtaHR0cHM6Ly93d3cuZWJh",
@@ -952,9 +1584,16 @@
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-streamlines-its-guidelines-connected-clients-align-new-eu-legislation",
       "publishedAt": "2026-04-29T11:31:23.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "guidelines",
+        "its"
+      ],
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.465Z"
+      "collectedAt": "2026-06-08T16:10:12.733Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -970,9 +1609,15 @@
       "pdfLinks": [
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.other_publications_banking_sector_framework.en.pdf"
       ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.755Z"
+      "collectedAt": "2026-06-08T16:10:12.239Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -988,9 +1633,15 @@
       "pdfLinks": [
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202604.en.pdf"
       ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.755Z"
+      "collectedAt": "2026-06-08T16:10:12.239Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -1004,9 +1655,15 @@
       "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260422~9f4d3c191b.en.html",
       "publishedAt": "2026-04-22T10:30:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.596Z"
+      "collectedAt": "2026-06-08T16:10:12.111Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXByZXNzLWh0",
@@ -1020,9 +1677,15 @@
       "link": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260414~bf814e2142.en.html",
       "publishedAt": "2026-04-14T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.596Z"
+      "collectedAt": "2026-06-08T16:10:12.111Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1038,9 +1701,16 @@
       "pdfLinks": [
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.mepletter260320_Farantouris~332d1ec6d5.en.pdf"
       ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "supervisory"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.755Z"
+      "collectedAt": "2026-06-08T16:10:12.239Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1054,9 +1724,16 @@
       "link": "https://www.bankingsupervision.europa.eu//press/other-publications/annual-report/html/ssm.ar2025~6ee989dc7e.en.html",
       "publishedAt": "2026-03-18T12:30:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "supervisory"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.755Z"
+      "collectedAt": "2026-06-08T16:10:12.239Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1072,9 +1749,16 @@
       "pdfLinks": [
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisorybankingstatistics_fourth_quarter_2025_202603.en.pdf"
       ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "supervisory"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.755Z"
+      "collectedAt": "2026-06-08T16:10:12.239Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1090,9 +1774,15 @@
       "pdfLinks": [
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202602.en.pdf"
       ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.755Z"
+      "collectedAt": "2026-06-08T16:10:12.239Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1106,9 +1796,15 @@
       "link": "https://www.bankingsupervision.europa.eu//ecb/pub/html/ssm.report_on_time_commitment_NEDs_feb26.en.html",
       "publishedAt": "2026-02-11T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.755Z"
+      "collectedAt": "2026-06-08T16:10:12.239Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1124,9 +1820,16 @@
       "pdfLinks": [
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.mepletter260122_Eickhout~8205edb8b4.en.pdf"
       ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "supervisory"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.755Z"
+      "collectedAt": "2026-06-08T16:10:12.239Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1142,9 +1845,15 @@
       "pdfLinks": [
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202512.en.pdf"
       ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.755Z"
+      "collectedAt": "2026-06-08T16:10:12.239Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1160,9 +1869,15 @@
       "pdfLinks": [
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisory_guides202512_notification_SRT_securitisations.en.pdf"
       ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.755Z"
+      "collectedAt": "2026-06-08T16:10:12.240Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1178,9 +1893,16 @@
       "pdfLinks": [
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisorybankingstatistics_third_quarter_2025_202512.en.pdf"
       ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "supervisory"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.755Z"
+      "collectedAt": "2026-06-08T16:10:12.240Z"
     },
     {
       "id": "ZWNiLXN1cGVydmlzaW9uLXB1YmxpY2F0",
@@ -1194,9 +1916,15 @@
       "link": "https://www.bankingsupervision.europa.eu//ecb/pub/html/ssm.streamlining_supervision202512.en.html",
       "publishedAt": "2025-12-11T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:54.755Z"
+      "collectedAt": "2026-06-08T16:10:12.240Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4NzE2",
@@ -1210,9 +1938,19 @@
       "link": "https://www.fca.org.uk/news/statements/fca-takes-action-against-neil-woodford-and-w40-operating-without-authorisation",
       "publishedAt": "Monday, June 8, 2026 - 15:53",
       "pdfLinks": [],
+      "topics": [
+        "Consumer Protection",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "financial promotions",
+        "conduct",
+        "authorisation"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.963Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4Njcx",
@@ -1226,9 +1964,17 @@
       "link": "https://www.fca.org.uk/news/statements/reforms-uk-money-market-fund-regulation",
       "publishedAt": "Monday, June 8, 2026 - 13:04",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "its"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.963Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4NTkx",
@@ -1242,9 +1988,19 @@
       "link": "https://www.fca.org.uk/news/press-releases/fca-secures-confiscation-order-against-ponzi-scheme-fraudster",
       "publishedAt": "Monday, June 8, 2026 - 12:11",
       "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "financial crime",
+        "conduct",
+        "enforcement"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.964Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4Mzk2",
@@ -1258,9 +2014,18 @@
       "link": "https://www.fca.org.uk/news/blogs/ai-financial-services-approach",
       "publishedAt": "Monday, June 8, 2026 - 09:07",
       "pdfLinks": [],
+      "topics": [
+        "Consumer Protection",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "fair treatment",
+        "governance",
+        "conduct"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.965Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4NTcx",
@@ -1274,9 +2039,21 @@
       "link": "https://www.fca.org.uk/news/press-releases/consumers-warned-about-misleading-car-finance-money-tips-claims-ads",
       "publishedAt": "Monday, June 8, 2026 - 08:31",
       "pdfLinks": [],
+      "topics": [
+        "Consumer Protection",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "complaints",
+        "consumer finance",
+        "conduct",
+        "enforcement",
+        "its"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.967Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4NjUx",
@@ -1290,9 +2067,22 @@
       "link": "https://www.fca.org.uk/news/press-releases/fca-imposes-requirements-euro-exchange-securities-uk-limited-and-interim-managers-appointed-court",
       "publishedAt": "Friday, June 5, 2026 - 16:28",
       "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance",
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "financial crime",
+        "conduct",
+        "its",
+        "payment",
+        "payment services"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.968Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MTk2",
@@ -1306,9 +2096,17 @@
       "link": "https://www.fca.org.uk/news/news-stories/solvenza-limited-administration",
       "publishedAt": "Friday, June 5, 2026 - 11:59",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "resolution"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.968Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4NDU2",
@@ -1322,9 +2120,17 @@
       "link": "https://www.fca.org.uk/news/news-stories/silicon-marketing-limited-administration",
       "publishedAt": "Friday, June 5, 2026 - 11:53",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "resolution"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.968Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4NDcx",
@@ -1338,9 +2144,17 @@
       "link": "https://www.fca.org.uk/news/statements/bank-england-fca-mou-supervision-market-infrastructure-review-2025-26",
       "publishedAt": "Friday, June 5, 2026 - 10:30",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "supervision"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.969Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4NDkx",
@@ -1354,9 +2168,25 @@
       "link": "https://www.fca.org.uk/news/press-releases/simpler-climate-reporting-rules-could-save-firms-20m-annually",
       "publishedAt": "Friday, June 5, 2026 - 08:39",
       "pdfLinks": [],
+      "topics": [
+        "Climate / ESG",
+        "Governance",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "sustainability",
+        "emissions",
+        "conduct",
+        "reporting",
+        "disclosure",
+        "consultation paper",
+        "its"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.970Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4NDUx",
@@ -1370,9 +2200,19 @@
       "link": "https://www.fca.org.uk/news/press-releases/fca-launches-investigation-second-motor-finance-claims-management-company",
       "publishedAt": "Thursday, June 4, 2026 - 09:07",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "enforcement",
+        "investigation",
+        "its"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.971Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MzI2",
@@ -1386,9 +2226,19 @@
       "link": "https://www.fca.org.uk/news/press-releases/football-clubs-warned-questionable-sponsorship-deals-unauthorised-firms",
       "publishedAt": "Wednesday, June 3, 2026 - 10:34",
       "pdfLinks": [],
+      "topics": [
+        "Crypto / Digital Assets",
+        "AML / Financial Crime",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "crypto",
+        "money laundering",
+        "conduct"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.971Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4Mjgx",
@@ -1402,9 +2252,19 @@
       "link": "https://www.fca.org.uk/news/statements/open-banking-launch-uk-payments-initiative-scheme",
       "publishedAt": "Tuesday, June 2, 2026 - 14:41",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "payments",
+        "open banking",
+        "open finance"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.972Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MjQ2",
@@ -1418,9 +2278,18 @@
       "link": "https://www.fca.org.uk/news/news-stories/halo-financial-limited-enters-administration",
       "publishedAt": "Monday, June 1, 2026 - 17:08",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "payment",
+        "payment services"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.972Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MjUx",
@@ -1434,9 +2303,19 @@
       "link": "https://www.fca.org.uk/news/news-stories/court-approves-distribution-money-recovered-argento-wealth",
       "publishedAt": "Friday, May 29, 2026 - 17:51",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "its",
+        "payments"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.973Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MTcx",
@@ -1450,9 +2329,19 @@
       "link": "https://www.fca.org.uk/news/press-releases/firms-have-improved-must-do-more-prevent-sanctions-breaches",
       "publishedAt": "Thursday, May 28, 2026 - 12:01",
       "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "sanctions",
+        "conduct",
+        "its"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.973Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MTgx",
@@ -1466,9 +2355,17 @@
       "link": "https://www.fca.org.uk/news/news-stories/sukate-bezeboh-ltd-enters-administration",
       "publishedAt": "Thursday, May 28, 2026 - 11:00",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "payment"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.974Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MTUx",
@@ -1482,9 +2379,18 @@
       "link": "https://www.fca.org.uk/news/press-releases/review-financial-promotion-approvers-finds-some-firms-need-raise-standards",
       "publishedAt": "Wednesday, May 27, 2026 - 12:00",
       "pdfLinks": [],
+      "topics": [
+        "Consumer Protection",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "consumer duty",
+        "financial promotions",
+        "conduct"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.974Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MTM2",
@@ -1498,9 +2404,15 @@
       "link": "https://www.fca.org.uk/news/news-stories/vacancies-open-fca-smaller-business-practitioner-panel",
       "publishedAt": "Wednesday, May 27, 2026 - 10:00",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.975Z"
     },
     {
       "id": "ZmNhLW5ld3MtMTY4MTA2",
@@ -1514,9 +2426,18 @@
       "link": "https://www.fca.org.uk/news/news-stories/fca-annual-public-meeting-edinburgh",
       "publishedAt": "Tuesday, May 26, 2026 - 11:00",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "accountability",
+        "conduct",
+        "its"
+      ],
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.514Z"
+      "collectedAt": "2026-06-08T16:10:12.975Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MTE4REQy",
@@ -1530,9 +2451,15 @@
       "link": "https://www.bankofengland.co.uk/working-paper/2026/capital-requirements-and-process-innovation",
       "publishedAt": "2026-06-05T13:02:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Capital Requirements"
+      ],
+      "matchedKeywords": [
+        "capital requirements"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.874Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NjUzN0VD",
@@ -1546,9 +2473,11 @@
       "link": "https://www.bankofengland.co.uk/working-paper/2026/staying-afloat-the-impact-of-flooding-on-uk-firms",
       "publishedAt": "2026-06-05T13:01:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.874Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17Qzg4QkRD",
@@ -1562,9 +2491,11 @@
       "link": "https://www.bankofengland.co.uk/working-paper/2026/how-should-central-banks-respond-to-commodity-price-shocks",
       "publishedAt": "2026-06-05T13:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.874Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17Qjg1RkM3",
@@ -1578,9 +2509,11 @@
       "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/may-2026",
       "publishedAt": "2026-06-05T08:30:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.874Z"
     },
     {
       "id": "c2VjLXByZXNzLWU3NDdkZGIyLWQ0NTYt",
@@ -1594,9 +2527,11 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-52-sec-announces-new-members-small-business-capital-formation-advisory-committee",
       "publishedAt": "2026-06-04T18:39:49.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.866Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MTJDRDQ0",
@@ -1610,9 +2545,11 @@
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/3-june-2026",
       "publishedAt": "2026-06-04T14:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.874Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -1626,9 +2563,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
       "publishedAt": "2026-06-02T15:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.132Z"
     },
     {
       "id": "c2VjLXByZXNzLTkwMTYzNmMyLTUzZmEt",
@@ -1642,9 +2585,11 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-51-sec-publishes-draft-strategic-plan-public-comment",
       "publishedAt": "2026-06-02T14:30:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.866Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTM5NjwY29uc",
@@ -1658,9 +2603,11 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/the-cfpb-works-to-ensure-bilt-consumers-are-made-whole/",
       "publishedAt": "2026-06-02T04:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.779Z"
+      "collectedAt": "2026-06-08T16:10:15.184Z"
     },
     {
       "id": "c2VjLXByZXNzLTE0MjVlNjZkLWEyZGUt",
@@ -1674,9 +2621,15 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-50-sec-announces-four-new-members-investor-advisory-committee",
       "publishedAt": "2026-06-01T16:39:44.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.866Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -1690,9 +2643,11 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/may-2026",
       "publishedAt": "2026-06-01T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.363Z"
     },
     {
       "id": "c2VjLXByZXNzLTkxMjdiOWNhLTZlNDkt",
@@ -1706,9 +2661,15 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-49-sec-proposes-rescission-climate-related-disclosure-rules",
       "publishedAt": "2026-05-29T14:50:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "disclosure"
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.867Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NDI5NDM0",
@@ -1722,9 +2683,11 @@
       "link": "https://www.bankofengland.co.uk/working-paper/2026/are-the-effects-of-qe-and-tightening-state-contingent",
       "publishedAt": "2026-05-29T13:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.874Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -1738,9 +2701,17 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm",
       "publishedAt": "2026-05-28T15:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "enforcement"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.132Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NzlEMUZC",
@@ -1754,9 +2725,11 @@
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/27-may-2026",
       "publishedAt": "2026-05-28T14:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.875Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -1770,9 +2743,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/may/pillar-2a-review-phase-1-policy-statement",
       "publishedAt": "2026-05-28T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.364Z"
     },
     {
       "id": "c2VjLXByZXNzLTA2ZWZmNDhmLTJkNmIt",
@@ -1786,9 +2765,11 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-48-sec-investor-advisory-committee-host-june-4-meeting",
       "publishedAt": "2026-05-27T14:59:13.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.867Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -1802,9 +2783,17 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/may/crr-definitions-restatement-in-pra-rulebook-policy-statement",
       "publishedAt": "2026-05-27T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Capital Requirements",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "crr",
+        "policy statement"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.364Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -1818,9 +2807,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
       "publishedAt": "2026-05-26T18:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.132Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -1834,9 +2829,17 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm",
       "publishedAt": "2026-05-22T20:15:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "its"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.132Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -1850,9 +2853,17 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260522a.htm",
       "publishedAt": "2026-05-22T20:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "board",
+        "resolution"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.132Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QjdBQjRG",
@@ -1866,9 +2877,11 @@
       "link": "https://www.bankofengland.co.uk/working-paper/2026/digital-renaissance-amidst-crisis-impact-of-digitalisation-on-firm-performance-during-the-pandemic",
       "publishedAt": "2026-05-22T13:02:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.875Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QzU4MTEx",
@@ -1882,9 +2895,11 @@
       "link": "https://www.bankofengland.co.uk/working-paper/2026/quantitative-tightening-britains-1980s-experiment-with-overfunding",
       "publishedAt": "2026-05-22T13:01:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.875Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MUQ0MkY1",
@@ -1898,9 +2913,11 @@
       "link": "https://www.bankofengland.co.uk/working-paper/2026/the-role-of-confidence-measures-in-european-unemployment-dynamics",
       "publishedAt": "2026-05-22T13:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.875Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -1914,9 +2931,17 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260521a.htm",
       "publishedAt": "2026-05-21T15:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "enforcement"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.133Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17M0ZFQjZE",
@@ -1930,9 +2955,11 @@
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/20-may-2026",
       "publishedAt": "2026-05-21T14:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.875Z"
     },
     {
       "id": "c2VjLXByZXNzLTkxYTYyYjQ5LTNmNTct",
@@ -1946,9 +2973,11 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-47-sec-nfa-announce-memorandum-understanding-further-harmonize-regulatory-coordination",
       "publishedAt": "2026-05-21T12:51:10.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.867Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -1962,9 +2991,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/may/insurance-third-country-branches-policy-statement",
       "publishedAt": "2026-05-21T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.364Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -1978,9 +3013,18 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm",
       "publishedAt": "2026-05-20T20:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "board",
+        "payments",
+        "clearing"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.133Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -1994,9 +3038,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
       "publishedAt": "2026-05-20T18:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.133Z"
     },
     {
       "id": "c2VjLXByZXNzLWE4M2UwMTkxLWY1Njkt",
@@ -2010,9 +3060,19 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-46-sec-proposes-transformative-reforms-help-public-companies-conduct-registered-offerings-simplify",
       "publishedAt": "2026-05-19T14:55:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "reporting",
+        "its"
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.867Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17RTI0MjBB",
@@ -2026,9 +3086,16 @@
       "link": "https://www.bankofengland.co.uk/paper/2026/discussion-paper/central-counterparty-resolution-execution-and-resolvability-outcomes",
       "publishedAt": "2026-05-19T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "resolution",
+        "resolvability"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.875Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QzZBRkMx",
@@ -2042,9 +3109,11 @@
       "link": "https://www.bankofengland.co.uk/report/2026/tenth-edition-of-the-regulatory-initiatives-grid",
       "publishedAt": "2026-05-19T06:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.875Z"
     },
     {
       "id": "c2VjLXByZXNzLTU0YTYxMDY3LWVmMmYt",
@@ -2058,9 +3127,17 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-45-sec-rescinds-policy-regarding-denials-settlements-enforcement-actions",
       "publishedAt": "2026-05-18T16:33:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "enforcement",
+        "sanction",
+        "its"
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.868Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -2074,9 +3151,11 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/letter/2026/innovations-in-the-use-of-deposits-emoney-and-regulated-stablecoins",
       "publishedAt": "2026-05-18T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.364Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -2090,9 +3169,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/letter/2026/tokenised-assets-stablecoins-and-other-cryptoasset-exposures",
       "publishedAt": "2026-05-18T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Crypto / Digital Assets"
+      ],
+      "matchedKeywords": [
+        "cryptoasset"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.364Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MEM2NTgw",
@@ -2106,9 +3191,17 @@
       "link": "https://www.bankofengland.co.uk/paper/2026/cp/extending-rtgs-and-chaps-settlement-hours-next-steps",
       "publishedAt": "2026-05-18T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "consultation paper",
+        "settlement"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.875Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2122,9 +3215,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
       "publishedAt": "2026-05-15T21:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.133Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2138,9 +3237,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm",
       "publishedAt": "2026-05-15T20:30:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.133Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2154,9 +3259,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515b.htm",
       "publishedAt": "2026-05-15T20:30:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.133Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2170,9 +3281,17 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm",
       "publishedAt": "2026-05-15T15:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "enforcement"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.134Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -2186,9 +3305,11 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/may/results-of-the-firm-feedback-survey-2025",
       "publishedAt": "2026-05-15T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.364Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2202,9 +3323,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
       "publishedAt": "2026-05-14T18:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.134Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QkNDQjcz",
@@ -2218,9 +3345,11 @@
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/13-may-2026",
       "publishedAt": "2026-05-14T14:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.876Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2234,9 +3363,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514a.htm",
       "publishedAt": "2026-05-14T14:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.134Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2250,9 +3385,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm",
       "publishedAt": "2026-05-13T15:30:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.134Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2266,9 +3407,17 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm",
       "publishedAt": "2026-05-12T15:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "enforcement"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.135Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17RTlCN0Ez",
@@ -2282,9 +3431,20 @@
       "link": "https://www.bankofengland.co.uk/research/fintech/dlt-innovation-challenge-2025",
       "publishedAt": "2026-05-12T13:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Crypto / Digital Assets",
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "distributed ledger",
+        "dlt",
+        "final report",
+        "settlement"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.876Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17REI3MEI4",
@@ -2298,9 +3458,11 @@
       "link": "https://www.bankofengland.co.uk/about/get-involved/citizens-panels/your-voice-2026-insights-from-the-boe-outreach-programmes",
       "publishedAt": "2026-05-12T08:30:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.876Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2314,9 +3476,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm",
       "publishedAt": "2026-05-08T21:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.135Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17N0U1MTM2",
@@ -2330,9 +3498,11 @@
       "link": "https://www.bankofengland.co.uk/working-paper/2026/trade-in-services-under-regulatory-barriers-evidence-from-uk-banking",
       "publishedAt": "2026-05-08T13:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.876Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NzIwNDc4",
@@ -2346,9 +3516,11 @@
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/6-may-2026",
       "publishedAt": "2026-05-07T14:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.877Z"
     },
     {
       "id": "c2VjLXByZXNzLThjNmE3YjA3LTI1MmYt",
@@ -2362,9 +3534,11 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-44-sec-charges-21-individuals-alleged-wide-reaching-insider-trading-scheme",
       "publishedAt": "2026-05-06T23:24:19.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.868Z"
     },
     {
       "id": "c2VjLXByZXNzLTZkMWVjYjlmLTM5YmQt",
@@ -2378,9 +3552,11 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-43-sec-divisions-investment-management-corporation-finance-issue-staff-guidance-supporting-retirement",
       "publishedAt": "2026-05-05T20:23:55.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.868Z"
     },
     {
       "id": "c2VjLXByZXNzLTdjNWJjNGI3LTY3YmMt",
@@ -2394,9 +3570,15 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-42-sec-proposes-amendments-permit-optional-semiannual-reporting-public-companies",
       "publishedAt": "2026-05-05T15:54:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "reporting"
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.868Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MDM0N0Qx",
@@ -2410,9 +3592,11 @@
       "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q1",
       "publishedAt": "2026-05-05T11:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.877Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2426,9 +3610,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260501a.htm",
       "publishedAt": "2026-05-01T15:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.135Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17Qjg1NjND",
@@ -2442,9 +3632,11 @@
       "link": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-april-2026",
       "publishedAt": "2026-05-01T11:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.877Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -2458,9 +3650,11 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/april-2026",
       "publishedAt": "2026-05-01T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.365Z"
     },
     {
       "id": "c2VjLXByZXNzLWU2YTMwNzJjLTdjMjkt",
@@ -2474,9 +3668,15 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-41-deputy-director-enforcement-jason-burt-conclude-his-tenure-sec",
       "publishedAt": "2026-04-30T20:30:36.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "enforcement"
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.869Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NDdEODNB",
@@ -2490,9 +3690,11 @@
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/29-april-2026",
       "publishedAt": "2026-04-30T14:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.877Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QzNGODg0",
@@ -2506,9 +3708,15 @@
       "link": "https://www.bankofengland.co.uk/monetary-policy-report/2026/april-2026",
       "publishedAt": "2026-04-30T11:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.877Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2522,9 +3730,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
       "publishedAt": "2026-04-29T18:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.135Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -2538,9 +3752,11 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/pra-approach-to-cost-benefit-analysis-statement-of-policy",
       "publishedAt": "2026-04-29T09:37:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.365Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -2554,25 +3770,11 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/pra-statement-hmt-risk-transformation-reg-response",
       "publishedAt": "2026-04-29T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
-    },
-    {
-      "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "title": "The PRA’s Standard Cost Model",
-      "summary": "Technical Note",
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/pra-standard-cost-model",
-      "publishedAt": "2026-04-29T08:30:00.000Z",
-      "pdfLinks": [],
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.365Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -2586,9 +3788,11 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/sop1424-pra-approach-to-cost-benefit-analysis-statement-of-policy",
       "publishedAt": "2026-04-29T08:30:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.365Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -2602,9 +3806,33 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/funded-reinsurance-consultation-paper",
       "publishedAt": "2026-04-29T08:30:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "consultation paper"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.365Z"
+    },
+    {
+      "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "title": "The PRA’s Standard Cost Model",
+      "summary": "Technical Note",
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/pra-standard-cost-model",
+      "publishedAt": "2026-04-29T08:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "feedUsedFallback": false,
+      "collectedAt": "2026-06-08T16:10:13.365Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QkE1OUNC",
@@ -2618,9 +3846,11 @@
       "link": "https://www.bankofengland.co.uk/paper/2024/sop/the-bank-of-englands-approach-to-cost-benefit-analysis",
       "publishedAt": "2026-04-29T08:30:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.877Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLXByZXNzLWh0",
@@ -2634,9 +3864,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424a.htm",
       "publishedAt": "2026-04-24T20:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.606Z"
+      "collectedAt": "2026-06-08T16:10:14.135Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QTNBQ0Ew",
@@ -2650,25 +3886,16 @@
       "link": "https://www.bankofengland.co.uk/working-paper/2026/substitution-between-rtgs-and-instant-payment-schemes",
       "publishedAt": "2026-04-24T13:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "payment",
+        "payments"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
-    },
-    {
-      "id": "Ym9lLXB1YmxpY2F0aW9ucy17MkFFQjJC",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "title": "Monthly Decision Maker Panel data - April 2026",
-      "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
-      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/april-2026",
-      "publishedAt": "2026-04-24T08:30:00.000Z",
-      "pdfLinks": [],
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.877Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17OUMwRDQ2",
@@ -2682,9 +3909,33 @@
       "link": "https://www.bankofengland.co.uk/agents-summary/2026/april-2026",
       "publishedAt": "2026-04-24T08:30:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "reporting"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.878Z"
+    },
+    {
+      "id": "Ym9lLXB1YmxpY2F0aW9ucy17MkFFQjJC",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "title": "Monthly Decision Maker Panel data - April 2026",
+      "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/april-2026",
+      "publishedAt": "2026-04-24T08:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "feedUsedFallback": false,
+      "collectedAt": "2026-06-08T16:10:13.878Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -2698,9 +3949,17 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260423a.htm",
       "publishedAt": "2026-04-23T19:30:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Capital Requirements",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "leverage ratio",
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.720Z"
+      "collectedAt": "2026-06-08T16:10:14.350Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17M0MzMUMw",
@@ -2714,25 +3973,11 @@
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/22-april-2026",
       "publishedAt": "2026-04-23T14:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
-    },
-    {
-      "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "title": "LIAF01/26 – Low Impact Amendments Finalisation April 2026",
-      "summary": "Low Impact Amendments Finalisation 2026",
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/low-impact-amendments-finalisation-april-2026",
-      "publishedAt": "2026-04-23T09:00:00.000Z",
-      "pdfLinks": [],
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.878Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -2746,9 +3991,29 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/low-impact-amendments-consultation-april-2026",
       "publishedAt": "2026-04-23T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.365Z"
+    },
+    {
+      "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "title": "LIAF01/26 – Low Impact Amendments Finalisation April 2026",
+      "summary": "Low Impact Amendments Finalisation 2026",
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/low-impact-amendments-finalisation-april-2026",
+      "publishedAt": "2026-04-23T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "feedUsedFallback": false,
+      "collectedAt": "2026-06-08T16:10:13.366Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -2762,9 +4027,17 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260422a.htm",
       "publishedAt": "2026-04-22T15:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "enforcement"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.720Z"
+      "collectedAt": "2026-06-08T16:10:14.350Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -2778,9 +4051,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/review-of-the-smcr-phase-1-policy-statement",
       "publishedAt": "2026-04-22T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.366Z"
     },
     {
       "id": "c2VjLXByZXNzLWIyZjQzMjY2LWU0N2Yt",
@@ -2794,9 +4073,15 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-40-sec-cftc-jointly-propose-amendments-reduce-private-fund-reporting-burdens",
       "publishedAt": "2026-04-20T14:45:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "reporting"
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.869Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QUE0QjQy",
@@ -2810,25 +4095,16 @@
       "link": "https://www.bankofengland.co.uk/paper/2026/cp/the-boes-fees-regime-for-financial-market-infrastructure-supervision-2026-27",
       "publishedAt": "2026-04-17T11:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "consultation paper"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
-    },
-    {
-      "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "title": "Prudential Regulation Authority Business Plan 2026/27",
-      "summary": "The 2026/27 Business Plan sets out the workplan for each of our strategic priorities and our strategy to advance our primary and secondary objectives. This year’s business plan confirms the PRA’s continued focus on safety and soundness and policyholder protection, alongside a proportionate and efficient approach to regulation.",
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/pra-business-plan-2026-27",
-      "publishedAt": "2026-04-17T09:00:00.000Z",
-      "pdfLinks": [],
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.878Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -2842,9 +4118,33 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/regulated-fees-and-levies-rates-proposals-2026-27-consultation-paper",
       "publishedAt": "2026-04-17T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "consultation paper"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.366Z"
+    },
+    {
+      "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "title": "Prudential Regulation Authority Business Plan 2026/27",
+      "summary": "The 2026/27 Business Plan sets out the workplan for each of our strategic priorities and our strategy to advance our primary and secondary objectives. This year’s business plan confirms the PRA’s continued focus on safety and soundness and policyholder protection, alongside a proportionate and efficient approach to regulation.",
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/pra-business-plan-2026-27",
+      "publishedAt": "2026-04-17T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "feedUsedFallback": false,
+      "collectedAt": "2026-06-08T16:10:13.366Z"
     },
     {
       "id": "c2VjLXByZXNzLTljMWRhMjBiLWJjYjkt",
@@ -2858,9 +4158,11 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-39-chairman-atkins-launches-material-matters-podcast",
       "publishedAt": "2026-04-16T17:02:47.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.869Z"
     },
     {
       "id": "c2VjLXByZXNzLWJkM2Q0Yzg0LTlhMGUt",
@@ -2874,9 +4176,11 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-38-sec-small-business-advisory-committee-explore-ways-encourage-more-ipos",
       "publishedAt": "2026-04-16T15:45:04.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.869Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NjRBQjdB",
@@ -2890,9 +4194,11 @@
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/15-april-2026",
       "publishedAt": "2026-04-16T14:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.878Z"
     },
     {
       "id": "c2VjLXByZXNzLTUwZWY3OWVmLWQ4Njkt",
@@ -2906,9 +4212,11 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-37-sec-seeks-public-comment-consolidated-audit-trail-other-audit-trails-data-sources",
       "publishedAt": "2026-04-16T13:55:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.870Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MTEyOTcy",
@@ -2922,9 +4230,11 @@
       "link": "https://www.bankofengland.co.uk/financial-stability/resolution/report-on-the-exercise-of-relevant-sub-delegated-powers-for-fin-year-ending-28-feb-2026",
       "publishedAt": "2026-04-16T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.878Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NThEMTA3",
@@ -2938,9 +4248,20 @@
       "link": "https://www.bankofengland.co.uk/financial-stability/resolution/mrels-2026",
       "publishedAt": "2026-04-16T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Capital Requirements",
+        "Reporting / Disclosure",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "own funds",
+        "disclosure",
+        "resolution",
+        "bail-in"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.878Z"
     },
     {
       "id": "c2VjLXByZXNzLTQ0OTgwYjU3LTY0ODct",
@@ -2954,9 +4275,15 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-36-sec-approves-exemptive-order-proposed-rule-change-permit-customer-cross-margining-us-treasury-market",
       "publishedAt": "2026-04-15T19:45:51.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "clearing"
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.870Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NTAzNjVF",
@@ -2970,9 +4297,15 @@
       "link": "https://www.bankofengland.co.uk/paper/2026/operational-guide-to-transfer-resolution",
       "publishedAt": "2026-04-13T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "resolution"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.878Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17OTZGODNG",
@@ -2986,9 +4319,16 @@
       "link": "https://www.bankofengland.co.uk/paper/2026/operational-guide-to-bail-in-resolution",
       "publishedAt": "2026-04-13T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "resolution",
+        "bail-in"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.879Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QjBGNjM5",
@@ -3002,9 +4342,11 @@
       "link": "https://www.bankofengland.co.uk/working-paper/2026/real-domestic-effects-of-banks-cross-border-lending",
       "publishedAt": "2026-04-10T13:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.879Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QUM5RjlF",
@@ -3018,9 +4360,11 @@
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/8-april-2026",
       "publishedAt": "2026-04-09T14:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.879Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NjNDODlC",
@@ -3034,9 +4378,11 @@
       "link": "https://www.bankofengland.co.uk/bank-liabilities-survey/2026/2026-q1",
       "publishedAt": "2026-04-09T08:30:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.879Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MEM2MkI0",
@@ -3050,9 +4396,11 @@
       "link": "https://www.bankofengland.co.uk/credit-conditions-survey/2026/2026-q1",
       "publishedAt": "2026-04-09T08:30:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.879Z"
     },
     {
       "id": "c2VjLXByZXNzLTlhYTJmMWRlLWJmNjct",
@@ -3066,9 +4414,15 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-35-sec-appoints-david-woodcock-director-division-enforcement",
       "publishedAt": "2026-04-08T16:20:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "enforcement"
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.870Z"
     },
     {
       "id": "c2VjLXByZXNzLTc5Yjg5ODg1LTgwNjAt",
@@ -3082,9 +4436,15 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-34",
       "publishedAt": "2026-04-07T19:48:30.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "enforcement"
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.870Z"
     },
     {
       "id": "c2VjLXByZXNzLWNmNWE1ZTlhLTUyMmMt",
@@ -3098,9 +4458,15 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-33-sec-announces-agenda-panelists-roundtable-options-market-structure",
       "publishedAt": "2026-04-02T20:44:29.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.870Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MTQ1RERD",
@@ -3114,9 +4480,11 @@
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/1-april-2026",
       "publishedAt": "2026-04-02T14:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.879Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QTFENEU0",
@@ -3130,9 +4498,11 @@
       "link": "https://www.bankofengland.co.uk/working-paper/2026/out-of-work-out-of-the-labour-force",
       "publishedAt": "2026-04-02T13:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.880Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NDlEREFD",
@@ -3146,25 +4516,11 @@
       "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/march-2026",
       "publishedAt": "2026-04-02T08:30:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
-    },
-    {
-      "id": "Ym9lLXB1YmxpY2F0aW9ucy17ODBBNzRC",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "title": "Enhancing the resilience of the gilt repo market – discussion paper feedback statement",
-      "summary": "This feedback statement provides a summary of the responses to the September 2025 discussion paper ‘Enhancing the resilience of the gilt repo market’ and outlines how the Bank intends to progress this work.",
-      "link": "https://www.bankofengland.co.uk/paper/2026/discussion-paper/enhancing-the-resilience-of-the-gilt-repo-market-discussion-paper-feedback-statement",
-      "publishedAt": "2026-04-01T09:30:00.000Z",
-      "pdfLinks": [],
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.880Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17QkUwQzQ2",
@@ -3178,25 +4534,29 @@
       "link": "https://www.bankofengland.co.uk/systemic-risk-survey/2026/2026-h1",
       "publishedAt": "2026-04-01T09:30:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.880Z"
     },
     {
-      "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
+      "id": "Ym9lLXB1YmxpY2F0aW9ucy17ODBBNzRC",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
       "region": "UK",
       "jurisdiction": "UK",
-      "title": "PRA Regulatory Digest – March 2026",
-      "summary": "The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.",
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/march-2026",
-      "publishedAt": "2026-04-01T09:00:00.000Z",
+      "title": "Enhancing the resilience of the gilt repo market – discussion paper feedback statement",
+      "summary": "This feedback statement provides a summary of the responses to the September 2025 discussion paper ‘Enhancing the resilience of the gilt repo market’ and outlines how the Bank intends to progress this work.",
+      "link": "https://www.bankofengland.co.uk/paper/2026/discussion-paper/enhancing-the-resilience-of-the-gilt-repo-market-discussion-paper-feedback-statement",
+      "publishedAt": "2026-04-01T09:30:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.880Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3210,9 +4570,33 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/high-loan-to-income-lending-consultation-paper",
       "publishedAt": "2026-04-01T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "consultation paper"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.367Z"
+    },
+    {
+      "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "title": "PRA Regulatory Digest – March 2026",
+      "summary": "The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.",
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/march-2026",
+      "publishedAt": "2026-04-01T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "feedUsedFallback": false,
+      "collectedAt": "2026-06-08T16:10:13.367Z"
     },
     {
       "id": "c2VjLXByZXNzLTlmOWE4ZTgwLTAwYjMt",
@@ -3226,9 +4610,11 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-32-sec-highlights-financial-independence-during-financial-literacy-month",
       "publishedAt": "2026-03-31T13:52:09.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.871Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MzUxODgx",
@@ -3242,9 +4628,11 @@
       "link": "https://www.bankofengland.co.uk/weekly-report/2024/consolidated-balance-sheet-31-december-2024",
       "publishedAt": "2026-03-31T13:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.880Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3258,9 +4646,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/financial-services-compensation-scheme-management-expenses-levy-limit-2026-27-policy-statement",
       "publishedAt": "2026-03-31T09:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.367Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTM2MDwY29uc",
@@ -3274,9 +4668,11 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/2025-hmda-data-on-mortgage-lending-now-available/",
       "publishedAt": "2026-03-31T04:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.779Z"
+      "collectedAt": "2026-06-08T16:10:15.184Z"
     },
     {
       "id": "c2VjLXByZXNzLWU1Mjk5NGQ4LWJjNTkt",
@@ -3290,9 +4686,11 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-31-sec-approves-amendment-nms-plan-further-reduce-costs-consolidated-audit-trail",
       "publishedAt": "2026-03-27T20:04:54.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.871Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17ODU0MzhE",
@@ -3306,9 +4704,15 @@
       "link": "https://www.bankofengland.co.uk/working-paper/2026/a-simulation-framework-for-sterling-money-market-funds",
       "publishedAt": "2026-03-27T14:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Liquidity"
+      ],
+      "matchedKeywords": [
+        "liquidity"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.881Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17OTU3ODgz",
@@ -3322,9 +4726,11 @@
       "link": "https://www.bankofengland.co.uk/macro-technical-paper/2026/a-uk-hank-model",
       "publishedAt": "2026-03-27T14:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.881Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MERFNzMx",
@@ -3338,9 +4744,11 @@
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/25-march-2026",
       "publishedAt": "2026-03-26T15:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.881Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3354,9 +4762,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2017/recovery-planning-ss",
       "publishedAt": "2026-03-26T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervisory"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.367Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3370,9 +4784,20 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/resolution-planning-amendments-to-mrel-reporting-templates-policy-statement",
       "publishedAt": "2026-03-26T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure",
+        "Supervision / Enforcement",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "reporting",
+        "policy statement",
+        "resolution",
+        "mrel"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.367Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3386,9 +4811,20 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/disclosure-policy-statement",
       "publishedAt": "2026-03-26T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure",
+        "Supervision / Enforcement",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "disclosure",
+        "pillar 3",
+        "policy statement",
+        "resolvability"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.367Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3402,9 +4838,17 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/resolution-assessment-threshold-and-recovery-plans-review-policy-statement",
       "publishedAt": "2026-03-26T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "policy statement",
+        "resolution"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.367Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17NUU2NkVF",
@@ -3418,9 +4862,11 @@
       "link": "https://www.bankofengland.co.uk/paper/2026/rethinking-global-imbalances",
       "publishedAt": "2026-03-23T09:30:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.881Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MTE0MTA3",
@@ -3434,9 +4880,11 @@
       "link": "https://www.bankofengland.co.uk/working-paper/2026/interest-rate-fee-substitution-credit-facilitation-in-segmented-markets",
       "publishedAt": "2026-03-20T14:01:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.881Z"
     },
     {
       "id": "Ym9lLXB1YmxpY2F0aW9ucy17MkEyRTU0",
@@ -3450,9 +4898,11 @@
       "link": "https://www.bankofengland.co.uk/working-paper/2026/targeting-inflation-expectations",
       "publishedAt": "2026-03-20T14:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.556Z"
+      "collectedAt": "2026-06-08T16:10:13.881Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -3466,9 +4916,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm",
       "publishedAt": "2026-03-19T16:30:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.720Z"
+      "collectedAt": "2026-06-08T16:10:14.350Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3482,9 +4938,19 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/operational-resilience-incident-reporting-supervisory-statement",
       "publishedAt": "2026-03-18T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "incident reporting",
+        "reporting",
+        "supervisory"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.368Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3498,9 +4964,17 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/operational-incident-and-third-party-reporting-policy-statement",
       "publishedAt": "2026-03-18T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "reporting",
+        "policy statement"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.368Z"
     },
     {
       "id": "c2VjLXByZXNzLTMwOGI3YjBlLTJhYTUt",
@@ -3514,9 +4988,15 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets",
       "publishedAt": "2026-03-17T19:45:25.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Crypto / Digital Assets"
+      ],
+      "matchedKeywords": [
+        "crypto"
+      ],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.871Z"
     },
     {
       "id": "c2VjLXByZXNzLTFjNzQxNzgzLWZkMTAt",
@@ -3530,9 +5010,11 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-29-sec-publishes-data-public-private-offerings-municipal-advisors-transfer-agents-securities-based-swap",
       "publishedAt": "2026-03-17T19:13:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.756Z"
+      "collectedAt": "2026-06-08T16:10:14.871Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3546,9 +5028,17 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/modernising-the-liquidity-policy-framework-consultation-paper",
       "publishedAt": "2026-03-17T11:30:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Liquidity",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "liquidity",
+        "consultation paper"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.368Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -3562,9 +5052,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260305a.htm",
       "publishedAt": "2026-03-05T20:30:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.720Z"
+      "collectedAt": "2026-06-08T16:10:14.350Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3578,9 +5074,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/recognised-exchanges-policy-and-transfer-of-main-indices-policy-statement",
       "publishedAt": "2026-03-05T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.368Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3594,9 +5096,11 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/february-2026",
       "publishedAt": "2026-03-02T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.368Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3610,9 +5114,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/february/life-insurance-stress-test-in-2028",
       "publishedAt": "2026-02-27T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Stress Testing"
+      ],
+      "matchedKeywords": [
+        "stress test"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.368Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3626,9 +5136,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/february/uk-solvency-ii-own-funds-updates-and-fixes-to-rules-and-expectations",
       "publishedAt": "2026-02-25T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "consultation paper"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.369Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -3642,9 +5158,18 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260223a.htm",
       "publishedAt": "2026-02-23T22:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "supervision",
+        "its"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.720Z"
+      "collectedAt": "2026-06-08T16:10:14.350Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3658,9 +5183,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/february/credit-union-service-organisations-policy-statement",
       "publishedAt": "2026-02-20T15:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.369Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3674,9 +5205,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/february/pra-rule-changes-to-accommodate-hmt-oprr-consultation-paper",
       "publishedAt": "2026-02-19T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "consultation paper"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.369Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3690,9 +5227,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/february/reforms-to-securitisation-requirements-consultation-paper",
       "publishedAt": "2026-02-17T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "consultation paper"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.369Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTM0NTwY29uc",
@@ -3706,9 +5249,11 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/estimating-the-cost-of-the-consumer-financial-protection-bureau-to-consumers/",
       "publishedAt": "2026-02-17T05:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.779Z"
+      "collectedAt": "2026-06-08T16:10:15.184Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -3722,9 +5267,21 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm",
       "publishedAt": "2026-02-04T21:30:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Capital Requirements",
+        "Stress Testing",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "capital requirements",
+        "stress test",
+        "board",
+        "its"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.720Z"
+      "collectedAt": "2026-06-08T16:10:14.350Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3738,9 +5295,11 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/february/future-banking-data-discussion-paper",
       "publishedAt": "2026-02-04T15:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.369Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3754,9 +5313,11 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/january-2026",
       "publishedAt": "2026-02-02T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.369Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3770,9 +5331,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/the-strong-and-simple-framework-final-policy-statement",
       "publishedAt": "2026-01-20T07:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.370Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3786,9 +5353,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/ps226-retiring-the-refined-methodology-to-pillar-2a-final",
       "publishedAt": "2026-01-20T07:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.370Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3802,9 +5375,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/implementation-of-the-basel-3-1-final-rules-policy-statement",
       "publishedAt": "2026-01-20T07:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.370Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3818,9 +5397,17 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/restatement-of-crr-requirements-final-policy-statement",
       "publishedAt": "2026-01-20T07:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Capital Requirements",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "crr",
+        "policy statement"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.370Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3834,9 +5421,11 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/letter-from-rebecca-jackson-and-alison-scott-international-banks-supervision-2026-priorities",
       "publishedAt": "2026-01-15T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.370Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3850,9 +5439,11 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/letter-from-gareth-truran-and-shoib-khan-insurance-supervision-2026-priorities",
       "publishedAt": "2026-01-15T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.370Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3866,9 +5457,11 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/letter-from-charlotte-gerken-and-laura-wallis-uk-deposit-takers-supervision-2026-priorities",
       "publishedAt": "2026-01-15T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.370Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3882,9 +5475,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/financial-services-compensation-scheme-management-expenses-levy-limit-2026-27-consultation-paper",
       "publishedAt": "2026-01-13T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "consultation paper"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.371Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -3898,9 +5497,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260112a.htm",
       "publishedAt": "2026-01-12T20:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.720Z"
+      "collectedAt": "2026-06-08T16:10:14.351Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTMzMjwY29uc",
@@ -3914,9 +5519,11 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-and-the-department-of-justice-withdraw-joint-statement-on-fair-lending-and-credit-opportunities-for-noncitizen-borrowers/",
       "publishedAt": "2026-01-12T05:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.779Z"
+      "collectedAt": "2026-06-08T16:10:15.185Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3930,9 +5537,11 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/future-banking-data-november-cfo-roundtable-summary",
       "publishedAt": "2026-01-07T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.371Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3946,9 +5555,11 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2025/december-2025",
       "publishedAt": "2026-01-06T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.371Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -3962,9 +5573,15 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/berne-financial-services-agreement-operational-direction-and-guidelines",
       "publishedAt": "2026-01-02T08:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "guidelines"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.371Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -3978,9 +5595,15 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251230a.htm",
       "publishedAt": "2025-12-30T16:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.720Z"
+      "collectedAt": "2026-06-08T16:10:14.351Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -3994,9 +5617,19 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251219b.htm",
       "publishedAt": "2025-12-19T18:30:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "board",
+        "its",
+        "payment"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.720Z"
+      "collectedAt": "2026-06-08T16:10:14.351Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -4010,25 +5643,18 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251219a.htm",
       "publishedAt": "2025-12-19T15:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "board",
+        "payments",
+        "clearing"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.720Z"
-    },
-    {
-      "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "title": "LIAF03/25 – Low Impact Amendments Finalisation December 2025",
-      "summary": "The PRA has published LIAF03/25, a collection of final low impact rule amendments.",
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/december/low-impact-amendments-finalisation-december-2025",
-      "publishedAt": "2025-12-19T10:00:00.000Z",
-      "pdfLinks": [],
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:14.352Z"
     },
     {
       "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
@@ -4042,9 +5668,33 @@
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/july/prudential-considerations-for-insurance-and-reinsurance-undertakings",
       "publishedAt": "2025-12-19T10:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervisory"
+      ],
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.542Z"
+      "collectedAt": "2026-06-08T16:10:13.371Z"
+    },
+    {
+      "id": "Ym9lLXBydWRlbnRpYWwtcHVibGljYXRp",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "title": "LIAF03/25 – Low Impact Amendments Finalisation December 2025",
+      "summary": "The PRA has published LIAF03/25, a collection of final low impact rule amendments.",
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/december/low-impact-amendments-finalisation-december-2025",
+      "publishedAt": "2025-12-19T10:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "feedUsedFallback": false,
+      "collectedAt": "2026-06-08T16:10:13.372Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -4058,9 +5708,17 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251218a.htm",
       "publishedAt": "2025-12-18T14:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "supervision"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.720Z"
+      "collectedAt": "2026-06-08T16:10:14.352Z"
     },
     {
       "id": "ZmVkZXJhbC1yZXNlcnZlLWJhbmtpbmct",
@@ -4074,9 +5732,17 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251217a.htm",
       "publishedAt": "2025-12-17T21:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "policy statement"
+      ],
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.720Z"
+      "collectedAt": "2026-06-08T16:10:14.352Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTMxNDwY29uc",
@@ -4090,9 +5756,11 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/agencies-announce-dollar-thresholds-for-applicability-of-truth-in-lending-and-consumer-leasing-rules-for-consumer-credit-and-lease-transactions-2025/",
       "publishedAt": "2025-12-15T05:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.779Z"
+      "collectedAt": "2026-06-08T16:10:15.185Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTMxMzwY29uc",
@@ -4106,9 +5774,11 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/agencies-announce-dollar-thresholds-for-smaller-loan-exemption-from-appraisal-requirements-for-higher-priced-mortgage-loans-2025/",
       "publishedAt": "2025-12-15T05:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.779Z"
+      "collectedAt": "2026-06-08T16:10:15.185Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTI5NjwY29uc",
@@ -4122,9 +5792,15 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-supervision-division-releases-new-humility-pledge/",
       "publishedAt": "2025-11-21T05:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.779Z"
+      "collectedAt": "2026-06-08T16:10:15.185Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTI5MDwY29uc",
@@ -4138,9 +5814,11 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-notifies-court-it-cannot-lawfully-draw-funds-from-the-federal-reserve/",
       "publishedAt": "2025-11-11T05:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.779Z"
+      "collectedAt": "2026-06-08T16:10:15.185Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTI2NjwY29uc",
@@ -4154,9 +5832,17 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-reaches-settlement-with-firstcash-inc-and-its-subsidiaries-for-military-lending-act-violations/",
       "publishedAt": "2025-07-11T04:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "its",
+        "settlement"
+      ],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.779Z"
+      "collectedAt": "2026-06-08T16:10:15.186Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTI1NDwY29uc",
@@ -4170,9 +5856,15 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-amends-wise-order-for-remittance-practices/",
       "publishedAt": "2025-05-15T04:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.779Z"
+      "collectedAt": "2026-06-08T16:10:15.186Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTI1MjwY29uc",
@@ -4186,9 +5878,15 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-announcement-regarding-enforcement-actions-related-to-buy-now-pay-later-loans/",
       "publishedAt": "2025-05-06T04:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "enforcement"
+      ],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.779Z"
+      "collectedAt": "2026-06-08T16:10:15.186Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTI0ODwY29uc",
@@ -4202,9 +5900,17 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-keeps-its-enforcement-and-supervision-resources-focused-on-pressing-threats-to-consumers/",
       "publishedAt": "2025-04-30T04:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "enforcement",
+        "its"
+      ],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.779Z"
+      "collectedAt": "2026-06-08T16:10:15.186Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTI0MzwY29uc",
@@ -4218,9 +5924,16 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-offers-regulatory-relief-from-registration-requirements-for-small-loan-providers/",
       "publishedAt": "2025-04-11T04:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "enforcement"
+      ],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.779Z"
+      "collectedAt": "2026-06-08T16:10:15.186Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTIzODwY29uc",
@@ -4234,9 +5947,11 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/2024-hmda-data-on-mortgage-lending-now-available/",
       "publishedAt": "2025-03-31T04:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.780Z"
+      "collectedAt": "2026-06-08T16:10:15.187Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTIzNjwY29uc",
@@ -4250,9 +5965,17 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-offers-regulatory-relief-for-small-loan-providers/",
       "publishedAt": "2025-03-28T04:00:00.000Z",
       "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "enforcement",
+        "its"
+      ],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.780Z"
+      "collectedAt": "2026-06-08T16:10:15.187Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTIzNDwY29uc",
@@ -4266,9 +5989,11 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-seeks-to-vacate-abusive-unjust-case-against-townstone/",
       "publishedAt": "2025-03-28T04:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.780Z"
+      "collectedAt": "2026-06-08T16:10:15.187Z"
     },
     {
       "id": "Y2ZwYi1uZXdzcm9vbS0xOTIxMzwY29uc",
@@ -4282,9 +6007,11 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/statement-on-designation-of-treasury-secretary-scott-bessent-as-acting-director-of-the-consumer-financial-protection-bureau/",
       "publishedAt": "2025-02-03T05:00:00.000Z",
       "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
       "feedUsedFallback": false,
-      "collectedAt": "2026-06-08T16:01:55.780Z"
+      "collectedAt": "2026-06-08T16:10:15.187Z"
     }
   ]
 }

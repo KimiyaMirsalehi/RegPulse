@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const Parser = require('rss-parser');
 const sources = require('./sources.json');
+const topics = require('./topics.json');
 
 const parser = new Parser({
   timeout: 15000,
@@ -31,12 +32,7 @@ function cleanText(value) {
 
 function cleanXmlText(xmlText) {
   return String(xmlText)
-    // Remove invisible control characters that XML parsers dislike
     .replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F]/g, '')
-
-    // Fix unescaped ampersands.
-    // Example problem: "Capital & liquidity"
-    // XML requires: "Capital &amp; liquidity"
     .replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[a-fA-F0-9]+;)/g, '&amp;');
 }
 
@@ -141,6 +137,43 @@ function createPublicationId(source, item) {
     .slice(0, 32);
 }
 
+function normaliseForMatching(value) {
+  return ` ${String(value || '').toLowerCase().replace(/\s+/g, ' ')} `;
+}
+
+function keywordMatchesText(keyword, text) {
+  const normalisedKeyword = normaliseForMatching(keyword);
+
+  return text.includes(normalisedKeyword);
+}
+
+function tagPublication(title, summary, institution) {
+  const searchableText = normaliseForMatching(`${title} ${summary} ${institution}`);
+
+  const matchedTopics = [];
+  const matchedKeywords = [];
+
+  topics.forEach((topic) => {
+    const topicMatches = [];
+
+    topic.keywords.forEach((keyword) => {
+      if (keywordMatchesText(keyword, searchableText)) {
+        topicMatches.push(keyword.trim());
+      }
+    });
+
+    if (topicMatches.length > 0) {
+      matchedTopics.push(topic.label);
+      matchedKeywords.push(...topicMatches);
+    }
+  });
+
+  return {
+    topics: [...new Set(matchedTopics)],
+    matchedKeywords: [...new Set(matchedKeywords)]
+  };
+}
+
 function normaliseItem(source, item, feedMeta) {
   const title = cleanText(item.title);
   const summary = cleanText(
@@ -150,6 +183,8 @@ function normaliseItem(source, item, feedMeta) {
     item.content ||
     ''
   );
+
+  const tagging = tagPublication(title, summary, source.institution);
 
   return {
     id: createPublicationId(source, item),
@@ -163,6 +198,8 @@ function normaliseItem(source, item, feedMeta) {
     link: item.link || null,
     publishedAt: normaliseDate(item),
     pdfLinks: extractPdfLinks(item),
+    topics: tagging.topics,
+    matchedKeywords: tagging.matchedKeywords,
     officialSourcePage: source.officialSourcePage,
     feedUsedFallback: feedMeta.usedFallback,
     collectedAt: new Date().toISOString()
@@ -234,6 +271,41 @@ function sortPublications(publications) {
   });
 }
 
+function buildTopicSummary(publications) {
+  const counts = {};
+
+  publications.forEach((publication) => {
+    publication.topics.forEach((topic) => {
+      counts[topic] = (counts[topic] || 0) + 1;
+    });
+  });
+
+  return Object.entries(counts)
+    .map(([topic, count]) => ({
+      topic,
+      count
+    }))
+    .sort((a, b) => b.count - a.count);
+}
+
+function buildKeywordSummary(publications) {
+  const counts = {};
+
+  publications.forEach((publication) => {
+    publication.matchedKeywords.forEach((keyword) => {
+      counts[keyword] = (counts[keyword] || 0) + 1;
+    });
+  });
+
+  return Object.entries(counts)
+    .map(([keyword, count]) => ({
+      keyword,
+      count
+    }))
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 100);
+}
+
 function savePublications(publications, sourceResults) {
   ensureOutputFolderExists();
 
@@ -256,12 +328,21 @@ function savePublications(publications, sourceResults) {
         name: result.source.name,
         error: result.error
       })),
+    topicSummary: buildTopicSummary(publications),
+    keywordSummary: buildKeywordSummary(publications),
     publications
   };
 
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2), 'utf8');
 
   console.log(`\nSaved ${publications.length} publications to ${OUTPUT_FILE}`);
+
+  console.log('\nTop topics');
+  console.log('----------');
+
+  output.topicSummary.slice(0, 10).forEach((item, index) => {
+    console.log(`${index + 1}. ${item.topic}: ${item.count}`);
+  });
 }
 
 async function main() {
