@@ -3,7 +3,13 @@ import { createRoot } from 'react-dom/client';
 import App from './App.jsx';
 import './App.css';
 
-createRoot(document.getElementById('root')).render(
+const rootElement = document.getElementById('root');
+
+if (!rootElement) {
+  throw new Error('RegPulse could not start because #root was not found in index.html.');
+}
+
+createRoot(rootElement).render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
