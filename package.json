@@ -3,20 +3,32 @@
   "version": "1.0.0",
   "description": "RegPulse - regulatory publication monitoring tool",
   "main": "scraper/index.js",
+  "type": "module",
   "scripts": {
-    "scrape": "node scraper/index.js",
-    "check:sources": "node scraper/checkSources.js"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "scrape": "node scraper/index.cjs",
+    "check:sources": "node scraper/checkSources.cjs"
   },
   "keywords": [
     "regulation",
     "risk",
     "rss",
     "crawler",
-    "regtech"
+    "regtech",
+    "react",
+    "vite"
   ],
   "author": "Kimiya Mirsalehi",
   "license": "MIT",
   "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
     "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.6.0",
+    "vite": "^7.0.0"
   }
 }
