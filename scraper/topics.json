@@ -19,7 +19,7 @@
       "neural networks",
       "high-risk ai",
       "general-purpose ai",
-      "gpaI",
+      "general purpose ai",
       "ai system",
       "ai systems",
       "ai model",
@@ -29,9 +29,6 @@
       "ai risks",
       "ai regulation",
       "ai regulatory",
-      "ai adoption",
-      "ai use",
-      "ai in financial services",
       "responsible ai"
     ]
   },
@@ -45,7 +42,6 @@
       "high-risk ai",
       "general-purpose ai",
       "general purpose ai",
-      "gpaI",
       "ai office",
       "ai regulatory sandbox",
       "artificial intelligence regulatory sandbox"
@@ -70,11 +66,66 @@
       "cybersecurity",
       "cyber security",
       "incident reporting",
-      "operational disruption",
       "business continuity",
       "resilience testing",
       "critical third-party provider",
       "critical third party provider"
+    ]
+  },
+  {
+    "id": "basel-framework",
+    "label": "Basel / BCBS",
+    "keywords": [
+      "basel committee",
+      "basel committee on banking supervision",
+      "bcbs",
+      "basel framework",
+      "basel iii",
+      "basel 3",
+      "capital adequacy",
+      "core principles for effective banking supervision",
+      "prudential standard",
+      "prudential standards",
+      "banking supervision",
+      "standardised approach",
+      "standardized approach",
+      "internal ratings-based",
+      "irb",
+      "pillar 3",
+      "leverage ratio",
+      "large exposures",
+      "counterparty credit risk",
+      "securitisation",
+      "securitization",
+      "cryptoasset exposures",
+      "disclosure requirements"
+    ]
+  },
+  {
+    "id": "ifrs-reporting",
+    "label": "IFRS / Reporting Standards",
+    "keywords": [
+      "ifrs",
+      "ifrs foundation",
+      "international financial reporting standards",
+      "iasb",
+      "issb",
+      "ifrs accounting standards",
+      "ifrs sustainability disclosure standards",
+      "ifrs s1",
+      "ifrs s2",
+      "ifrs 9",
+      "ifrs 17",
+      "ifrs 18",
+      "financial instruments",
+      "expected credit losses",
+      "ecl",
+      "sustainability disclosure",
+      "climate-related disclosures",
+      "accounting taxonomy",
+      "ifrs taxonomy",
+      "international accounting standards board",
+      "international sustainability standards board"
     ]
   },
   {
@@ -95,7 +146,6 @@
       "crr",
       "crd",
       "basel iii",
-      "basel 3",
       "risk-weighted assets",
       "risk weighted assets",
       "rwa"
@@ -113,7 +163,6 @@
       "funding risk",
       "liquidity risk",
       "liquidity buffer",
-      "cash flow",
       "deposit outflow",
       "funding stress"
     ]
@@ -183,7 +232,10 @@
       "carbon",
       "emissions",
       "taxonomy",
-      "sfdr"
+      "sfdr",
+      "issb",
+      "ifrs s1",
+      "ifrs s2"
     ]
   },
   {
@@ -239,7 +291,6 @@
       "retail investor",
       "retail investors",
       "vulnerable customer",
-      "vulnerable customers",
       "fair treatment",
       "mis-selling",
       "misselling",
@@ -299,7 +350,10 @@
       "data standards",
       "xbrl",
       "integrated reporting framework",
-      "iref"
+      "iref",
+      "ifrs",
+      "ifrs taxonomy",
+      "sustainability disclosure"
     ]
   },
   {
