@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "scrape": "node scraper/index.cjs",
+    "scrape": "node scraper/index.cjs && node scraper/postProcess.cjs",
     "check:sources": "node scraper/checkSources.cjs"
   },
   "keywords": [
