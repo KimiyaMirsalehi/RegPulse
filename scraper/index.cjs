@@ -10,6 +10,7 @@ const OUTPUT_DIR = path.join(ROOT_DIR, 'data');
 const OUTPUT_PATH = path.join(OUTPUT_DIR, 'publications.json');
 
 const MAX_ITEMS_PER_SOURCE = 60;
+const MAX_HTML_LINKS_TO_SCAN = 200;
 
 const parser = new Parser({
   timeout: 20000,
@@ -86,6 +87,8 @@ function cleanText(value) {
   return decodeHtmlEntities(String(value))
     .replace(/<script[\s\S]*?<\/script>/gi, ' ')
     .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<noscript[\s\S]*?<\/noscript>/gi, ' ')
+    .replace(/<svg[\s\S]*?<\/svg>/gi, ' ')
     .replace(/<br\s*\/?>/gi, ' ')
     .replace(/<\/p>/gi, ' ')
     .replace(/<\/div>/gi, ' ')
@@ -138,13 +141,6 @@ function truncateSummary(value, maxLength = 700) {
 }
 
 function getRawSummary(item) {
-  /*
-    Important:
-    contentSnippet is often already stripped by the RSS parser.
-    Some feeds lose spaces around inline HTML tags there, causing:
-    "The FCAhasstartedcivil..."
-    So we prefer raw HTML fields first and clean them ourselves.
-  */
   return (
     item.contentEncoded ||
     item['content:encoded'] ||
@@ -157,6 +153,49 @@ function getRawSummary(item) {
   );
 }
 
+function parseDateString(value) {
+  if (!value) {
+    return null;
+  }
+
+  const cleaned = cleanText(value)
+    .replace(/(\d+)(st|nd|rd|th)/gi, '$1')
+    .replace(/\bof\b/gi, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  const directDate = new Date(cleaned);
+
+  if (!Number.isNaN(directDate.getTime())) {
+    return directDate.toISOString();
+  }
+
+  const slashMatch = cleaned.match(/\b(\d{1,2})\/(\d{1,2})\/(\d{4})\b/);
+
+  if (slashMatch) {
+    const [, day, month, year] = slashMatch;
+    const parsed = new Date(`${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}T00:00:00Z`);
+
+    if (!Number.isNaN(parsed.getTime())) {
+      return parsed.toISOString();
+    }
+  }
+
+  const monthNameMatch = cleaned.match(
+    /\b(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{4})\b/i
+  );
+
+  if (monthNameMatch) {
+    const parsed = new Date(`${monthNameMatch[1]} ${monthNameMatch[2]} ${monthNameMatch[3]} 00:00:00 UTC`);
+
+    if (!Number.isNaN(parsed.getTime())) {
+      return parsed.toISOString();
+    }
+  }
+
+  return null;
+}
+
 function getPublicationDate(item) {
   const dateValue =
     item.isoDate ||
@@ -167,17 +206,7 @@ function getPublicationDate(item) {
     item['dc:date'] ||
     '';
 
-  if (!dateValue) {
-    return null;
-  }
-
-  const parsedDate = new Date(dateValue);
-
-  if (Number.isNaN(parsedDate.getTime())) {
-    return null;
-  }
-
-  return parsedDate.toISOString();
+  return parseDateString(dateValue);
 }
 
 function extractLinksFromHtml(value) {
@@ -366,7 +395,7 @@ async function fetchText(url) {
       headers: {
         'User-Agent':
           'RegPulse/1.0 (+https://github.com/KimiyaMirsalehi/RegPulse; regulatory monitoring tool)',
-        Accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'
+        Accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml, text/html, */*'
       }
     });
 
@@ -441,7 +470,7 @@ function fallbackParseXml(xml) {
   };
 }
 
-async function parseFeed(source) {
+async function parseRssFeed(source) {
   const xml = await fetchText(source.url);
 
   try {
@@ -462,6 +491,165 @@ async function parseFeed(source) {
       parserMode: 'fallback-parser'
     };
   }
+}
+
+function shouldIgnoreHtmlListTitle(title, href) {
+  const cleanedTitle = cleanText(title).toLowerCase();
+  const cleanedHref = String(href || '').toLowerCase();
+
+  if (!cleanedTitle || cleanedTitle.length < 10) {
+    return true;
+  }
+
+  const ignoredTitles = [
+    'home',
+    'subscribe',
+    'contact',
+    'privacy',
+    'cookies',
+    'accessibility',
+    'legal notice',
+    'site map',
+    'linkedin',
+    'twitter',
+    'x.com',
+    'first page',
+    'next page',
+    'previous page',
+    'current page',
+    'page 2',
+    'page 3',
+    'page 4',
+    'page 5',
+    'page 6',
+    'page 7',
+    'page 8',
+    'page 9',
+    'all consultations',
+    'all events'
+  ];
+
+  if (ignoredTitles.some((ignored) => cleanedTitle === ignored || cleanedTitle.includes(ignored))) {
+    return true;
+  }
+
+  const ignoredHrefParts = [
+    '#',
+    '/cookies',
+    '/privacy',
+    '/legal',
+    '/accessibility',
+    '/contact',
+    '/newsletter',
+    '/form/newsletter',
+    'linkedin.com',
+    'twitter.com',
+    'x.com'
+  ];
+
+  if (ignoredHrefParts.some((part) => cleanedHref.includes(part))) {
+    return true;
+  }
+
+  return false;
+}
+
+function extractDateFromContext(context) {
+  const cleaned = cleanText(context);
+
+  const patterns = [
+    /\b\d{1,2}\/\d{1,2}\/\d{4}\b/,
+    /\b\d{1,2}(st|nd|rd|th)?\s+of\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}\b/i,
+    /\b\d{1,2}\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}\b/i,
+    /\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}\b/i
+  ];
+
+  for (const pattern of patterns) {
+    const match = cleaned.match(pattern);
+
+    if (match) {
+      return parseDateString(match[0]);
+    }
+  }
+
+  return null;
+}
+
+function extractHtmlListItems(html, source) {
+  const items = [];
+  const seen = new Set();
+
+  const anchorRegex = /<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
+  let match;
+
+  while ((match = anchorRegex.exec(html)) !== null && items.length < MAX_HTML_LINKS_TO_SCAN) {
+    const href = match[1];
+    const rawAnchorText = match[2];
+    const title = cleanText(rawAnchorText);
+    const absoluteLink = absoluteUrl(href, source.url);
+
+    if (shouldIgnoreHtmlListTitle(title, href)) {
+      continue;
+    }
+
+    const contextStart = Math.max(0, match.index - 500);
+    const contextEnd = Math.min(html.length, anchorRegex.lastIndex + 900);
+    const contextHtml = html.slice(contextStart, contextEnd);
+    const contextText = cleanText(contextHtml);
+    const publishedAt = extractDateFromContext(contextHtml);
+
+    const dedupeKey = `${title}|${absoluteLink}`;
+
+    if (seen.has(dedupeKey)) {
+      continue;
+    }
+
+    seen.add(dedupeKey);
+
+    let summary = contextText;
+
+    if (summary.toLowerCase().includes(title.toLowerCase())) {
+      summary = summary.replace(title, '').trim();
+    }
+
+    summary = truncateSummary(summary || title, 500);
+
+    items.push({
+      title,
+      link: absoluteLink,
+      guid: absoluteLink,
+      published: publishedAt,
+      description: summary,
+      content: summary
+    });
+  }
+
+  return items.slice(0, MAX_ITEMS_PER_SOURCE);
+}
+
+async function parseHtmlList(source) {
+  const html = await fetchText(source.url);
+  const items = extractHtmlListItems(html, source);
+
+  if (!items.length) {
+    throw new Error('No publication links found on official HTML list page.');
+  }
+
+  return {
+    feed: {
+      title: source.name,
+      items
+    },
+    parserMode: 'html-list-parser'
+  };
+}
+
+async function parseSource(source) {
+  if (source.type === 'html-list') {
+    return parseHtmlList(source);
+  }
+
+  return parseRssFeed(source);
 }
 
 function deduplicatePublications(publications) {
@@ -577,7 +765,7 @@ async function run() {
     console.log(`Fetching ${source.name}...`);
 
     try {
-      const { feed, parserMode } = await parseFeed(source);
+      const { feed, parserMode } = await parseSource(source);
       const rawItems = Array.isArray(feed.items) ? feed.items : [];
       const selectedItems = rawItems.slice(0, MAX_ITEMS_PER_SOURCE);
 
@@ -592,13 +780,18 @@ async function run() {
         name: source.name,
         institution: source.institution || source.name,
         region: source.region || 'Unknown',
-        status: parserMode === 'fallback-parser' ? 'warning' : 'success',
+        status:
+          parserMode === 'fallback-parser' || parserMode === 'html-list-parser'
+            ? 'warning'
+            : 'success',
         parserMode,
         itemCount: publications.length,
         message:
-          parserMode === 'fallback-parser'
-            ? 'Parsed successfully using fallback parser.'
-            : 'Parsed successfully.'
+          parserMode === 'html-list-parser'
+            ? 'Parsed successfully from official HTML list page.'
+            : parserMode === 'fallback-parser'
+              ? 'Parsed successfully using fallback parser.'
+              : 'Parsed successfully.'
       });
 
       console.log(

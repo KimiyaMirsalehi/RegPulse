@@ -55,6 +55,17 @@
     "notes": "Official EBA News & Press RSS feed linked from EBA website footer."
   },
   {
+    "id": "esma-news",
+    "name": "ESMA News",
+    "institution": "European Securities and Markets Authority",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "html-list",
+    "url": "https://www.esma.europa.eu/press-news/esma-news",
+    "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+    "notes": "Official ESMA News page. Scraped as official HTML list because the site can rate-limit RSS access."
+  },
+  {
     "id": "fca-news",
     "name": "FCA News",
     "institution": "Financial Conduct Authority",
@@ -86,6 +97,17 @@
     "url": "https://www.bankofengland.co.uk/rss/publications",
     "officialSourcePage": "https://www.bankofengland.co.uk/rss",
     "notes": "Official Bank of England RSS feed for publications."
+  },
+  {
+    "id": "central-bank-cyprus-announcements",
+    "name": "Central Bank of Cyprus Announcements",
+    "institution": "Central Bank of Cyprus",
+    "region": "Cyprus",
+    "jurisdiction": "Cyprus",
+    "type": "html-list",
+    "url": "https://www.centralbank.cy/en/announcements",
+    "officialSourcePage": "https://www.centralbank.cy/en/announcements",
+    "notes": "Official Central Bank of Cyprus announcements page. Scraped as official HTML list because no RSS feed was found on the official page."
   },
   {
     "id": "federal-reserve-press",
@@ -130,5 +152,16 @@
     "url": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
     "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
     "notes": "Official CFPB newsroom RSS feed."
+  },
+  {
+    "id": "ngfs-publications",
+    "name": "NGFS Publications",
+    "institution": "Network for Greening the Financial System",
+    "region": "Global",
+    "jurisdiction": "Global",
+    "type": "html-list",
+    "url": "https://www.ngfs.net/en/publications-and-statistics/ngfs-publications",
+    "officialSourcePage": "https://www.ngfs.net/en/publications-and-statistics/ngfs-publications",
+    "notes": "Official NGFS publications page. Scraped as official HTML list because no RSS feed was found on the official page."
   }
 ]
