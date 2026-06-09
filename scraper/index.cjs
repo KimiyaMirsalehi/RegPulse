@@ -168,12 +168,12 @@ function parseDateString(value) {
     .replace(/\s+/g, ' ')
     .trim();
 
-  const directDate = new Date(cleaned);
-
-  if (!Number.isNaN(directDate.getTime())) {
-    return directDate.toISOString();
-  }
-
+  /*
+   * Important:
+   * ESMA and several European regulators publish dates as DD/MM/YYYY.
+   * JavaScript's Date parser treats ambiguous slash dates as MM/DD/YYYY.
+   * Therefore slash dates must be parsed manually before using new Date().
+   */
   const slashMatch = cleaned.match(/\b(\d{1,2})\/(\d{1,2})\/(\d{4})\b/);
 
   if (slashMatch) {
@@ -197,6 +197,12 @@ function parseDateString(value) {
     if (!Number.isNaN(parsed.getTime())) {
       return parsed.toISOString();
     }
+  }
+
+  const directDate = new Date(cleaned);
+
+  if (!Number.isNaN(directDate.getTime())) {
+    return directDate.toISOString();
   }
 
   return null;
