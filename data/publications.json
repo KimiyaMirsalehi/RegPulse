@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-09T07:38:25.541Z",
-  "totalPublications": 361,
-  "sourceCount": 15,
-  "successfulSources": 11,
+  "generatedAt": "2026-06-09T08:23:41.370Z",
+  "totalPublications": 386,
+  "sourceCount": 16,
+  "successfulSources": 12,
   "warningSources": 4,
   "failedSources": 0,
   "sourceStatus": [
@@ -155,16 +155,30 @@
       "parserMode": "html-list-parser",
       "itemCount": 21,
       "message": "Parsed successfully from official HTML list page."
+    },
+    {
+      "id": "basel-committee-bis",
+      "name": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "status": "success",
+      "parserMode": "rss-parser",
+      "itemCount": 25,
+      "message": "Parsed successfully."
     }
   ],
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 140
+      "count": 164
     },
     {
       "topic": "Governance",
-      "count": 71
+      "count": 82
+    },
+    {
+      "topic": "Basel / BCBS",
+      "count": 66
     },
     {
       "topic": "Reporting / Disclosure",
@@ -172,11 +186,11 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 31
+      "count": 32
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 25
+      "count": 26
     },
     {
       "topic": "Climate / ESG",
@@ -184,18 +198,18 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "AML / Financial Crime",
+      "count": 11
+    },
+    {
+      "topic": "DORA / Operational Resilience",
       "count": 10
     },
     {
       "topic": "Capital Requirements",
-      "count": 10
-    },
-    {
-      "topic": "DORA / Operational Resilience",
       "count": 9
     },
     {
@@ -207,16 +221,16 @@
       "count": 3
     },
     {
-      "topic": "AI",
-      "count": 2
-    },
-    {
       "topic": "Liquidity",
       "count": 2
     },
     {
       "topic": "Market Risk",
       "count": 2
+    },
+    {
+      "topic": "AI",
+      "count": 1
     },
     {
       "topic": "Credit Risk",
@@ -226,11 +240,15 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 140
+      "count": 164
     },
     {
       "topic": "Governance",
-      "count": 71
+      "count": 82
+    },
+    {
+      "topic": "Basel / BCBS",
+      "count": 66
     },
     {
       "topic": "Reporting / Disclosure",
@@ -238,11 +256,11 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 31
+      "count": 32
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 25
+      "count": 26
     },
     {
       "topic": "Climate / ESG",
@@ -250,18 +268,18 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "AML / Financial Crime",
+      "count": 11
+    },
+    {
+      "topic": "DORA / Operational Resilience",
       "count": 10
     },
     {
       "topic": "Capital Requirements",
-      "count": 10
-    },
-    {
-      "topic": "DORA / Operational Resilience",
       "count": 9
     },
     {
@@ -273,16 +291,16 @@
       "count": 3
     },
     {
-      "topic": "AI",
-      "count": 2
-    },
-    {
       "topic": "Liquidity",
       "count": 2
     },
     {
       "topic": "Market Risk",
       "count": 2
+    },
+    {
+      "topic": "AI",
+      "count": 1
     },
     {
       "topic": "Credit Risk",
@@ -292,11 +310,15 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 59
+      "count": 84
     },
     {
       "keyword": "board",
-      "count": 45
+      "count": 56
+    },
+    {
+      "keyword": "banking supervision",
+      "count": 55
     },
     {
       "keyword": "its",
@@ -304,11 +326,19 @@
     },
     {
       "keyword": "supervisory",
+      "count": 26
+    },
+    {
+      "keyword": "basel committee",
+      "count": 25
+    },
+    {
+      "keyword": "basel committee on banking supervision",
       "count": 25
     },
     {
       "keyword": "resolution",
-      "count": 23
+      "count": 24
     },
     {
       "keyword": "conduct",
@@ -328,7 +358,7 @@
     },
     {
       "keyword": "payments",
-      "count": 16
+      "count": 17
     },
     {
       "keyword": "policy statement",
@@ -351,15 +381,15 @@
       "count": 10
     },
     {
+      "keyword": "operational resilience",
+      "count": 10
+    },
+    {
       "keyword": "deposit guarantee",
       "count": 9
     },
     {
       "keyword": "esg",
-      "count": 9
-    },
-    {
-      "keyword": "operational resilience",
       "count": 9
     },
     {
@@ -376,6 +406,10 @@
     },
     {
       "keyword": "crypto",
+      "count": 7
+    },
+    {
+      "keyword": "securitisation",
       "count": 7
     },
     {
@@ -419,8 +453,20 @@
       "count": 4
     },
     {
+      "keyword": "stablecoins",
+      "count": 4
+    },
+    {
       "keyword": "sustainable finance",
       "count": 4
+    },
+    {
+      "keyword": "bail in",
+      "count": 3
+    },
+    {
+      "keyword": "bail-in",
+      "count": 3
     },
     {
       "keyword": "clearing",
@@ -451,19 +497,7 @@
       "count": 3
     },
     {
-      "keyword": "stablecoins",
-      "count": 3
-    },
-    {
       "keyword": "authorisation",
-      "count": 2
-    },
-    {
-      "keyword": "bail in",
-      "count": 2
-    },
-    {
-      "keyword": "bail-in",
       "count": 2
     },
     {
@@ -503,10 +537,6 @@
       "count": 2
     },
     {
-      "keyword": "ai in financial services",
-      "count": 1
-    },
-    {
       "keyword": "basel 3",
       "count": 1
     },
@@ -524,6 +554,10 @@
     },
     {
       "keyword": "cryptoasset",
+      "count": 1
+    },
+    {
+      "keyword": "cryptoasset exposures",
       "count": 1
     },
     {
@@ -548,6 +582,10 @@
     },
     {
       "keyword": "financial crime",
+      "count": 1
+    },
+    {
+      "keyword": "fraud",
       "count": 1
     },
     {
@@ -589,26 +627,6 @@
     {
       "keyword": "recovery plans",
       "count": 1
-    },
-    {
-      "keyword": "regulatory technical standards",
-      "count": 1
-    },
-    {
-      "keyword": "resolution planning",
-      "count": 1
-    },
-    {
-      "keyword": "rts",
-      "count": 1
-    },
-    {
-      "keyword": "sanction",
-      "count": 1
-    },
-    {
-      "keyword": "stablecoin",
-      "count": 1
     }
   ],
   "regionSummary": [
@@ -626,7 +644,7 @@
     },
     {
       "region": "Global",
-      "count": 19
+      "count": 44
     },
     {
       "region": "Cyprus",
@@ -657,6 +675,10 @@
     {
       "institution": "European Central Bank",
       "count": 30
+    },
+    {
+      "institution": "Basel Committee on Banking Supervision",
+      "count": 25
     },
     {
       "institution": "U.S. Securities and Exchange Commission",
@@ -729,12 +751,20 @@
       "publishedAt": "2026-06-08T11:34:12.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Reporting / Disclosure"
       ],
       "matchedKeywords": [
         "pillar 3"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "pillar 3"
+          ]
+        },
         {
           "id": "reporting-disclosure",
           "label": "Reporting / Disclosure",
@@ -771,6 +801,396 @@
           "keywords": [
             "reporting",
             "integrated reporting framework"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "794cdec5304b46e1",
+      "title": "Denny H Kalyalya: Keynote speech - Stanbic Bank 4th Banking Industry Symposium",
+      "summary": "Keynote speech by Dr Denny H Kalyalya, Governor of the Bank of Zambia, at the Stanbic Bank 4th Banking Industry Symposium, Lusaka, 22 May 2026.",
+      "url": "https://www.bis.org/review/r260608f.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-08T07:39:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1fb95f0a5f32395d",
+      "title": "Olli Rehn: Systemic risk, resilience and competitiveness in a changing technological landscape",
+      "summary": "Keynote speech by Mr Olli Rehn, Governor of the Bank of Finland and First Vice-Chair of the European Systemic Risk Board, at the 11th Bank of Finland and European Systemic Risk Board joint conference on AI and Systemic Risk Analytics, Helsinki, 3 June 2026.",
+      "url": "https://www.bis.org/review/r260608e.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-08T07:35:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "board",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "23a674bfb7ff3373",
+      "title": "Olli Rehn: Europe's economy under the weight of power politics",
+      "summary": "Speech by Mr Olli Rehn, Governor of the Bank of Finland and First Vice-Chair of the European Systemic Risk Board, at the EU Heads of Mission lunch seminar, Helsinki, 2 June 2026.",
+      "url": "https://www.bis.org/review/r260604n.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-08T07:22:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "board",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24bd39407c62c083",
+      "title": "Tuomas Välimäki: Central banks and the future of money - trust, resilience and renewal",
+      "summary": "Opening remarks by Mr Tuomas Välimäki, Board Member of the Bank of Finland, at the policy panel of the 2026 Bank of Korea International Conference \" Central banks and the future of money\", Seoul, 2 June 2026.",
+      "url": "https://www.bis.org/review/r260604p.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-08T07:18:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "board",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "38c69236ad339ca9",
+      "title": "Petar Chobanov: From financial literacy to financial stability",
+      "summary": "Speech by Mr Petar Chobanov, Deputy Governor of the Bulgarian National Bank, at the round table discussion \"From financial literacy to financial stability\", organised by the Bank of Slovenia, Ljubljana, 22 May 2026.",
+      "url": "https://www.bis.org/review/r260604o.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-08T07:11:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2f5f3127f80700ae",
+      "title": "Michelle W Bowman: Supervision and regulation",
+      "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, before the Committee on Financial Services, US House of Representatives, Washington DC, 4 June 2026.",
+      "url": "https://www.bis.org/review/r260608b.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-08T06:59:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "board",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e642494b29a0b756",
+      "title": "Denis Beau: Strengthening the security of European payments",
+      "summary": "Keynote speech by Mr Denis Beau, First Deputy Governor of the Bank of France, at the conference \"Digital fraud: detect, respond and prevent\", hosted by the Banco de Portugal, Lisbon, 26 May 2026.",
+      "url": "https://www.bis.org/review/r260608a.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-08T06:49:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "AML / Financial Crime",
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "fraud",
+        "supervision",
+        "payments"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "fraud"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payments"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bfe0f4bd860538bd",
+      "title": "The digitalisation of banking and social media: implications for deposit pricing",
+      "summary": "by Michael Brei, Giulio Cornelli, Leonardo Gambacorta, Boris Hofmann This paper examines the implications of two coincident digital trends – the digitalisation of banking and the widespread adoption of social media – for the pricing of deposits in the United States. Using branch-level data, we analyse how both trends interact to influence the level of deposit rates as well as their adjustment to changes in the policy rate.",
+      "url": "https://www.bis.org/publ/work1357.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-08T06:10:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
           ]
         }
       ]
@@ -839,6 +1259,63 @@
       "topicMatches": []
     },
     {
+      "id": "a71db13e0a309a68",
+      "title": "The credibility of bail-in",
+      "summary": "by Alessandro Di Stefano, Yvan Lengwiler, Kumar Rishabh The resolution framework for global systemically important banks has been over a decade in the making. The failure of Credit Suisse (CS) in March 2023 was its first major test. Authorities had a resolution plan in place but chose a different path amid financial stability concerns.",
+      "url": "https://www.bis.org/publ/work1356.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-05T09:28:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "supervision",
+        "its",
+        "resolution",
+        "bail-in",
+        "bail in"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision",
+            "its"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution",
+            "bail-in",
+            "bail in"
+          ]
+        }
+      ]
+    },
+    {
       "id": "6cdf63de43c61a27",
       "title": "Monthly Decision Maker Panel data - May 2026",
       "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
@@ -869,12 +1346,21 @@
       "publishedAt": "2026-06-05T08:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -919,6 +1405,635 @@
       "topicMatches": []
     },
     {
+      "id": "2b4c0d4da2c155dd",
+      "title": "Piero Cipollone: Europe's money evolves so people's freedom to pay remains",
+      "summary": "Introductory statement by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 3 June 2026.",
+      "url": "https://www.bis.org/review/r260604m.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-04T12:09:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "board",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2b08848a5828f03",
+      "title": "Frank Elderson: Strengthening operational resilience for the age of AI",
+      "summary": "Keynote speech by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the Goldman Sachs European Financials Conference 2026, Zurich, 3 June 2026.",
+      "url": "https://www.bis.org/review/r260604l.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-04T12:05:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Basel / BCBS",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "operational resilience",
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "board",
+        "supervision",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "operational resilience"
+          ]
+        },
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "238407a5fef32178",
+      "title": "Carolyn Rogers,Toni Gravelle: Release of the Financial Stability Report",
+      "summary": "Opening statement Ms Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, and Mr Toni Gravelle, Deputy Governor of the Bank of Canada, at the press conference following the release of the Financial Stability Report, Ottawa, Ontario, 28 May 2026.",
+      "url": "https://www.bis.org/review/r260604k.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-04T12:02:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "63076050c915aa29",
+      "title": "Kazuo Ueda: Economic activity and prices, and monetary policy in Japan",
+      "summary": "Speech by Mr Kazuo Ueda, Governor of the Bank of Japan, at the Kisaragi-kai meeting, Tokyo, 3 June 2026.",
+      "url": "https://www.bis.org/review/r260604j.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-04T11:57:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c46d348652298799",
+      "title": "Isabel Schnabel: From money market funds to stablecoins - lessons for central banks",
+      "summary": "Speech by Ms Isabel Schnabel, Member of the Executive Board of the European Central Bank, at the 2026 Bank of Korea International Conference \"Central banks and the future of money\", Seoul, 1 June 2026.",
+      "url": "https://www.bis.org/review/r260604i.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-04T11:44:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Crypto / Digital Assets",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "stablecoins",
+        "board",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "stablecoins"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "72ecef039f0d13ec",
+      "title": "Tuomas Välimäki: Europe's economy under the weight of power politics",
+      "summary": "Speech by Mr Tuomas Välimäki, Board Member of the Bank of Finland, at the Bank of Finland's biannual lunch for EU Heads of Mission, Helsinki, 2 June 2026.",
+      "url": "https://www.bis.org/review/r260604h.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-04T10:18:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "board",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6d74d4057dc96908",
+      "title": "Howard Lee: Keynote speech - Hong Kong Digital Finance Summit 2026",
+      "summary": "Keynote speech by Mr Howard Lee, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Hong Kong Digital Finance Summit 2026, Hong Kong, 29 May 2026.",
+      "url": "https://www.bis.org/review/r260604g.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-04T10:11:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a3a1682263e31152",
+      "title": "Swaminathan J: Resilience by design - lessons from India's banking sector",
+      "summary": "Speech by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at the School of International and Public Affairs (SIPA), Columbia University, New York City, 1 June 2026.",
+      "url": "https://www.bis.org/review/r260604f.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-04T09:52:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b332d26e43071378",
+      "title": "Piero Cipollone: Money in the digital age",
+      "summary": "Speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at Istituto Affari Internazionali, Frankfurt am Main, 28 May 2026.",
+      "url": "https://www.bis.org/review/r260604e.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-04T09:47:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "board",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ca71ac21f518bb4a",
+      "title": "Steven Maijoor: Fintech, supervision and smooth sailing",
+      "summary": "Welcome address by Mr Steven Maijoor, Executive Board Member and Chair of Supervision of De Nederlandsche Bank, at De Nederlandsche Bank's Money20/20 pre-event, Amsterdam, 1 June 2026.",
+      "url": "https://www.bis.org/review/r260604d.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-04T09:45:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "board",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5655896e17c2aca3",
+      "title": "Michelle W Bowman: A framework for practical monetary policy decision making",
+      "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Reykjavík Economic Conference 2026, Reykjavík, 29 May 2026.",
+      "url": "https://www.bis.org/review/r260604c.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-04T09:37:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "board",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e863583a1887b13c",
+      "title": "Eddie Yue: Opening remarks - 2026 Global PMI Summit",
+      "summary": "Opening remarks by Mr Eddie Yue, Chief Executive of the Hong Kong Monetary Authority, at the 2026 Global PMI Summit, Hong Kong, 29 May 2026.",
+      "url": "https://www.bis.org/review/r260604b.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-04T08:52:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "68b660b89be96cd1",
+      "title": "John C Williams: Productivity growth and the challenge of real-time policymaking",
+      "summary": "Remarks by Mr John C Williams, President and Chief Executive Officer of the Federal Reserve Bank of New York, at the Reykjavík Economic Conference, Reykjavík, Iceland, 28 May 2026.",
+      "url": "https://www.bis.org/review/r260604a.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-04T08:44:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
       "id": "b656b07bdd72a307",
       "title": "Christine Lagarde: Women and leadership: widening the pipeline",
       "summary": "",
@@ -951,6 +2066,132 @@
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": []
+    },
+    {
+      "id": "6e0657c0fd04b18b",
+      "title": "Lesetja Kganyago: Managing supply shocks - the role of monetary policy",
+      "summary": "Address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the Bureau for Economic Research Annual Conference, Pretoria, 2 June 2026.",
+      "url": "https://www.bis.org/review/r260603i.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-03T12:40:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c53aa5e03ae3f5d7",
+      "title": "Yannis Stournaras: What can central banks do about housing affordability",
+      "summary": "Speech by Mr Yannis Stournaras, Governor of the Bank of Greece, at the 32nd Dubrovnik Economic Conference, organised by the Croatian National Bank, Dubrovnik, 30 May 2026.",
+      "url": "https://www.bis.org/review/r260603h.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-03T12:31:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02cb31b58265804b",
+      "title": "Christine Lagarde: When it matters most - upholding independence in challenging times",
+      "summary": "Speech by Ms Christine Lagarde, President of the European Central Bank, at the 28th meeting of Francophone Central Bank Governors, Phnom Penh, Cambodia, 28 May 2026.",
+      "url": "https://www.bis.org/review/r260603g.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-03T12:22:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
     },
     {
       "id": "fa1c7cd86af3a38f",
@@ -996,10 +2237,12 @@
       "pdfLinks": [],
       "topics": [
         "DORA / Operational Resilience",
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
         "operational resilience",
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
@@ -1008,6 +2251,13 @@
           "label": "DORA / Operational Resilience",
           "keywords": [
             "operational resilience"
+          ]
+        },
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
           ]
         },
         {
@@ -2182,14 +3432,23 @@
         "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260521~799a75d8d9.en.pdf"
       ],
       "topics": [
+        "Basel / BCBS",
         "Climate / ESG",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "climate",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "climate-esg",
           "label": "Climate / ESG",
@@ -2439,12 +3698,21 @@
       "publishedAt": "2026-05-19T12:10:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -2549,12 +3817,21 @@
       "publishedAt": "2026-05-18T15:15:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -2645,13 +3922,22 @@
       "publishedAt": "2026-05-18T08:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Crypto / Digital Assets"
       ],
       "matchedKeywords": [
+        "cryptoasset exposures",
         "cryptoasset",
         "stablecoins"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "cryptoasset exposures"
+          ]
+        },
         {
           "id": "crypto-digital-assets",
           "label": "Crypto / Digital Assets",
@@ -2893,13 +4179,24 @@
       "publishedAt": "2026-05-14T12:10:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
+        "securitisation",
         "supervision",
         "supervisory"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision",
+            "securitisation"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -2953,12 +4250,21 @@
       "publishedAt": "2026-05-13T11:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -2982,12 +4288,21 @@
       "publishedAt": "2026-05-13T09:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -3127,12 +4442,21 @@
       "publishedAt": "2026-05-12T10:40:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -3211,12 +4535,21 @@
       "publishedAt": "2026-05-11T08:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -3240,12 +4573,21 @@
       "publishedAt": "2026-05-09T11:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -3317,11 +4659,13 @@
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.202605_ECBreport_on_good_practices_for_climate_and_nature_stress_testing.en.pdf"
       ],
       "topics": [
+        "Basel / BCBS",
         "Climate / ESG",
         "Stress Testing",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "climate",
         "nature-related",
         "nature related",
@@ -3329,6 +4673,13 @@
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "climate-esg",
           "label": "Climate / ESG",
@@ -3370,14 +4721,23 @@
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.thematicreviewcercompendiumgoodpractices052026.en.pdf"
       ],
       "topics": [
+        "Basel / BCBS",
         "Climate / ESG",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "climate",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "climate-esg",
           "label": "Climate / ESG",
@@ -3521,12 +4881,21 @@
       "publishedAt": "2026-05-06T09:45:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -3552,12 +4921,21 @@
         "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260506~530f6aa051.en.pdf"
       ],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -3658,15 +5036,24 @@
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.written_overview260504.en.pdf"
       ],
       "topics": [
+        "Basel / BCBS",
         "Governance",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "board",
         "supervision",
         "supervisory"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "governance",
           "label": "Governance",
@@ -4065,12 +5452,21 @@
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.other_publications_banking_sector_framework.en.pdf"
       ],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -4200,6 +5596,7 @@
       "publishedAt": "2026-04-23T19:30:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Capital Requirements",
         "Governance"
       ],
@@ -4208,6 +5605,13 @@
         "board"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "leverage ratio"
+          ]
+        },
         {
           "id": "capital-requirements",
           "label": "Capital Requirements",
@@ -4291,12 +5695,21 @@
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202604.en.pdf"
       ],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -4358,12 +5771,21 @@
       "publishedAt": "2026-04-22T10:30:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -4687,12 +6109,21 @@
       "publishedAt": "2026-04-14T09:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -5264,17 +6695,25 @@
       "publishedAt": "2026-03-26T10:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Reporting / Disclosure",
         "Supervision / Enforcement",
         "Recovery / Resolution"
       ],
       "matchedKeywords": [
-        "disclosure",
         "pillar 3",
+        "disclosure",
         "policy statement",
         "resolvability"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "pillar 3"
+          ]
+        },
         {
           "id": "reporting-disclosure",
           "label": "Reporting / Disclosure",
@@ -5429,15 +6868,24 @@
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.mepletter260320_Farantouris~332d1ec6d5.en.pdf"
       ],
       "topics": [
+        "Basel / BCBS",
         "Governance",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "board",
         "supervision",
         "supervisory"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "governance",
           "label": "Governance",
@@ -5515,13 +6963,22 @@
       "publishedAt": "2026-03-18T12:30:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision",
         "supervisory"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -5644,13 +7101,22 @@
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisorybankingstatistics_fourth_quarter_2025_202603.en.pdf"
       ],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision",
         "supervisory"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -5865,12 +7331,21 @@
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202602.en.pdf"
       ],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -6030,12 +7505,21 @@
       "publishedAt": "2026-02-17T10:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "securitisation",
         "consultation paper"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "securitisation"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -6076,12 +7560,21 @@
       "publishedAt": "2026-02-11T10:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -6197,15 +7690,24 @@
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.mepletter260122_Eickhout~8205edb8b4.en.pdf"
       ],
       "topics": [
+        "Basel / BCBS",
         "Governance",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "board",
         "supervision",
         "supervisory"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "governance",
           "label": "Governance",
@@ -6237,7 +7739,7 @@
       "publishedAt": "2026-01-20T07:00:00.000Z",
       "pdfLinks": [],
       "topics": [
-        "Capital Requirements",
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
@@ -6246,8 +7748,8 @@
       ],
       "topicMatches": [
         {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
           "keywords": [
             "basel 3"
           ]
@@ -6762,12 +8264,21 @@
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202512.en.pdf"
       ],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -6793,12 +8304,21 @@
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisory_guides202512_notification_SRT_securitisations.en.pdf"
       ],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -6900,13 +8420,22 @@
         "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisorybankingstatistics_third_quarter_2025_202512.en.pdf"
       ],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision",
         "supervisory"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -6965,12 +8494,21 @@
       "publishedAt": "2025-12-11T09:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "banking supervision",
         "supervision"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -7398,24 +8936,15 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
-        "AI",
         "Consumer Protection",
         "Governance"
       ],
       "matchedKeywords": [
-        "ai in financial services",
         "consumer duty",
         "governance",
         "conduct"
       ],
       "topicMatches": [
-        {
-          "id": "ai",
-          "label": "AI",
-          "keywords": [
-            "ai in financial services"
-          ]
-        },
         {
           "id": "consumer-protection",
           "label": "Consumer Protection",
@@ -7888,9 +9417,21 @@
       "sourceType": "html-list",
       "publishedAt": null,
       "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
+      "topics": [
+        "Basel / BCBS"
+      ],
+      "matchedKeywords": [
+        "securitisation"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "securitisation"
+          ]
+        }
+      ]
     },
     {
       "id": "04d2964b09e13cf2",
@@ -8522,7 +10063,7 @@
     {
       "id": "bdd994a74d902e00",
       "title": "DW Dynamic Works Ltd",
-      "summary": "div class=\"row copyright\"> Copyright &copy; 2026 CENTRAL BANK OF CYPRUS | Terms of Use | Privacy Policy Developed By: | Powered By: DWCMS (function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML=\"window.__CF$cv$params={r:'a08e79f3ef60d627',t:'MTc4MDk5MDcwMg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);\";b.",
+      "summary": "div class=\"row copyright\"> Copyright &copy; 2026 CENTRAL BANK OF CYPRUS | Terms of Use | Privacy Policy Developed By: | Powered By: DWCMS (function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML=\"window.__CF$cv$params={r:'a08ebc3f7e4b5b9e',t:'MTc4MDk5MzQxOA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);\";b.",
       "url": "http://www.dynamicworks.eu/",
       "sourceId": "central-bank-cyprus-announcements",
       "sourceName": "Central Bank of Cyprus Announcements",
@@ -8813,6 +10354,44 @@
       ]
     },
     {
+      "id": "1059e099b485fade",
+      "title": "FCA proposes changes to help more people access mortgages",
+      "summary": "First-time buyers, older borrowers and the self-employed could find it easier to get a mortgage, as the FCA sets out next steps to help reform the market. Its proposed mortgage rule changes would give lenders more flexibility to consider individual circumstances and develop products that better meet people's needs – while maintaining strong consumer protections. They include:Reducing barriers for lenders to offer flexible repayments for people with variable income, like the self-employed, and lend to those paid in foreign currency.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-proposals-help-more-access-mortgages",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ]
+    },
+    {
       "id": "fc5024863a70d612",
       "title": "FCA secures confiscation order against Ponzi scheme fraudster",
       "summary": "The FCA has secured a confiscation order of £452,286.80 against convicted fraudster Daniel Pugh. Mr Pugh, 36, is serving a 7 years and 6 months prison sentence for defrauding investors out of £1.3m. Run from his bedroom in Devon, Pugh used Facebook adverts to target investors and promised them wholly unrealistic returns, claiming these would be generated by trading across various markets. Only 19% of the funds collected from investors were traded and the scheme was, in effect, a Ponzi scheme, which was run with another individual. At a hearing at Southwark Crown Court on 5 June 2026, Mr Pugh was ordered to pay £452,286.80.",
@@ -8884,44 +10463,6 @@
           "label": "Supervision / Enforcement",
           "keywords": [
             "authorisation"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d3cd995123434233",
-      "title": "FCA to hold Annual Public Meeting in Edinburgh",
-      "summary": "We’re pleased to announce that our Annual Public Meeting (APM) will be held in Edinburgh for the first time on 6 October 2026, marking an important milestone for us a UK-wide regulator. The announcement coincides with a visit to Edinburgh on 26 May by our chair Ashley Alder, who was there to open a new office space, demonstrating our commitment to growing our presence in Scotland, and expanding our workforce of more than 350 colleagues. Edinburgh continues to strengthen its position in global financial centre rankings, underlining Scotland’s importance to the UK’s financial services sector and its international competitiveness.",
-      "url": "https://www.fca.org.uk/news/news-stories/fca-annual-public-meeting-edinburgh",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
           ]
         }
       ]
@@ -9742,12 +11283,21 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Payments / Open Finance"
       ],
       "matchedKeywords": [
+        "securitisation",
         "settlement"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "securitisation"
+          ]
+        },
         {
           "id": "payments-open-finance",
           "label": "Payments / Open Finance",
@@ -10059,6 +11609,35 @@
           "keywords": [
             "payments",
             "open banking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5292bbadd0ae9406",
+      "title": "Opening the door to mortgages: rules focused on better outcomes for people",
+      "summary": "Buying a home is different now to even a decade ago. People are living longer, the way they work has changed and, for many, how much they earn can vary month-to-month. People will also carry mortgage debt for longer and use it more flexibly across their lives. That’s why we’re proposing changes to help more people to access a mortgage – including first-time buyers, older borrowers and the self-employed. More flexibility for how people live nowWe want to give mortgage lenders the flexibility to take a rounded view of someone’s finances – so they can offer a mortgage that fits real people’s real lives, not a standard template.",
+      "url": "https://www.fca.org.uk/news/blogs/opening-door-mortgages-rules-focused-better-outcomes-people",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
           ]
         }
       ]
@@ -10569,9 +12148,21 @@
       "sourceType": "html-list",
       "publishedAt": null,
       "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
+      "topics": [
+        "Basel / BCBS"
+      ],
+      "matchedKeywords": [
+        "securitisation"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "securitisation"
+          ]
+        }
+      ]
     },
     {
       "id": "8961ec94c4f6bec2",
@@ -10636,12 +12227,21 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
         "Payments / Open Finance"
       ],
       "matchedKeywords": [
+        "securitisation",
         "settlement"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "securitisation"
+          ]
+        },
         {
           "id": "payments-open-finance",
           "label": "Payments / Open Finance",
@@ -11101,7 +12701,7 @@
     {
       "id": "2eb734772471f85c",
       "title": "Terms of Use",
-      "summary": "41 00 POSTAL ADDRESS: 80, KENNEDY AVENUE, CY-1076 NICOSIA P. O. BOX 25529, CY-1395 NICOSIA Get in touch Copyright &copy; 2026 CENTRAL BANK OF CYPRUS | | Privacy Policy Developed By: DW Dynamic Works Ltd | Powered By: DWCMS (function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML=\"window.__CF$cv$params={r:'a08e79f3ef60d627',t:'MTc4MDk5MDcwMg=='};var a=document.createElement('script');a.",
+      "summary": "41 00 POSTAL ADDRESS: 80, KENNEDY AVENUE, CY-1076 NICOSIA P. O. BOX 25529, CY-1395 NICOSIA Get in touch Copyright &copy; 2026 CENTRAL BANK OF CYPRUS | | Privacy Policy Developed By: DW Dynamic Works Ltd | Powered By: DWCMS (function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML=\"window.__CF$cv$params={r:'a08ebc3f7e4b5b9e',t:'MTc4MDk5MzQxOA=='};var a=document.createElement('script');a.",
       "url": "https://www.centralbank.cy/en/terms-of-use",
       "sourceId": "central-bank-cyprus-announcements",
       "sourceName": "Central Bank of Cyprus Announcements",
@@ -11218,9 +12818,21 @@
       "sourceType": "html-list",
       "publishedAt": null,
       "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
+      "topics": [
+        "Basel / BCBS"
+      ],
+      "matchedKeywords": [
+        "securitisation"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "securitisation"
+          ]
+        }
+      ]
     },
     {
       "id": "10ecbcf960c91241",
@@ -11247,44 +12859,6 @@
           "label": "Reporting / Disclosure",
           "keywords": [
             "transparency"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "78fd4bc2836db7fc",
-      "title": "Vacancies open for FCA Smaller Business Practitioner Panel",
-      "summary": "We’re inviting applications from senior practitioners at smaller regulated firms in the general insurance and consumer credit sectors to join the panel. The Smaller Business Practitioner Panel provides independent advice and challenge from the perspective of smaller firms, helping to shape our work at a time of significant change in UK financial services regulation. Its key remit is to provide input to the FCA from the industry to help us meet our strategic and operational objectives from a smaller business standpoint. The deadline for applications is 11.59pm on Sunday 28 June 2026. Find out more and how to apply (PDF).",
-      "url": "https://www.fca.org.uk/news/news-stories/vacancies-open-fca-smaller-business-practitioner-panel",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
           ]
         }
       ]

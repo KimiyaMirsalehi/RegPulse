@@ -19,7 +19,7 @@
       "neural networks",
       "high-risk ai",
       "general-purpose ai",
-      "gpaI",
+      "general purpose ai",
       "ai system",
       "ai systems",
       "ai model",
@@ -29,9 +29,6 @@
       "ai risks",
       "ai regulation",
       "ai regulatory",
-      "ai adoption",
-      "ai use",
-      "ai in financial services",
       "responsible ai"
     ]
   },
@@ -45,7 +42,6 @@
       "high-risk ai",
       "general-purpose ai",
       "general purpose ai",
-      "gpaI",
       "ai office",
       "ai regulatory sandbox",
       "artificial intelligence regulatory sandbox"
@@ -70,11 +66,39 @@
       "cybersecurity",
       "cyber security",
       "incident reporting",
-      "operational disruption",
       "business continuity",
       "resilience testing",
       "critical third-party provider",
       "critical third party provider"
+    ]
+  },
+  {
+    "id": "basel-framework",
+    "label": "Basel / BCBS",
+    "keywords": [
+      "basel committee",
+      "basel committee on banking supervision",
+      "bcbs",
+      "basel framework",
+      "basel iii",
+      "basel 3",
+      "capital adequacy",
+      "core principles for effective banking supervision",
+      "prudential standard",
+      "prudential standards",
+      "banking supervision",
+      "standardised approach",
+      "standardized approach",
+      "internal ratings-based",
+      "irb",
+      "pillar 3",
+      "leverage ratio",
+      "large exposures",
+      "counterparty credit risk",
+      "securitisation",
+      "securitization",
+      "cryptoasset exposures",
+      "disclosure requirements"
     ]
   },
   {
@@ -95,7 +119,6 @@
       "crr",
       "crd",
       "basel iii",
-      "basel 3",
       "risk-weighted assets",
       "risk weighted assets",
       "rwa"
@@ -113,7 +136,6 @@
       "funding risk",
       "liquidity risk",
       "liquidity buffer",
-      "cash flow",
       "deposit outflow",
       "funding stress"
     ]
@@ -239,7 +261,6 @@
       "retail investor",
       "retail investors",
       "vulnerable customer",
-      "vulnerable customers",
       "fair treatment",
       "mis-selling",
       "misselling",

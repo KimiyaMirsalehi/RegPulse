@@ -52,7 +52,7 @@
     "type": "rss",
     "url": "https://www.eba.europa.eu/news-press/news/rss.xml",
     "officialSourcePage": "https://www.eba.europa.eu/news-press",
-    "notes": "Official EBA News & Press RSS feed linked from EBA website footer."
+    "notes": "Official EBA News & Press RSS feed."
   },
   {
     "id": "esma-news",
@@ -63,7 +63,7 @@
     "type": "html-list",
     "url": "https://www.esma.europa.eu/press-news/esma-news",
     "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-    "notes": "Official ESMA News page. Scraped as official HTML list because the site can rate-limit RSS access."
+    "notes": "Official ESMA News page."
   },
   {
     "id": "fca-news",
@@ -107,7 +107,7 @@
     "type": "html-list",
     "url": "https://www.centralbank.cy/en/announcements",
     "officialSourcePage": "https://www.centralbank.cy/en/announcements",
-    "notes": "Official Central Bank of Cyprus announcements page. Scraped as official HTML list because no RSS feed was found on the official page."
+    "notes": "Official Central Bank of Cyprus announcements page."
   },
   {
     "id": "federal-reserve-press",
@@ -162,6 +162,29 @@
     "type": "html-list",
     "url": "https://www.ngfs.net/en/publications-and-statistics/ngfs-publications",
     "officialSourcePage": "https://www.ngfs.net/en/publications-and-statistics/ngfs-publications",
-    "notes": "Official NGFS publications page. Scraped as official HTML list because no RSS feed was found on the official page."
+    "allowEmpty": true,
+    "notes": "Official NGFS publications page. Non-failing if static HTML exposes no dated items."
+  },
+  {
+    "id": "basel-committee-bis",
+    "name": "Basel Committee / BIS Updates",
+    "institution": "Basel Committee on Banking Supervision",
+    "region": "Global",
+    "jurisdiction": "Global",
+    "type": "rss",
+    "url": "https://www.bis.org/doclist/rss_all_categories.rss",
+    "officialSourcePage": "https://www.bis.org/bcbs/publications.htm",
+    "includeUrlContains": [
+      "/bcbs/"
+    ],
+    "includeTextContains": [
+      "Basel Committee",
+      "BCBS",
+      "Basel III",
+      "Basel Framework",
+      "Core principles for effective banking supervision"
+    ],
+    "allowEmpty": true,
+    "notes": "Official BIS RSS feed filtered to Basel Committee / BCBS items."
   }
 ]
