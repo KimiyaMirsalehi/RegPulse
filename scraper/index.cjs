@@ -374,7 +374,7 @@ function findBestAnchorUrl(anchors, title, source) {
     return partial.url;
   }
 
-  return source.officialSourcePage || source.url;
+  return `${source.url}#${createHash(`${source.id}|${title}`)}`;
 }
 
 function tagPublication(publication, topics) {
@@ -433,11 +433,12 @@ function tagPublication(publication, topics) {
 
 function passesSourceFilters(publication, source) {
   const url = String(publication.url || '').toLowerCase();
-
   const searchableText = [
     publication.title,
     publication.summary,
-    publication.url
+    publication.url,
+    publication.sourceName,
+    publication.institution
   ]
     .join(' ')
     .toLowerCase();
@@ -467,22 +468,17 @@ function normaliseItem(item, source, topics) {
   const summary = truncateSummary(rawSummary);
   const publishedAt = getPublicationDate(item);
 
-  const sourcePageUrl = source.officialSourcePage || source.url;
-
-  const rawUrl =
+  const url =
     item.link ||
     item.guid ||
     item.id ||
-    sourcePageUrl;
-
-  const url = absoluteUrl(rawUrl, source.url);
+    source.officialSourcePage ||
+    source.url;
 
   const basePublication = {
     title,
     summary,
-    url,
-    sourcePageUrl,
-    officialSourcePage: sourcePageUrl,
+    url: absoluteUrl(url, source.url),
     sourceId: source.id,
     sourceName: source.name,
     institution: source.institution || source.name,
@@ -1134,6 +1130,7 @@ async function run() {
         region: source.region || 'Unknown',
         status:
           parserMode === 'fallback-parser' ||
+          parserMode === 'html-list-parser' ||
           parserMode === 'html-list-empty'
             ? 'warning'
             : 'success',
