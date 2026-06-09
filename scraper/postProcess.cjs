@@ -10,6 +10,19 @@ const MAX_PDF_DETAIL_FETCHES = 80;
 const PDF_FETCH_CONCURRENCY = 5;
 const PDF_FETCH_TIMEOUT_MS = 9000;
 
+const UPDATE_TYPES = {
+  NEWS: 'News',
+  CONSULTATIONS: 'Consultations',
+  PUBLICATIONS: 'Publications / Reports',
+  SPEECHES: 'Speeches / Interviews / Blogs',
+  RESEARCH: 'Working Papers / Research',
+  RULES: 'Rules / Standards / Guidance',
+  STATISTICS: 'Statistics / Data',
+  EVENTS: 'Events',
+  SOURCE_PAGES: 'Source Pages',
+  OTHER: 'Other'
+};
+
 const BAD_HTML_TITLE_PATTERN =
   /toggle navigation|benchmark administrators|climate benchmarks|cras and sustainability|credit rating agencies|digital finance|esg rating providers|external reviewers|banknotes|calendar of cbc officials|administrative sanctions|discover the section|cta portal|data directory|capacity building|adaptation$/i;
 
@@ -48,6 +61,19 @@ function isHttpUrl(value) {
 
 function isPdfLink(value) {
   return /\.pdf($|\?|#)/i.test(String(value || ''));
+}
+
+function cleanText(value) {
+  return String(value || '')
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/&nbsp;/gi, ' ')
+    .replace(/&amp;/gi, '&')
+    .replace(/&quot;/gi, '"')
+    .replace(/&#39;/gi, "'")
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
 function extractHrefLinks(html, baseUrl) {
@@ -144,6 +170,223 @@ async function enrichPdfLinks(publications) {
   );
 }
 
+function containsAny(text, patterns) {
+  return patterns.some((pattern) => pattern.test(text));
+}
+
+function classifyUpdateType(publication) {
+  if (publication.isSourceLandingCard) {
+    return {
+      updateType: UPDATE_TYPES.SOURCE_PAGES,
+      updateTypeDetail: 'Official source page'
+    };
+  }
+
+  const title = cleanText(publication.title);
+  const summary = cleanText(publication.summary);
+  const url = String(publication.url || publication.link || '').toLowerCase();
+  const sourceId = String(publication.sourceId || '').toLowerCase();
+  const sourceName = String(publication.sourceName || '').toLowerCase();
+  const institution = String(publication.institution || '').toLowerCase();
+
+  const text = `${title} ${summary} ${url} ${sourceId} ${sourceName} ${institution}`.toLowerCase();
+
+  if (
+    containsAny(text, [
+      /\bconsultation\b/i,
+      /\bconsults?\b/i,
+      /\bconsultation paper\b/i,
+      /\bdiscussion paper\b/i,
+      /\bcall for evidence\b/i,
+      /\brequest for comments\b/i,
+      /\bpublic consultation\b/i,
+      /\bcp\d+\//i,
+      /\/consultations?\//i
+    ])
+  ) {
+    return {
+      updateType: UPDATE_TYPES.CONSULTATIONS,
+      updateTypeDetail: 'Consultation / discussion paper'
+    };
+  }
+
+  if (
+    containsAny(text, [
+      /\bspeech\b/i,
+      /\bspeeches\b/i,
+      /\binterview\b/i,
+      /\binterviews\b/i,
+      /\bremarks\b/i,
+      /\bkeynote\b/i,
+      /\bblog\b/i,
+      /\bpodcast\b/i,
+      /\/speeches?\//i,
+      /\/interviews?\//i,
+      /\/blog\//i
+    ])
+  ) {
+    return {
+      updateType: UPDATE_TYPES.SPEECHES,
+      updateTypeDetail: 'Speech / interview / blog'
+    };
+  }
+
+  if (
+    containsAny(text, [
+      /\bworking paper\b/i,
+      /\bworking papers\b/i,
+      /\bresearch paper\b/i,
+      /\bstaff working paper\b/i,
+      /\boccasional paper\b/i,
+      /\bresearch bulletin\b/i,
+      /\bresearch blog\b/i,
+      /\beconomic bulletin\b/i,
+      /\/wp\//i,
+      /\/working-paper/i,
+      /\/research\//i
+    ])
+  ) {
+    return {
+      updateType: UPDATE_TYPES.RESEARCH,
+      updateTypeDetail: 'Working paper / research'
+    };
+  }
+
+  if (
+    containsAny(text, [
+      /\bguidelines?\b/i,
+      /\btechnical standards?\b/i,
+      /\bregulatory technical standards?\b/i,
+      /\bimplementing technical standards?\b/i,
+      /\brts\b/i,
+      /\bits\b/i,
+      /\bq&a\b/i,
+      /\bqas\b/i,
+      /\bquestions and answers\b/i,
+      /\bopinion\b/i,
+      /\bdecision\b/i,
+      /\brecommendation\b/i,
+      /\bstandard\b/i,
+      /\bstandards\b/i,
+      /\brules?\b/i,
+      /\bpolicy statement\b/i,
+      /\bsupervisory statement\b/i,
+      /\bstatement of policy\b/i,
+      /\bdear ceo letter\b/i,
+      /\bdear chief executive\b/i
+    ])
+  ) {
+    return {
+      updateType: UPDATE_TYPES.RULES,
+      updateTypeDetail: 'Rule / standard / guidance'
+    };
+  }
+
+  if (
+    containsAny(text, [
+      /\bstatistics\b/i,
+      /\bstatistical\b/i,
+      /\bdata report\b/i,
+      /\bdataset\b/i,
+      /\bdata standards?\b/i,
+      /\binterest rates?\b/i,
+      /\bmonetary financial institutions\b/i,
+      /\bbalance sheet\b/i,
+      /\bmarket data\b/i,
+      /\bfigures\b/i
+    ])
+  ) {
+    return {
+      updateType: UPDATE_TYPES.STATISTICS,
+      updateTypeDetail: 'Statistics / data'
+    };
+  }
+
+  if (
+    containsAny(text, [
+      /\bevent\b/i,
+      /\bconference\b/i,
+      /\bwebinar\b/i,
+      /\bworkshop\b/i,
+      /\bseminar\b/i,
+      /\bsymposium\b/i
+    ])
+  ) {
+    return {
+      updateType: UPDATE_TYPES.EVENTS,
+      updateTypeDetail: 'Event / conference'
+    };
+  }
+
+  if (
+    containsAny(text, [
+      /\breport\b/i,
+      /\breports\b/i,
+      /\bannual report\b/i,
+      /\bfinancial stability review\b/i,
+      /\breview\b/i,
+      /\bpublication\b/i,
+      /\bpublications\b/i,
+      /\bpaper\b/i,
+      /\bnewsletter\b/i,
+      /\bmonitor\b/i,
+      /\brisk dashboard\b/i,
+      /\brisk monitor\b/i,
+      /\bassessment\b/i,
+      /\banalysis\b/i,
+      /\/publications?\//i,
+      /\/pub\//i,
+      /\/reports?\//i
+    ])
+  ) {
+    return {
+      updateType: UPDATE_TYPES.PUBLICATIONS,
+      updateTypeDetail: 'Publication / report'
+    };
+  }
+
+  if (
+    containsAny(text, [
+      /\bpress release\b/i,
+      /\bnews\b/i,
+      /\bnewsletter\b/i,
+      /\bannounces?\b/i,
+      /\bannouncement\b/i,
+      /\bstatement\b/i,
+      /\bmedia release\b/i,
+      /\bnewsroom\b/i,
+      /\/news\//i,
+      /\/press\//i,
+      /\/press-releases?\//i,
+      /\/announcements?\//i
+    ])
+  ) {
+    return {
+      updateType: UPDATE_TYPES.NEWS,
+      updateTypeDetail: 'News / announcement'
+    };
+  }
+
+  if (sourceId.includes('press') || sourceName.includes('press') || sourceName.includes('news')) {
+    return {
+      updateType: UPDATE_TYPES.NEWS,
+      updateTypeDetail: 'News / announcement'
+    };
+  }
+
+  if (sourceName.includes('publications') || sourceId.includes('publications')) {
+    return {
+      updateType: UPDATE_TYPES.PUBLICATIONS,
+      updateTypeDetail: 'Publication / report'
+    };
+  }
+
+  return {
+    updateType: UPDATE_TYPES.OTHER,
+    updateTypeDetail: 'Other update'
+  };
+}
+
 function normalisePublication(publication, sourceById) {
   const source = sourceById.get(publication.sourceId);
   const sourcePageUrl =
@@ -158,7 +401,7 @@ function normalisePublication(publication, sourceById) {
     publication.link ||
     sourcePageUrl;
 
-  return {
+  const normalised = {
     ...publication,
     url,
     link: url,
@@ -168,6 +411,14 @@ function normalisePublication(publication, sourceById) {
     pdfLinks: Array.isArray(publication.pdfLinks)
       ? [...new Set(publication.pdfLinks.filter(Boolean))]
       : []
+  };
+
+  const classification = classifyUpdateType(normalised);
+
+  return {
+    ...normalised,
+    updateType: classification.updateType,
+    updateTypeDetail: classification.updateTypeDetail
   };
 }
 
@@ -191,7 +442,7 @@ function createSourceLandingCard(source, generatedAt) {
   const sourcePageUrl = source.officialSourcePage || source.url;
   const id = createHash(`source-page|${source.id}|${sourcePageUrl}`);
 
-  return {
+  const card = {
     id,
     title: `${source.name}: official source page`,
     summary: `Open the official ${source.name} source page for the latest publications, announcements and regulatory updates.`,
@@ -212,6 +463,14 @@ function createSourceLandingCard(source, generatedAt) {
     matchedKeywords: [],
     topicMatches: [],
     isSourceLandingCard: true
+  };
+
+  const classification = classifyUpdateType(card);
+
+  return {
+    ...card,
+    updateType: classification.updateType,
+    updateTypeDetail: classification.updateTypeDetail
   };
 }
 
@@ -250,6 +509,19 @@ function buildKeywordCloud(publications) {
     .map(([keyword, count]) => ({ keyword, count }))
     .sort((a, b) => b.count - a.count || a.keyword.localeCompare(b.keyword))
     .slice(0, 80);
+}
+
+function buildUpdateTypeSummary(publications) {
+  const counts = new Map();
+
+  publications.forEach((publication) => {
+    const updateType = publication.updateType || UPDATE_TYPES.OTHER;
+    counts.set(updateType, (counts.get(updateType) || 0) + 1);
+  });
+
+  return [...counts.entries()]
+    .map(([updateType, count]) => ({ updateType, count }))
+    .sort((a, b) => b.count - a.count || a.updateType.localeCompare(b.updateType));
 }
 
 function buildRegionSummary(publications) {
@@ -338,6 +610,8 @@ async function run() {
 
   await enrichPdfLinks(publications);
 
+  publications = publications.map((publication) => normalisePublication(publication, sourceById));
+
   const sourceStatus = sources.map((source) => {
     const existing = sourceStatusById.get(source.id) || {};
     const realItemCount = realItemCountBySourceId.get(source.id) || 0;
@@ -365,6 +639,7 @@ async function run() {
 
   const topicSummary = buildTopicSummary(publications);
   const keywordCloud = buildKeywordCloud(publications);
+  const updateTypeSummary = buildUpdateTypeSummary(publications);
   const regionSummary = buildRegionSummary(publications);
   const institutionSummary = buildInstitutionSummary(publications);
 
@@ -380,6 +655,7 @@ async function run() {
     topicSummary,
     topicsSummary: topicSummary,
     keywordCloud,
+    updateTypeSummary,
     regionSummary,
     institutionSummary,
     publications
@@ -391,6 +667,10 @@ async function run() {
   console.log(`Sources configured: ${sources.length}`);
   console.log(`Publications after post-processing: ${publications.length}`);
   console.log(`PDF/download links found: ${publications.filter((p) => Array.isArray(p.pdfLinks) && p.pdfLinks.length > 0).length}`);
+  console.log('Update types:');
+  updateTypeSummary.forEach((item) => {
+    console.log(`- ${item.updateType}: ${item.count}`);
+  });
 }
 
 run().catch((error) => {

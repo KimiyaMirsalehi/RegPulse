@@ -3,6 +3,20 @@ import publicationsData from '../data/publications.json';
 
 const PAGE_SIZE = 10;
 
+const UPDATE_TYPE_TABS = [
+  'All',
+  'News',
+  'Consultations',
+  'Publications / Reports',
+  'Speeches / Interviews / Blogs',
+  'Working Papers / Research',
+  'Rules / Standards / Guidance',
+  'Statistics / Data',
+  'Events',
+  'Source Pages',
+  'Other'
+];
+
 const WORD_CLOUD_STOP_WORDS = new Set([
   'a',
   'an',
@@ -117,8 +131,16 @@ function getPdfLinks(publication) {
     .filter(Boolean);
 }
 
+function getUpdateType(publication) {
+  return publication.updateType || 'Other';
+}
+
 function isBadHtmlPublication(publication) {
   if (!HTML_LIST_SOURCE_IDS.has(publication.sourceId)) {
+    return false;
+  }
+
+  if (publication.isSourceLandingCard) {
     return false;
   }
 
@@ -141,6 +163,8 @@ function publicationMatchesSearch(publication, searchTerm) {
     publication.sourceName,
     publication.region,
     publication.jurisdiction,
+    getUpdateType(publication),
+    publication.updateTypeDetail,
     getPublicationUrl(publication),
     ...getPublicationTopics(publication),
     ...getPublicationKeywords(publication)
@@ -149,6 +173,11 @@ function publicationMatchesSearch(publication, searchTerm) {
     .toLowerCase();
 
   return searchableText.includes(normalisedSearch);
+}
+
+function publicationMatchesSelectedUpdateType(publication, selectedUpdateType) {
+  if (selectedUpdateType === 'All') return true;
+  return valuesAreEqual(getUpdateType(publication), selectedUpdateType);
 }
 
 function publicationMatchesSelectedRegion(publication, selectedRegion) {
@@ -205,6 +234,7 @@ function publicationMatchesAllFilters(publication, filters) {
   }
 
   return (
+    publicationMatchesSelectedUpdateType(publication, filters.selectedUpdateType) &&
     publicationMatchesSearch(publication, filters.searchTerm) &&
     publicationMatchesSelectedRegion(publication, filters.selectedRegion) &&
     publicationMatchesSelectedInstitution(publication, filters.selectedInstitution) &&
@@ -252,8 +282,15 @@ function countSourceStatus(sourceStatus, status) {
   return sourceStatus.filter((source) => source.status === status).length;
 }
 
+function getUpdateTypeCount(publications, updateType) {
+  if (updateType === 'All') return publications.length;
+
+  return publications.filter((publication) => valuesAreEqual(getUpdateType(publication), updateType)).length;
+}
+
 function makePublicationRenderKey(publication, index, filters) {
   return [
+    filters.selectedUpdateType,
     filters.selectedRegion,
     filters.selectedInstitution,
     filters.selectedTopic,
@@ -301,6 +338,34 @@ function getTopicMatchesForDisplay(publication, selectedTopic) {
   return topicMatches.filter((match) => valuesAreEqual(match.topic, selectedTopic));
 }
 
+function UpdateTypeTabs({ publications, selectedUpdateType, onSelect }) {
+  return (
+    <div className="update-type-tabs" aria-label="Update type tabs">
+      {UPDATE_TYPE_TABS.map((updateType) => {
+        const count = getUpdateTypeCount(publications, updateType);
+
+        if (count === 0 && updateType !== 'All') {
+          return null;
+        }
+
+        return (
+          <button
+            key={updateType}
+            type="button"
+            className={`update-type-tab ${
+              valuesAreEqual(selectedUpdateType, updateType) ? 'active-update-type-tab' : ''
+            }`}
+            onClick={() => onSelect(updateType)}
+          >
+            <span>{updateType}</span>
+            <strong>{count}</strong>
+          </button>
+        );
+      })}
+    </div>
+  );
+}
+
 function Pagination({
   currentPage,
   totalPages,
@@ -342,14 +407,19 @@ function PublicationCard({ publication, selectedTopic }) {
   const pdfLinks = getPdfLinks(publication);
 
   return (
-    <article className="publication-card">
+    <article className={`publication-card ${publication.isSourceLandingCard ? 'source-landing-card' : ''}`}>
       <div className="publication-meta">
         <span>{publication.region || 'Unknown region'}</span>
         <span>{publication.institution || publication.sourceName || 'Unknown institution'}</span>
         <span>{formatDate(publication.publishedAt)}</span>
+        <span>{getUpdateType(publication)}</span>
       </div>
 
       <h3>{publication.title}</h3>
+
+      {publication.updateTypeDetail && (
+        <p className="update-type-detail">{publication.updateTypeDetail}</p>
+      )}
 
       {publication.summary && <p className="summary">{publication.summary}</p>}
 
@@ -388,7 +458,7 @@ function PublicationCard({ publication, selectedTopic }) {
       <div className="publication-links">
         {publicationUrl && (
           <a href={publicationUrl} target="_blank" rel="noreferrer">
-            Open article
+            {publication.isSourceLandingCard ? 'Open source page' : 'Open article'}
           </a>
         )}
 
@@ -457,6 +527,7 @@ function SystemOverview({ publications, topicSummary, sourceStatus }) {
 
 function ActiveFilters({
   searchTerm,
+  selectedUpdateType,
   selectedRegion,
   selectedInstitution,
   selectedTopic,
@@ -466,6 +537,7 @@ function ActiveFilters({
 }) {
   const activeFilters = [];
 
+  if (selectedUpdateType !== 'All') activeFilters.push(`Type: ${selectedUpdateType}`);
   if (searchTerm.trim()) activeFilters.push(`Search: ${searchTerm}`);
   if (selectedRegion !== 'All') activeFilters.push(`Region: ${selectedRegion}`);
   if (selectedInstitution !== 'All') activeFilters.push(`Institution: ${selectedInstitution}`);
@@ -540,7 +612,7 @@ function SourceStatus({ sourceStatus }) {
         const statusClass =
           source.status === 'failed' ? 'danger' : source.status === 'warning' ? 'warning' : 'success';
 
-        const sourceUrl = source.officialSourcePage || source.url || '';
+        const sourceUrl = source.officialSourcePage || source.sourcePageUrl || source.url || '';
 
         return (
           <div key={source.id || source.name} className={`source-status-item ${statusClass}`}>
@@ -567,6 +639,7 @@ function SourceStatus({ sourceStatus }) {
 
 function App() {
   const [searchTerm, setSearchTerm] = useState('');
+  const [selectedUpdateType, setSelectedUpdateType] = useState('All');
   const [selectedRegion, setSelectedRegion] = useState('All');
   const [selectedInstitution, setSelectedInstitution] = useState('All');
   const [selectedTopic, setSelectedTopic] = useState('All');
@@ -581,6 +654,7 @@ function App() {
   const filters = useMemo(
     () => ({
       searchTerm,
+      selectedUpdateType,
       selectedRegion,
       selectedInstitution,
       selectedTopic,
@@ -589,6 +663,7 @@ function App() {
     }),
     [
       searchTerm,
+      selectedUpdateType,
       selectedRegion,
       selectedInstitution,
       selectedTopic,
@@ -609,6 +684,8 @@ function App() {
     const counts = {};
 
     visiblePublications.forEach((publication) => {
+      if (publication.isSourceLandingCard) return;
+
       getPublicationTopics(publication).forEach((topic) => {
         counts[topic] = (counts[topic] || 0) + 1;
       });
@@ -623,6 +700,8 @@ function App() {
     const counts = {};
 
     visiblePublications.forEach((publication) => {
+      if (publication.isSourceLandingCard) return;
+
       getPublicationKeywords(publication)
         .filter(shouldShowKeyword)
         .forEach((keyword) => {
@@ -650,6 +729,7 @@ function App() {
 
   function clearFilters() {
     setSearchTerm('');
+    setSelectedUpdateType('All');
     setSelectedRegion('All');
     setSelectedInstitution('All');
     setSelectedTopic('All');
@@ -665,6 +745,10 @@ function App() {
 
   function handleKeywordClick(keyword) {
     setSelectedKeyword(keyword);
+  }
+
+  function handleUpdateTypeClick(updateType) {
+    setSelectedUpdateType(updateType);
   }
 
   function goToPreviousPage() {
@@ -710,6 +794,12 @@ function App() {
               </div>
               <strong>{visiblePublications.length} results</strong>
             </div>
+
+            <UpdateTypeTabs
+              publications={publications}
+              selectedUpdateType={selectedUpdateType}
+              onSelect={handleUpdateTypeClick}
+            />
 
             <div className="filters filters-expanded">
               <label>
@@ -787,6 +877,7 @@ function App() {
 
             <ActiveFilters
               searchTerm={searchTerm}
+              selectedUpdateType={selectedUpdateType}
               selectedRegion={selectedRegion}
               selectedInstitution={selectedInstitution}
               selectedTopic={selectedTopic}
