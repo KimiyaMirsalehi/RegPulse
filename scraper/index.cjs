@@ -10,7 +10,6 @@ const OUTPUT_DIR = path.join(ROOT_DIR, 'data');
 const OUTPUT_PATH = path.join(OUTPUT_DIR, 'publications.json');
 
 const MAX_ITEMS_PER_SOURCE = 60;
-const MAX_HTML_LINKS_TO_SCAN = 200;
 
 const parser = new Parser({
   timeout: 20000,
@@ -61,18 +60,20 @@ function decodeHtmlEntities(value) {
     .replace(/&ldquo;/gi, '“')
     .replace(/&ndash;/gi, '–')
     .replace(/&mdash;/gi, '—')
+    .replace(/&epsilon;/gi, 'ε')
+    .replace(/&lambda;/gi, 'λ')
     .replace(/&lt;/gi, '<')
     .replace(/&gt;/gi, '>')
     .replace(/&#(\d+);/g, (_, code) => {
       try {
-        return String.fromCharCode(Number(code));
+        return String.fromCodePoint(Number(code));
       } catch {
         return ' ';
       }
     })
     .replace(/&#x([0-9a-f]+);/gi, (_, code) => {
       try {
-        return String.fromCharCode(parseInt(code, 16));
+        return String.fromCodePoint(parseInt(code, 16));
       } catch {
         return ' ';
       }
@@ -102,6 +103,20 @@ function cleanText(value) {
     .replace(/\s+([.,;:!?])/g, '$1')
     .replace(/([.!?])([A-Z])/g, '$1 $2')
     .trim();
+}
+
+function htmlToLines(html) {
+  return decodeHtmlEntities(String(html || ''))
+    .replace(/<script[\s\S]*?<\/script>/gi, '\n')
+    .replace(/<style[\s\S]*?<\/style>/gi, '\n')
+    .replace(/<noscript[\s\S]*?<\/noscript>/gi, '\n')
+    .replace(/<svg[\s\S]*?<\/svg>/gi, '\n')
+    .replace(/<br\s*\/?>/gi, '\n')
+    .replace(/<\/(p|div|li|h1|h2|h3|h4|h5|h6|tr|td|th|section|article)>/gi, '\n')
+    .replace(/<[^>]*>/g, ' ')
+    .split('\n')
+    .map((line) => cleanText(line))
+    .filter(Boolean);
 }
 
 function normaliseForMatching(value) {
@@ -186,7 +201,9 @@ function parseDateString(value) {
   );
 
   if (monthNameMatch) {
-    const parsed = new Date(`${monthNameMatch[1]} ${monthNameMatch[2]} ${monthNameMatch[3]} 00:00:00 UTC`);
+    const parsed = new Date(
+      `${monthNameMatch[1]} ${monthNameMatch[2]} ${monthNameMatch[3]} 00:00:00 UTC`
+    );
 
     if (!Number.isNaN(parsed.getTime())) {
       return parsed.toISOString();
@@ -209,6 +226,18 @@ function getPublicationDate(item) {
   return parseDateString(dateValue);
 }
 
+function absoluteUrl(url, baseUrl) {
+  if (!url) {
+    return '';
+  }
+
+  try {
+    return new URL(url, baseUrl).toString();
+  } catch {
+    return url;
+  }
+}
+
 function extractLinksFromHtml(value) {
   if (!value) {
     return [];
@@ -228,20 +257,31 @@ function extractLinksFromHtml(value) {
   return links;
 }
 
-function isPdfLink(value) {
-  return /\.pdf($|\?|#)/i.test(String(value || ''));
+function extractAnchors(html, baseUrl) {
+  const anchors = [];
+  const anchorRegex = /<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
+  let match;
+
+  while ((match = anchorRegex.exec(String(html || ''))) !== null) {
+    const href = match[1];
+    const text = cleanText(match[2]);
+
+    if (!href || !text) {
+      continue;
+    }
+
+    anchors.push({
+      href,
+      url: absoluteUrl(href, baseUrl),
+      text
+    });
+  }
+
+  return anchors;
 }
 
-function absoluteUrl(url, baseUrl) {
-  if (!url) {
-    return '';
-  }
-
-  try {
-    return new URL(url, baseUrl).toString();
-  } catch {
-    return url;
-  }
+function isPdfLink(value) {
+  return /\.pdf($|\?|#)/i.test(String(value || ''));
 }
 
 function extractPdfLinks(item, source) {
@@ -284,6 +324,57 @@ function extractPdfLinks(item, source) {
   return [...new Set(candidates)]
     .filter(isPdfLink)
     .map((link) => absoluteUrl(link, source.url));
+}
+
+function findBestAnchorUrl(anchors, title, source) {
+  const cleanedTitle = cleanText(title).toLowerCase();
+
+  const ignoredHrefParts = [
+    '#',
+    '/cookies',
+    '/privacy',
+    '/legal',
+    '/accessibility',
+    '/contact',
+    '/newsletter',
+    '/search',
+    'linkedin.com',
+    'twitter.com',
+    'x.com'
+  ];
+
+  const validAnchors = anchors.filter((anchor) => {
+    const href = String(anchor.href || '').toLowerCase();
+
+    if (ignoredHrefParts.some((part) => href.includes(part))) {
+      return false;
+    }
+
+    return true;
+  });
+
+  const exact = validAnchors.find(
+    (anchor) => cleanText(anchor.text).toLowerCase() === cleanedTitle
+  );
+
+  if (exact) {
+    return exact.url;
+  }
+
+  const partial = validAnchors.find((anchor) => {
+    const cleanedAnchor = cleanText(anchor.text).toLowerCase();
+
+    return (
+      cleanedAnchor.includes(cleanedTitle.slice(0, 60)) ||
+      cleanedTitle.includes(cleanedAnchor.slice(0, 60))
+    );
+  });
+
+  if (partial) {
+    return partial.url;
+  }
+
+  return `${source.url}#${createHash(`${source.id}|${title}`)}`;
 }
 
 function tagPublication(publication, topics) {
@@ -338,6 +429,37 @@ function tagPublication(publication, topics) {
     matchedKeywords: [...new Set(matchedKeywords)],
     topicMatches
   };
+}
+
+function passesSourceFilters(publication, source) {
+  const url = String(publication.url || '').toLowerCase();
+  const searchableText = [
+    publication.title,
+    publication.summary,
+    publication.url,
+    publication.sourceName,
+    publication.institution
+  ]
+    .join(' ')
+    .toLowerCase();
+
+  if (Array.isArray(source.includeUrlContains) && source.includeUrlContains.length > 0) {
+    const hasUrlMatch = source.includeUrlContains.some((part) =>
+      url.includes(String(part).toLowerCase())
+    );
+
+    if (hasUrlMatch) {
+      return true;
+    }
+  }
+
+  if (Array.isArray(source.includeTextContains) && source.includeTextContains.length > 0) {
+    return source.includeTextContains.some((part) =>
+      searchableText.includes(String(part).toLowerCase())
+    );
+  }
+
+  return true;
 }
 
 function normaliseItem(item, source, topics) {
@@ -493,146 +615,371 @@ async function parseRssFeed(source) {
   }
 }
 
-function shouldIgnoreHtmlListTitle(title, href) {
-  const cleanedTitle = cleanText(title).toLowerCase();
-  const cleanedHref = String(href || '').toLowerCase();
+function isValidPublicationTitle(title) {
+  const cleaned = cleanText(title);
+  const lower = cleaned.toLowerCase();
 
-  if (!cleanedTitle || cleanedTitle.length < 10) {
-    return true;
+  if (!cleaned || cleaned.length < 12) {
+    return false;
   }
 
-  const ignoredTitles = [
+  const blockedExact = [
+    'toggle navigation',
+    'central bank of cyprus',
+    'administrative sanctions & measures',
+    'banknotes & coins',
+    'calendar of cbc officials',
+    'payment systems & services',
+    'financial stability',
+    'monetary policy',
+    'licensing & supervision',
+    'contact details',
+    'search',
     'home',
-    'subscribe',
-    'contact',
-    'privacy',
+    'privacy policy',
     'cookies',
-    'accessibility',
     'legal notice',
-    'site map',
-    'linkedin',
-    'twitter',
-    'x.com',
-    'first page',
+    'load more',
+    'current page',
     'next page',
     'previous page',
-    'current page',
-    'page 2',
-    'page 3',
-    'page 4',
-    'page 5',
-    'page 6',
-    'page 7',
-    'page 8',
-    'page 9',
-    'all consultations',
-    'all events'
+    'first page',
+    'date type title',
+    'ifrs foundation news',
+    'welcome to the news hub'
   ];
 
-  if (ignoredTitles.some((ignored) => cleanedTitle === ignored || cleanedTitle.includes(ignored))) {
-    return true;
+  if (blockedExact.includes(lower)) {
+    return false;
   }
 
-  const ignoredHrefParts = [
-    '#',
-    '/cookies',
-    '/privacy',
-    '/legal',
-    '/accessibility',
-    '/contact',
-    '/newsletter',
-    '/form/newsletter',
-    'linkedin.com',
-    'twitter.com',
-    'x.com'
+  const blockedContains = [
+    'toggle navigation',
+    'quick links',
+    'navbar',
+    'document.ready',
+    'search_drop',
+    'select collections',
+    'filter publications',
+    'filter by date',
+    'selected filters',
+    'pagination',
+    'sign up for our newsletter',
+    'site navigation',
+    'footer',
+    'social media',
+    'cookie preferences',
+    'accept optional cookies',
+    'reject optional cookies',
+    'you need to sign in'
   ];
 
-  if (ignoredHrefParts.some((part) => cleanedHref.includes(part))) {
-    return true;
-  }
-
-  return false;
+  return !blockedContains.some((blocked) => lower.includes(blocked));
 }
 
-function extractDateFromContext(context) {
-  const cleaned = cleanText(context);
-
-  const patterns = [
-    /\b\d{1,2}\/\d{1,2}\/\d{4}\b/,
-    /\b\d{1,2}(st|nd|rd|th)?\s+of\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}\b/i,
-    /\b\d{1,2}\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}\b/i,
-    /\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}\b/i
-  ];
-
-  for (const pattern of patterns) {
-    const match = cleaned.match(pattern);
-
-    if (match) {
-      return parseDateString(match[0]);
-    }
-  }
-
-  return null;
-}
-
-function extractHtmlListItems(html, source) {
+function extractCentralBankCyprusItems(html, source) {
+  const lines = htmlToLines(html);
+  const anchors = extractAnchors(html, source.url);
   const items = [];
-  const seen = new Set();
 
-  const anchorRegex = /<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
-  let match;
+  let started = false;
 
-  while ((match = anchorRegex.exec(html)) !== null && items.length < MAX_HTML_LINKS_TO_SCAN) {
-    const href = match[1];
-    const rawAnchorText = match[2];
-    const title = cleanText(rawAnchorText);
-    const absoluteLink = absoluteUrl(href, source.url);
+  for (let index = 0; index < lines.length; index += 1) {
+    const line = lines[index];
 
-    if (shouldIgnoreHtmlListTitle(title, href)) {
+    if (line.toLowerCase() === 'announcements') {
+      started = true;
       continue;
     }
 
-    const contextStart = Math.max(0, match.index - 500);
-    const contextEnd = Math.min(html.length, anchorRegex.lastIndex + 900);
-    const contextHtml = html.slice(contextStart, contextEnd);
-    const contextText = cleanText(contextHtml);
-    const publishedAt = extractDateFromContext(contextHtml);
-
-    const dedupeKey = `${title}|${absoluteLink}`;
-
-    if (seen.has(dedupeKey)) {
+    if (!started) {
       continue;
     }
 
-    seen.add(dedupeKey);
+    const dateIso = parseDateString(line);
 
-    let summary = contextText;
-
-    if (summary.toLowerCase().includes(title.toLowerCase())) {
-      summary = summary.replace(title, '').trim();
+    if (!dateIso) {
+      continue;
     }
 
-    summary = truncateSummary(summary || title, 500);
+    let title = '';
+
+    for (let nextIndex = index + 1; nextIndex < Math.min(lines.length, index + 6); nextIndex += 1) {
+      const candidate = lines[nextIndex];
+
+      if (parseDateString(candidate)) {
+        break;
+      }
+
+      if (isValidPublicationTitle(candidate)) {
+        title = candidate;
+        break;
+      }
+    }
+
+    if (!title) {
+      continue;
+    }
+
+    const link = findBestAnchorUrl(anchors, title, source);
 
     items.push({
       title,
-      link: absoluteLink,
-      guid: absoluteLink,
-      published: publishedAt,
+      link,
+      guid: link,
+      published: dateIso,
+      description: '',
+      content: ''
+    });
+
+    if (items.length >= MAX_ITEMS_PER_SOURCE) {
+      break;
+    }
+  }
+
+  return items;
+}
+
+function extractEsmaItems(html, source) {
+  const anchors = extractAnchors(html, source.url);
+  const items = [];
+  const seen = new Set();
+
+  anchors.forEach((anchor) => {
+    const text = cleanText(anchor.text);
+    const dateMatch = text.match(/\b(\d{2}\/\d{2}\/\d{4})\b/);
+
+    if (!dateMatch) {
+      return;
+    }
+
+    const title = cleanText(text.slice(0, dateMatch.index));
+
+    if (!isValidPublicationTitle(title)) {
+      return;
+    }
+
+    const published = parseDateString(dateMatch[1]);
+    const summary = cleanText(text.slice(dateMatch.index + dateMatch[1].length));
+
+    const key = `${title}|${anchor.url}`;
+
+    if (seen.has(key)) {
+      return;
+    }
+
+    seen.add(key);
+
+    items.push({
+      title,
+      link: anchor.url,
+      guid: anchor.url,
+      published,
       description: summary,
       content: summary
     });
+  });
+
+  return items.slice(0, MAX_ITEMS_PER_SOURCE);
+}
+
+function extractIfrsItems(html, source) {
+  const anchors = extractAnchors(html, source.url);
+  const items = [];
+  const seen = new Set();
+
+  anchors.forEach((anchor) => {
+    const href = String(anchor.href || '').toLowerCase();
+    const text = cleanText(anchor.text);
+
+    if (!href.includes('/news-and-events/news/')) {
+      return;
+    }
+
+    if (!/\/20\d{2}\//.test(href)) {
+      return;
+    }
+
+    if (!isValidPublicationTitle(text)) {
+      return;
+    }
+
+    const urlDateMatch = href.match(/\/(20\d{2})\/(\d{2})\//);
+    const published = urlDateMatch
+      ? parseDateString(`${urlDateMatch[2]}/01/${urlDateMatch[1]}`)
+      : null;
+
+    const key = `${text}|${anchor.url}`;
+
+    if (seen.has(key)) {
+      return;
+    }
+
+    seen.add(key);
+
+    items.push({
+      title: text,
+      link: anchor.url,
+      guid: anchor.url,
+      published,
+      description: '',
+      content: ''
+    });
+  });
+
+  return items.slice(0, MAX_ITEMS_PER_SOURCE);
+}
+
+function cleanNgfsTitle(rawTitle) {
+  let title = cleanText(rawTitle);
+
+  const categorySplitPatterns = [
+    /\s+General\s+-\s+/i,
+    /\s+Nature-related risks\s+-\s+/i,
+    /\s+Supervision\s+-\s+/i,
+    /\s+Data\s+-\s+/i,
+    /\s+Scenario design and analysis\s+-\s+/i,
+    /\s+Monetary policy\s+-\s+/i,
+    /\s+Adaptation\s+-\s+/i,
+    /\s+Annual report\s+-\s+/i,
+    /\s+Blended finance\s+-\s+/i,
+    /\s+Legal issues\s+-\s+/i,
+    /\s+Net zero for central banks\s+-\s+/i,
+    /\s+Research\s+-\s+/i,
+    /\s+Scaling up green finance\s+-\s+/i
+  ];
+
+  for (const pattern of categorySplitPatterns) {
+    const match = title.match(pattern);
+
+    if (match && match.index > 10) {
+      title = title.slice(0, match.index).trim();
+      break;
+    }
   }
+
+  return title;
+}
+
+function extractNgfsItems(html, source) {
+  const anchors = extractAnchors(html, source.url);
+  const items = [];
+  const seen = new Set();
+
+  anchors.forEach((anchor) => {
+    const text = cleanText(anchor.text);
+    const dateMatch = text.match(
+      /\b(\d{1,2}(st|nd|rd|th)?\s+of\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4})\b/i
+    );
+
+    if (!dateMatch) {
+      return;
+    }
+
+    const rawTitle = text.slice(0, dateMatch.index);
+    const title = cleanNgfsTitle(rawTitle);
+
+    if (!isValidPublicationTitle(title)) {
+      return;
+    }
+
+    const published = parseDateString(dateMatch[1]);
+    const summary = cleanText(text.replace(title, '').replace(dateMatch[1], ''));
+
+    const key = `${title}|${anchor.url}`;
+
+    if (seen.has(key)) {
+      return;
+    }
+
+    seen.add(key);
+
+    items.push({
+      title,
+      link: anchor.url,
+      guid: anchor.url,
+      published,
+      description: summary,
+      content: summary
+    });
+  });
+
+  return items.slice(0, MAX_ITEMS_PER_SOURCE);
+}
+
+function extractGenericDatedHtmlItems(html, source) {
+  const anchors = extractAnchors(html, source.url);
+  const items = [];
+  const seen = new Set();
+
+  anchors.forEach((anchor) => {
+    const text = cleanText(anchor.text);
+
+    const dateMatch =
+      text.match(/\b\d{1,2}\/\d{1,2}\/\d{4}\b/) ||
+      text.match(/\b\d{1,2}(st|nd|rd|th)?\s+of\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}\b/i) ||
+      text.match(/\b\d{1,2}\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}\b/i);
+
+    if (!dateMatch) {
+      return;
+    }
+
+    const title = cleanText(text.slice(0, dateMatch.index));
+
+    if (!isValidPublicationTitle(title)) {
+      return;
+    }
+
+    const key = `${title}|${anchor.url}`;
+
+    if (seen.has(key)) {
+      return;
+    }
+
+    seen.add(key);
+
+    items.push({
+      title,
+      link: anchor.url,
+      guid: anchor.url,
+      published: parseDateString(dateMatch[0]),
+      description: '',
+      content: ''
+    });
+  });
 
   return items.slice(0, MAX_ITEMS_PER_SOURCE);
 }
 
 async function parseHtmlList(source) {
   const html = await fetchText(source.url);
-  const items = extractHtmlListItems(html, source);
+
+  let items = [];
+
+  if (source.id === 'central-bank-cyprus-announcements') {
+    items = extractCentralBankCyprusItems(html, source);
+  } else if (source.id === 'esma-news') {
+    items = extractEsmaItems(html, source);
+  } else if (source.id === 'ngfs-publications') {
+    items = extractNgfsItems(html, source);
+  } else if (source.id === 'ifrs-foundation-news') {
+    items = extractIfrsItems(html, source);
+  } else {
+    items = extractGenericDatedHtmlItems(html, source);
+  }
+
+  if (!items.length && source.allowEmpty) {
+    return {
+      feed: {
+        title: source.name,
+        items: []
+      },
+      parserMode: 'html-list-empty'
+    };
+  }
 
   if (!items.length) {
-    throw new Error('No publication links found on official HTML list page.');
+    throw new Error('No valid dated publication items found on official HTML page.');
   }
 
   return {
@@ -771,7 +1118,8 @@ async function run() {
 
       const publications = selectedItems
         .map((item) => normaliseItem(item, source, topics))
-        .filter((publication) => publication.title && publication.url);
+        .filter((publication) => publication.title && publication.url)
+        .filter((publication) => passesSourceFilters(publication, source));
 
       allPublications.push(...publications);
 
@@ -781,23 +1129,43 @@ async function run() {
         institution: source.institution || source.name,
         region: source.region || 'Unknown',
         status:
-          parserMode === 'fallback-parser' || parserMode === 'html-list-parser'
+          parserMode === 'fallback-parser' ||
+          parserMode === 'html-list-parser' ||
+          parserMode === 'html-list-empty'
             ? 'warning'
             : 'success',
         parserMode,
         itemCount: publications.length,
         message:
-          parserMode === 'html-list-parser'
-            ? 'Parsed successfully from official HTML list page.'
-            : parserMode === 'fallback-parser'
-              ? 'Parsed successfully using fallback parser.'
-              : 'Parsed successfully.'
+          parserMode === 'html-list-empty'
+            ? 'Official source reached, but no dated publication items could be extracted from the static HTML page.'
+            : parserMode === 'html-list-parser'
+              ? 'Parsed successfully from official HTML list page.'
+              : parserMode === 'fallback-parser'
+                ? 'Parsed successfully using fallback parser.'
+                : 'Parsed successfully.'
       });
 
       console.log(
         `  Success: ${publications.length} publications (${parserMode}).`
       );
     } catch (error) {
+      if (source.allowEmpty) {
+        sourceStatus.push({
+          id: source.id,
+          name: source.name,
+          institution: source.institution || source.name,
+          region: source.region || 'Unknown',
+          status: 'warning',
+          parserMode: 'source-empty-or-unavailable',
+          itemCount: 0,
+          message: `Official source could not be parsed today without breaking the scraper: ${error.message}`
+        });
+
+        console.warn(`  Warning: ${source.name} - ${error.message}`);
+        continue;
+      }
+
       sourceStatus.push({
         id: source.id,
         name: source.name,
