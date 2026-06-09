@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-09T07:50:29.759Z",
-  "totalPublications": 327,
-  "sourceCount": 17,
-  "successfulSources": 12,
-  "warningSources": 5,
+  "generatedAt": "2026-06-09T07:38:25.541Z",
+  "totalPublications": 361,
+  "sourceCount": 15,
+  "successfulSources": 11,
+  "warningSources": 4,
   "failedSources": 0,
   "sourceStatus": [
     {
@@ -63,7 +63,7 @@
       "region": "EU",
       "status": "warning",
       "parserMode": "html-list-parser",
-      "itemCount": 10,
+      "itemCount": 60,
       "message": "Parsed successfully from official HTML list page."
     },
     {
@@ -103,7 +103,7 @@
       "region": "Cyprus",
       "status": "warning",
       "parserMode": "html-list-parser",
-      "itemCount": 60,
+      "itemCount": 18,
       "message": "Parsed successfully from official HTML list page."
     },
     {
@@ -152,29 +152,9 @@
       "institution": "Network for Greening the Financial System",
       "region": "Global",
       "status": "warning",
-      "parserMode": "html-list-empty",
-      "itemCount": 0,
-      "message": "Official source reached, but no dated publication items could be extracted from the static HTML page."
-    },
-    {
-      "id": "ifrs-foundation-news",
-      "name": "IFRS Foundation News",
-      "institution": "IFRS Foundation",
-      "region": "Global",
-      "status": "warning",
-      "parserMode": "html-list-empty",
-      "itemCount": 0,
-      "message": "Official source reached, but no dated publication items could be extracted from the static HTML page."
-    },
-    {
-      "id": "basel-committee-bis",
-      "name": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "status": "success",
-      "parserMode": "rss-parser",
-      "itemCount": 25,
-      "message": "Parsed successfully."
+      "parserMode": "html-list-parser",
+      "itemCount": 21,
+      "message": "Parsed successfully from official HTML list page."
     }
   ],
   "topicSummary": [
@@ -184,43 +164,43 @@
     },
     {
       "topic": "Governance",
-      "count": 70
+      "count": 71
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 17
+      "count": 37
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 15
+      "count": 31
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 12
+      "count": 25
+    },
+    {
+      "topic": "Climate / ESG",
+      "count": 21
+    },
+    {
+      "topic": "Crypto / Digital Assets",
+      "count": 11
+    },
+    {
+      "topic": "AML / Financial Crime",
+      "count": 10
     },
     {
       "topic": "Capital Requirements",
       "count": 10
     },
     {
-      "topic": "Crypto / Digital Assets",
-      "count": 8
-    },
-    {
       "topic": "DORA / Operational Resilience",
-      "count": 7
-    },
-    {
-      "topic": "Climate / ESG",
-      "count": 6
+      "count": 9
     },
     {
       "topic": "Consumer Protection",
       "count": 5
-    },
-    {
-      "topic": "AML / Financial Crime",
-      "count": 4
     },
     {
       "topic": "Stress Testing",
@@ -232,6 +212,10 @@
     },
     {
       "topic": "Liquidity",
+      "count": 2
+    },
+    {
+      "topic": "Market Risk",
       "count": 2
     },
     {
@@ -246,43 +230,43 @@
     },
     {
       "topic": "Governance",
-      "count": 70
+      "count": 71
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 17
+      "count": 37
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 15
+      "count": 31
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 12
+      "count": 25
+    },
+    {
+      "topic": "Climate / ESG",
+      "count": 21
+    },
+    {
+      "topic": "Crypto / Digital Assets",
+      "count": 11
+    },
+    {
+      "topic": "AML / Financial Crime",
+      "count": 10
     },
     {
       "topic": "Capital Requirements",
       "count": 10
     },
     {
-      "topic": "Crypto / Digital Assets",
-      "count": 8
-    },
-    {
       "topic": "DORA / Operational Resilience",
-      "count": 7
-    },
-    {
-      "topic": "Climate / ESG",
-      "count": 6
+      "count": 9
     },
     {
       "topic": "Consumer Protection",
       "count": 5
-    },
-    {
-      "topic": "AML / Financial Crime",
-      "count": 4
     },
     {
       "topic": "Stress Testing",
@@ -297,6 +281,10 @@
       "count": 2
     },
     {
+      "topic": "Market Risk",
+      "count": 2
+    },
+    {
       "topic": "Credit Risk",
       "count": 1
     }
@@ -304,62 +292,118 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 67
+      "count": 59
     },
     {
       "keyword": "board",
-      "count": 48
+      "count": 45
     },
     {
       "keyword": "its",
-      "count": 31
+      "count": 30
+    },
+    {
+      "keyword": "supervisory",
+      "count": 25
+    },
+    {
+      "keyword": "resolution",
+      "count": 23
     },
     {
       "keyword": "conduct",
       "count": 21
     },
     {
-      "keyword": "supervisory",
-      "count": 17
+      "keyword": "payment",
+      "count": 21
+    },
+    {
+      "keyword": "reporting",
+      "count": 21
+    },
+    {
+      "keyword": "enforcement",
+      "count": 19
+    },
+    {
+      "keyword": "payments",
+      "count": 16
     },
     {
       "keyword": "policy statement",
       "count": 16
     },
     {
-      "keyword": "enforcement",
-      "count": 14
+      "keyword": "payment systems",
+      "count": 13
     },
     {
-      "keyword": "resolution",
-      "count": 11
+      "keyword": "disclosure",
+      "count": 12
+    },
+    {
+      "keyword": "climate",
+      "count": 10
     },
     {
       "keyword": "consultation paper",
       "count": 10
     },
     {
-      "keyword": "reporting",
-      "count": 10
+      "keyword": "deposit guarantee",
+      "count": 9
     },
     {
-      "keyword": "payment",
+      "keyword": "esg",
       "count": 9
     },
     {
       "keyword": "operational resilience",
+      "count": 9
+    },
+    {
+      "keyword": "sanctions",
+      "count": 9
+    },
+    {
+      "keyword": "governance",
+      "count": 8
+    },
+    {
+      "keyword": "settlement",
+      "count": 8
+    },
+    {
+      "keyword": "crypto",
+      "count": 7
+    },
+    {
+      "keyword": "transparency",
       "count": 6
     },
     {
-      "keyword": "payments",
-      "count": 6
-    },
-    {
-      "keyword": "climate",
+      "keyword": "digital operational resilience",
       "count": 5
     },
     {
-      "keyword": "guidelines",
+      "keyword": "digital operational resilience act",
+      "count": 5
+    },
+    {
+      "keyword": "dora",
+      "count": 5
+    },
+    {
+      "keyword": "mica",
+      "count": 5
+    },
+    {
+      "keyword": "senior management",
+      "count": 5
+    },
+    {
+      "keyword": "sustainability",
       "count": 5
     },
     {
@@ -367,16 +411,16 @@
       "count": 4
     },
     {
-      "keyword": "stablecoins",
+      "keyword": "dlt",
       "count": 4
     },
     {
-      "keyword": "bail in",
-      "count": 3
+      "keyword": "guidelines",
+      "count": 4
     },
     {
-      "keyword": "bail-in",
-      "count": 3
+      "keyword": "sustainable finance",
+      "count": 4
     },
     {
       "keyword": "clearing",
@@ -391,15 +435,11 @@
       "count": 3
     },
     {
-      "keyword": "crypto",
+      "keyword": "nature related",
       "count": 3
     },
     {
-      "keyword": "disclosure",
-      "count": 3
-    },
-    {
-      "keyword": "governance",
+      "keyword": "nature-related",
       "count": 3
     },
     {
@@ -411,11 +451,7 @@
       "count": 3
     },
     {
-      "keyword": "settlement",
-      "count": 3
-    },
-    {
-      "keyword": "transparency",
+      "keyword": "stablecoins",
       "count": 3
     },
     {
@@ -423,7 +459,11 @@
       "count": 2
     },
     {
-      "keyword": "dora",
+      "keyword": "bail in",
+      "count": 2
+    },
+    {
+      "keyword": "bail-in",
       "count": 2
     },
     {
@@ -435,11 +475,11 @@
       "count": 2
     },
     {
-      "keyword": "fraud",
+      "keyword": "liquidity",
       "count": 2
     },
     {
-      "keyword": "liquidity",
+      "keyword": "net zero",
       "count": 2
     },
     {
@@ -456,6 +496,10 @@
     },
     {
       "keyword": "stress test",
+      "count": 2
+    },
+    {
+      "keyword": "var",
       "count": 2
     },
     {
@@ -495,19 +539,7 @@
       "count": 1
     },
     {
-      "keyword": "digital operational resilience",
-      "count": 1
-    },
-    {
-      "keyword": "digital operational resilience act",
-      "count": 1
-    },
-    {
       "keyword": "distributed ledger",
-      "count": 1
-    },
-    {
-      "keyword": "dlt",
       "count": 1
     },
     {
@@ -539,19 +571,7 @@
       "count": 1
     },
     {
-      "keyword": "mica",
-      "count": 1
-    },
-    {
       "keyword": "mrel",
-      "count": 1
-    },
-    {
-      "keyword": "nature related",
-      "count": 1
-    },
-    {
-      "keyword": "nature-related",
       "count": 1
     },
     {
@@ -587,41 +607,37 @@
       "count": 1
     },
     {
-      "keyword": "sanctions",
-      "count": 1
-    },
-    {
       "keyword": "stablecoin",
-      "count": 1
-    },
-    {
-      "keyword": "stress testing",
       "count": 1
     }
   ],
   "regionSummary": [
     {
-      "region": "UK",
-      "count": 120
+      "region": "EU",
+      "count": 130
     },
     {
-      "region": "EU",
-      "count": 80
+      "region": "UK",
+      "count": 120
     },
     {
       "region": "US",
       "count": 74
     },
     {
-      "region": "Cyprus",
-      "count": 28
+      "region": "Global",
+      "count": 19
     },
     {
-      "region": "Global",
-      "count": 25
+      "region": "Cyprus",
+      "count": 18
     }
   ],
   "institutionSummary": [
+    {
+      "institution": "European Securities and Markets Authority",
+      "count": 60
+    },
     {
       "institution": "Bank of England",
       "count": 50
@@ -643,14 +659,6 @@
       "count": 30
     },
     {
-      "institution": "Central Bank of Cyprus",
-      "count": 28
-    },
-    {
-      "institution": "Basel Committee on Banking Supervision",
-      "count": 25
-    },
-    {
       "institution": "U.S. Securities and Exchange Commission",
       "count": 25
     },
@@ -659,77 +667,23 @@
       "count": 20
     },
     {
+      "institution": "Network for Greening the Financial System",
+      "count": 19
+    },
+    {
+      "institution": "Central Bank of Cyprus",
+      "count": 18
+    },
+    {
       "institution": "Consumer Financial Protection Bureau",
       "count": 17
     },
     {
       "institution": "European Banking Authority",
       "count": 10
-    },
-    {
-      "institution": "European Securities and Markets Authority",
-      "count": 10
     }
   ],
   "publications": [
-    {
-      "id": "bcdb5ae94e427c01",
-      "title": "European Commission launches call for candidates for the ESAs’ Board of Appeal",
-      "summary": "The European Commission has launched a call for expression of interest for the appointment",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/european-commission-launches-call-candidates-esas-board-appeal",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-12-04T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "board"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fd7113c53f8b6b64",
-      "title": "ESMA identifies areas for further supervisory convergence on compliance and internal audit in the funds sector",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-identifies-areas-further-supervisory-convergence-compliance-and-internal",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-11-04T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ]
-    },
     {
       "id": "5004530ebfbe73d9",
       "title": "SEC Establishes Joint Data Standards as Required Under the Financial Data Transparency Act of 2022",
@@ -822,309 +776,6 @@
       ]
     },
     {
-      "id": "794cdec5304b46e1",
-      "title": "Denny H Kalyalya: Keynote speech - Stanbic Bank 4th Banking Industry Symposium",
-      "summary": "Keynote speech by Dr Denny H Kalyalya, Governor of the Bank of Zambia, at the Stanbic Bank 4th Banking Industry Symposium, Lusaka, 22 May 2026.",
-      "url": "https://www.bis.org/review/r260608f.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-08T07:39:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1fb95f0a5f32395d",
-      "title": "Olli Rehn: Systemic risk, resilience and competitiveness in a changing technological landscape",
-      "summary": "Keynote speech by Mr Olli Rehn, Governor of the Bank of Finland and First Vice-Chair of the European Systemic Risk Board, at the 11th Bank of Finland and European Systemic Risk Board joint conference on AI and Systemic Risk Analytics, Helsinki, 3 June 2026.",
-      "url": "https://www.bis.org/review/r260608e.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-08T07:35:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "board",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "23a674bfb7ff3373",
-      "title": "Olli Rehn: Europe's economy under the weight of power politics",
-      "summary": "Speech by Mr Olli Rehn, Governor of the Bank of Finland and First Vice-Chair of the European Systemic Risk Board, at the EU Heads of Mission lunch seminar, Helsinki, 2 June 2026.",
-      "url": "https://www.bis.org/review/r260604n.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-08T07:22:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "board",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "24bd39407c62c083",
-      "title": "Tuomas Välimäki: Central banks and the future of money - trust, resilience and renewal",
-      "summary": "Opening remarks by Mr Tuomas Välimäki, Board Member of the Bank of Finland, at the policy panel of the 2026 Bank of Korea International Conference \" Central banks and the future of money\", Seoul, 2 June 2026.",
-      "url": "https://www.bis.org/review/r260604p.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-08T07:18:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "board",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "38c69236ad339ca9",
-      "title": "Petar Chobanov: From financial literacy to financial stability",
-      "summary": "Speech by Mr Petar Chobanov, Deputy Governor of the Bulgarian National Bank, at the round table discussion \"From financial literacy to financial stability\", organised by the Bank of Slovenia, Ljubljana, 22 May 2026.",
-      "url": "https://www.bis.org/review/r260604o.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-08T07:11:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2f5f3127f80700ae",
-      "title": "Michelle W Bowman: Supervision and regulation",
-      "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, before the Committee on Financial Services, US House of Representatives, Washington DC, 4 June 2026.",
-      "url": "https://www.bis.org/review/r260608b.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-08T06:59:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "board",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e642494b29a0b756",
-      "title": "Denis Beau: Strengthening the security of European payments",
-      "summary": "Keynote speech by Mr Denis Beau, First Deputy Governor of the Bank of France, at the conference \"Digital fraud: detect, respond and prevent\", hosted by the Banco de Portugal, Lisbon, 26 May 2026.",
-      "url": "https://www.bis.org/review/r260608a.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-08T06:49:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime",
-        "Supervision / Enforcement",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "fraud",
-        "supervision",
-        "payments"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "fraud"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payments"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bfe0f4bd860538bd",
-      "title": "The digitalisation of banking and social media: implications for deposit pricing",
-      "summary": "by Michael Brei, Giulio Cornelli, Leonardo Gambacorta, Boris Hofmann This paper examines the implications of two coincident digital trends – the digitalisation of banking and the widespread adoption of social media – for the pricing of deposits in the United States. Using branch-level data, we analyse how both trends interact to influence the level of deposit rates as well as their adjustment to changes in the policy rate.",
-      "url": "https://www.bis.org/publ/work1357.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-08T06:10:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f0ee540fc5bcbfdc",
-      "title": "Statistics on Interest Rates applied by Monetary Financial Institutions",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#74a1fb723636895c",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-06-07T21:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
       "id": "8e30fc99f5ee06d9",
       "title": "Capital requirements and process innovation",
       "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
@@ -1186,50 +837,6 @@
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": []
-    },
-    {
-      "id": "a71db13e0a309a68",
-      "title": "The credibility of bail-in",
-      "summary": "by Alessandro Di Stefano, Yvan Lengwiler, Kumar Rishabh The resolution framework for global systemically important banks has been over a decade in the making. The failure of Credit Suisse (CS) in March 2023 was its first major test. Authorities had a resolution plan in place but chose a different path amid financial stability concerns.",
-      "url": "https://www.bis.org/publ/work1356.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-05T09:28:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement",
-        "Recovery / Resolution"
-      ],
-      "matchedKeywords": [
-        "supervision",
-        "its",
-        "resolution",
-        "bail-in",
-        "bail in"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "its"
-          ]
-        },
-        {
-          "id": "resolution-recovery",
-          "label": "Recovery / Resolution",
-          "keywords": [
-            "resolution",
-            "bail-in",
-            "bail in"
-          ]
-        }
-      ]
     },
     {
       "id": "6cdf63de43c61a27",
@@ -1312,466 +919,6 @@
       "topicMatches": []
     },
     {
-      "id": "2b4c0d4da2c155dd",
-      "title": "Piero Cipollone: Europe's money evolves so people's freedom to pay remains",
-      "summary": "Introductory statement by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 3 June 2026.",
-      "url": "https://www.bis.org/review/r260604m.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-04T12:09:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "board",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c2b08848a5828f03",
-      "title": "Frank Elderson: Strengthening operational resilience for the age of AI",
-      "summary": "Keynote speech by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the Goldman Sachs European Financials Conference 2026, Zurich, 3 June 2026.",
-      "url": "https://www.bis.org/review/r260604l.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-04T12:05:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "DORA / Operational Resilience",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "operational resilience",
-        "board",
-        "supervision",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "dora-operational-resilience",
-          "label": "DORA / Operational Resilience",
-          "keywords": [
-            "operational resilience"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "supervisory"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "238407a5fef32178",
-      "title": "Carolyn Rogers,Toni Gravelle: Release of the Financial Stability Report",
-      "summary": "Opening statement Ms Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, and Mr Toni Gravelle, Deputy Governor of the Bank of Canada, at the press conference following the release of the Financial Stability Report, Ottawa, Ontario, 28 May 2026.",
-      "url": "https://www.bis.org/review/r260604k.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-04T12:02:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "63076050c915aa29",
-      "title": "Kazuo Ueda: Economic activity and prices, and monetary policy in Japan",
-      "summary": "Speech by Mr Kazuo Ueda, Governor of the Bank of Japan, at the Kisaragi-kai meeting, Tokyo, 3 June 2026.",
-      "url": "https://www.bis.org/review/r260604j.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-04T11:57:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c46d348652298799",
-      "title": "Isabel Schnabel: From money market funds to stablecoins - lessons for central banks",
-      "summary": "Speech by Ms Isabel Schnabel, Member of the Executive Board of the European Central Bank, at the 2026 Bank of Korea International Conference \"Central banks and the future of money\", Seoul, 1 June 2026.",
-      "url": "https://www.bis.org/review/r260604i.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-04T11:44:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Crypto / Digital Assets",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "stablecoins",
-        "board",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "stablecoins"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "72ecef039f0d13ec",
-      "title": "Tuomas Välimäki: Europe's economy under the weight of power politics",
-      "summary": "Speech by Mr Tuomas Välimäki, Board Member of the Bank of Finland, at the Bank of Finland's biannual lunch for EU Heads of Mission, Helsinki, 2 June 2026.",
-      "url": "https://www.bis.org/review/r260604h.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-04T10:18:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "board",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6d74d4057dc96908",
-      "title": "Howard Lee: Keynote speech - Hong Kong Digital Finance Summit 2026",
-      "summary": "Keynote speech by Mr Howard Lee, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Hong Kong Digital Finance Summit 2026, Hong Kong, 29 May 2026.",
-      "url": "https://www.bis.org/review/r260604g.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-04T10:11:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a3a1682263e31152",
-      "title": "Swaminathan J: Resilience by design - lessons from India's banking sector",
-      "summary": "Speech by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at the School of International and Public Affairs (SIPA), Columbia University, New York City, 1 June 2026.",
-      "url": "https://www.bis.org/review/r260604f.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-04T09:52:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b332d26e43071378",
-      "title": "Piero Cipollone: Money in the digital age",
-      "summary": "Speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at Istituto Affari Internazionali, Frankfurt am Main, 28 May 2026.",
-      "url": "https://www.bis.org/review/r260604e.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-04T09:47:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "board",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ca71ac21f518bb4a",
-      "title": "Steven Maijoor: Fintech, supervision and smooth sailing",
-      "summary": "Welcome address by Mr Steven Maijoor, Executive Board Member and Chair of Supervision of De Nederlandsche Bank, at De Nederlandsche Bank's Money20/20 pre-event, Amsterdam, 1 June 2026.",
-      "url": "https://www.bis.org/review/r260604d.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-04T09:45:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "board",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5655896e17c2aca3",
-      "title": "Michelle W Bowman: A framework for practical monetary policy decision making",
-      "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Reykjavík Economic Conference 2026, Reykjavík, 29 May 2026.",
-      "url": "https://www.bis.org/review/r260604c.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-04T09:37:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "board",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e863583a1887b13c",
-      "title": "Eddie Yue: Opening remarks - 2026 Global PMI Summit",
-      "summary": "Opening remarks by Mr Eddie Yue, Chief Executive of the Hong Kong Monetary Authority, at the 2026 Global PMI Summit, Hong Kong, 29 May 2026.",
-      "url": "https://www.bis.org/review/r260604b.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-04T08:52:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "68b660b89be96cd1",
-      "title": "John C Williams: Productivity growth and the challenge of real-time policymaking",
-      "summary": "Remarks by Mr John C Williams, President and Chief Executive Officer of the Federal Reserve Bank of New York, at the Reykjavík Economic Conference, Reykjavík, Iceland, 28 May 2026.",
-      "url": "https://www.bis.org/review/r260604a.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-04T08:44:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
       "id": "b656b07bdd72a307",
       "title": "Christine Lagarde: Women and leadership: widening the pipeline",
       "summary": "",
@@ -1804,93 +951,6 @@
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": []
-    },
-    {
-      "id": "6e0657c0fd04b18b",
-      "title": "Lesetja Kganyago: Managing supply shocks - the role of monetary policy",
-      "summary": "Address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the Bureau for Economic Research Annual Conference, Pretoria, 2 June 2026.",
-      "url": "https://www.bis.org/review/r260603i.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-03T12:40:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c53aa5e03ae3f5d7",
-      "title": "Yannis Stournaras: What can central banks do about housing affordability",
-      "summary": "Speech by Mr Yannis Stournaras, Governor of the Bank of Greece, at the 32nd Dubrovnik Economic Conference, organised by the Croatian National Bank, Dubrovnik, 30 May 2026.",
-      "url": "https://www.bis.org/review/r260603h.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-03T12:31:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "02cb31b58265804b",
-      "title": "Christine Lagarde: When it matters most - upholding independence in challenging times",
-      "summary": "Speech by Ms Christine Lagarde, President of the European Central Bank, at the 28th meeting of Francophone Central Bank Governors, Phnom Penh, Cambodia, 28 May 2026.",
-      "url": "https://www.bis.org/review/r260603g.htm",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-03T12:22:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ]
     },
     {
       "id": "fa1c7cd86af3a38f",
@@ -2050,23 +1110,6 @@
       "pdfLinks": [
         "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3243~a05b1e07b4.en.pdf"
       ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
-      "id": "9893a1e158cb3227",
-      "title": "Οι Διοικητές Πατσαλίδης και Στουρνάρας συζητούν για τον Χρηματοοικονομικό Αλφαβητισμό",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#32f3ce29c118ea42",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-06-02T21:00:00.000Z",
-      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": []
@@ -2270,23 +1313,6 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-06-02T04:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
-      "id": "78fd8a88958ebd87",
-      "title": "Monetary Financial Institutions (MFIs) Deposits and Loans Statistics",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#51f2c4fbbd1a760c",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-06-01T21:00:00.000Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -2512,23 +1538,6 @@
       "topicMatches": []
     },
     {
-      "id": "aa76051a1a577b1f",
-      "title": "ESMA’s annual data report shows increased quality, wider use and digital progress",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esmas-annual-data-report-shows-increased-quality-wider-use-and-digital",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-05-29T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
       "id": "0071fbb891f5bb29",
       "title": "Federal Reserve Board issues enforcement actions with former employee of Atlantic Union Bank and former employee of Frost Bank",
       "summary": "Federal Reserve Board issues enforcement actions with former employee of Atlantic Union Bank and former employee of Frost Bank",
@@ -2677,23 +1686,6 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-05-28T07:10:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
-      "id": "a968a818ef8076d6",
-      "title": "New Q&As available",
-      "summary": "",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/new-qas-available-may-2026",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-05-28T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -3048,52 +2040,6 @@
       ]
     },
     {
-      "id": "7034201523c58d80",
-      "title": "ESMA consults on revised guidelines to support smoother allocations and confirmations under T+1",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-consults-revised-guidelines-support-smoother-allocations-and",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-05-26T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "guidelines"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "guidelines"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a87ae6e31ef4359c",
-      "title": "Ανακοίνωση της Κεντρικής Τράπεζας της Κύπρου για τις Βουλευτικές Εκλογές",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#87d68e428558fadd",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-05-24T21:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
       "id": "8aac6f98accfd9a5",
       "title": "Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman",
       "summary": "Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman",
@@ -3433,23 +2379,6 @@
       ]
     },
     {
-      "id": "fad8c6babf734fdd",
-      "title": "ESMA publishes shortlist of candidates for position of Chair",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets reg",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-shortlist-candidates-position-chair-0",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-05-20T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
       "id": "b8f0bec1a1154cdf",
       "title": "SEC Proposes Transformative Reforms to Help Public Companies Conduct Registered Offerings and Simplify Reporting Requirements",
       "summary": "The Securities and Exchange Commission today proposed amendments to its rules and forms governing registered offerings that are designed to increase efficiency, flexibility, and cost savings for public companies while maintaining robust investor…",
@@ -3568,23 +2497,6 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-05-19T06:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
-      "id": "61374a237f0d9f97",
-      "title": "Bank holiday",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#1fbdb6da9e928898",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-05-18T21:00:00.000Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -4081,35 +2993,6 @@
           "label": "Supervision / Enforcement",
           "keywords": [
             "supervision"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "17ca1316b7de1e6a",
-      "title": "ESMA issues guidance on effective use of resolution tools in CCP crisis planning",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-issues-guidance-effective-use-resolution-tools-ccp-crisis-planning",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-05-13T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Recovery / Resolution"
-      ],
-      "matchedKeywords": [
-        "resolution"
-      ],
-      "topicMatches": [
-        {
-          "id": "resolution-recovery",
-          "label": "Recovery / Resolution",
-          "keywords": [
-            "resolution"
           ]
         }
       ]
@@ -4802,23 +3685,6 @@
       ]
     },
     {
-      "id": "a871663200f731a6",
-      "title": "Άρθρο του Διοικητή στον Πολίτη με τίτλο: 'Η Κύπρος ως Διαχρονικός Ευρωπαϊκός Κόμβος'",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#f4fb5bffcf56dde4",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-05-02T21:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
       "id": "d4d9a0f711ccf299",
       "title": "Agencies issue host state loan-to-deposit ratios",
       "summary": "Agencies issue host state loan-to-deposit ratios",
@@ -4955,23 +3821,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "46f8cb24e3637706",
-      "title": "Quarterly Financial Accounts",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#25bcc2f174c0830a",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-04-29T21:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
     },
     {
       "id": "4f8ff937dac72707",
@@ -5984,23 +4833,6 @@
       "topicMatches": []
     },
     {
-      "id": "8f21de5dc725c6d6",
-      "title": "Regular publication of aggregated data for the Credit Servicers (CSs) and Credit Acquiring Companies (CACs) sector...",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#fd987171b8b60dce",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-04-08T21:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
       "id": "3ae7a999c73f87b2",
       "title": "SEC Appoints David Woodcock as Director of the Division of Enforcement",
       "summary": "The Securities and Exchange Commission today announced that David Woodcock has been appointed Director of the Division of Enforcement, effective May 4, 2026. Mr. Woodcock is currently a partner in the Dallas and Washington, D. C. offices of Gibson, Dunn…",
@@ -6057,40 +4889,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "9491aa08ed401a06",
-      "title": "Bank holidays",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#468e9801f4fea17b",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-04-05T21:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
-      "id": "b3f6d2e65ab8b0d5",
-      "title": "Silver collector coin with theme \"Rigaina's Castles\"",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#3e711582d749c87a",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-04-02T21:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
     },
     {
       "id": "cfdb4a86b07197d2",
@@ -6167,23 +4965,6 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-04-02T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
-      "id": "9f4ee38c7f22b1fa",
-      "title": "Publication of External Statistics data",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#bfe84d37c7d8d346",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-04-01T21:00:00.000Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -6599,23 +5380,6 @@
       ]
     },
     {
-      "id": "afef60741b765721",
-      "title": "Μακροοικονομικές Προβλέψεις της Κεντρικής Τράπεζας της Κύπρου Μαρτίου 2026 για την Κυπριακή Οικονομία",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#9e132bc8fb099b1a",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-03-23T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
       "id": "ae01e5a98d000841",
       "title": "Rethinking global imbalances: drivers, risks, and policy priorities",
       "summary": "Bank of England Staff Discussion Paper",
@@ -6736,23 +5500,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "00b9275eff141d5c",
-      "title": "Εθελοντική Αιμοδοσία στην Κεντρική Τράπεζα της Κύπρου",
-      "summary": "",
-      "url": "https://www.centralbank.cy/el/announcements",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-03-18T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
     },
     {
       "id": "80dbe2be139ba488",
@@ -6999,78 +5746,6 @@
       ]
     },
     {
-      "id": "3b27adc74a09cf17",
-      "title": "Η Κεντρική Τράπεζα συντονίζει το Global Money Week 2026 στην Κύπρο",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#095584f4db3fef2f",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-03-16T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
-      "id": "0b07646583fb845c",
-      "title": "Issue of a silver collector coin with theme \"Rigaina's Castles\"",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#15c3a1f0039d8f13",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-03-12T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
-      "id": "f8d36465f370c752",
-      "title": "ESAs publish the first report on DORA major ICT-related incidents",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA) today published their",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esas-publish-first-report-dora-major-ict-related-incidents",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-03-05T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "DORA / Operational Resilience",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "dora",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "dora-operational-resilience",
-          "label": "DORA / Operational Resilience",
-          "keywords": [
-            "dora"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ]
-    },
-    {
       "id": "1f08d30929e813cb",
       "title": "Agencies clarify the capital treatment of tokenized securities",
       "summary": "Agencies clarify the capital treatment of tokenized securities",
@@ -7127,23 +5802,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "6e0142e2f5897949",
-      "title": "Annual Bulletin on euro banknote counterfeiting",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#34ed6b888477d489",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-03-03T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
     },
     {
       "id": "d665d856f8ed4fc4",
@@ -7223,57 +5881,6 @@
       ]
     },
     {
-      "id": "1ae5b58a481c1c7a",
-      "title": "Προκήρυξη Διαγωνισμού 02/2026 της Κεντρικής Τράπεζας της Κύπρου για την αγορά υπηρεσιών συντήρησης και διαχείρισης...",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#d146e59826931646",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-02-26T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
-      "id": "a1d6c287315bda73",
-      "title": "Προκήρυξη Διαγωνισμού 05/2026 Κεντρικής Τράπεζας της Κύπρου για την οργάνωση, διαχείριση και λειτουργία της...",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#a516f41c71a487f3",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-02-26T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
-      "id": "87d8db991ed05407",
-      "title": "Πρώτος θεσμοθετημένος διάλογος της ΚΤΚ με την Επιχειρηματική Κοινότητα: Προκλήσεις και Προοπτικές της Κυπριακής...",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#c0fbe4895fc8107a",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-02-26T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
       "id": "4962ffb8ab8ccca7",
       "title": "CP4/26 – UK Solvency II Own Funds: Updates and fixes to rules and expectations",
       "summary": "Consultation paper 4/26",
@@ -7310,23 +5917,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "59cae32659228078",
-      "title": "Ερωτηματολόγιο για καταγραφή αντιλήψεων σε θέματα αποταμίευσης και επενδύσεων. Ζητάμε τις απόψεις σας!",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#9e358d18693dd827",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-02-24T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
     },
     {
       "id": "4021746b664e7e82",
@@ -7369,23 +5959,6 @@
       ]
     },
     {
-      "id": "3de885e0fc71ef80",
-      "title": "Παράταση προθεσμίας υποβολής αιτημάτων για μειωμένα δικηγορικά έξοδα για υποθέσεις εξυγίανσης και αξιογράφων",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#ebe9143ae2eb5e3c",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-02-23T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
       "id": "8f0541221eed16b5",
       "title": "PS5/26 – Credit Union Service Organisations",
       "summary": "Policy statement 5/26",
@@ -7415,23 +5988,6 @@
       ]
     },
     {
-      "id": "27d9f8bcddca0f7c",
-      "title": "Η Κεντρική Τράπεζα της Κύπρου ανακοινώνει τη λειτουργία του “The CBC Blog”",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#f17f8c9c035774a7",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-02-19T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
       "id": "6c926bfa2bbfa46a",
       "title": "CP3/26 – PRA rule changes to accommodate HM Treasury’s Overseas Prudential Requirements Regime",
       "summary": "Consultation paper 3/26",
@@ -7459,23 +6015,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "5969fc099518ab20",
-      "title": "Η ΚΤΚ ρωτά τους πολίτες για θέματα επενδύσεων και αποταμιεύσεων",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#b40067f9ea0d7cde",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-02-18T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
     },
     {
       "id": "6c9614d301bc544e",
@@ -7524,44 +6063,6 @@
       "topicMatches": []
     },
     {
-      "id": "54f91fcc556a3dcb",
-      "title": "Payment Fraud Statistics",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-02-15T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "fraud",
-        "payment"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "fraud"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payment"
-          ]
-        }
-      ]
-    },
-    {
       "id": "9984a1df987e315a",
       "title": "Report on declared time commitment of non-executive directors in the SSM",
       "summary": "",
@@ -7589,86 +6090,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "c5454447dbdcd90e",
-      "title": "'Cyprus: from crisis to growth'",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#ef177505509bf2e7",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-02-10T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
-      "id": "50fa9585a835ecd0",
-      "title": "The GMTF presents its findings on EU gas and gas derivative markets",
-      "summary": "The Gas Market Task Force (GMTF), has published today a",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/gmtf-presents-its-findings-eu-gas-and-gas-derivative-markets",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-02-05T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6a6929a3c041dbd2",
-      "title": "Προκήρυξη Διαγωνισμού Κεντρικής Τράπεζας της Κύπρου για αγορά υπηρεσιών εγκατάστασης, διαμόρφωσης, υποστήριξης,...",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#0744b3a0c7206a13",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-02-05T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
-      "id": "50b8f99755d6a106",
-      "title": "Stay alert and protect yourself!",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#c0dbd05fe843e10f",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-02-04T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
     },
     {
       "id": "f9788b47a4e5257c",
@@ -7755,23 +6176,6 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-02-02T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": []
-    },
-    {
-      "id": "77718fd0fb4d8183",
-      "title": "Economic Bulletin",
-      "summary": "",
-      "url": "https://www.centralbank.cy/en/announcements#98bac44119585aef",
-      "sourceId": "central-bank-cyprus-announcements",
-      "sourceName": "Central Bank of Cyprus Announcements",
-      "institution": "Central Bank of Cyprus",
-      "region": "Cyprus",
-      "jurisdiction": "Cyprus",
-      "sourceType": "html-list",
-      "publishedAt": "2026-01-29T22:00:00.000Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -8148,35 +6552,6 @@
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": []
-    },
-    {
-      "id": "ebae215825bf4533",
-      "title": "ESMA publishes latest edition of its newsletter",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-43",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-01-05T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ]
     },
     {
       "id": "b12a9433d0fd636e",
@@ -8896,6 +7271,120 @@
       "topicMatches": []
     },
     {
+      "id": "ccde850775401800",
+      "title": "&Epsilon;&Lambda;",
+      "summary": "a> EN | Toggle navigation Central Bank of Cyprus <ul class=\"nav navbar-nav n",
+      "url": "https://www.centralbank.cy/el/announcements",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "a37c1c22f371646a",
+      "title": "About ESMA",
+      "summary": "nu-blockmenu-esma-megamenu\"> Toggle submenu Governance Structure Toggle submenu <div class=\"tbm-",
+      "url": "https://www.esma.europa.eu/about-esma",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "governance"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "551cefaa8b69ff45",
+      "title": "Adaptation",
+      "summary": "What we do Discover the section Capacity Building and Training <li",
+      "url": "https://www.ngfs.net/en/what-we-do/adaptation",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "b118821e8f1f014f",
+      "title": "Administrative Sanctions & Measures",
+      "summary": "=\"_self\">Calendar of CBC Officials Monetary Policy Licensing & Supervision Financial Stability Payment Systems & Services Financial Market Infrastructures & Payments Banknotes & Coins Reference Interest Rates Contact Details",
+      "url": "https://www.centralbank.cy/en/administrative-sanctions-and-measures",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "sanctions",
+        "supervision",
+        "payment",
+        "payments",
+        "payment systems"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "sanctions"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payments",
+            "payment systems"
+          ]
+        }
+      ]
+    },
+    {
       "id": "d51f50727ce97eea",
       "title": "AI in financial services: shaping our approach through industry engagement",
       "summary": "Firms are using AI to drive efficiency, support decision-making and deliver better outcomes for consumers and markets. We want to support that innovation. But it must be safe, responsible and well governed. We have been clear that we are not going to introduce new regulations for AI. Instead, we’ll rely on existing frameworks, including the Consumer Duty, the Senior Managers and Certification Regime (SM&CR), and our expectations on governance and controls. We recognise that AI can raise new and practical questions, and we want to help industry to tackle these. So, we are speaking to firms on topics such as:How firms oversee and govern AI. How they test models and monitor outcomes.",
@@ -8983,6 +7472,511 @@
       ]
     },
     {
+      "id": "813e6bfe9a4487eb",
+      "title": "Banknotes & Coins",
+      "summary": "ef=\"/en/deposit-guarantee-investors-compensation-schemes\" title=\"Deposit Guarantee & Investors' Compensation\">Deposit Guarantee & Investors' Compensation Payment Systems & Services Financial Market Infrastructures & Payments Search $(document).ready(function() { $('.search_drop').hi",
+      "url": "https://www.centralbank.cy/en/banknotes-and-coins",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Payments / Open Finance",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "payment",
+        "payments",
+        "payment systems",
+        "deposit guarantee"
+      ],
+      "topicMatches": [
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payments",
+            "payment systems"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "deposit guarantee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6b5e9a58bae92029",
+      "title": "Benchmark Administrators",
+      "summary": "Investors and Issuers Toggle submenu Credit Rating Agencies ESG Rating Providers External Reviewers of European Green Bonds",
+      "url": "https://www.esma.europa.eu/esmas-activities/investors-and-issuers/benchmark-administrators",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG"
+      ],
+      "matchedKeywords": [
+        "esg"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "esg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2eb4613a75f2b733",
+      "title": "Board of Appeal",
+      "summary": "nce-structure/standing-committees\" class=\"tbm-link level-3\"> Standing Committees SMSG Ethics and Conflicts of interest Internal Organisation Toggle submenu <div",
+      "url": "https://www.esma.europa.eu/about-esma/governance-structure/board-appeal",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3d258a197e66545a",
+      "title": "Board of Supervisors",
+      "summary": "Governance Structure Toggle submenu Management Board Senior Management Joint Committee <li class=\"tbm-item level-3\" aria-level=\"3\"",
+      "url": "https://www.esma.europa.eu/about-esma/governance-structure/board-of-supervisors",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "governance",
+        "board",
+        "senior management"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance",
+            "board",
+            "senior management"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5b9ca747a3bfe8b9",
+      "title": "Breach of Union Law",
+      "summary": "anctions and Enforcement Enforcement Convergence Initiatives Data Toggle submenu Data Reporting",
+      "url": "https://www.esma.europa.eu/supervisory-convergence-tools/breach-union-law",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "reporting",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0eeb7663250ee586",
+      "title": "Calendar of CBC Officials",
+      "summary": "s=\"col-lg-4 col-md-6 col-sm-12\"> Quick Links Home The Bank The Governor Monetary Policy Licensing & Supervision Financial Stability Administrative Sanctions & Measures Payment Systems & Services <a href=\"/en/financial-market-infrastructures-payments\" title=\"Financial Market Infrast",
+      "url": "https://www.centralbank.cy/en/calendar-of-central-bank-of-cyprus-officials",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "sanctions",
+        "supervision",
+        "payment",
+        "payments",
+        "payment systems"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "sanctions"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payments",
+            "payment systems"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1150e7226da80527",
+      "title": "Capacity Building and Training",
+      "summary": "stom-icon.twig --> Data <a rel=\"",
+      "url": "https://www.ngfs.net/en/what-we-do/capacity-building-and-training",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "2f77dd6377676841",
+      "title": "CCP Resolution Committee",
+      "summary": "class=\"tbm-link level-3\"> Joint Committee CCP Supervisory Committee Joint Monitoring Mechanism Standing Committees SMSG <li class=\"tbm-item level-3\" aria-level",
+      "url": "https://www.esma.europa.eu/about-esma/governance-structure/ccp-resolution-committee",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "supervisory",
+        "resolution"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5217f6c6c5ab635d",
+      "title": "CCP Supervisory Committee",
+      "summary": "nior-management\" class=\"tbm-link level-3\"> Senior Management Joint Committee CCP Resolution Committee Joint Monitoring Mechanism Standing Committees <l",
+      "url": "https://www.esma.europa.eu/about-esma/governance-structure/ccp-supervisory-committee",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "senior management",
+        "supervisory",
+        "resolution"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "senior management"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "446602072787203b",
+      "title": "Central Bank of Cyprus",
+      "summary": "luid\"> Toggle navigation Monetary Policy Licensing & Supervision Resolution Financial Stability Deposit Guarantee & Investors' Compensation Payment Systems & Services",
+      "url": "https://www.centralbank.cy/en/home",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement",
+        "Payments / Open Finance",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "payment",
+        "payment systems",
+        "resolution",
+        "deposit guarantee"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payment systems"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution",
+            "deposit guarantee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8896425c334685a2",
+      "title": "Central Counterparties",
+      "summary": "Markets and Infrastructure Toggle submenu Data Reporting Services Providers Trading Consolidated Tape Providers",
+      "url": "https://www.esma.europa.eu/esmas-activities/markets-and-infrastructure/central-counterparties",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "reporting"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c035a8c30175ca58",
+      "title": "Central Securities Depositories",
+      "summary": "ntegrity\" class=\"tbm-link level-3\"> Market Integrity Short Selling Securitisation Trade Repositories",
+      "url": "https://www.esma.europa.eu/esmas-activities/markets-and-infrastructure/central-securities-depositories",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "04d2964b09e13cf2",
+      "title": "Climate benchmarks and ESG disclosure",
+      "summary": "Sustainable Finance Toggle submenu CRAs and Sustainability Investment Services and Fund Management Sustainability Reporting",
+      "url": "https://www.esma.europa.eu/esmas-activities/sustainable-finance/climate-benchmarks-and-esg-disclosure",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG",
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "esg",
+        "sustainability",
+        "sustainable finance",
+        "reporting",
+        "disclosure"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate",
+            "esg",
+            "sustainability",
+            "sustainable finance"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting",
+            "disclosure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e933fb3433123110",
+      "title": "Consolidated Tape Providers",
+      "summary": "ers\" class=\"tbm-link level-3\"> Data Reporting Services Providers Trading Post-trading Shortening the settlement cycle to T+1 in the EU Market Integrity",
+      "url": "https://www.esma.europa.eu/esmas-activities/markets-and-infrastructure/consolidated-tape-providers",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "reporting",
+        "settlement"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "settlement"
+          ]
+        }
+      ]
+    },
+    {
       "id": "c39a58d308bb3622",
       "title": "Consumers warned about misleading car finance 'money tips' claims ads",
       "summary": "Consumers are being warned to be wary of misleading car finance 'money tips' adverts issued by claims management companies (CMCs) and law firms on social media. As part of the joint regulatory taskforce, the FCA has identified a growing number of adverts that appear to offer independent advice from an individual but are in fact paid promotions from CMCs and law firms encouraging people to sign up for motor finance claims. Consumers should be aware that some adverts:Pose as impartial advice from individuals, without clearly saying they are promoting a business.",
@@ -9056,6 +8050,662 @@
           "keywords": [
             "payment",
             "payments"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2b19438c9109a5f0",
+      "title": "CRAs and Sustainability",
+      "summary": "tbm-column-inner\"> Climate benchmarks and ESG disclosure Investment Services and Fund Management Sustainability Reporting <a href=\"/esmas-activities/digital-finance-and-innovation\" class=\"t",
+      "url": "https://www.esma.europa.eu/esmas-activities/sustainable-finance/cras-and-sustainability",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG",
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "esg",
+        "sustainability",
+        "reporting",
+        "disclosure"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate",
+            "esg",
+            "sustainability"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting",
+            "disclosure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19737bd3baf1c24e",
+      "title": "Credit Rating Agencies",
+      "summary": "span12\"> Benchmark Administrators ESG Rating Providers External Reviewers of European Green Bonds Fund Management",
+      "url": "https://www.esma.europa.eu/esmas-activities/investors-and-issuers/credit-rating-agencies",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG"
+      ],
+      "matchedKeywords": [
+        "esg"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "esg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "798281428eef3afe",
+      "title": "CTA Portal",
+      "summary": "n.twig --> NGFS Scenarios Portal <li id=\"button-search-url\" class=\"cursor-pointer border",
+      "url": "https://fsi.bis.org/cta/",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "0634825cf3934425",
+      "title": "Data Directory",
+      "summary": "r text-lg-start d-lg-flex d-flex justify-content-lg-start justify-content-center nowrap\"> NGFS Scenarios Portal LinkedIn Twitter <!-- S",
+      "url": "https://ngfs.dev.masdkp.io/",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "f85a0b9d0b060c1a",
+      "title": "Data Reporting",
+      "summary": "nded=\"false\"> Data Toggle submenu Databases and Registers Data Quality and Use Statistical Information <li class=\"tbm-item level-3\" aria-lev",
+      "url": "https://www.esma.europa.eu/data-reporting",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "reporting"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bc7494327a8410a8",
+      "title": "Data Reporting Services Providers",
+      "summary": "pan12\"> Central Counterparties Trading Consolidated Tape Providers Post-trading <li class=\"",
+      "url": "https://www.esma.europa.eu/esmas-activities/markets-and-infrastructure/data-reporting-services-providers",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "reporting"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14faa7380a57243f",
+      "title": "Deposit Guarantee & Investors' Compensation",
+      "summary": "lass=\"nav navbar-nav navbar-right navbar-custom-media\"> Monetary Policy Licensing & Supervision Resolution Financial Stability Payment Systems & Services Financial Market Infrastructures & Payments Banknotes & Coins Search",
+      "url": "https://www.centralbank.cy/en/deposit-guarantee-investors-compensation-schemes",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement",
+        "Payments / Open Finance",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "payment",
+        "payments",
+        "payment systems",
+        "resolution",
+        "deposit guarantee"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payments",
+            "payment systems"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution",
+            "deposit guarantee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ff8ff746dc6927aa",
+      "title": "Digital Finance and Innovation",
+      "summary": "Sustainability Reporting Toggle submenu Digital Operational Resilience Act (DORA)",
+      "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Climate / ESG",
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "dora",
+        "digital operational resilience",
+        "digital operational resilience act",
+        "operational resilience",
+        "sustainability",
+        "reporting"
+      ],
+      "topicMatches": [
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "dora",
+            "digital operational resilience",
+            "digital operational resilience act",
+            "operational resilience"
+          ]
+        },
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "sustainability"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2773d8e19521e0b9",
+      "title": "Digital Operational Resilience Act (DORA)",
+      "summary": "Digital Finance and Innovation Toggle submenu DLT Pilot Regime Markets in Crypto-Assets Regulation (MiCA) <a href=\"/esmas-activities/supervision\" class=\"tbm-link leve",
+      "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/digital-operational-resilience-act-dora",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Crypto / Digital Assets",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "dora",
+        "digital operational resilience",
+        "digital operational resilience act",
+        "operational resilience",
+        "crypto",
+        "dlt",
+        "mica",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "dora",
+            "digital operational resilience",
+            "digital operational resilience act",
+            "operational resilience"
+          ]
+        },
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "crypto",
+            "dlt",
+            "mica"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e4b4bdb981e581a",
+      "title": "Discover the section",
+      "summary": "evron-left\" href=\"/sites/bdf_espaces2/themes/custom/bdf_espaces2/assets/icons/svg-sprite.svg#chevron-left\"> Back About us Origin and Purpose",
+      "url": "https://www.ngfs.net/en/about-us",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "87d855ea5c4608cc",
+      "title": "Discover the section",
+      "summary": "ron-left\" href=\"/sites/bdf_espaces2/themes/custom/bdf_espaces2/assets/icons/svg-sprite.svg#chevron-left\"> Back What we do Adaptation <li cl",
+      "url": "https://www.ngfs.net/en/what-we-do",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "1f70a2b0aef3cd6e",
+      "title": "Discover the section",
+      "summary": "eft\" href=\"/sites/bdf_espaces2/themes/custom/bdf_espaces2/assets/icons/svg-sprite.svg#chevron-left\"> Back News and events Press releases <li class=",
+      "url": "https://www.ngfs.net/en/news-and-events-0",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "d3b12350c3894de6",
+      "title": "Diversity, Equity and Inclusion",
+      "summary": "evel-3\" title=\"/work-programme\"> Strategy and Work Programme Working Methods International Cooperation Legal Notice and Data Protection Transparency and Access to Documents",
+      "url": "https://www.esma.europa.eu/about-esma/internal-organisation/diversity-equity-and-inclusion",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "transparency"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "transparency"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "113cc2d045d10a94",
+      "title": "DLT Pilot Regime",
+      "summary": "> Digital Operational Resilience Act (DORA) Markets in Crypto-Assets Regulation (MiCA) Supervision Toggle submenu <div class=\"",
+      "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/dlt-pilot-regime",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Crypto / Digital Assets",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "dora",
+        "digital operational resilience",
+        "digital operational resilience act",
+        "operational resilience",
+        "crypto",
+        "dlt",
+        "mica",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "dora",
+            "digital operational resilience",
+            "digital operational resilience act",
+            "operational resilience"
+          ]
+        },
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "crypto",
+            "dlt",
+            "mica"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bdd994a74d902e00",
+      "title": "DW Dynamic Works Ltd",
+      "summary": "div class=\"row copyright\"> Copyright &copy; 2026 CENTRAL BANK OF CYPRUS | Terms of Use | Privacy Policy Developed By: | Powered By: DWCMS (function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML=\"window.__CF$cv$params={r:'a08e79f3ef60d627',t:'MTc4MDk5MDcwMg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);\";b.",
+      "url": "http://www.dynamicworks.eu/",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Market Risk"
+      ],
+      "matchedKeywords": [
+        "var"
+      ],
+      "topicMatches": [
+        {
+          "id": "market-risk",
+          "label": "Market Risk",
+          "keywords": [
+            "var"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d8fe303ec211d6da",
+      "title": "Enforcement Convergence Initiatives",
+      "summary": "Supervisory Convergence Tools Sanctions and Enforcement Breach of Union Law Data Toggle submenu <div class=\"tbm-column-in",
+      "url": "https://www.esma.europa.eu/esmas-activities/supervision-and-convergence/enforcement-convergence-initiatives",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "sanctions",
+        "supervisory",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "sanctions"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "enforcement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "54dfcb1bcaacaf9e",
+      "title": "ESG Rating Providers",
+      "summary": "-link level-3\"> Benchmark Administrators Credit Rating Agencies External Reviewers of European Green Bonds Fund Management Issuer Disclosure <",
+      "url": "https://www.esma.europa.eu/esmas-activities/investors-and-issuers/esg-rating-providers",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG",
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "esg",
+        "disclosure"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "esg"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d16b6320ea091463",
+      "title": "ESMA's Activities",
+      "summary": "Careers Procurement Opportunities Toggle submenu Investors and Issuers Toggle submenu <div cla",
+      "url": "https://www.esma.europa.eu/esmas-activities",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "9b0eb836ac378f39",
+      "title": "Ethics and Conflicts of interest",
+      "summary": "sma/stakeholder-engagement/smsg\" class=\"tbm-link level-3\"> SMSG Board of Appeal Internal Organisation Toggle submenu <a href=\"/about-esma/internal-organisation/strategy-and-work-programme\" clas",
+      "url": "https://www.esma.europa.eu/about-esma/governance-structure/ethics-and-conflict-interests",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8bad554c3ce69654",
+      "title": "External Reviewers of European Green Bonds",
+      "summary": "s=\"tbm-link level-3\"> Credit Rating Agencies ESG Rating Providers Fund Management Issuer Disclosure Investment Services and Crowdfunding",
+      "url": "https://www.esma.europa.eu/esmas-activities/investors-and-issuers/external-reviewers-european-green-bonds",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG",
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "esg",
+        "disclosure"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "esg"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure"
           ]
         }
       ]
@@ -9315,6 +8965,103 @@
       ]
     },
     {
+      "id": "6b3318168364eed2",
+      "title": "Financial Market Infrastructures & Payments",
+      "summary": "on\" title=\"Resolution\">Resolution Financial Stability Deposit Guarantee & Investors' Compensation Payment Systems & Services Banknotes & Coins Search </",
+      "url": "https://www.centralbank.cy/en/financial-market-infrastructures-payments",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Payments / Open Finance",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "payment",
+        "payments",
+        "payment systems",
+        "resolution",
+        "deposit guarantee"
+      ],
+      "topicMatches": [
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payments",
+            "payment systems"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution",
+            "deposit guarantee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3851d53d6b890f8b",
+      "title": "Financial Stability",
+      "summary": "ank of Cyprus Monetary Policy Licensing & Supervision Resolution Deposit Guarantee & Investors' Compensation Payment Systems & Services Financial Market Infrastructures & Payments Banknotes & Coins <input type=\"text\" name=\"q\" placeholder=\"Search\" onBlur=\"if (thi",
+      "url": "https://www.centralbank.cy/en/financial-stability",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement",
+        "Payments / Open Finance",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "payment",
+        "payments",
+        "payment systems",
+        "resolution",
+        "deposit guarantee"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payments",
+            "payment systems"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution",
+            "deposit guarantee"
+          ]
+        }
+      ]
+    },
+    {
       "id": "0232828831cdc08e",
       "title": "Firms have improved but must do more to prevent sanctions breaches",
       "summary": "Financial firms have made progress in preventing sanctions breaches – with £37bn worth of assets frozen in the UK as of last year – but gaps remain, warns the FCA. The Office of Financial Sanctions Implementation (OFSI) and the Office of Trade Sanctions Implementation (OTSI) implement financial and trade sanctions. The FCA supports them through its role supervising firms within the financial services sector. This includes checking they have adequate sanctions systems and controls. Since February 2022, the FCA has proactively assessed the sanctions systems and controls of over 150 firms across a range of financial services sectors.",
@@ -9409,6 +9156,95 @@
       ]
     },
     {
+      "id": "22d98aa105d21ad0",
+      "title": "Fund Management",
+      "summary": "SG Rating Providers External Reviewers of European Green Bonds Issuer Disclosure Investment Services and Crowdfunding <a href=\"/esmas-activities/markets-and-infrastructure\" class=\"tbm-link level-2 tbm-",
+      "url": "https://www.esma.europa.eu/esmas-activities/investors-and-issuers/fund-management",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "disclosure"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d93cb8c703a34738",
+      "title": "Governance",
+      "summary": "stom-icon.twig --> Membership",
+      "url": "https://www.ngfs.net/en/about-us/governance",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "governance"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5575f25e9b817593",
+      "title": "Governance Structure",
+      "summary": "About ESMA Toggle submenu Toggle submenu Board of Supervisors Management Board",
+      "url": "https://www.esma.europa.eu/about-esma/governance-structure",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "governance",
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance",
+            "board"
+          ]
+        }
+      ]
+    },
+    {
       "id": "092c35d7e0667394",
       "title": "Halo Financial Limited enters administration",
       "summary": "On 29 May 2026, Halo Financial Limited (Halo) entered special administration. Louise Longley and Bai Cham of BTG Begbies Traynor (Central) LLP (Begbies) were appointed as joint special administrators. Halo is authorised by the FCA to provide payment services under the Payment Services Regulations 2017 (the PSRs). On 30 April 2026, Halo agreed to a voluntary undertaking, which restricted the activities it can carry out, including conducting payment services and accepting any additional funds. Find more details on the Financial Services Register. As Halo continues to be authorised by us, we will continue to engage with the special administrators and seek the best outcomes for consumers.",
@@ -9447,6 +9283,745 @@
           ]
         }
       ]
+    },
+    {
+      "id": "c45bae991005da44",
+      "title": "In Conversation With",
+      "summary": "stom-icon.twig --> Language: EN <!-- Icon atom: FILE NAME: * @bdf_espaces2/components/00-atoms/ic",
+      "url": "https://www.ngfs.net/en/news?category%5B5412710%5D=5412710&amp;start-date=&amp;end-date=",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "4024898d759211b7",
+      "title": "Interactive Dashboards",
+      "summary": "/risk-monitoring\" class=\"tbm-link level-3\"> Risk Monitoring Topical Analysis Sustainable Finance Toggle submenu <a href=\"/esmas-activities/sustainable-finance/climate-benchmarks-and-esg-d",
+      "url": "https://www.esma.europa.eu/esmas-activities/risk-analysis/interactive-dashboards",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "esg",
+        "sustainable finance"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate",
+            "esg",
+            "sustainable finance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e909f94bfc1b6656",
+      "title": "Internal Organisation",
+      "summary": "v> Ethics and Conflicts of interest Toggle submenu Strategy and Work Programme Working Methods <",
+      "url": "https://www.esma.europa.eu/about-esma/internal-organisation",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "2c8a9092414076d6",
+      "title": "International Cooperation",
+      "summary": "/a> Diversity, Equity and Inclusion Legal Notice and Data Protection Transparency and Access to Documents Agenda <li class=\"tbm-item level-2\" aria-lev",
+      "url": "https://www.esma.europa.eu/about-esma/international-cooperation",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "transparency"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "transparency"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a299bed206a0b600",
+      "title": "Investigations and Inspections",
+      "summary": "pan12\"> Registration with ESMA Supervisory Convergence Tools Sanctions and Enforcement Enforcement C",
+      "url": "https://www.esma.europa.eu/esmas-activities/supervision-and-convergence/investigations-and-inspections",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "sanctions",
+        "supervisory",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "sanctions"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "enforcement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5a63908a18dd0971",
+      "title": "Investment Services and Crowdfunding",
+      "summary": "gement\" class=\"tbm-link level-3\"> Fund Management Issuer Disclosure Markets and Infrastructure Toggle submenu <a href=\"/esmas-activities/markets-and-infrastructure/centra",
+      "url": "https://www.esma.europa.eu/esmas-activities/investors-and-issuers/investment-services-and-crowdfunding",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "disclosure"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "febb1b300eaf5922",
+      "title": "Investment Services and Fund Management",
+      "summary": "\"> Climate benchmarks and ESG disclosure CRAs and Sustainability Sustainability Reporting Digital Finance and Innovation Toggle submenu <div class=\"tbm-",
+      "url": "https://www.esma.europa.eu/esmas-activities/sustainable-finance/investment-services-and-fund-management",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG",
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "esg",
+        "sustainability",
+        "reporting",
+        "disclosure"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate",
+            "esg",
+            "sustainability"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting",
+            "disclosure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6aafe852ae33274b",
+      "title": "Investors and Issuers",
+      "summary": ";s Activities Toggle submenu Toggle submenu Benchmark Administrators Credit Rating Agencies",
+      "url": "https://www.esma.europa.eu/esmas-activities/investors-and-issuers",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "02be2cd9757d819f",
+      "title": "Issuer Disclosure",
+      "summary": "k level-3\"> External Reviewers of European Green Bonds Fund Management Investment Services and Crowdfunding Markets and Infrastructure Toggle submenu",
+      "url": "https://www.esma.europa.eu/esmas-activities/investors-and-issuers/issuer-disclosure",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "disclosure"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1a0775eb5a76404c",
+      "title": "Joint Committee",
+      "summary": "gement-board\" class=\"tbm-link level-3\"> Management Board Senior Management CCP Supervisory Committee CCP Resolution Committee Joint Monitoring Mechanism",
+      "url": "https://www.esma.europa.eu/about-esma/governance-structure/joint-committee",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "board",
+        "senior management",
+        "supervisory",
+        "resolution"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board",
+            "senior management"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2f8a290bf0f168b8",
+      "title": "Joint Monitoring Mechanism",
+      "summary": "bm-link level-3\"> CCP Supervisory Committee CCP Resolution Committee Standing Committees SMSG Board of Appeal <div class=\"",
+      "url": "https://www.esma.europa.eu/about-esma/governance-structure/joint-monitoring-mechanism",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "board",
+        "supervisory",
+        "resolution"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "655246f4dd4a03bd",
+      "title": "Licensing & Supervision",
+      "summary": "ntral Bank of Cyprus\"> Central Bank of Cyprus Monetary Policy Resolution Financial Stability Deposit Guarantee & Investors' Compensation Payment Systems & Services Financial Market Infrastructures & Payments Banknotes & Coins <form action=\"/google-search",
+      "url": "https://www.centralbank.cy/en/licensing-supervision",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement",
+        "Payments / Open Finance",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "payment",
+        "payments",
+        "payment systems",
+        "resolution",
+        "deposit guarantee"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payments",
+            "payment systems"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution",
+            "deposit guarantee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dd44cd7ab91b8f84",
+      "title": "Management Board",
+      "summary": "ss=\"tbm-column span12\"> Board of Supervisors Senior Management Joint Committee CCP Supervisory Committee <li class=\"tbm-item level",
+      "url": "https://www.esma.europa.eu/about-esma/governance-structure/management-board",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "senior management",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board",
+            "senior management"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7b4ef3eef1c9802d",
+      "title": "Market Integrity",
+      "summary": "Post-trading Shortening the settlement cycle to T+1 in the EU Short Selling Central Securities Depositories Securitisation </l",
+      "url": "https://www.esma.europa.eu/esmas-activities/markets-and-infrastructure/market-integrity",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "settlement"
+      ],
+      "topicMatches": [
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "settlement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "67afaacae0aba0e7",
+      "title": "Markets and Infrastructure",
+      "summary": "Investment Services and Crowdfunding Toggle submenu Central Counterparties Data Reporting Servi",
+      "url": "https://www.esma.europa.eu/esmas-activities/markets-and-infrastructure",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "reporting"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c6879ccf81c2999e",
+      "title": "Markets in Crypto-Assets Regulation (MiCA)",
+      "summary": "> Digital Operational Resilience Act (DORA) DLT Pilot Regime Supervision Toggle submenu <a href=\"/esmas-activities/supervision-and-convergence/registration-with-ESMA\" class=\"tbm-",
+      "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Crypto / Digital Assets",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "dora",
+        "digital operational resilience",
+        "digital operational resilience act",
+        "operational resilience",
+        "crypto",
+        "dlt",
+        "mica",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "dora",
+            "digital operational resilience",
+            "digital operational resilience act",
+            "operational resilience"
+          ]
+        },
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "crypto",
+            "dlt",
+            "mica"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3be54753f254e531",
+      "title": "Membership",
+      "summary": "stom-icon.twig --> Join us",
+      "url": "https://www.ngfs.net/en/about-us/membership",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "06cf302bde58a115",
+      "title": "Monetary Policy",
+      "summary": "Central Bank of Cyprus Licensing & Supervision Resolution Financial Stability Deposit Guarantee & Investors' Compensation Payment Systems & Services Financial Market Infrastructures & Payments <a href=\"/en/banknotes-and-coins\" title=\"Bank",
+      "url": "https://www.centralbank.cy/en/monetary-policy",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement",
+        "Payments / Open Finance",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "payment",
+        "payments",
+        "payment systems",
+        "resolution",
+        "deposit guarantee"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payments",
+            "payment systems"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution",
+            "deposit guarantee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6ffbd0140ce0f13f",
+      "title": "Monetary Policy",
+      "summary": "stom-icon.twig --> Nature-related Risks <li class=\"px-0 nav-ite",
+      "url": "https://www.ngfs.net/en/what-we-do/monetary-policy",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG"
+      ],
+      "matchedKeywords": [
+        "nature-related",
+        "nature related"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "nature-related",
+            "nature related"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3b648fb3fe0055fb",
+      "title": "Nature-related Risks",
+      "summary": "stom-icon.twig --> Net Zero for Central Banks <li class=\"px-0",
+      "url": "https://www.ngfs.net/en/what-we-do/nature-related-risks",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG"
+      ],
+      "matchedKeywords": [
+        "nature-related",
+        "nature related",
+        "net zero"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "nature-related",
+            "nature related",
+            "net zero"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "38ba4d64e1723134",
+      "title": "Net Zero for Central Banks",
+      "summary": "stom-icon.twig --> Research",
+      "url": "https://www.ngfs.net/en/what-we-do/net-zero-central-banks",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG"
+      ],
+      "matchedKeywords": [
+        "net zero"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "net zero"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c99c2a974fefd4ce",
+      "title": "NGFS Scenarios Portal",
+      "summary": "svg class=\"custom-icon custom-icon--pin-outline text-primary-l1 fs-7 ms-lg-1\" aria-hidden=\"true\" > Search",
+      "url": "https://www.ngfs.net/ngfs-scenarios-portal/",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
     },
     {
       "id": "141c005681803884",
@@ -9489,6 +10064,354 @@
       ]
     },
     {
+      "id": "386a14aec3692f69",
+      "title": "Origin and Purpose",
+      "summary": "About us Discover the section Governance",
+      "url": "https://www.ngfs.net/en/about-us/origin-and-purpose",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "governance"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "75703ec051db6110",
+      "title": "Payment Systems & Services",
+      "summary": "/licensing-supervision\" title=\"Licensing & Supervision\">Licensing & Supervision Resolution Financial Stability Deposit Guarantee & Investors' Compensation Financial Market Infrastructures & Payments Banknotes & Coins Search",
+      "url": "https://www.centralbank.cy/en/payment-systems-services",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement",
+        "Payments / Open Finance",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "payment",
+        "payments",
+        "payment systems",
+        "resolution",
+        "deposit guarantee"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payments",
+            "payment systems"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution",
+            "deposit guarantee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c6cd58b3df75cd25",
+      "title": "Post-trading",
+      "summary": "bm-link level-3\"> Trading Consolidated Tape Providers Shortening the settlement cycle to T+1 in the EU Market Integrity Short Selling",
+      "url": "https://www.esma.europa.eu/esmas-activities/markets-and-infrastructure/post-trading",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "settlement"
+      ],
+      "topicMatches": [
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "settlement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4fe4ff45431452b7",
+      "title": "Press Release",
+      "summary": "tion(result) { $('#searchResultsAnouncment').html(result); }).fail(function() { console.log(\"error\"); }); } }); Report of an alleged infringement Report of an alleged infringement The Central Bank of Cyprus (CBC) was established in 1963, shortly after Cyprus gained its independence, in accordance with the Central Bank of Cyprus Law, 1963 and the relevant articles of the Constitution. Today the CBC is governed by the Central Bank of Cyprus Law, 2002 as amended (hereafter “the CBC Law”).",
+      "url": "https://www.centralbank.cy/en/announcements/report-of-an-alleged-infringement-06-10-2021",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04323ae7a4a10cd7",
+      "title": "Press releases",
+      "summary": "News and events Discover the section News",
+      "url": "https://www.ngfs.net/en/press-release",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "a993a71835c4cf39",
+      "title": "Procurement Opportunities",
+      "summary": "tbm-link-container\"> Agenda Careers ESMA's Activities Toggle submenu <a href=\"/esmas-activities/investors-and-issuers\" class=\"tbm-link le",
+      "url": "https://www.esma.europa.eu/about-esma/procurements",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "55c258691b2f4fb6",
+      "title": "Publications",
+      "summary": "en=\"true\" > News and events <input t",
+      "url": "https://www.ngfs.net/en/publications-and-statistics/ngfs-publications",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "dff1eed184cb4e73",
+      "title": "Reference Interest Rates",
+      "summary": "\"/en/payment-systems-services\" title=\"Payment Systems & Services\" target=\"_self\">Payment Systems & Services Financial Market Infrastructures & Payments Banknotes & Coins Contact Details TELEPHONE: +357 22 71 41 00 POSTAL ADDRESS: 80, KENNEDY AVENUE, CY-1076 NICOSIA P. O. BOX 25529, CY-1395 NICOSIA Get in touch Copyright &copy; 2026 CENTRAL BANK OF CYPRUS | Terms of Use | <a href=\"/en/data-protection\" target=\"_blank",
+      "url": "https://www.centralbank.cy/en/reference-interest-rates",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "payment",
+        "payments",
+        "payment systems"
+      ],
+      "topicMatches": [
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payments",
+            "payment systems"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1c4c21b337c693f5",
+      "title": "Registration with ESMA",
+      "summary": "alse\"> Supervision Toggle submenu Investigations and Inspections Supervisory Convergence Tools Sanctions and",
+      "url": "https://www.esma.europa.eu/esmas-activities/supervision-and-convergence/registration-with-ESMA",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "sanctions",
+        "supervision",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "sanctions"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be13133df4067b66",
+      "title": "Report of an alleged infringement",
+      "summary": "console.log(\"error\"); }); } }); Press Release Report of an alleged infringement The Central Bank of Cyprus (CBC) was established in 1963, shortly after Cyprus gained its independence, in accordance with the Central Bank of Cyprus Law, 1963 and the relevant articles of the Constitution. Today the CBC is governed by the Central Bank of Cyprus Law, 2002 as amended (hereafter “the CBC Law”). Quick Links Home <a href=\"/en/the-bank\" ti",
+      "url": "https://www.centralbank.cy/images/media/redirectfile/Report_of_an_alleged_infringement_Eng.pdf",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [
+        "https://www.centralbank.cy/images/media/redirectfile/Report_of_an_alleged_infringement_Eng.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "139f67dd44bdfe0f",
+      "title": "Resolution",
+      "summary": "visually-impaired-brand\" href=\"/en/home\" title=\" Central Bank of Cyprus\"> Central Bank of Cyprus Monetary Policy Licensing & Supervision Financial Stability Deposit Guarantee & Investors' Compensation Payment Systems & Services Financial Market Infrastructures & Payments Banknotes & Coins <div class=\"search",
+      "url": "https://www.centralbank.cy/en/resolution",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement",
+        "Payments / Open Finance",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "payment",
+        "payments",
+        "payment systems",
+        "resolution",
+        "deposit guarantee"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payments",
+            "payment systems"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution",
+            "deposit guarantee"
+          ]
+        }
+      ]
+    },
+    {
       "id": "f011c8418d033256",
       "title": "Review of financial promotion approvers finds some firms need to raise standards",
       "summary": "Firms that approve financial promotions should be doing more to protect consumers, an FCA review has found. The FCA found that the strongest firms were applying the Consumer Duty from the start of their processes. They were able to make sure that every promotion approved was accurate, clear and reached the right audience. However, the FCA also found that some firms approved adverts with unsubstantiated claims or allowed retail investors to see promotions intended for professional clients. In some cases, firms relied on third-party templates instead of doing proper checks themselves. The review focussed on sampling promotions that had been approved since the firm was authorised.",
@@ -9526,6 +10449,233 @@
           "label": "Governance",
           "keywords": [
             "conduct"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5b4836b91fa4fa95",
+      "title": "Risk Analysis",
+      "summary": "Trade Repositories Toggle submenu Risk Monitoring Topical Analysis <li cl",
+      "url": "https://www.esma.europa.eu/esmas-activities/risk-analysis",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "0988449001f26b60",
+      "title": "Risk Monitoring",
+      "summary": "se\"> Risk Analysis Toggle submenu Topical Analysis Interactive Dashboards Sustai",
+      "url": "https://www.esma.europa.eu/esmas-activities/risk-analysis/risk-monitoring",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "3074166cadc51377",
+      "title": "Sanctions and Enforcement",
+      "summary": "Investigations and Inspections Supervisory Convergence Tools Enforcement Convergence Initiatives Breach of Union Law <a href=\"/esmas-activities/data\" class=\"tbm-link level-2 tbm-toggle\" aria-expanded=\"fal",
+      "url": "https://www.esma.europa.eu/esmas-activities/supervision-and-convergence/sanctions-and-enforcement",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "sanctions",
+        "supervisory",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "sanctions"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "enforcement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "93615c0f521e2a48",
+      "title": "Scenario Design and Analysis",
+      "summary": "stom-icon.twig --> Supervision",
+      "url": "https://www.ngfs.net/en/what-we-do/scenario-design-and-analysis",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c94f0299aa7f781f",
+      "title": "Securitisation",
+      "summary": "3\"> Short Selling Central Securities Depositories Trade Repositories Risk Analysis Toggle submenu <div class=\"tbm-column spa",
+      "url": "https://www.esma.europa.eu/esmas-activities/markets-and-infrastructure/securitisation",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "8961ec94c4f6bec2",
+      "title": "Senior Management",
+      "summary": "upervisors\" class=\"tbm-link level-3\"> Board of Supervisors Management Board Joint Committee CCP Supervisory Committee CCP Resolution Committee <li class=\"",
+      "url": "https://www.esma.europa.eu/about-esma/governance-structure/senior-management",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "board",
+        "senior management",
+        "supervisory",
+        "resolution"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board",
+            "senior management"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bf5de0b4d519f398",
+      "title": "Short Selling",
+      "summary": "Shortening the settlement cycle to T+1 in the EU Market Integrity Central Securities Depositories Securitisation Trade Repositories </div",
+      "url": "https://www.esma.europa.eu/esmas-activities/markets-and-infrastructure/short-selling",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "settlement"
+      ],
+      "topicMatches": [
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "settlement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5138b61156fdf1e4",
+      "title": "Shortening the settlement cycle to T+1 in the EU",
+      "summary": "class=\"tbm-link level-3\"> Consolidated Tape Providers Post-trading Market Integrity Short Selling Central Securities Depositories",
+      "url": "https://www.esma.europa.eu/esmas-activities/markets-and-infrastructure/shortening-settlement-cycle-t1-eu",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "settlement"
+      ],
+      "topicMatches": [
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "settlement"
           ]
         }
       ]
@@ -9665,6 +10815,61 @@
       ]
     },
     {
+      "id": "5bd52b834ce2060c",
+      "title": "Standing Committees",
+      "summary": "link level-3\"> CCP Resolution Committee Joint Monitoring Mechanism SMSG Board of Appeal Ethics and Conflicts of interest",
+      "url": "https://www.esma.europa.eu/about-esma/governance-structure/standing-committees",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "board",
+        "resolution"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8f1ca5786dd01249",
+      "title": "Strategy and Work Programme",
+      "summary": "Internal Organisation Toggle submenu Working Methods Diversity, Equity and Inclusion International Cooperation",
+      "url": "https://www.esma.europa.eu/about-esma/internal-organisation/strategy-and-work-programme",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
       "id": "b7439ff3d1a3baf1",
       "title": "Sukate & Bezeboh Ltd enters administration",
       "summary": "On 22 May 2026, Sukate & Bezeboh Ltd (SB Remit) entered administration. Charles Turner and Frank Ofonagoro were appointed as joint administrators. SB Remit is a small payment institution authorised by the FCA to provide payment services. On 13 May 2026, SB Remit agreed to a voluntary undertaking, which restricted the activities it could undertake. These measures included restrictions preventing the firm from accepting new customer funds. On 22 May 2026, Charles Turner and Frank Ofonagoro of Opus Restructuring LLP were appointed as joint administrators. Further details of the restrictions placed on the firm are available on the Financial Services Register.",
@@ -9700,6 +10905,348 @@
           "keywords": [
             "payment",
             "payment services"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07cbab11090dc91a",
+      "title": "Supervision",
+      "summary": "\"tbm-item level-3\" aria-level=\"3\" > Markets in Crypto-Assets Regulation (MiCA) Toggle submenu Registration with ESMA Investigations and Ins",
+      "url": "https://www.esma.europa.eu/esmas-activities/supervision",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Crypto / Digital Assets",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "crypto",
+        "mica",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "crypto",
+            "mica"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bb61cf348cb5c10e",
+      "title": "Supervision",
+      "summary": "stom-icon.twig --> Publications",
+      "url": "https://www.ngfs.net/en/what-we-do/supervision",
+      "sourceId": "ngfs-publications",
+      "sourceName": "NGFS Publications",
+      "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "647ad132046db2fb",
+      "title": "Supervisory Convergence Tools",
+      "summary": "Registration with ESMA Investigations and Inspections Sanctions and Enforcement Enforcement Convergence Initiatives Breach of Union Law",
+      "url": "https://www.esma.europa.eu/esmas-activities/supervision-and-convergence/supervisory-convergence-tools",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "sanctions",
+        "supervisory",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "sanctions"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "enforcement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5b303e5edb88caee",
+      "title": "Sustainability Reporting",
+      "summary": "CRAs and Sustainability Investment Services and Fund Management Digital Finance and Innovation Toggle submenu <a href=\"/esmas-activities/digital-finance-and-innova",
+      "url": "https://www.esma.europa.eu/esmas-activities/sustainable-finance/sustainability-reporting",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG",
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "sustainability",
+        "reporting"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "sustainability"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fab2c3f61ad25aa9",
+      "title": "Sustainable Finance",
+      "summary": "> Interactive Dashboards Toggle submenu Climate benchmarks and ESG disclosure CRAs and Sustai",
+      "url": "https://www.esma.europa.eu/esmas-activities/sustainable-finance",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG",
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "esg",
+        "sustainable finance",
+        "disclosure"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate",
+            "esg",
+            "sustainable finance"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2eb734772471f85c",
+      "title": "Terms of Use",
+      "summary": "41 00 POSTAL ADDRESS: 80, KENNEDY AVENUE, CY-1076 NICOSIA P. O. BOX 25529, CY-1395 NICOSIA Get in touch Copyright &copy; 2026 CENTRAL BANK OF CYPRUS | | Privacy Policy Developed By: DW Dynamic Works Ltd | Powered By: DWCMS (function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML=\"window.__CF$cv$params={r:'a08e79f3ef60d627',t:'MTc4MDk5MDcwMg=='};var a=document.createElement('script');a.",
+      "url": "https://www.centralbank.cy/en/terms-of-use",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Market Risk"
+      ],
+      "matchedKeywords": [
+        "var"
+      ],
+      "topicMatches": [
+        {
+          "id": "market-risk",
+          "label": "Market Risk",
+          "keywords": [
+            "var"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "662bc4f6753bb09f",
+      "title": "The Governor",
+      "summary": "the Central Bank of Cyprus Law, 2002 as amended (hereafter “the CBC Law”). Quick Links Home The Bank Calendar of CBC Officials Monetary Policy Licensing & Supervision Financial Stability Administrative Sanctions & Measures <a href=\"/en/payment-systems-services\" title=\"Payment Systems & Servi",
+      "url": "https://www.centralbank.cy/en/the-governor",
+      "sourceId": "central-bank-cyprus-announcements",
+      "sourceName": "Central Bank of Cyprus Announcements",
+      "institution": "Central Bank of Cyprus",
+      "region": "Cyprus",
+      "jurisdiction": "Cyprus",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "sanctions",
+        "supervision",
+        "payment",
+        "payment systems"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "sanctions"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payment systems"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6fab4a73832fcfd6",
+      "title": "Topical Analysis",
+      "summary": "Risk Monitoring Interactive Dashboards Sustainable Finance Toggle submenu <div class=\"tbm-col",
+      "url": "https://www.esma.europa.eu/esmas-activities/risk-analysis/topical-analysis",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG"
+      ],
+      "matchedKeywords": [
+        "sustainable finance"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "sustainable finance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9e412c5383e47433",
+      "title": "Trade Repositories",
+      "summary": "\"tbm-link level-3\"> Central Securities Depositories Securitisation Risk Analysis Toggle submenu",
+      "url": "https://www.esma.europa.eu/esmas-activities/markets-and-infrastructure/trade-repositories",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
+    },
+    {
+      "id": "10ecbcf960c91241",
+      "title": "Transparency and Access to Documents",
+      "summary": "l-2\"> International Cooperation Legal Notice and Data Protection Agenda Careers Procurement Opportunities <div",
+      "url": "https://www.esma.europa.eu/about-esma/transparency-and-access-documents",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "transparency"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "transparency"
           ]
         }
       ]
@@ -9741,6 +11288,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "240c419c9ecf522b",
+      "title": "Working Methods",
+      "summary": "tbm-column-inner\"> Strategy and Work Programme Diversity, Equity and Inclusion International Cooperation Legal Notice and Da",
+      "url": "https://www.esma.europa.eu/about-esma/internal-organisation/working-methods",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": []
     }
   ]
 }
