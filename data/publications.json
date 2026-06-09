@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-09T08:36:46.602Z",
+  "generatedAt": "2026-06-09T08:44:20.541Z",
   "totalPublications": 274,
-  "sourceCount": 16,
+  "sourceCount": 17,
   "successfulSources": 12,
-  "warningSources": 3,
-  "failedSources": 1,
+  "warningSources": 5,
+  "failedSources": 0,
   "sourceStatus": [
     {
       "id": "ecb-press",
@@ -101,10 +101,10 @@
       "name": "Central Bank of Cyprus Announcements",
       "institution": "Central Bank of Cyprus",
       "region": "Cyprus",
-      "status": "failed",
-      "parserMode": null,
+      "status": "warning",
+      "parserMode": "html-list-empty",
       "itemCount": 0,
-      "message": "No valid dated publication items found on official HTML page."
+      "message": "Official source reached, but no matching publication items were extracted today."
     },
     {
       "id": "federal-reserve-press",
@@ -150,6 +150,16 @@
       "id": "ngfs-publications",
       "name": "NGFS Publications",
       "institution": "Network for Greening the Financial System",
+      "region": "Global",
+      "status": "warning",
+      "parserMode": "html-list-empty",
+      "itemCount": 0,
+      "message": "Official source reached, but no matching publication items were extracted today."
+    },
+    {
+      "id": "ifrs-foundation-news",
+      "name": "IFRS Foundation News",
+      "institution": "IFRS Foundation",
       "region": "Global",
       "status": "warning",
       "parserMode": "html-list-empty",

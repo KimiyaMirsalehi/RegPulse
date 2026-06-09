@@ -63,7 +63,8 @@
     "type": "html-list",
     "url": "https://www.esma.europa.eu/press-news/esma-news",
     "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-    "notes": "Official ESMA News page."
+    "allowEmpty": true,
+    "notes": "Official ESMA News page. Strict parser only accepts dated ESMA news article links."
   },
   {
     "id": "fca-news",
@@ -107,7 +108,8 @@
     "type": "html-list",
     "url": "https://www.centralbank.cy/en/announcements",
     "officialSourcePage": "https://www.centralbank.cy/en/announcements",
-    "notes": "Official Central Bank of Cyprus announcements page."
+    "allowEmpty": true,
+    "notes": "Official Central Bank of Cyprus announcements page. Strict parser only accepts dated announcement article links."
   },
   {
     "id": "federal-reserve-press",
@@ -163,7 +165,19 @@
     "url": "https://www.ngfs.net/en/publications-and-statistics/ngfs-publications",
     "officialSourcePage": "https://www.ngfs.net/en/publications-and-statistics/ngfs-publications",
     "allowEmpty": true,
-    "notes": "Official NGFS publications page. Non-failing if static HTML exposes no dated items."
+    "notes": "Official NGFS publications page. Strict parser only accepts dated publication article links."
+  },
+  {
+    "id": "ifrs-foundation-news",
+    "name": "IFRS Foundation News",
+    "institution": "IFRS Foundation",
+    "region": "Global",
+    "jurisdiction": "Global",
+    "type": "html-list",
+    "url": "https://www.ifrs.org/news-and-events/news/",
+    "officialSourcePage": "https://www.ifrs.org/news-and-events/news/",
+    "allowEmpty": true,
+    "notes": "Official IFRS Foundation news page. Strict parser only accepts dated IFRS news article links."
   },
   {
     "id": "basel-committee-bis",
