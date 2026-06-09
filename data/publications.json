@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T08:02:21.326Z",
+  "generatedAt": "2026-06-09T08:03:24.862Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 14,
@@ -693,7 +693,7 @@
   ],
   "publications": [
     {
-      "id": "bcdb5ae94e427c01",
+      "id": "8f71c232f857301a",
       "title": "European Commission launches call for candidates for the ESAs’ Board of Appeal",
       "summary": "The European Commission has launched a call for expression of interest for the appointment",
       "url": "https://www.esma.europa.eu/press-news/esma-news/european-commission-launches-call-candidates-esas-board-appeal",
@@ -705,7 +705,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-12-04T22:00:00.000Z",
+      "publishedAt": "2026-12-05T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
         "Governance"
@@ -724,7 +724,7 @@
       ]
     },
     {
-      "id": "fd7113c53f8b6b64",
+      "id": "5a83bbe6a48c34a9",
       "title": "ESMA identifies areas for further supervisory convergence on compliance and internal audit in the funds sector",
       "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
       "url": "https://www.esma.europa.eu/press-news/esma-news/esma-identifies-areas-further-supervisory-convergence-compliance-and-internal",
@@ -736,7 +736,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-04T22:00:00.000Z",
+      "publishedAt": "2026-11-05T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
@@ -6292,7 +6292,7 @@
       ]
     },
     {
-      "id": "00b9275eff141d5c",
+      "id": "30dd04d3cbe71808",
       "title": "Εθελοντική Αιμοδοσία στην Κεντρική Τράπεζα της Κύπρου",
       "summary": "",
       "url": "https://www.centralbank.cy/el/announcements",
@@ -6304,7 +6304,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-03-18T22:00:00.000Z",
+      "publishedAt": "2026-03-19T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -6587,7 +6587,7 @@
       ]
     },
     {
-      "id": "d5546c86dfbc589d",
+      "id": "50fd93b9858154b1",
       "title": "Aggregate Cyprus banking sector data (profitability, balance sheet and capital adequacy data) with reference date...",
       "summary": "",
       "url": "https://www.centralbank.cy/en/announcements",
@@ -6599,7 +6599,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-03-16T22:00:00.000Z",
+      "publishedAt": "2026-03-17T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
@@ -6626,7 +6626,7 @@
       ]
     },
     {
-      "id": "f8d36465f370c752",
+      "id": "4cce82ffd7a28c43",
       "title": "ESAs publish the first report on DORA major ICT-related incidents",
       "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA) today published their",
       "url": "https://www.esma.europa.eu/press-news/esma-news/esas-publish-first-report-dora-major-ict-related-incidents",
@@ -6638,7 +6638,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-03-05T22:00:00.000Z",
+      "publishedAt": "2026-03-06T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
         "DORA / Operational Resilience",
@@ -7063,7 +7063,7 @@
       ]
     },
     {
-      "id": "50fa9585a835ecd0",
+      "id": "0c391b18c031cd8a",
       "title": "The GMTF presents its findings on EU gas and gas derivative markets",
       "summary": "The Gas Market Task Force (GMTF), has published today a",
       "url": "https://www.esma.europa.eu/press-news/esma-news/gmtf-presents-its-findings-eu-gas-and-gas-derivative-markets",
@@ -7075,7 +7075,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-02-05T22:00:00.000Z",
+      "publishedAt": "2026-02-06T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
@@ -7597,7 +7597,7 @@
       "topicMatches": []
     },
     {
-      "id": "ebae215825bf4533",
+      "id": "f63d18938b74a8c0",
       "title": "ESMA publishes latest edition of its newsletter",
       "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
       "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-43",
@@ -7609,7 +7609,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-01-05T22:00:00.000Z",
+      "publishedAt": "2026-01-06T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
@@ -8701,6 +8701,46 @@
       ]
     },
     {
+      "id": "1059e099b485fade",
+      "title": "FCA proposes changes to help more people access mortgages",
+      "summary": "First-time buyers, older borrowers and the self-employed could find it easier to get a mortgage, as the FCA sets out next steps to help reform the market. Its proposed mortgage rule changes would give lenders more flexibility to consider individual circumstances and develop products that better meet people's needs – while maintaining strong consumer protections. They include:Reducing barriers for lenders to offer flexible repayments for people with variable income, like the self-employed, and lend to those paid in foreign currency.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-proposals-help-more-access-mortgages",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ]
+    },
+    {
       "id": "fc5024863a70d612",
       "title": "FCA secures confiscation order against Ponzi scheme fraudster",
       "summary": "The FCA has secured a confiscation order of £452,286.80 against convicted fraudster Daniel Pugh. Mr Pugh, 36, is serving a 7 years and 6 months prison sentence for defrauding investors out of £1.3m. Run from his bedroom in Devon, Pugh used Facebook adverts to target investors and promised them wholly unrealistic returns, claiming these would be generated by trading across various markets. Only 19% of the funds collected from investors were traded and the scheme was, in effect, a Ponzi scheme, which was run with another individual. At a hearing at Southwark Crown Court on 5 June 2026, Mr Pugh was ordered to pay £452,286.80.",
@@ -8776,46 +8816,6 @@
           "label": "Supervision / Enforcement",
           "keywords": [
             "authorisation"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d3cd995123434233",
-      "title": "FCA to hold Annual Public Meeting in Edinburgh",
-      "summary": "We’re pleased to announce that our Annual Public Meeting (APM) will be held in Edinburgh for the first time on 6 October 2026, marking an important milestone for us a UK-wide regulator. The announcement coincides with a visit to Edinburgh on 26 May by our chair Ashley Alder, who was there to open a new office space, demonstrating our commitment to growing our presence in Scotland, and expanding our workforce of more than 350 colleagues. Edinburgh continues to strengthen its position in global financial centre rankings, underlining Scotland’s importance to the UK’s financial services sector and its international competitiveness.",
-      "url": "https://www.fca.org.uk/news/news-stories/fca-annual-public-meeting-edinburgh",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
           ]
         }
       ]
