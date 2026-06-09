@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import publicationsData from '../data/publications.json';
 
 const PAGE_SIZE = 10;
@@ -42,10 +42,18 @@ const WORD_CLOUD_STOP_WORDS = new Set([
   'your'
 ]);
 
+const BAD_HTML_TITLE_PATTERN =
+  /toggle navigation|benchmark administrators|climate benchmarks|cras and sustainability|credit rating agencies|digital finance|esg rating providers|external reviewers|banknotes|calendar of cbc officials|administrative sanctions|discover the section|cta portal|data directory|capacity building|adaptation$/i;
+
+const HTML_LIST_SOURCE_IDS = new Set([
+  'esma-news',
+  'central-bank-cyprus-announcements',
+  'ngfs-publications',
+  'ifrs-foundation-news'
+]);
+
 function normaliseValue(value) {
-  return String(value || '')
-    .trim()
-    .toLowerCase();
+  return String(value || '').trim().toLowerCase();
 }
 
 function valuesAreEqual(a, b) {
@@ -86,6 +94,41 @@ function getPublicationKeywords(publication) {
     .filter(Boolean);
 }
 
+function getPublicationUrl(publication) {
+  return (
+    publication.url ||
+    publication.link ||
+    publication.sourcePageUrl ||
+    publication.officialSourcePage ||
+    ''
+  );
+}
+
+function getSourcePageUrl(publication) {
+  return publication.sourcePageUrl || publication.officialSourcePage || '';
+}
+
+function getPdfLinks(publication) {
+  if (!Array.isArray(publication.pdfLinks)) return [];
+
+  return publication.pdfLinks
+    .filter(Boolean)
+    .map((link) => String(link).trim())
+    .filter(Boolean);
+}
+
+function isBadHtmlPublication(publication) {
+  if (!HTML_LIST_SOURCE_IDS.has(publication.sourceId)) {
+    return false;
+  }
+
+  if (!publication.publishedAt) {
+    return true;
+  }
+
+  return BAD_HTML_TITLE_PATTERN.test(publication.title || '');
+}
+
 function publicationMatchesSearch(publication, searchTerm) {
   const normalisedSearch = searchTerm.trim().toLowerCase();
 
@@ -98,6 +141,7 @@ function publicationMatchesSearch(publication, searchTerm) {
     publication.sourceName,
     publication.region,
     publication.jurisdiction,
+    getPublicationUrl(publication),
     ...getPublicationTopics(publication),
     ...getPublicationKeywords(publication)
   ]
@@ -109,13 +153,11 @@ function publicationMatchesSearch(publication, searchTerm) {
 
 function publicationMatchesSelectedRegion(publication, selectedRegion) {
   if (selectedRegion === 'All') return true;
-
   return valuesAreEqual(publication.region, selectedRegion);
 }
 
 function publicationMatchesSelectedInstitution(publication, selectedInstitution) {
   if (selectedInstitution === 'All') return true;
-
   return valuesAreEqual(publication.institution, selectedInstitution);
 }
 
@@ -158,6 +200,10 @@ function publicationMatchesSelectedDateRange(publication, selectedDateRange) {
 }
 
 function publicationMatchesAllFilters(publication, filters) {
+  if (isBadHtmlPublication(publication)) {
+    return false;
+  }
+
   return (
     publicationMatchesSearch(publication, filters.searchTerm) &&
     publicationMatchesSelectedRegion(publication, filters.selectedRegion) &&
@@ -198,6 +244,14 @@ function getUniqueTopics(publications) {
   return Array.from(topics).sort();
 }
 
+function normaliseSourceStatusList(value) {
+  return Array.isArray(value) ? value : [];
+}
+
+function countSourceStatus(sourceStatus, status) {
+  return sourceStatus.filter((source) => source.status === status).length;
+}
+
 function makePublicationRenderKey(publication, index, filters) {
   return [
     filters.selectedRegion,
@@ -205,11 +259,12 @@ function makePublicationRenderKey(publication, index, filters) {
     filters.selectedTopic,
     filters.selectedKeyword,
     filters.selectedDateRange,
+    publication.id,
     publication.sourceId,
     publication.institution,
     publication.region,
     publication.publishedAt,
-    publication.link,
+    getPublicationUrl(publication),
     publication.title,
     index
   ]
@@ -219,13 +274,18 @@ function makePublicationRenderKey(publication, index, filters) {
 
 function getTopicMatchesForDisplay(publication, selectedTopic) {
   const visibleTopics = getPublicationTopics(publication);
-
   let topicMatches = [];
 
   if (Array.isArray(publication.topicMatches) && publication.topicMatches.length > 0) {
-    topicMatches = publication.topicMatches.filter((match) =>
-      visibleTopics.some((topic) => valuesAreEqual(topic, match.topic))
-    );
+    topicMatches = publication.topicMatches
+      .map((match) => ({
+        topic: match.topic || match.label,
+        topicId: match.topicId || match.id,
+        keywords: match.keywords || []
+      }))
+      .filter((match) =>
+        visibleTopics.some((topic) => valuesAreEqual(topic, match.topic))
+      );
   } else {
     topicMatches = visibleTopics.map((topic) => ({
       topic,
@@ -260,25 +320,13 @@ function Pagination({
       </p>
 
       <div className="pagination-actions">
-        <button
-          className="secondary-button"
-          type="button"
-          onClick={onPrevious}
-          disabled={currentPage === 1}
-        >
+        <button className="secondary-button" onClick={onPrevious} disabled={currentPage === 1}>
           Previous
         </button>
-
         <span>
           Page {currentPage} of {totalPages}
         </span>
-
-        <button
-          className="secondary-button"
-          type="button"
-          onClick={onNext}
-          disabled={currentPage === totalPages}
-        >
+        <button className="secondary-button" onClick={onNext} disabled={currentPage === totalPages}>
           Next
         </button>
       </div>
@@ -289,31 +337,32 @@ function Pagination({
 function PublicationCard({ publication, selectedTopic }) {
   const visibleTopics = getPublicationTopics(publication);
   const topicMatches = getTopicMatchesForDisplay(publication, selectedTopic);
+  const publicationUrl = getPublicationUrl(publication);
+  const sourcePageUrl = getSourcePageUrl(publication);
+  const pdfLinks = getPdfLinks(publication);
 
   return (
     <article className="publication-card">
       <div className="publication-meta">
-        <span>{publication.region}</span>
-        <span>{publication.institution}</span>
+        <span>{publication.region || 'Unknown region'}</span>
+        <span>{publication.institution || publication.sourceName || 'Unknown institution'}</span>
         <span>{formatDate(publication.publishedAt)}</span>
       </div>
 
       <h3>{publication.title}</h3>
 
-      {publication.summary && (
-        <p className="summary">{publication.summary}</p>
-      )}
+      {publication.summary && <p className="summary">{publication.summary}</p>}
 
       {visibleTopics.length > 0 && (
         <div className="topic-list">
           {visibleTopics.map((topic) => (
             <span
+              key={topic}
               className={`topic-pill ${
                 selectedTopic !== 'All' && valuesAreEqual(topic, selectedTopic)
                   ? 'selected-topic-pill'
                   : ''
               }`}
-              key={topic}
             >
               {topic}
             </span>
@@ -321,23 +370,15 @@ function PublicationCard({ publication, selectedTopic }) {
         </div>
       )}
 
-      <p className="topic-debug">
-        Card region: {publication.region || 'No region'} · Card institution:{' '}
-        {publication.institution || 'No institution'} · Card topics:{' '}
-        {visibleTopics.length > 0 ? visibleTopics.join(', ') : 'No topics'}
-      </p>
-
       {topicMatches.length > 0 && (
         <div className="topic-match-list">
           {topicMatches.map((match) => (
-            <div className="topic-match-item" key={`${publication.link || publication.title}-${match.topic}`}>
+            <div key={match.topicId || match.topic} className="topic-match-item">
               <strong>{match.topic}</strong>
               <span>
                 matched because:{' '}
-                {match.keywords
-                  ?.filter(shouldShowKeyword)
-                  .slice(0, 6)
-                  .join(', ') || 'topic keyword'}
+                {match.keywords?.filter(shouldShowKeyword).slice(0, 6).join(', ') ||
+                  'topic keyword'}
               </span>
             </div>
           ))}
@@ -345,15 +386,21 @@ function PublicationCard({ publication, selectedTopic }) {
       )}
 
       <div className="publication-links">
-        {publication.link && (
-          <a href={publication.link} target="_blank" rel="noreferrer">
-            Open source
+        {publicationUrl && (
+          <a href={publicationUrl} target="_blank" rel="noreferrer">
+            Open article
           </a>
         )}
 
-        {publication.pdfLinks?.map((pdfLink, index) => (
-          <a href={pdfLink} target="_blank" rel="noreferrer" key={`${pdfLink}-${index}`}>
-            PDF {index + 1}
+        {sourcePageUrl && sourcePageUrl !== publicationUrl && (
+          <a href={sourcePageUrl} target="_blank" rel="noreferrer">
+            Source page
+          </a>
+        )}
+
+        {pdfLinks.map((pdfLink, index) => (
+          <a key={pdfLink} href={pdfLink} target="_blank" rel="noreferrer">
+            Download file {pdfLinks.length > 1 ? index + 1 : ''}
           </a>
         ))}
       </div>
@@ -361,33 +408,48 @@ function PublicationCard({ publication, selectedTopic }) {
   );
 }
 
-function SystemOverview({ publications, topicSummary, warningSources, failedSources }) {
+function SystemOverview({ publications, topicSummary, sourceStatus }) {
+  const successfulCount =
+    typeof publicationsData.successfulSources === 'number'
+      ? publicationsData.successfulSources
+      : countSourceStatus(sourceStatus, 'success');
+
+  const warningCount =
+    typeof publicationsData.warningSources === 'number'
+      ? publicationsData.warningSources
+      : countSourceStatus(sourceStatus, 'warning');
+
+  const failedCount =
+    typeof publicationsData.failedSources === 'number'
+      ? publicationsData.failedSources
+      : countSourceStatus(sourceStatus, 'failed');
+
+  const sourceCount = publicationsData.sourceCount || sourceStatus.length || successfulCount + warningCount + failedCount;
+
   return (
     <section className="system-overview">
       <div>
         <span className="overview-label">Publications</span>
-        <strong>{publicationsData.totalPublications || publications.length}</strong>
+        <strong>{publications.length}</strong>
         <p>unique items</p>
       </div>
 
       <div>
         <span className="overview-label">Sources</span>
-        <strong>{publicationsData.successfulSources || 0}</strong>
-        <p>{failedSources.length} failed</p>
+        <strong>{sourceCount}</strong>
+        <p>{failedCount} failed</p>
       </div>
 
       <div>
         <span className="overview-label">Top topic</span>
-        <strong className="overview-topic">
-          {topicSummary[0]?.topic || 'No topics yet'}
-        </strong>
+        <strong className="overview-topic">{topicSummary[0]?.topic || 'No topics yet'}</strong>
         <p>{topicSummary[0] ? `${topicSummary[0].count} publications` : 'No topic data'}</p>
       </div>
 
       <div>
         <span className="overview-label">Warnings</span>
-        <strong>{warningSources.length}</strong>
-        <p>fallback parser</p>
+        <strong>{warningCount}</strong>
+        <p>fallback or empty source</p>
       </div>
     </section>
   );
@@ -421,14 +483,14 @@ function ActiveFilters({
         <span className="active-filters-label">Active filters</span>
         <div className="active-filter-list">
           {activeFilters.map((filter) => (
-            <span className="active-filter-pill" key={filter}>
+            <span key={filter} className="active-filter-pill">
               {filter}
             </span>
           ))}
         </div>
       </div>
 
-      <button className="secondary-button" type="button" onClick={onClear}>
+      <button className="secondary-button" onClick={onClear}>
         Clear filters
       </button>
     </div>
@@ -445,11 +507,10 @@ function TopicInsightList({ items, selectedTopic, onTopicClick }) {
 
         return (
           <button
-            className={`topic-insight-item ${
-              valuesAreEqual(selectedTopic, item.topic) ? 'selected-topic-insight' : ''
-            }`}
             key={item.topic}
-            type="button"
+            className={`topic-insight-item ${
+              valuesAreEqual(item.topic, selectedTopic) ? 'selected-topic-insight' : ''
+            }`}
             onClick={() => onTopicClick(item.topic)}
           >
             <div className="topic-insight-row">
@@ -463,30 +524,43 @@ function TopicInsightList({ items, selectedTopic, onTopicClick }) {
         );
       })}
 
-      {items.length === 0 && (
-        <p className="small-muted">No topics found for current filters.</p>
-      )}
+      {items.length === 0 && <p className="small-muted">No topics found for current filters.</p>}
     </div>
   );
 }
 
-function SourceStatus({ warningSources, failedSources }) {
+function SourceStatus({ sourceStatus }) {
+  if (!sourceStatus.length) {
+    return <p className="small-muted">No source status data available.</p>;
+  }
+
   return (
     <div className="source-status-list">
-      <div className="source-status-item success">
-        <span>Successful sources</span>
-        <strong>{publicationsData.successfulSources || 0}</strong>
-      </div>
+      {sourceStatus.map((source) => {
+        const statusClass =
+          source.status === 'failed' ? 'danger' : source.status === 'warning' ? 'warning' : 'success';
 
-      <div className="source-status-item warning">
-        <span>Fallback parser</span>
-        <strong>{warningSources.length}</strong>
-      </div>
+        const sourceUrl = source.officialSourcePage || source.url || '';
 
-      <div className="source-status-item danger">
-        <span>Failed sources</span>
-        <strong>{failedSources.length}</strong>
-      </div>
+        return (
+          <div key={source.id || source.name} className={`source-status-item ${statusClass}`}>
+            <div>
+              <strong>{source.name}</strong>
+              <span>
+                {source.itemCount ?? 0} items · {source.status || 'unknown'}
+              </span>
+              {source.message && <span>{source.message}</span>}
+              {sourceUrl && (
+                <span>
+                  <a href={sourceUrl} target="_blank" rel="noreferrer">
+                    Source page
+                  </a>
+                </span>
+              )}
+            </div>
+          </div>
+        );
+      })}
     </div>
   );
 }
@@ -500,10 +574,9 @@ function App() {
   const [selectedDateRange, setSelectedDateRange] = useState('All');
   const [currentPage, setCurrentPage] = useState(1);
 
-  const publications = publicationsData.publications || [];
-  const topicSummary = publicationsData.topicSummary || [];
-  const warningSources = publicationsData.warningSources || [];
-  const failedSources = publicationsData.failedSources || [];
+  const rawPublications = publicationsData.publications || [];
+  const publications = rawPublications.filter((publication) => !isBadHtmlPublication(publication));
+  const sourceStatus = normaliseSourceStatusList(publicationsData.sourceStatus);
 
   const filters = useMemo(
     () => ({
@@ -567,11 +640,7 @@ function App() {
   const safeCurrentPage = Math.min(currentPage, totalPages);
   const startIndex = (safeCurrentPage - 1) * PAGE_SIZE;
   const endIndex = startIndex + PAGE_SIZE;
-
-  const paginatedPublications = visiblePublications
-    .slice(startIndex, endIndex)
-    .filter((publication) => publicationMatchesAllFilters(publication, filters));
-
+  const paginatedPublications = visiblePublications.slice(startIndex, endIndex);
   const startResult = visiblePublications.length === 0 ? 0 : startIndex + 1;
   const endResult = Math.min(endIndex, visiblePublications.length);
 
@@ -608,19 +677,18 @@ function App() {
 
   return (
     <main className="app">
-      <section className="hero executive-hero">
+      <section className="hero">
         <div>
           <p className="eyebrow">Regulatory intelligence monitor</p>
           <h1>RegPulse</h1>
           <p className="hero-copy">
-            Daily monitoring of regulatory publications across EU, UK and US institutions,
+            Daily monitoring of regulatory publications across EU, UK, US and global institutions,
             with topic tagging for risk, compliance and financial services teams.
           </p>
-
           <div className="hero-strip">
-            <span>{publicationsData.successfulSources || 0} sources active</span>
-            <span>{warningSources.length} fallback parser</span>
-            <span>{failedSources.length} failed sources</span>
+            <span>{sourceStatus.length || publicationsData.sourceCount || 0} sources configured</span>
+            <span>{countSourceStatus(sourceStatus, 'warning')} warnings</span>
+            <span>{countSourceStatus(sourceStatus, 'failed')} failed sources</span>
             <span>Updated {formatDate(publicationsData.generatedAt)}</span>
           </div>
         </div>
@@ -628,14 +696,13 @@ function App() {
 
       <SystemOverview
         publications={publications}
-        topicSummary={topicSummary}
-        warningSources={warningSources}
-        failedSources={failedSources}
+        topicSummary={filteredTopicSummary}
+        sourceStatus={sourceStatus}
       />
 
       <section className="executive-layout">
         <div className="main-column">
-          <section className="panel filter-panel">
+          <section className="panel">
             <div className="panel-header">
               <div>
                 <h2>Explore publications</h2>
@@ -663,7 +730,7 @@ function App() {
                 >
                   <option value="All">All regions</option>
                   {regions.map((region) => (
-                    <option value={region} key={region}>
+                    <option key={region} value={region}>
                       {region}
                     </option>
                   ))}
@@ -678,7 +745,7 @@ function App() {
                 >
                   <option value="All">All institutions</option>
                   {institutions.map((institution) => (
-                    <option value={institution} key={institution}>
+                    <option key={institution} value={institution}>
                       {institution}
                     </option>
                   ))}
@@ -696,7 +763,7 @@ function App() {
                 >
                   <option value="All">All topics</option>
                   {topics.map((topic) => (
-                    <option value={topic} key={topic}>
+                    <option key={topic} value={topic}>
                       {topic}
                     </option>
                   ))}
@@ -729,22 +796,22 @@ function App() {
             />
           </section>
 
-          <section className="publication-list">
-            <Pagination
-              currentPage={safeCurrentPage}
-              totalPages={totalPages}
-              totalResults={visiblePublications.length}
-              startResult={startResult}
-              endResult={endResult}
-              onPrevious={goToPreviousPage}
-              onNext={goToNextPage}
-            />
+          <Pagination
+            currentPage={safeCurrentPage}
+            totalPages={totalPages}
+            totalResults={visiblePublications.length}
+            startResult={startResult}
+            endResult={endResult}
+            onPrevious={goToPreviousPage}
+            onNext={goToNextPage}
+          />
 
+          <section className="publication-list">
             {paginatedPublications.map((publication, index) => (
               <PublicationCard
+                key={makePublicationRenderKey(publication, index, filters)}
                 publication={publication}
                 selectedTopic={selectedTopic}
-                key={makePublicationRenderKey(publication, index, filters)}
               />
             ))}
 
@@ -753,34 +820,19 @@ function App() {
                 No publications matched your filters.
               </div>
             )}
-
-            <Pagination
-              currentPage={safeCurrentPage}
-              totalPages={totalPages}
-              totalResults={visiblePublications.length}
-              startResult={startResult}
-              endResult={endResult}
-              onPrevious={goToPreviousPage}
-              onNext={goToNextPage}
-            />
           </section>
         </div>
 
-        <aside className="insights-column">
-          <section className="panel insights-panel sticky-panel">
-            <div className="section-title-row">
-              <div>
-                <h2>Insights</h2>
-                <p>Dynamic summary based on current filters.</p>
-              </div>
-            </div>
+        <aside className="insights-column sticky-panel">
+          <section className="panel insights-panel">
+            <h2>Insights</h2>
+            <p>Dynamic summary based on current filters.</p>
 
             <div className="insight-block">
-              <div className="section-title-row compact">
+              <div className="section-title-row">
                 <h3>Top topics</h3>
                 <span>Click to filter</span>
               </div>
-
               <TopicInsightList
                 items={filteredTopicSummary}
                 selectedTopic={selectedTopic}
@@ -789,23 +841,19 @@ function App() {
             </div>
 
             <div className="insight-block">
-              <div className="section-title-row compact">
+              <div className="section-title-row">
                 <h3>Keyword cloud</h3>
                 <span>Click to filter</span>
               </div>
-
               <div className="keyword-cloud">
                 {filteredKeywordSummary.slice(0, 35).map((item) => (
                   <button
-                    className={`keyword-button ${
-                      valuesAreEqual(selectedKeyword, item.keyword) ? 'selected-keyword' : ''
-                    }`}
                     key={item.keyword}
-                    type="button"
+                    className={`keyword-button ${
+                      valuesAreEqual(item.keyword, selectedKeyword) ? 'selected-keyword' : ''
+                    }`}
                     onClick={() => handleKeywordClick(item.keyword)}
-                    style={{
-                      fontSize: `${Math.min(24, 11 + item.count / 2)}px`
-                    }}
+                    style={{ fontSize: `${Math.min(24, 11 + item.count / 2)}px` }}
                     title={`${item.count} matching publications`}
                   >
                     {item.keyword}
@@ -819,14 +867,11 @@ function App() {
             </div>
 
             <div className="insight-block">
-              <div className="section-title-row compact">
+              <div className="section-title-row">
                 <h3>Source status</h3>
+                <span>{sourceStatus.length} configured</span>
               </div>
-
-              <SourceStatus
-                warningSources={warningSources}
-                failedSources={failedSources}
-              />
+              <SourceStatus sourceStatus={sourceStatus} />
             </div>
           </section>
         </aside>
