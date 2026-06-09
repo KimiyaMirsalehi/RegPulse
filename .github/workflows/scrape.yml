@@ -12,17 +12,12 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
 
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        uses: actions/checkout@v5
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '24'
           cache: 'npm'
@@ -39,7 +34,10 @@ jobs:
 
       - name: Show generated data timestamp
         run: |
-          node -e "const data=require('./data/publications.json'); console.log('generatedAt:', data.generatedAt); console.log('totalPublications:', data.totalPublications);"
+          node -e "const fs=require('fs'); const data=JSON.parse(fs.readFileSync('./data/publications.json','utf8')); console.log('generatedAt:', data.generatedAt); console.log('totalPublications:', data.totalPublications);"
+
+      - name: Build UI
+        run: npm run build
 
       - name: Commit updated publications data
         run: |
