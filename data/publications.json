@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T09:07:11.074Z",
+  "generatedAt": "2026-06-09T09:13:20.011Z",
   "totalPublications": 278,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -744,7 +744,7 @@
   ],
   "publications": [
     {
-      "id": "bcdb5ae94e427c01",
+      "id": "8f71c232f857301a",
       "title": "European Commission launches call for candidates for the ESAs’ Board of Appeal",
       "summary": "The European Commission has launched a call for expression of interest for the appointment",
       "url": "https://www.esma.europa.eu/press-news/esma-news/european-commission-launches-call-candidates-esas-board-appeal",
@@ -756,7 +756,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-12-04T22:00:00.000Z",
+      "publishedAt": "2026-12-05T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
         "Governance"
@@ -777,7 +777,7 @@
       "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news"
     },
     {
-      "id": "fd7113c53f8b6b64",
+      "id": "5a83bbe6a48c34a9",
       "title": "ESMA identifies areas for further supervisory convergence on compliance and internal audit in the funds sector",
       "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
       "url": "https://www.esma.europa.eu/press-news/esma-news/esma-identifies-areas-further-supervisory-convergence-compliance-and-internal",
@@ -789,7 +789,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-04T22:00:00.000Z",
+      "publishedAt": "2026-11-05T00:00:00.000Z",
       "pdfLinks": [
         "https://www.esma.europa.eu/sites/default/files/2026-05/ESMA34-1436284137-2305_Final_Report_on_the_Common_Supervisory_Action_on_Compliance_and_Internal_Audit_Functions.pdf"
       ],
@@ -7204,7 +7204,7 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications"
     },
     {
-      "id": "f8d36465f370c752",
+      "id": "4cce82ffd7a28c43",
       "title": "ESAs publish the first report on DORA major ICT-related incidents",
       "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA) today published their",
       "url": "https://www.esma.europa.eu/press-news/esma-news/esas-publish-first-report-dora-major-ict-related-incidents",
@@ -7216,7 +7216,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-03-05T22:00:00.000Z",
+      "publishedAt": "2026-03-06T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
         "DORA / Operational Resilience",
@@ -7667,7 +7667,7 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html"
     },
     {
-      "id": "50fa9585a835ecd0",
+      "id": "0c391b18c031cd8a",
       "title": "The GMTF presents its findings on EU gas and gas derivative markets",
       "summary": "The Gas Market Task Force (GMTF), has published today a",
       "url": "https://www.esma.europa.eu/press-news/esma-news/gmtf-presents-its-findings-eu-gas-and-gas-derivative-markets",
@@ -7679,7 +7679,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-02-05T22:00:00.000Z",
+      "publishedAt": "2026-02-06T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
@@ -8235,7 +8235,7 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications"
     },
     {
-      "id": "ebae215825bf4533",
+      "id": "f63d18938b74a8c0",
       "title": "ESMA publishes latest edition of its newsletter",
       "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
       "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-43",
@@ -8247,7 +8247,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-01-05T22:00:00.000Z",
+      "publishedAt": "2026-01-06T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
@@ -10044,7 +10044,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-09T09:07:11.074Z",
+      "publishedAt": "2026-06-09T09:13:20.011Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10066,7 +10066,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-09T09:07:11.074Z",
+      "publishedAt": "2026-06-09T09:13:20.011Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10088,7 +10088,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-09T09:07:11.074Z",
+      "publishedAt": "2026-06-09T09:13:20.011Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10110,7 +10110,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-09T09:07:11.074Z",
+      "publishedAt": "2026-06-09T09:13:20.011Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
