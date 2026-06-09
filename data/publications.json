@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T09:13:20.011Z",
+  "generatedAt": "2026-06-09T09:24:06.302Z",
   "totalPublications": 278,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -744,74 +744,6 @@
   ],
   "publications": [
     {
-      "id": "8f71c232f857301a",
-      "title": "European Commission launches call for candidates for the ESAs’ Board of Appeal",
-      "summary": "The European Commission has launched a call for expression of interest for the appointment",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/european-commission-launches-call-candidates-esas-board-appeal",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-12-05T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "board"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/european-commission-launches-call-candidates-esas-board-appeal",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news"
-    },
-    {
-      "id": "5a83bbe6a48c34a9",
-      "title": "ESMA identifies areas for further supervisory convergence on compliance and internal audit in the funds sector",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-identifies-areas-further-supervisory-convergence-compliance-and-internal",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-11-05T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-05/ESMA34-1436284137-2305_Final_Report_on_the_Common_Supervisory_Action_on_Compliance_and_Internal_Audit_Functions.pdf"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-identifies-areas-further-supervisory-convergence-compliance-and-internal",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news"
-    },
-    {
       "id": "5004530ebfbe73d9",
       "title": "SEC Establishes Joint Data Standards as Required Under the Financial Data Transparency Act of 2022",
       "summary": "The U. S. Securities and Exchange Commission established joint data standards under the Financial Data Transparency Act of 2022. The final rule establishes technical standards for data submitted to certain financial regulatory agencies. Eight additional…",
@@ -1365,6 +1297,50 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html"
     },
     {
+      "id": "531181e0bc56b416",
+      "title": "ESAs publish the first report on DORA major ICT-related incidents",
+      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA) today published their",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esas-publish-first-report-dora-major-ict-related-incidents",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-06-03T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-06/JC_2026_16_ESAs_2025_report_on_major_ICT-related_incidents.pdf"
+      ],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "dora",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "dora"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esas-publish-first-report-dora-major-ict-related-incidents",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news"
+    },
+    {
       "id": "9ae844fdb79a350a",
       "title": "Agencies remove additional references to reputation risk",
       "summary": "Agencies remove additional references to reputation risk",
@@ -1617,6 +1593,39 @@
       "sourceFeedUrl": "https://www.consumerfinance.gov/about-us/newsroom/feed/"
     },
     {
+      "id": "67f02cf5b2191adf",
+      "title": "The GMTF presents its findings on EU gas and gas derivative markets",
+      "summary": "The Gas Market Task Force (GMTF), has published today a",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/gmtf-presents-its-findings-eu-gas-and-gas-derivative-markets",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-06-02T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/gmtf-presents-its-findings-eu-gas-and-gas-derivative-markets",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news"
+    },
+    {
       "id": "39322a4f2db23107",
       "title": "SEC Announces Four New Members of Investor Advisory Committee",
       "summary": "The Securities and Exchange Commission today announced four new members to fill vacancies on its Investor Advisory Committee. Three of the four new members will serve four-year terms, while the fourth new member will serve as the…",
@@ -1757,6 +1766,41 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html"
     },
     {
+      "id": "bf046c3dd028a0ea",
+      "title": "ESMA publishes latest edition of its newsletter",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-43",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-06-01T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-06/Newsletter_April_and_May_2026.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-43",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news"
+    },
+    {
       "id": "6bba5258f9c8d21c",
       "title": "Luis de Guindos: Interview with Expansión",
       "summary": "",
@@ -1818,29 +1862,6 @@
       ],
       "link": "https://www.sec.gov/newsroom/press-releases/2026-49-sec-proposes-rescission-climate-related-disclosure-rules",
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss"
-    },
-    {
-      "id": "79112e2301a66c7b",
-      "title": "Letter from the ECB President to Mr Fabio de Masi, MEP, on institutional matters",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260529_Fabio_de_Masi~7462168237.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-29T14:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260529_Fabio_de_Masi~7462168237.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260529_Fabio_de_Masi~7462168237.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html"
     },
     {
       "id": "86e71b9bab7d6c1b",
@@ -1911,6 +1932,29 @@
       "topicMatches": [],
       "link": "https://www.esma.europa.eu/press-news/esma-news/esmas-annual-data-report-shows-increased-quality-wider-use-and-digital",
       "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news"
+    },
+    {
+      "id": "53ebd44f096c83ec",
+      "title": "Letter from the ECB President to Mr Fabio de Masi, MEP, on institutional matters",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260529_Fabio_de_Masi~7462168237.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-05-29T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260529_Fabio_de_Masi~7462168237.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260529_Fabio_de_Masi~7462168237.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html"
     },
     {
       "id": "0071fbb891f5bb29",
@@ -1998,29 +2042,6 @@
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260528~a93230dc4b.en.html",
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "0cde2d7e1c9e9dd9",
-      "title": "Firm level heterogeneity and the impact of monetary policy on labour demand",
-      "summary": "Monetary policy asymmetrically affects the response of firms’ employment to an output shock and plays a role in cushioning employment adjustment over the business cycle. Combining annual firm-level data until 2020 with quarterly firm-level data until 2023 and high-frequency monetary policy surprises, we show that for a given change in output, monetary policy influences the extent to which firms hold on to labour, or “labour hoard”. Furthermore, this effect is asymmetric: a restrictive monetary policy reduces labour hoarding behaviour by 2 to 3 times more than an accommodative policy increases it. Finally, we look at the role of financing conditions and firm demographics.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3240~37b21c7b50.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-28T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3240~37b21c7b50.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3240~37b21c7b50.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html"
     },
     {
       "id": "1e01f4a9e4f08cfd",
@@ -2112,6 +2133,29 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html"
     },
     {
+      "id": "9a58a1d3f598893f",
+      "title": "Firm level heterogeneity and the impact of monetary policy on labour demand",
+      "summary": "Monetary policy asymmetrically affects the response of firms’ employment to an output shock and plays a role in cushioning employment adjustment over the business cycle. Combining annual firm-level data until 2020 with quarterly firm-level data until 2023 and high-frequency monetary policy surprises, we show that for a given change in output, monetary policy influences the extent to which firms hold on to labour, or “labour hoard”. Furthermore, this effect is asymmetric: a restrictive monetary policy reduces labour hoarding behaviour by 2 to 3 times more than an accommodative policy increases it. Finally, we look at the role of financing conditions and firm demographics.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3240~37b21c7b50.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3240~37b21c7b50.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3240~37b21c7b50.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
       "id": "a968a818ef8076d6",
       "title": "New Q&As available",
       "summary": "",
@@ -2152,29 +2196,6 @@
       "topicMatches": [],
       "link": "https://www.sec.gov/newsroom/press-releases/2026-48-sec-investor-advisory-committee-host-june-4-meeting",
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss"
-    },
-    {
-      "id": "e72b4f6375adcfa7",
-      "title": "Identifying relationship-level effects using covariance restrictions",
-      "summary": "We propose a new model in which relationship-specific effects or shocks are identified in a bipartite network under mild covariance restrictions, generalizing the influential Abowd et al. (1999) framework. For example, separate demand shocks are identified for each bank from which a firm borrows. We show how previous approaches break down when confronted with such heterogeneity, while our novel identification strategy yields a simple estimator that is consistent and asymptotically normal, under weaker network density assumptions than previous approaches. The methodology performs well in empirically-calibrated simulations.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3238~5b04fbe5e5.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-27T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3238~5b04fbe5e5.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3238~5b04fbe5e5.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html"
     },
     {
       "id": "26bf689bbc3d1722",
@@ -2224,42 +2245,51 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications"
     },
     {
-      "id": "880915204ed141a8",
-      "title": "Stockholding in Europe: Evidence from the Consumer Expectations Survey",
-      "summary": "We examine recent changes in stock market participation using newly available survey data from eleven euro area countries over the period 2020–2024. The evidence points to substantial turnover, with around 10% of non-stockholders entering the market each year, and more than 20% of stockholders exiting. New entrants tend to have lower education, income, financial literacy, and risk tolerance than established investors, indicating a shift in the composition of market participants. We also highlight the growing importance of cryptocurrency investments among retail investors.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3239~efed05d5c7.en.pdf",
+      "id": "401c08e6333ded05",
+      "title": "Financial stability vulnerabilities remain elevated as geoeconomic shock unfolds",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260527~92140c5054.en.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "rss",
-      "publishedAt": "2026-05-27T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3239~efed05d5c7.en.pdf"
-      ],
-      "topics": [
-        "Consumer Protection"
-      ],
-      "matchedKeywords": [
-        "retail investors"
-      ],
-      "topicMatches": [
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "retail investors"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3239~efed05d5c7.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html"
+      "publishedAt": "2026-05-27T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260527~92140c5054.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html"
     },
     {
-      "id": "5cc9c4e7ff27ed88",
+      "id": "d94e13cadad1c712",
+      "title": "Luis de Guindos: Financial Stability Review - May 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260527~bc724e42c1.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-05-27T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260527~bc724e42c1.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260527~bc724e42c1.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "9a42dfba016f7f51",
       "title": "Financial Stability Review, May 2026",
       "summary": "",
       "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/html/ecb.fsr202605~50566915a7.en.html",
@@ -2271,7 +2301,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "rss",
-      "publishedAt": "2026-05-27T08:00:00.000Z",
+      "publishedAt": "2026-05-27T00:00:00.000Z",
       "pdfLinks": [
         "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/pdf/ecb.fsr202605~50566915a7.en.pdf",
         "https://www.esrb.europa.eu/pub/pdf/reports/esrb.report202501_systemicliquidityrisk~90f2044791.sv.pdf?6c3085cedfab4a953fb1662eed433bda",
@@ -2300,28 +2330,7 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html"
     },
     {
-      "id": "401c08e6333ded05",
-      "title": "Financial stability vulnerabilities remain elevated as geoeconomic shock unfolds",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260527~92140c5054.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-27T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260527~92140c5054.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "1d98566f97b28a6e",
+      "id": "43c69eec009bfb77",
       "title": "From dictionaries to AI: a new era in sentiment analysis for financial stability",
       "summary": "Financial stability communication is challenging because its task is not to forecast financial crises, let alone predict their precise timing. Rather, it is to identify vulnerabilities and explain how the financial system is likely to fare should it be confronted with adverse shocks. Great care is needed in this endeavour, because the sentiment of financial stability communication can influence market perceptions and risk assessments, as well as broader economic and financial outcomes.",
       "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_01~fe2f4ea541.en.html",
@@ -2333,7 +2342,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "rss",
-      "publishedAt": "2026-05-27T08:00:00.000Z",
+      "publishedAt": "2026-05-27T00:00:00.000Z",
       "pdfLinks": [
         "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1426.pdf",
         "https://www.ecb.europa.eu/pub/pdf/fsr/art/ecb.fsrart200506_01.en.pdf",
@@ -2359,7 +2368,7 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html"
     },
     {
-      "id": "8d0a1e37a934aeea",
+      "id": "a7b99b81d5188d4e",
       "title": "House price booms and policy choices: insights from a meta-regression analysis",
       "summary": "This special feature examines policy-assignment dilemmas facing macroprudential authorities when housing markets boom: which instruments work best, on which objectives, and in combination with which other tools? It does so by revitalising Mundell’s Principle of Effective Market Classification, the policy-space analogue of Ricardo’s comparative advantage principle, and by applying it to macroprudential policy. The analysis uses a novel G-search literature-search algorithm and an AI-supported, replicable data-extraction system to assemble estimates of policy-impact parameters from the empirical literature.",
       "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_03~90365ff1cb.en.html",
@@ -2371,7 +2380,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "rss",
-      "publishedAt": "2026-05-27T08:00:00.000Z",
+      "publishedAt": "2026-05-27T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -2380,30 +2389,30 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html"
     },
     {
-      "id": "d94e13cadad1c712",
-      "title": "Luis de Guindos: Financial Stability Review - May 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260527~bc724e42c1.en.pdf",
+      "id": "20fc9f6b979dfef8",
+      "title": "Identifying relationship-level effects using covariance restrictions",
+      "summary": "We propose a new model in which relationship-specific effects or shocks are identified in a bipartite network under mild covariance restrictions, generalizing the influential Abowd et al. (1999) framework. For example, separate demand shocks are identified for each bank from which a firm borrows. We show how previous approaches break down when confronted with such heterogeneity, while our novel identification strategy yields a simple estimator that is consistent and asymptotically normal, under weaker network density assumptions than previous approaches. The methodology performs well in empirically-calibrated simulations.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3238~5b04fbe5e5.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "rss",
-      "publishedAt": "2026-05-27T08:00:00.000Z",
+      "publishedAt": "2026-05-27T00:00:00.000Z",
       "pdfLinks": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260527~bc724e42c1.en.pdf"
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3238~5b04fbe5e5.en.pdf"
       ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260527~bc724e42c1.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html"
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3238~5b04fbe5e5.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html"
     },
     {
-      "id": "9095e90183b4d59a",
+      "id": "d2a8c02474ead7ae",
       "title": "Rising bankruptcies, resilient loan books: unpacking euro area corporate credit risk",
       "summary": "Corporate bankruptcies in the euro area have been on the rise, but the aggregate asset quality of banks’ corporate lending has remained broadly stable. This special feature analyses this divergence and its implications for financial stability. It shows that rising bankruptcies may partly be explained by the normalisation of firm turnover since the COVID-19 pandemic, albeit with marked cross-country unevenness. At the same time, firm-level evidence suggests that balance sheet and profitability challenges are concentrated in a vulnerable tail of firms, but have remained stable for the average euro area company.",
       "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_02~0fd2f6b569.en.html",
@@ -2415,7 +2424,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "rss",
-      "publishedAt": "2026-05-27T08:00:00.000Z",
+      "publishedAt": "2026-05-27T00:00:00.000Z",
       "pdfLinks": [
         "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2104.en.pdf?0167b3eada64c9757df8e6e0b866b3a1",
         "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2743~bf1446c499.en.pdf",
@@ -2456,6 +2465,41 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html"
     },
     {
+      "id": "c137734ce4640330",
+      "title": "Stockholding in Europe: Evidence from the Consumer Expectations Survey",
+      "summary": "We examine recent changes in stock market participation using newly available survey data from eleven euro area countries over the period 2020–2024. The evidence points to substantial turnover, with around 10% of non-stockholders entering the market each year, and more than 20% of stockholders exiting. New entrants tend to have lower education, income, financial literacy, and risk tolerance than established investors, indicating a shift in the composition of market participants. We also highlight the growing importance of cryptocurrency investments among retail investors.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3239~efed05d5c7.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-05-27T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3239~efed05d5c7.en.pdf"
+      ],
+      "topics": [
+        "Consumer Protection"
+      ],
+      "matchedKeywords": [
+        "retail investors"
+      ],
+      "topicMatches": [
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "retail investors"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3239~efed05d5c7.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
       "id": "cf9a5f560cb811ba",
       "title": "Minutes of the Board's discount rate meeting on April 20 and 29, 2026",
       "summary": "Minutes of the Board's discount rate meeting on April 20 and 29, 2026",
@@ -2491,7 +2535,7 @@
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml"
     },
     {
-      "id": "e0736ee1f970f1e5",
+      "id": "fd71362c49d9bb88",
       "title": "Employment effects of EU-ETS prices",
       "summary": "This paper studies the employment effects of carbon pricing under the European Union’s Emissions Trading System (EU-ETS). I refer to standard methods from the literature to define and measure the environmental properties of jobs along two dimensions: how “green” a job is, and how polluting it is. I then leverage a series of shocks to EU-ETS prices to estimate their dynamic impacts on employment. The panel local projections estimates reveal that an exogenous 1% increase in EU-ETS prices leads to a roughly 0.2% decline in employment after one and a half years.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3237~617a2b8de5.en.pdf",
@@ -2503,7 +2547,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "rss",
-      "publishedAt": "2026-05-26T09:00:00.000Z",
+      "publishedAt": "2026-05-26T00:00:00.000Z",
       "pdfLinks": [
         "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3237~617a2b8de5.en.pdf"
       ],
@@ -2525,54 +2569,6 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3237~617a2b8de5.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "563f66930aef4aa2",
-      "title": "Sequential solution for DSGE models with deep neural networks",
-      "summary": "This paper develops a sequential deep learning algorithm for solving dynamic stochastic general equilibrium (DSGE) models. The algorithm trains a deep neural network to approximate the model’s policy functions across four progressive phases: steady-state anchoring, exploration around the steady state, simulation on the ergodic set, and Monte Carlo integration of stochastic expectations. Training requires no pre-computed starting approximation: the network initialises from the analytically known steady state and constructs its training data endogenously, resolving the circularity between the training distribution and the solution.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3236~1dc726a7fe.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-26T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3236~1dc726a7fe.en.pdf"
-      ],
-      "topics": [
-        "AI",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "deep learning",
-        "neural network",
-        "neural networks",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "ai",
-          "label": "AI",
-          "keywords": [
-            "deep learning",
-            "neural network",
-            "neural networks"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3236~1dc726a7fe.en.pdf",
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html"
     },
     {
@@ -2610,6 +2606,54 @@
       ],
       "link": "https://www.esma.europa.eu/press-news/esma-news/esma-consults-revised-guidelines-support-smoother-allocations-and",
       "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news"
+    },
+    {
+      "id": "90b9faef65ff63ab",
+      "title": "Sequential solution for DSGE models with deep neural networks",
+      "summary": "This paper develops a sequential deep learning algorithm for solving dynamic stochastic general equilibrium (DSGE) models. The algorithm trains a deep neural network to approximate the model’s policy functions across four progressive phases: steady-state anchoring, exploration around the steady state, simulation on the ergodic set, and Monte Carlo integration of stochastic expectations. Training requires no pre-computed starting approximation: the network initialises from the analytically known steady state and constructs its training data endogenously, resolving the circularity between the training distribution and the solution.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3236~1dc726a7fe.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-05-26T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3236~1dc726a7fe.en.pdf"
+      ],
+      "topics": [
+        "AI",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "deep learning",
+        "neural network",
+        "neural networks",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "deep learning",
+            "neural network",
+            "neural networks"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3236~1dc726a7fe.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html"
     },
     {
       "id": "8aac6f98accfd9a5",
@@ -4130,6 +4174,39 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications"
     },
     {
+      "id": "ad87dffc745ead82",
+      "title": "European Commission launches call for candidates for the ESAs’ Board of Appeal",
+      "summary": "The European Commission has launched a call for expression of interest for the appointment",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/european-commission-launches-call-candidates-esas-board-appeal",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-05-12T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/european-commission-launches-call-candidates-esas-board-appeal",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news"
+    },
+    {
       "id": "37b96392e2c2dfd8",
       "title": "Sharon Donnery: Interview with Expansión",
       "summary": "",
@@ -4170,6 +4247,39 @@
       ],
       "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260511~a38d273de0.en.html",
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html"
+    },
+    {
+      "id": "700cbe627750b288",
+      "title": "ESMA identifies areas for further supervisory convergence on compliance and internal audit in the funds sector",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-identifies-areas-further-supervisory-convergence-compliance-and-internal",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-05-11T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-identifies-areas-further-supervisory-convergence-compliance-and-internal",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news"
     },
     {
       "id": "4097a9fb3353dd18",
@@ -7204,48 +7314,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications"
     },
     {
-      "id": "4cce82ffd7a28c43",
-      "title": "ESAs publish the first report on DORA major ICT-related incidents",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA) today published their",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esas-publish-first-report-dora-major-ict-related-incidents",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-03-06T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "DORA / Operational Resilience",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "dora",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "dora-operational-resilience",
-          "label": "DORA / Operational Resilience",
-          "keywords": [
-            "dora"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esas-publish-first-report-dora-major-ict-related-incidents",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news"
-    },
-    {
       "id": "1f08d30929e813cb",
       "title": "Agencies clarify the capital treatment of tokenized securities",
       "summary": "Agencies clarify the capital treatment of tokenized securities",
@@ -7665,39 +7733,6 @@
       ],
       "link": "https://www.bankingsupervision.europa.eu//ecb/pub/html/ssm.report_on_time_commitment_NEDs_feb26.en.html",
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "0c391b18c031cd8a",
-      "title": "The GMTF presents its findings on EU gas and gas derivative markets",
-      "summary": "The Gas Market Task Force (GMTF), has published today a",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/gmtf-presents-its-findings-eu-gas-and-gas-derivative-markets",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-02-06T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/gmtf-presents-its-findings-eu-gas-and-gas-derivative-markets",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news"
     },
     {
       "id": "f9788b47a4e5257c",
@@ -8233,39 +8268,6 @@
       "topicMatches": [],
       "link": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2025/december-2025",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications"
-    },
-    {
-      "id": "f63d18938b74a8c0",
-      "title": "ESMA publishes latest edition of its newsletter",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-43",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-01-06T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-43",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news"
     },
     {
       "id": "b12a9433d0fd636e",
@@ -10044,7 +10046,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-09T09:13:20.011Z",
+      "publishedAt": "2026-06-09T09:24:06.302Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10066,7 +10068,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-09T09:13:20.011Z",
+      "publishedAt": "2026-06-09T09:24:06.302Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10088,7 +10090,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-09T09:13:20.011Z",
+      "publishedAt": "2026-06-09T09:24:06.302Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10110,7 +10112,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-09T09:13:20.011Z",
+      "publishedAt": "2026-06-09T09:24:06.302Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
