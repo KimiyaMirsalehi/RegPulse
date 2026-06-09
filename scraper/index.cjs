@@ -1,140 +1,104 @@
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 const Parser = require('rss-parser');
-const sources = require('./sources.json');
-const topics = require('./topics.json');
+
+const ROOT_DIR = path.resolve(__dirname, '..');
+const SOURCES_PATH = path.join(__dirname, 'sources.json');
+const TOPICS_PATH = path.join(__dirname, 'topics.json');
+const OUTPUT_DIR = path.join(ROOT_DIR, 'data');
+const OUTPUT_PATH = path.join(OUTPUT_DIR, 'publications.json');
+
+const MAX_ITEMS_PER_SOURCE = 60;
 
 const parser = new Parser({
-  timeout: 15000,
+  timeout: 20000,
   headers: {
-    'User-Agent': 'RegPulse/1.0 (+https://github.com/) Mozilla/5.0',
-    'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'
+    'User-Agent':
+      'RegPulse/1.0 (+https://github.com/KimiyaMirsalehi/RegPulse; regulatory monitoring tool)'
+  },
+  customFields: {
+    item: [
+      ['content:encoded', 'contentEncoded'],
+      ['dc:creator', 'creator'],
+      ['media:content', 'mediaContent'],
+      ['media:thumbnail', 'mediaThumbnail']
+    ]
   }
 });
 
-const OUTPUT_DIR = path.join(__dirname, '..', 'data');
-const OUTPUT_FILE = path.join(OUTPUT_DIR, 'publications.json');
+function readJson(filePath) {
+  return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+}
 
-function ensureOutputFolderExists() {
-  if (!fs.existsSync(OUTPUT_DIR)) {
-    fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+function ensureDirectory(directoryPath) {
+  if (!fs.existsSync(directoryPath)) {
+    fs.mkdirSync(directoryPath, { recursive: true });
   }
+}
+
+function createHash(value) {
+  return crypto.createHash('sha256').update(String(value)).digest('hex').slice(0, 16);
+}
+
+function decodeHtmlEntities(value) {
+  if (!value) {
+    return '';
+  }
+
+  return String(value)
+    .replace(/&nbsp;/gi, ' ')
+    .replace(/&#160;/gi, ' ')
+    .replace(/&amp;/gi, '&')
+    .replace(/&quot;/gi, '"')
+    .replace(/&#34;/gi, '"')
+    .replace(/&#39;/gi, "'")
+    .replace(/&apos;/gi, "'")
+    .replace(/&rsquo;/gi, '’')
+    .replace(/&lsquo;/gi, '‘')
+    .replace(/&rdquo;/gi, '”')
+    .replace(/&ldquo;/gi, '“')
+    .replace(/&ndash;/gi, '–')
+    .replace(/&mdash;/gi, '—')
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .replace(/&#(\d+);/g, (_, code) => {
+      try {
+        return String.fromCharCode(Number(code));
+      } catch {
+        return ' ';
+      }
+    })
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => {
+      try {
+        return String.fromCharCode(parseInt(code, 16));
+      } catch {
+        return ' ';
+      }
+    });
 }
 
 function cleanText(value) {
-  if (!value) return '';
+  if (!value) {
+    return '';
+  }
 
-  return String(value)
+  return decodeHtmlEntities(String(value))
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<br\s*\/?>/gi, ' ')
+    .replace(/<\/p>/gi, ' ')
+    .replace(/<\/div>/gi, ' ')
+    .replace(/<\/li>/gi, ' ')
+    .replace(/<\/h[1-6]>/gi, ' ')
+    .replace(/<\/tr>/gi, ' ')
+    .replace(/<\/td>/gi, ' ')
+    .replace(/<\/th>/gi, ' ')
     .replace(/<[^>]*>/g, ' ')
     .replace(/\s+/g, ' ')
+    .replace(/\s+([.,;:!?])/g, '$1')
+    .replace(/([.!?])([A-Z])/g, '$1 $2')
     .trim();
-}
-
-function cleanXmlText(xmlText) {
-  return String(xmlText)
-    .replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F]/g, '')
-    .replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[a-fA-F0-9]+;)/g, '&amp;');
-}
-
-async function fetchRawText(url) {
-  const response = await fetch(url, {
-    headers: {
-      'User-Agent': 'RegPulse/1.0 (+https://github.com/) Mozilla/5.0',
-      'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'
-    }
-  });
-
-  if (!response.ok) {
-    throw new Error(`HTTP ${response.status} ${response.statusText}`);
-  }
-
-  return response.text();
-}
-
-async function parseFeedWithFallback(source) {
-  try {
-    const feed = await parser.parseURL(source.url);
-
-    return {
-      feed,
-      usedFallback: false,
-      warning: null
-    };
-  } catch (initialError) {
-    const rawXml = await fetchRawText(source.url);
-    const cleanedXml = cleanXmlText(rawXml);
-    const feed = await parser.parseString(cleanedXml);
-
-    return {
-      feed,
-      usedFallback: true,
-      warning: `Normal XML parsing failed, but fallback parsing worked. Original error: ${initialError.message}`
-    };
-  }
-}
-
-function normaliseDate(item) {
-  const rawDate = item.isoDate || item.pubDate || item.date || item.updated || null;
-
-  if (!rawDate) {
-    return null;
-  }
-
-  const date = new Date(rawDate);
-
-  if (Number.isNaN(date.getTime())) {
-    return rawDate;
-  }
-
-  return date.toISOString();
-}
-
-function extractPdfLinks(item) {
-  const pdfLinks = new Set();
-
-  if (item.link && item.link.toLowerCase().includes('.pdf')) {
-    pdfLinks.add(item.link);
-  }
-
-  if (Array.isArray(item.enclosure) && item.enclosure.length > 0) {
-    item.enclosure.forEach((enclosure) => {
-      if (enclosure.url && enclosure.url.toLowerCase().includes('.pdf')) {
-        pdfLinks.add(enclosure.url);
-      }
-    });
-  }
-
-  if (item.enclosure && item.enclosure.url && item.enclosure.url.toLowerCase().includes('.pdf')) {
-    pdfLinks.add(item.enclosure.url);
-  }
-
-  const contentFields = [
-    item.content,
-    item.contentSnippet,
-    item.summary,
-    item.description
-  ];
-
-  contentFields.forEach((field) => {
-    if (!field) return;
-
-    const matches = String(field).match(/https?:\/\/[^\s"'<>]+\.pdf/gi);
-
-    if (matches) {
-      matches.forEach((match) => pdfLinks.add(match));
-    }
-  });
-
-  return Array.from(pdfLinks);
-}
-
-function createPublicationId(source, item) {
-  const base = item.guid || item.id || item.link || item.title || `${source.id}-${Date.now()}`;
-
-  return Buffer.from(`${source.id}-${base}`)
-    .toString('base64')
-    .replace(/[^a-zA-Z0-9]/g, '')
-    .slice(0, 32);
 }
 
 function normaliseForMatching(value) {
@@ -146,39 +110,199 @@ function normaliseForMatching(value) {
     .trim()} `;
 }
 
-function keywordMatchesText(keyword, searchableText) {
-  const normalisedKeyword = normaliseForMatching(keyword);
+function truncateSummary(value, maxLength = 700) {
+  const cleaned = cleanText(value);
 
-  return searchableText.includes(normalisedKeyword);
+  if (cleaned.length <= maxLength) {
+    return cleaned;
+  }
+
+  const truncated = cleaned.slice(0, maxLength);
+  const lastSentenceEnd = Math.max(
+    truncated.lastIndexOf('.'),
+    truncated.lastIndexOf('!'),
+    truncated.lastIndexOf('?')
+  );
+
+  if (lastSentenceEnd > 250) {
+    return truncated.slice(0, lastSentenceEnd + 1).trim();
+  }
+
+  const lastSpace = truncated.lastIndexOf(' ');
+
+  if (lastSpace > 250) {
+    return `${truncated.slice(0, lastSpace).trim()}...`;
+  }
+
+  return `${truncated.trim()}...`;
 }
 
-function tagPublication(title, summary, institution) {
-  const searchableText = normaliseForMatching(`${title} ${summary} ${institution}`);
+function getRawSummary(item) {
+  /*
+    Important:
+    contentSnippet is often already stripped by the RSS parser.
+    Some feeds lose spaces around inline HTML tags there, causing:
+    "The FCAhasstartedcivil..."
+    So we prefer raw HTML fields first and clean them ourselves.
+  */
+  return (
+    item.contentEncoded ||
+    item['content:encoded'] ||
+    item.content ||
+    item.summary ||
+    item.description ||
+    item['description'] ||
+    item.contentSnippet ||
+    ''
+  );
+}
 
+function getPublicationDate(item) {
+  const dateValue =
+    item.isoDate ||
+    item.pubDate ||
+    item.published ||
+    item.updated ||
+    item.date ||
+    item['dc:date'] ||
+    '';
+
+  if (!dateValue) {
+    return null;
+  }
+
+  const parsedDate = new Date(dateValue);
+
+  if (Number.isNaN(parsedDate.getTime())) {
+    return null;
+  }
+
+  return parsedDate.toISOString();
+}
+
+function extractLinksFromHtml(value) {
+  if (!value) {
+    return [];
+  }
+
+  const links = [];
+  const html = String(value);
+  const hrefRegex = /href=["']([^"']+)["']/gi;
+  let match;
+
+  while ((match = hrefRegex.exec(html)) !== null) {
+    if (match[1]) {
+      links.push(match[1]);
+    }
+  }
+
+  return links;
+}
+
+function isPdfLink(value) {
+  return /\.pdf($|\?|#)/i.test(String(value || ''));
+}
+
+function absoluteUrl(url, baseUrl) {
+  if (!url) {
+    return '';
+  }
+
+  try {
+    return new URL(url, baseUrl).toString();
+  } catch {
+    return url;
+  }
+}
+
+function extractPdfLinks(item, source) {
+  const candidates = [];
+
+  if (item.link) {
+    candidates.push(item.link);
+  }
+
+  if (item.guid) {
+    candidates.push(item.guid);
+  }
+
+  if (item.enclosure && item.enclosure.url) {
+    candidates.push(item.enclosure.url);
+  }
+
+  if (Array.isArray(item.links)) {
+    item.links.forEach((link) => {
+      if (typeof link === 'string') {
+        candidates.push(link);
+      } else if (link && link.href) {
+        candidates.push(link.href);
+      }
+    });
+  }
+
+  const rawHtmlFields = [
+    item.contentEncoded,
+    item['content:encoded'],
+    item.content,
+    item.summary,
+    item.description
+  ];
+
+  rawHtmlFields.forEach((field) => {
+    extractLinksFromHtml(field).forEach((link) => candidates.push(link));
+  });
+
+  return [...new Set(candidates)]
+    .filter(isPdfLink)
+    .map((link) => absoluteUrl(link, source.url));
+}
+
+function tagPublication(publication, topics) {
+  const searchableText = normaliseForMatching(
+    [
+      publication.title,
+      publication.summary,
+      publication.sourceName,
+      publication.institution,
+      publication.region,
+      publication.jurisdiction
+    ].join(' ')
+  );
+
+  const matchedTopics = [];
+  const matchedKeywords = [];
   const topicMatches = [];
 
   topics.forEach((topic) => {
-    const matchedKeywordsForTopic = [];
+    const topicMatchedKeywords = [];
 
     topic.keywords.forEach((keyword) => {
-      if (keywordMatchesText(keyword, searchableText)) {
-        matchedKeywordsForTopic.push(keyword.trim());
+      const normalisedKeyword = normaliseForMatching(keyword).trim();
+
+      if (!normalisedKeyword) {
+        return;
+      }
+
+      const keywordRegex = new RegExp(
+        `(^|\\s)${normalisedKeyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(\\s|$)`,
+        'i'
+      );
+
+      if (keywordRegex.test(searchableText)) {
+        topicMatchedKeywords.push(keyword);
+        matchedKeywords.push(keyword);
       }
     });
 
-    const uniqueMatchedKeywords = [...new Set(matchedKeywordsForTopic)];
-
-    if (uniqueMatchedKeywords.length > 0) {
+    if (topicMatchedKeywords.length > 0) {
+      matchedTopics.push(topic.label);
       topicMatches.push({
-        topic: topic.label,
-        topicId: topic.id,
-        keywords: uniqueMatchedKeywords
+        id: topic.id,
+        label: topic.label,
+        keywords: [...new Set(topicMatchedKeywords)]
       });
     }
   });
-
-  const matchedTopics = topicMatches.map((match) => match.topic);
-  const matchedKeywords = topicMatches.flatMap((match) => match.keywords);
 
   return {
     topics: [...new Set(matchedTopics)],
@@ -187,93 +311,183 @@ function tagPublication(title, summary, institution) {
   };
 }
 
-function normaliseItem(source, item, feedMeta) {
-  const title = cleanText(item.title);
-  const summary = cleanText(
-    item.contentSnippet ||
-    item.summary ||
-    item.description ||
-    item.content ||
-    ''
-  );
+function normaliseItem(item, source, topics) {
+  const title = cleanText(item.title || 'Untitled publication');
+  const rawSummary = getRawSummary(item);
+  const summary = truncateSummary(rawSummary);
+  const publishedAt = getPublicationDate(item);
 
-  const tagging = tagPublication(title, summary, source.institution);
+  const url =
+    item.link ||
+    item.guid ||
+    item.id ||
+    source.officialSourcePage ||
+    source.url;
 
-  return {
-    id: createPublicationId(source, item),
-    sourceId: source.id,
-    sourceName: source.name,
-    institution: source.institution,
-    region: source.region,
-    jurisdiction: source.jurisdiction,
+  const basePublication = {
     title,
     summary,
-    link: item.link || null,
-    publishedAt: normaliseDate(item),
-    pdfLinks: extractPdfLinks(item),
+    url: absoluteUrl(url, source.url),
+    sourceId: source.id,
+    sourceName: source.name,
+    institution: source.institution || source.name,
+    region: source.region || 'Unknown',
+    jurisdiction: source.jurisdiction || source.region || 'Unknown',
+    sourceType: source.type || 'rss',
+    publishedAt,
+    pdfLinks: extractPdfLinks(item, source)
+  };
+
+  const tagging = tagPublication(basePublication, topics);
+
+  const idSeed = [
+    basePublication.url,
+    basePublication.title,
+    basePublication.sourceId,
+    basePublication.publishedAt
+  ].join('|');
+
+  return {
+    id: createHash(idSeed),
+    ...basePublication,
     topics: tagging.topics,
     matchedKeywords: tagging.matchedKeywords,
-    topicMatches: tagging.topicMatches,
-    officialSourcePage: source.officialSourcePage,
-    feedUsedFallback: feedMeta.usedFallback,
-    collectedAt: new Date().toISOString()
+    topicMatches: tagging.topicMatches
   };
 }
 
-async function fetchSource(source) {
-  console.log(`\nFetching ${source.name}...`);
+async function fetchText(url) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 25000);
 
   try {
-    const parsed = await parseFeedWithFallback(source);
-    const feed = parsed.feed;
-    const items = Array.isArray(feed.items) ? feed.items : [];
+    const response = await fetch(url, {
+      signal: controller.signal,
+      headers: {
+        'User-Agent':
+          'RegPulse/1.0 (+https://github.com/KimiyaMirsalehi/RegPulse; regulatory monitoring tool)',
+        Accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'
+      }
+    });
 
-    const publications = items.map((item) => normaliseItem(source, item, parsed));
-
-    if (parsed.usedFallback) {
-      console.log(`  ⚠️  Success with fallback: ${publications.length} items found`);
-      console.log(`  Warning: ${parsed.warning}`);
-    } else {
-      console.log(`  ✅ Success: ${publications.length} items found`);
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status} ${response.statusText}`);
     }
 
-    if (publications.length > 0) {
-      console.log(`  Latest: ${publications[0].title}`);
-    }
+    return await response.text();
+  } finally {
+    clearTimeout(timeout);
+  }
+}
 
+function getTagValue(xml, tagNames) {
+  for (const tagName of tagNames) {
+    const regex = new RegExp(`<${tagName}[^>]*>([\\s\\S]*?)<\\/${tagName}>`, 'i');
+    const match = xml.match(regex);
+
+    if (match && match[1]) {
+      return match[1].trim();
+    }
+  }
+
+  return '';
+}
+
+function getLinkFromEntry(entryXml) {
+  const hrefMatch = entryXml.match(/<link[^>]+href=["']([^"']+)["'][^>]*>/i);
+
+  if (hrefMatch && hrefMatch[1]) {
+    return hrefMatch[1];
+  }
+
+  return getTagValue(entryXml, ['link']);
+}
+
+function fallbackParseXml(xml) {
+  const items = [];
+
+  const rssItemRegex = /<item\b[\s\S]*?<\/item>/gi;
+  const atomEntryRegex = /<entry\b[\s\S]*?<\/entry>/gi;
+
+  const itemBlocks = xml.match(rssItemRegex) || [];
+  const entryBlocks = xml.match(atomEntryRegex) || [];
+
+  itemBlocks.forEach((block) => {
+    items.push({
+      title: getTagValue(block, ['title']),
+      link: getTagValue(block, ['link']),
+      guid: getTagValue(block, ['guid']),
+      pubDate: getTagValue(block, ['pubDate', 'dc:date']),
+      description: getTagValue(block, ['description']),
+      contentEncoded: getTagValue(block, ['content:encoded'])
+    });
+  });
+
+  entryBlocks.forEach((block) => {
+    items.push({
+      title: getTagValue(block, ['title']),
+      link: getLinkFromEntry(block),
+      guid: getTagValue(block, ['id']),
+      published: getTagValue(block, ['published']),
+      updated: getTagValue(block, ['updated']),
+      summary: getTagValue(block, ['summary']),
+      content: getTagValue(block, ['content'])
+    });
+  });
+
+  return {
+    title: '',
+    items
+  };
+}
+
+async function parseFeed(source) {
+  const xml = await fetchText(source.url);
+
+  try {
+    const parsedFeed = await parser.parseString(xml);
     return {
-      source,
-      status: 'OK',
-      usedFallback: parsed.usedFallback,
-      warning: parsed.warning,
-      publications
+      feed: parsedFeed,
+      parserMode: 'rss-parser'
     };
   } catch (error) {
-    console.log(`  ❌ Failed: ${error.message}`);
+    const fallbackFeed = fallbackParseXml(xml);
+
+    if (!fallbackFeed.items || fallbackFeed.items.length === 0) {
+      throw error;
+    }
 
     return {
-      source,
-      status: 'FAILED',
-      error: error.message,
-      publications: []
+      feed: fallbackFeed,
+      parserMode: 'fallback-parser'
     };
   }
 }
 
 function deduplicatePublications(publications) {
-  const seen = new Set();
-  const unique = [];
+  const seen = new Map();
 
-  for (const publication of publications) {
-    const key = publication.link || `${publication.institution}-${publication.title}-${publication.publishedAt}`;
+  publications.forEach((publication) => {
+    const key = publication.url
+      ? publication.url.toLowerCase()
+      : `${publication.title}|${publication.sourceId}`.toLowerCase();
 
     if (!seen.has(key)) {
-      seen.add(key);
-      unique.push(publication);
+      seen.set(key, publication);
+      return;
     }
-  }
 
-  return unique;
+    const existing = seen.get(key);
+
+    const existingTopicCount = existing.topics ? existing.topics.length : 0;
+    const newTopicCount = publication.topics ? publication.topics.length : 0;
+
+    if (newTopicCount > existingTopicCount) {
+      seen.set(key, publication);
+    }
+  });
+
+  return [...seen.values()];
 }
 
 function sortPublications(publications) {
@@ -281,109 +495,188 @@ function sortPublications(publications) {
     const dateA = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
     const dateB = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
 
-    return dateB - dateA;
+    if (dateA !== dateB) {
+      return dateB - dateA;
+    }
+
+    return String(a.title).localeCompare(String(b.title));
   });
 }
 
 function buildTopicSummary(publications) {
-  const counts = {};
+  const counts = new Map();
 
   publications.forEach((publication) => {
-    publication.topics.forEach((topic) => {
-      counts[topic] = (counts[topic] || 0) + 1;
+    (publication.topics || []).forEach((topic) => {
+      counts.set(topic, (counts.get(topic) || 0) + 1);
     });
   });
 
-  return Object.entries(counts)
-    .map(([topic, count]) => ({
-      topic,
-      count
-    }))
-    .sort((a, b) => b.count - a.count);
+  return [...counts.entries()]
+    .map(([topic, count]) => ({ topic, count }))
+    .sort((a, b) => b.count - a.count || a.topic.localeCompare(b.topic));
 }
 
-function buildKeywordSummary(publications) {
-  const counts = {};
+function buildKeywordCloud(publications) {
+  const counts = new Map();
 
   publications.forEach((publication) => {
-    publication.matchedKeywords.forEach((keyword) => {
-      counts[keyword] = (counts[keyword] || 0) + 1;
+    (publication.matchedKeywords || []).forEach((keyword) => {
+      const cleanedKeyword = cleanText(keyword).toLowerCase();
+
+      if (cleanedKeyword.length < 2) {
+        return;
+      }
+
+      counts.set(cleanedKeyword, (counts.get(cleanedKeyword) || 0) + 1);
     });
   });
 
-  return Object.entries(counts)
-    .map(([keyword, count]) => ({
-      keyword,
-      count
-    }))
-    .sort((a, b) => b.count - a.count)
-    .slice(0, 100);
+  return [...counts.entries()]
+    .map(([keyword, count]) => ({ keyword, count }))
+    .sort((a, b) => b.count - a.count || a.keyword.localeCompare(b.keyword))
+    .slice(0, 80);
 }
 
-function savePublications(publications, sourceResults) {
-  ensureOutputFolderExists();
+function buildRegionSummary(publications) {
+  const counts = new Map();
+
+  publications.forEach((publication) => {
+    const region = publication.region || 'Unknown';
+    counts.set(region, (counts.get(region) || 0) + 1);
+  });
+
+  return [...counts.entries()]
+    .map(([region, count]) => ({ region, count }))
+    .sort((a, b) => b.count - a.count || a.region.localeCompare(b.region));
+}
+
+function buildInstitutionSummary(publications) {
+  const counts = new Map();
+
+  publications.forEach((publication) => {
+    const institution = publication.institution || publication.sourceName || 'Unknown';
+    counts.set(institution, (counts.get(institution) || 0) + 1);
+  });
+
+  return [...counts.entries()]
+    .map(([institution, count]) => ({ institution, count }))
+    .sort((a, b) => b.count - a.count || a.institution.localeCompare(b.institution));
+}
+
+async function run() {
+  console.log('RegPulse scraper started.');
+
+  const sources = readJson(SOURCES_PATH);
+  const topics = readJson(TOPICS_PATH);
+
+  const allPublications = [];
+  const sourceStatus = [];
+
+  for (const source of sources) {
+    console.log(`Fetching ${source.name}...`);
+
+    try {
+      const { feed, parserMode } = await parseFeed(source);
+      const rawItems = Array.isArray(feed.items) ? feed.items : [];
+      const selectedItems = rawItems.slice(0, MAX_ITEMS_PER_SOURCE);
+
+      const publications = selectedItems
+        .map((item) => normaliseItem(item, source, topics))
+        .filter((publication) => publication.title && publication.url);
+
+      allPublications.push(...publications);
+
+      sourceStatus.push({
+        id: source.id,
+        name: source.name,
+        institution: source.institution || source.name,
+        region: source.region || 'Unknown',
+        status: parserMode === 'fallback-parser' ? 'warning' : 'success',
+        parserMode,
+        itemCount: publications.length,
+        message:
+          parserMode === 'fallback-parser'
+            ? 'Parsed successfully using fallback parser.'
+            : 'Parsed successfully.'
+      });
+
+      console.log(
+        `  Success: ${publications.length} publications (${parserMode}).`
+      );
+    } catch (error) {
+      sourceStatus.push({
+        id: source.id,
+        name: source.name,
+        institution: source.institution || source.name,
+        region: source.region || 'Unknown',
+        status: 'failed',
+        parserMode: null,
+        itemCount: 0,
+        message: error.message
+      });
+
+      console.error(`  Failed: ${source.name} - ${error.message}`);
+    }
+  }
+
+  const publications = sortPublications(deduplicatePublications(allPublications));
+
+  const successfulSources = sourceStatus.filter(
+    (source) => source.status === 'success'
+  ).length;
+
+  const warningSources = sourceStatus.filter(
+    (source) => source.status === 'warning'
+  ).length;
+
+  const failedSources = sourceStatus.filter(
+    (source) => source.status === 'failed'
+  ).length;
+
+  const topicSummary = buildTopicSummary(publications);
+  const keywordCloud = buildKeywordCloud(publications);
+  const regionSummary = buildRegionSummary(publications);
+  const institutionSummary = buildInstitutionSummary(publications);
 
   const output = {
     generatedAt: new Date().toISOString(),
     totalPublications: publications.length,
-    totalSources: sources.length,
-    successfulSources: sourceResults.filter((result) => result.status === 'OK').length,
-    warningSources: sourceResults
-      .filter((result) => result.status === 'OK' && result.usedFallback)
-      .map((result) => ({
-        sourceId: result.source.id,
-        name: result.source.name,
-        warning: result.warning
-      })),
-    failedSources: sourceResults
-      .filter((result) => result.status === 'FAILED')
-      .map((result) => ({
-        sourceId: result.source.id,
-        name: result.source.name,
-        error: result.error
-      })),
-    topicSummary: buildTopicSummary(publications),
-    keywordSummary: buildKeywordSummary(publications),
+    sourceCount: sources.length,
+    successfulSources,
+    warningSources,
+    failedSources,
+    sourceStatus,
+    topicSummary,
+    topicsSummary: topicSummary,
+    keywordCloud,
+    regionSummary,
+    institutionSummary,
     publications
   };
 
-  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2), 'utf8');
+  ensureDirectory(OUTPUT_DIR);
+  fs.writeFileSync(OUTPUT_PATH, `${JSON.stringify(output, null, 2)}\n`, 'utf8');
 
-  console.log(`\nSaved ${publications.length} publications to ${OUTPUT_FILE}`);
+  console.log('');
+  console.log('RegPulse scraper completed.');
+  console.log(`Total publications: ${publications.length}`);
+  console.log(`Sources successful: ${successfulSources}`);
+  console.log(`Sources with warnings: ${warningSources}`);
+  console.log(`Sources failed: ${failedSources}`);
+  console.log('');
+  console.log('Top topics:');
 
-  console.log('\nTop topics');
-  console.log('----------');
-
-  output.topicSummary.slice(0, 10).forEach((item, index) => {
-    console.log(`${index + 1}. ${item.topic}: ${item.count}`);
+  topicSummary.slice(0, 10).forEach((topic, index) => {
+    console.log(`${index + 1}. ${topic.topic}: ${topic.count}`);
   });
+
+  console.log('');
+  console.log(`Saved output to ${OUTPUT_PATH}`);
 }
 
-async function main() {
-  console.log('RegPulse — daily regulatory publication scraper');
-  console.log('------------------------------------------------');
-
-  const sourceResults = [];
-
-  for (const source of sources) {
-    const result = await fetchSource(source);
-    sourceResults.push(result);
-  }
-
-  const allPublications = sourceResults.flatMap((result) => result.publications);
-  const uniquePublications = deduplicatePublications(allPublications);
-  const sortedPublications = sortPublications(uniquePublications);
-
-  savePublications(sortedPublications, sourceResults);
-
-  console.log('\nRun summary');
-  console.log('-----------');
-  console.log(`Sources checked       : ${sources.length}`);
-  console.log(`Successful sources    : ${sourceResults.filter((result) => result.status === 'OK').length}`);
-  console.log(`Warning sources       : ${sourceResults.filter((result) => result.status === 'OK' && result.usedFallback).length}`);
-  console.log(`Failed sources        : ${sourceResults.filter((result) => result.status === 'FAILED').length}`);
-  console.log(`Unique publications   : ${sortedPublications.length}`);
-  console.log('\nAll done!');
-}
-
-main();
+run().catch((error) => {
+  console.error('RegPulse scraper failed.');
+  console.error(error);
+  process.exit(1);
+});
