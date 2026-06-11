@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T20:31:30.248Z",
+  "generatedAt": "2026-06-11T10:25:33.444Z",
   "totalPublications": 277,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -243,7 +243,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 17
+      "count": 18
     },
     {
       "topic": "Payments / Open Finance",
@@ -271,7 +271,7 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 5
+      "count": 4
     },
     {
       "topic": "Stress Testing",
@@ -309,7 +309,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 17
+      "count": 18
     },
     {
       "topic": "Payments / Open Finance",
@@ -337,7 +337,7 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 5
+      "count": 4
     },
     {
       "topic": "Stress Testing",
@@ -382,11 +382,11 @@
       "count": 21
     },
     {
-      "keyword": "supervisory",
-      "count": 16
+      "keyword": "policy statement",
+      "count": 15
     },
     {
-      "keyword": "policy statement",
+      "keyword": "supervisory",
       "count": 15
     },
     {
@@ -430,11 +430,11 @@
       "count": 4
     },
     {
-      "keyword": "clearing",
-      "count": 3
+      "keyword": "disclosure",
+      "count": 4
     },
     {
-      "keyword": "consumer duty",
+      "keyword": "clearing",
       "count": 3
     },
     {
@@ -446,19 +446,11 @@
       "count": 3
     },
     {
-      "keyword": "disclosure",
-      "count": 3
-    },
-    {
       "keyword": "governance",
       "count": 3
     },
     {
       "keyword": "payment services",
-      "count": 3
-    },
-    {
-      "keyword": "retail investors",
       "count": 3
     },
     {
@@ -490,15 +482,15 @@
       "count": 2
     },
     {
+      "keyword": "consumer duty",
+      "count": 2
+    },
+    {
       "keyword": "dora",
       "count": 2
     },
     {
       "keyword": "final report",
-      "count": 2
-    },
-    {
-      "keyword": "financial promotions",
       "count": 2
     },
     {
@@ -515,6 +507,10 @@
     },
     {
       "keyword": "resolvability",
+      "count": 2
+    },
+    {
+      "keyword": "retail investors",
       "count": 2
     },
     {
@@ -579,6 +575,14 @@
     },
     {
       "keyword": "financial crime",
+      "count": 1
+    },
+    {
+      "keyword": "financial promotions",
+      "count": 1
+    },
+    {
+      "keyword": "fine",
       "count": 1
     },
     {
@@ -743,6 +747,77 @@
     }
   ],
   "publications": [
+    {
+      "id": "c5ec8d7a6854c6a6",
+      "title": "Sharon Donnery: Trust is the infrastructure: banking supervision in a changing risk landscape",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260611~1b8b1dfe48.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-11T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.other_publications_banking_sector_framework.en.pdf?eef7462d182fe3c12e02707d8521b1cc",
+        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
+        "https://www.bis.org/fsi/publ/insights66.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260611~1b8b1dfe48.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "d19442ad8c55de53",
+      "title": "​Euribor panel to include KBC Bank​",
+      "summary": "",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/euribor-panel-include-kbc-bank",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/euribor-panel-include-kbc-bank",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "cb8555cc72918a1e",
       "title": "Frank Elderson: Interview with Het Financieele Dagblad",
@@ -3914,9 +3989,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-05-15T15:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20230724a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance",
         "Supervision / Enforcement"
@@ -3960,9 +4033,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-05-15T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervision/firm-feedback-survey-2025.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4595,41 +4666,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "700cbe627750b288",
-      "title": "ESMA identifies areas for further supervisory convergence on compliance and internal audit in the funds sector",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-identifies-areas-further-supervisory-convergence-compliance-and-internal",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-05-11T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-identifies-areas-further-supervisory-convergence-compliance-and-internal",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "4097a9fb3353dd18",
       "title": "Sharon Donnery: Single Market, shared opportunities",
       "summary": "",
@@ -5034,52 +5070,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "72b06c421681bd1d",
-      "title": "Claudia Buch: Eurosystem’s response to the consultation on the competitiveness of the EU banking sector",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260506~530f6aa051.en.pdf",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-06T07:30:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260506~530f6aa051.en.pdf"
-      ],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260506~530f6aa051.en.pdf",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "c00d5da3b168cd23",
@@ -9780,6 +9770,59 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
+      "id": "4e7e730f9c290b0d",
+      "title": "FCA decides to fine Carlos Ricardo Fuenmayor £99,600 for disclosure failures",
+      "summary": "",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-decides-fine-carlos-ricardo-fuenmayor-disclosure-failures",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "disclosure",
+        "fine"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "fine"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-decides-fine-carlos-ricardo-fuenmayor-disclosure-failures",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "246a793c558b3692",
       "title": "FCA imposes requirements on Euro Exchange Securities UK Limited and interim managers appointed by the Court",
       "summary": "On 4 June 2026, the FCA required Euro Exchange Securities UK Limited (EES) to cease carrying out any regulated electronic money or payment services and, on the FCA’s application, interim managers were appointed by the Court over EES. Serious concerns around the way EES operated its business indicated there were significant risks of financial crime. This includes systemic weaknesses in the firm’s financial crime framework and safeguarding arrangements, alongside its ownership and governance. These risks could have had an impact on both consumers and the integrity of the market.",
@@ -10303,54 +10346,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "f011c8418d033256",
-      "title": "Review of financial promotion approvers finds some firms need to raise standards",
-      "summary": "Firms that approve financial promotions should be doing more to protect consumers, an FCA review has found. The FCA found that the strongest firms were applying the Consumer Duty from the start of their processes. They were able to make sure that every promotion approved was accurate, clear and reached the right audience. However, the FCA also found that some firms approved adverts with unsubstantiated claims or allowed retail investors to see promotions intended for professional clients. In some cases, firms relied on third-party templates instead of doing proper checks themselves. The review focussed on sampling promotions that had been approved since the firm was authorised.",
-      "url": "https://www.fca.org.uk/news/press-releases/review-financial-promotion-approvers-finds-some-firms-need-raise-standards",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Consumer Protection",
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "consumer duty",
-        "retail investors",
-        "financial promotions",
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "consumer duty",
-            "retail investors",
-            "financial promotions"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/review-financial-promotion-approvers-finds-some-firms-need-raise-standards",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "c8d77ef60ed6fe9f",
       "title": "Silicon Marketing Limited in administration",
       "summary": "On 21 May 2026, Silicon Marketing Limited (Silicon) entered administration. Carrie James and Nick Parsk of Oury Clark were appointed as joint administrators. Silicon (Firm Reference Number: 674008) is regulated by the FCA, authorised to carry out debt purchasing and debt collection activities, which provide debt resolution solutions to consumers. The joint administrators are responsible for managing the affairs of Silicon during the administration process. The joint administrators have advised that all existing loan agreements remain in place and will not be affected by the administration.",
@@ -10563,7 +10558,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-10T20:31:30.248Z",
+      "publishedAt": "2026-06-11T10:25:33.444Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10587,7 +10582,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-10T20:31:30.248Z",
+      "publishedAt": "2026-06-11T10:25:33.444Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10611,7 +10606,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-10T20:31:30.248Z",
+      "publishedAt": "2026-06-11T10:25:33.444Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10635,7 +10630,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-10T20:31:30.248Z",
+      "publishedAt": "2026-06-11T10:25:33.444Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10652,19 +10647,19 @@
     },
     {
       "updateType": "News",
-      "count": 67
+      "count": 68
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 67
+      "count": 66
     },
     {
       "updateType": "Consultations",
-      "count": 21
+      "count": 20
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 17
+      "count": 18
     },
     {
       "updateType": "Working Papers / Research",
