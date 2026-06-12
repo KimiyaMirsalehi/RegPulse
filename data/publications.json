@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T10:14:02.923Z",
+  "generatedAt": "2026-06-12T20:11:44.158Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -258,16 +258,16 @@
       "count": 9
     },
     {
-      "topic": "Climate / ESG",
+      "topic": "DORA / Operational Resilience",
       "count": 7
+    },
+    {
+      "topic": "Climate / ESG",
+      "count": 6
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 7
-    },
-    {
-      "topic": "DORA / Operational Resilience",
-      "count": 7
+      "count": 6
     },
     {
       "topic": "Stress Testing",
@@ -320,16 +320,16 @@
       "count": 9
     },
     {
-      "topic": "Climate / ESG",
+      "topic": "DORA / Operational Resilience",
       "count": 7
+    },
+    {
+      "topic": "Climate / ESG",
+      "count": 6
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 7
-    },
-    {
-      "topic": "DORA / Operational Resilience",
-      "count": 7
+      "count": 6
     },
     {
       "topic": "Stress Testing",
@@ -442,10 +442,6 @@
       "count": 3
     },
     {
-      "keyword": "crypto",
-      "count": 3
-    },
-    {
       "keyword": "settlement",
       "count": 3
     },
@@ -471,6 +467,10 @@
     },
     {
       "keyword": "consumer duty",
+      "count": 2
+    },
+    {
+      "keyword": "crypto",
       "count": 2
     },
     {
@@ -518,10 +518,6 @@
       "count": 1
     },
     {
-      "keyword": "carbon",
-      "count": 1
-    },
-    {
       "keyword": "climate risk",
       "count": 1
     },
@@ -559,10 +555,6 @@
     },
     {
       "keyword": "dlt",
-      "count": 1
-    },
-    {
-      "keyword": "emissions",
       "count": 1
     },
     {
@@ -732,6 +724,80 @@
   ],
   "publications": [
     {
+      "id": "f08ca54628d12d82",
+      "title": "SEC Appoints John Moses as Director of the Office of Investor Education and Assistance",
+      "summary": "The Securities and Exchange Commission has appointed John Moses as Director of the agency’s Office of Investor Education and Assistance, which provides services and resources to help investors build their financial futures and protect against investment…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-55-sec-appoints-john-moses-director-office-investor-education-assistance",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-12T16:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-55-sec-appoints-john-moses-director-office-investor-education-assistance",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "48e8cda5c9602b22",
+      "title": "Letter from the ECB President to Mr Bruno Gonçalves, MEP, on financing the green transition",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260612_Goncalves~ef717525ca.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-12T14:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260612_Goncalves~ef717525ca.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260612_Goncalves~ef717525ca.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "89f1417770b83562",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260612~12de4776f6.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-12T13:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/payments-news/ecb.pubconpm202605.en.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-01/60ba0389-2d7a-46b7-96e8-9072c481d8ce/EIOPA-BoS-25-602%20-%20ESAs%20Final%20Report%20-%20Joint%20Guidelines%20on%20ESG%20Stress%20Testing.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260612~12de4776f6.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
       "id": "6e72885bdc5d7f41",
       "title": "Governance: recognised payment system operators",
       "summary": "Policy statement and supervisory statement",
@@ -747,7 +813,7 @@
       "publishedAt": "2026-06-12T09:00:00.000Z",
       "pdfLinks": [
         "https://www.ecgi.global/sites/default/files/codes/documents/UK-Corporate-Governance-Code-April-2016.pdf",
-        "https://www.bankofengland.co.uk/paper/2026/code-of-practice-about-the-operation-of-recognised-payment-systems-governance.pdf"
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/code-of-practice-about-the-operation-of-recognised-payment-systems-governance.pdf"
       ],
       "topics": [
         "Governance",
@@ -804,7 +870,7 @@
       "sourceType": "rss",
       "publishedAt": "2026-06-12T09:00:00.000Z",
       "pdfLinks": [
-        "https://www.bankofengland.co.uk/paper/2026/operational-resilience-part-of-the-code-of-practice.pdf"
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/operational-resilience-part-of-the-code-of-practice.pdf"
       ],
       "topics": [
         "DORA / Operational Resilience",
@@ -2794,29 +2860,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "dd35a77d462768e4",
-      "title": "Meeting of 29-30 April 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260528~a93230dc4b.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-28T11:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260528~a93230dc4b.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "1e01f4a9e4f08cfd",
       "title": "PS15/26 – Pillar 2A review – Phase 1",
       "summary": "Policy statement 15/26",
@@ -3236,45 +3279,6 @@
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "fd71362c49d9bb88",
-      "title": "Employment effects of EU-ETS prices",
-      "summary": "This paper studies the employment effects of carbon pricing under the European Union’s Emissions Trading System (EU-ETS). I refer to standard methods from the literature to define and measure the environmental properties of jobs along two dimensions: how “green” a job is, and how polluting it is. I then leverage a series of shocks to EU-ETS prices to estimate their dynamic impacts on employment. The panel local projections estimates reveal that an exogenous 1% increase in EU-ETS prices leads to a roughly 0.2% decline in employment after one and a half years.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3237~617a2b8de5.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-26T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3237~617a2b8de5.en.pdf"
-      ],
-      "topics": [
-        "Climate / ESG"
-      ],
-      "matchedKeywords": [
-        "carbon",
-        "emissions"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "carbon",
-            "emissions"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3237~617a2b8de5.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "7034201523c58d80",
@@ -3860,17 +3864,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-05-19T12:10:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op387.en.pdf?0fb1b314f35dfe1069bb0447776b5e39",
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisorybankingstatistics_fourth_quarter_2025_202603.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2913~6bf956d0d3.en.pdf",
-        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
-        "https://www.fsb.org/uploads/P131025-2.pdf",
-        "https://www.srb.europa.eu/system/files/media/document/2025-11-07_MREL-dashboard_H1-2025.pdf",
-        "https://competition-policy.ec.europa.eu/system/files/2021-04/state_aid_scoreboard_note_2017.pdf",
-        "https://www.europarl.europa.eu/RegData/etudes/STUD/2025/772638/ECTI_STU(2025)772638_EN.pdf",
-        "https://www.bde.es/f/webbe/Secciones/Publicaciones/InformesBoletinesRevistas/InformesEstabilidadFinancera/25/FSR_2025_1_Box3_1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Supervision / Enforcement"
@@ -7728,41 +7722,6 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "2f2f7812950f1b24",
-      "title": "SEC Clarifies the Application of Federal Securities Laws to Crypto Assets",
-      "summary": "The Securities and Exchange Commission (SEC) today issued an interpretation clarifying how the federal securities laws apply to certain crypto assets and transactions involving crypto assets. This is a major step in the Commission’s efforts to provide…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-03-17T19:45:25.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Crypto / Digital Assets"
-      ],
-      "matchedKeywords": [
-        "crypto"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "crypto"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "efaf33893b1bf4de",
       "title": "CP5/26 – Modernising the liquidity policy framework",
       "summary": "Consultation paper 5/26",
@@ -10582,7 +10541,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-12T10:14:02.923Z",
+      "publishedAt": "2026-06-12T20:11:44.158Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10606,7 +10565,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-12T10:14:02.923Z",
+      "publishedAt": "2026-06-12T20:11:44.158Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10630,7 +10589,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-12T10:14:02.923Z",
+      "publishedAt": "2026-06-12T20:11:44.158Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10654,7 +10613,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-12T10:14:02.923Z",
+      "publishedAt": "2026-06-12T20:11:44.158Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10667,15 +10626,15 @@
   "updateTypeSummary": [
     {
       "updateType": "Publications / Reports",
-      "count": 74
+      "count": 75
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 69
+      "count": 68
     },
     {
       "updateType": "News",
-      "count": 67
+      "count": 66
     },
     {
       "updateType": "Consultations",
@@ -10695,7 +10654,7 @@
     },
     {
       "updateType": "Statistics / Data",
-      "count": 5
+      "count": 6
     },
     {
       "updateType": "Source Pages",
