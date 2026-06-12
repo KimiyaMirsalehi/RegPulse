@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T20:22:56.145Z",
+  "generatedAt": "2026-06-12T10:14:02.923Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,11 +231,11 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 113
+      "count": 115
     },
     {
       "topic": "Governance",
-      "count": 57
+      "count": 58
     },
     {
       "topic": "Basel / BCBS",
@@ -243,11 +243,11 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 20
+      "count": 21
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 13
+      "count": 15
     },
     {
       "topic": "Recovery / Resolution",
@@ -267,7 +267,7 @@
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "Stress Testing",
@@ -293,11 +293,11 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 113
+      "count": 115
     },
     {
       "topic": "Governance",
-      "count": 57
+      "count": 58
     },
     {
       "topic": "Basel / BCBS",
@@ -305,11 +305,11 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 20
+      "count": 21
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 13
+      "count": 15
     },
     {
       "topic": "Recovery / Resolution",
@@ -329,7 +329,7 @@
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "Stress Testing",
@@ -374,12 +374,12 @@
       "count": 21
     },
     {
-      "keyword": "policy statement",
-      "count": 16
+      "keyword": "supervisory",
+      "count": 18
     },
     {
-      "keyword": "supervisory",
-      "count": 16
+      "keyword": "policy statement",
+      "count": 17
     },
     {
       "keyword": "enforcement",
@@ -387,10 +387,14 @@
     },
     {
       "keyword": "reporting",
-      "count": 11
+      "count": 12
     },
     {
       "keyword": "consultation paper",
+      "count": 10
+    },
+    {
+      "keyword": "payment",
       "count": 10
     },
     {
@@ -398,16 +402,12 @@
       "count": 10
     },
     {
-      "keyword": "payment",
-      "count": 8
-    },
-    {
       "keyword": "climate",
       "count": 6
     },
     {
       "keyword": "operational resilience",
-      "count": 5
+      "count": 6
     },
     {
       "keyword": "payments",
@@ -419,6 +419,10 @@
     },
     {
       "keyword": "disclosure",
+      "count": 4
+    },
+    {
+      "keyword": "governance",
       "count": 4
     },
     {
@@ -439,10 +443,6 @@
     },
     {
       "keyword": "crypto",
-      "count": 3
-    },
-    {
-      "keyword": "governance",
       "count": 3
     },
     {
@@ -731,6 +731,203 @@
     }
   ],
   "publications": [
+    {
+      "id": "6e72885bdc5d7f41",
+      "title": "Governance: recognised payment system operators",
+      "summary": "Policy statement and supervisory statement",
+      "url": "https://www.bankofengland.co.uk/paper/2026/ps/governance-recognised-payment-system-operators-ps-ss",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-12T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecgi.global/sites/default/files/codes/documents/UK-Corporate-Governance-Code-April-2016.pdf",
+        "https://www.bankofengland.co.uk/paper/2026/code-of-practice-about-the-operation-of-recognised-payment-systems-governance.pdf"
+      ],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "governance",
+        "supervisory",
+        "policy statement",
+        "payment"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "policy statement"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/governance-recognised-payment-system-operators-ps-ss",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "6c9db5010b7132de",
+      "title": "Operational resilience: recognised payment system operators and specified service providers",
+      "summary": "Supervisory statement",
+      "url": "https://www.bankofengland.co.uk/paper/2026/ss/operational-resilience-rpsos-ssps-ss",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-12T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/paper/2026/operational-resilience-part-of-the-code-of-practice.pdf"
+      ],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "operational resilience",
+        "supervisory",
+        "payment"
+      ],
+      "topicMatches": [
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "operational resilience"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/paper/2026/ss/operational-resilience-rpsos-ssps-ss",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "cdec0a3f8cd8c7f2",
+      "title": "Agents' summary of business conditions - June 2026",
+      "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+      "url": "https://www.bankofengland.co.uk/agents-summary/2026/june-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-12T08:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "reporting"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/agents-summary/2026/june-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "30cae3fa46dd0155",
+      "title": "Bank of England/Ipsos Inflation Attitudes Survey - May 2026",
+      "summary": "This quarterly survey, conducted by Ipsos on our behalf, assesses public attitudes to inflation, opinions about the Bank and awareness of our work.",
+      "url": "https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/may-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-12T08:30:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/inflation-attitudes-survey/ipsos-methodology-and-notes-online-survey.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/inflation-attitudes-survey/methodology-and-notes-face-to-face.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/may-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "3c1c0b82cba8bf1b",
+      "title": "EU structural financial indicators: end of 2025",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260612~ab34769159.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-12T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260612~ab34769159.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "b9f7a69751a17f21",
       "title": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
@@ -2661,33 +2858,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "b213522ca6b71609",
-      "title": "Piero Cipollone: Money in the digital age",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260528_1~7bb2eecfe5.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-28T08:30:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3199~ad552b59ec.en.pdf",
-        "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40dgreports/%40dcomm/documents/meetingdocument/wcms_761761.pdf",
-        "https://www.fsb.org/uploads/P131020-1.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260528_1~7bb2eecfe5.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "9a58a1d3f598893f",
       "title": "Firm level heterogeneity and the impact of monetary policy on labour demand",
       "summary": "Monetary policy asymmetrically affects the response of firms’ employment to an output shock and plays a role in cushioning employment adjustment over the business cycle. Combining annual firm-level data until 2020 with quarterly firm-level data until 2023 and high-frequency monetary policy surprises, we show that for a given change in output, monetary policy influences the extent to which firms hold on to labour, or “labour hoard”. Furthermore, this effect is asymmetric: a restrictive monetary policy reduces labour hoarding behaviour by 2 to 3 times more than an accommodative policy increases it. Finally, we look at the role of financing conditions and firm demographics.",
@@ -3744,13 +3914,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-05-19T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2013/central-counterparties-what-are-they-why-do-they-matter-and-how-does-the-boe-supervise-them.pdf",
-        "https://assets.publishing.service.gov.uk/media/65982b8c614fa2000df3a975/FINAL_CCP_Resolution_Regime_Code_of_Practice.pdf",
-        "https://www.fsb.org/uploads/P250424-3.pdf",
-        "https://www.mas.gov.sg/-/media/mas/news-and-publications/consultation-papers/25-mar-2026-consultation-paper-on-rrp-and-bail-in-for-cmfmi/consultation-paper-on-cmfmi-rrp-notice-and-guidelines-and-enhancement-of-resolution-powers.pdf",
-        "https://www.bis.org/cpmi/publ/d162.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Recovery / Resolution"
       ],
@@ -3849,13 +4013,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-05-18T15:15:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op387.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op376.en.pdf",
-        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op327~0d50b9136f.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3222~27c5b77e07.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Supervision / Enforcement"
@@ -7075,52 +7233,6 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "75dfe2fa2bc9b889",
-      "title": "A UK-HANK model",
-      "summary": "Part of the Macro Technical Paper series designed to document models, analysis and conceptual frameworks for monetary policy preparation – they are written by Bank staff to encourage feedback and foster continued model development.",
-      "url": "https://www.bankofengland.co.uk/macro-technical-paper/2026/a-uk-hank-model",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-03-27T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/macro-technical-paper/2026/a-uk-hank-model",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "0c053bc2966dc460",
-      "title": "Bank of England Weekly Report 25 March 2026",
-      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2026/25-march-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-03-26T15:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/25-march-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "ce556e862c006bb5",
       "title": "PS10/26 – Amendments to Resolution Assessment threshold and Recovery Plans review frequency",
       "summary": "Policy statement 10/26",
@@ -7320,52 +7432,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "ae01e5a98d000841",
-      "title": "Rethinking global imbalances: drivers, risks, and policy priorities",
-      "summary": "Bank of England Staff Discussion Paper",
-      "url": "https://www.bankofengland.co.uk/paper/2026/rethinking-global-imbalances",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-03-23T09:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/paper/2026/rethinking-global-imbalances",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "4c5ae3478b6886d4",
-      "title": "Interest-rate fee substitution: credit facilitation in segmented markets",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/interest-rate-fee-substitution-credit-facilitation-in-segmented-markets",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-03-20T14:01:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/interest-rate-fee-substitution-credit-facilitation-in-segmented-markets",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "60e50f758ba82049",
@@ -10516,7 +10582,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-11T20:22:56.145Z",
+      "publishedAt": "2026-06-12T10:14:02.923Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10540,7 +10606,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-11T20:22:56.145Z",
+      "publishedAt": "2026-06-12T10:14:02.923Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10564,7 +10630,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-11T20:22:56.145Z",
+      "publishedAt": "2026-06-12T10:14:02.923Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10588,7 +10654,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-11T20:22:56.145Z",
+      "publishedAt": "2026-06-12T10:14:02.923Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10604,16 +10670,16 @@
       "count": 74
     },
     {
+      "updateType": "Rules / Standards / Guidance",
+      "count": 69
+    },
+    {
       "updateType": "News",
       "count": 67
     },
     {
-      "updateType": "Rules / Standards / Guidance",
-      "count": 67
-    },
-    {
       "updateType": "Consultations",
-      "count": 21
+      "count": 20
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
@@ -10621,7 +10687,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 14
+      "count": 13
     },
     {
       "updateType": "Other",
