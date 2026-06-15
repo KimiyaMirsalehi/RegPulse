@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T19:26:59.071Z",
+  "generatedAt": "2026-06-15T12:14:53.756Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 115
+      "count": 113
     },
     {
       "topic": "Governance",
@@ -258,12 +258,12 @@
       "count": 9
     },
     {
-      "topic": "DORA / Operational Resilience",
+      "topic": "Climate / ESG",
       "count": 7
     },
     {
-      "topic": "Climate / ESG",
-      "count": 6
+      "topic": "DORA / Operational Resilience",
+      "count": 7
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -283,17 +283,13 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 1
-    },
-    {
-      "topic": "Credit Risk",
       "count": 1
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 115
+      "count": 113
     },
     {
       "topic": "Governance",
@@ -320,12 +316,12 @@
       "count": 9
     },
     {
-      "topic": "DORA / Operational Resilience",
+      "topic": "Climate / ESG",
       "count": 7
     },
     {
-      "topic": "Climate / ESG",
-      "count": 6
+      "topic": "DORA / Operational Resilience",
+      "count": 7
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -345,10 +341,6 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 1
-    },
-    {
-      "topic": "Credit Risk",
       "count": 1
     }
   ],
@@ -367,7 +359,7 @@
     },
     {
       "keyword": "its",
-      "count": 28
+      "count": 26
     },
     {
       "keyword": "conduct",
@@ -518,15 +510,15 @@
       "count": 1
     },
     {
+      "keyword": "carbon",
+      "count": 1
+    },
+    {
       "keyword": "climate risk",
       "count": 1
     },
     {
       "keyword": "crd",
-      "count": 1
-    },
-    {
-      "keyword": "credit risk",
       "count": 1
     },
     {
@@ -555,6 +547,10 @@
     },
     {
       "keyword": "dlt",
+      "count": 1
+    },
+    {
+      "keyword": "emissions",
       "count": 1
     },
     {
@@ -724,6 +720,116 @@
   ],
   "publications": [
     {
+      "id": "93b09569e4c079cd",
+      "title": "Carbon emissions of ECB and Eurosystem portfolios continue to decline",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260615~92388776dd.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-15T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG"
+      ],
+      "matchedKeywords": [
+        "carbon",
+        "emissions"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "carbon",
+            "emissions"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260615~92388776dd.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "6712cd3b5100776f",
+      "title": "FDI, gravity, and aggregation: revisiting the distance elasticity with sector-level FDI data",
+      "summary": "This paper re-examines foreign direct investment motives in the ‘FDI gravity’ model (Kleinert and Toubal, 2010), focusing on the role of distance. More precisely, we investigate whether aggregate and pooled gravity models for FDI obscure relevant heterogeneities across sectors. This is possible through the novel MREID dataset, which provides us with FDI data at the 2-digit NAICS level for 184 countries over the period 2010 to 2020. Our results reveal that aggregate and pooled models mask significant sector heterogeneities in two aspects: (i) in the importance of horizontal versus vertical FDI motives, and (ii) in the distance elasticity.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3245~4d5ee7e8ea.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-15T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3245~4d5ee7e8ea.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3245~4d5ee7e8ea.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "387ba2a69ee3606e",
+      "title": "Financial stability considerations for monetary policy at the European Central Bank: conceptual framework and quantitative tools",
+      "summary": "The paper documents models used to analyse the interactions and trade-offs between price and financial stability at the European Central Bank. The paper describes a simple conceptual framework to think about the short- and medium-term trade-offs between price and financial stability. Short-term trade-offs arise whenever current inflationary pressure is high, but the financial system is experiencing stress. Medium-term trade-offs arise whenever current inflationary pressure is low, but risk is building up in the financial system.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp30~efc21667a0.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-15T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp30~efc21667a0.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp30~efc21667a0.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "29e6421bd5c93aa3",
+      "title": "Christine Lagarde: Money in transition",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-15T07:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "f08ca54628d12d82",
       "title": "SEC Appoints John Moses as Director of the Office of Investor Education and Assistance",
       "summary": "The Securities and Exchange Commission has appointed John Moses as Director of the agency’s Office of Investor Education and Assistance, which provides services and resources to help investors build their financial futures and protect against investment…",
@@ -813,7 +919,8 @@
       "publishedAt": "2026-06-12T09:00:00.000Z",
       "pdfLinks": [
         "https://www.ecgi.global/sites/default/files/codes/documents/UK-Corporate-Governance-Code-April-2016.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/code-of-practice-about-the-operation-of-recognised-payment-systems-governance.pdf"
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/code-of-practice-about-the-operation-of-recognised-payment-systems-governance.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/amendments-to-the-scope-of-code-of-practice.pdf"
       ],
       "topics": [
         "Governance",
@@ -870,7 +977,8 @@
       "sourceType": "rss",
       "publishedAt": "2026-06-12T09:00:00.000Z",
       "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/operational-resilience-part-of-the-code-of-practice.pdf"
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/operational-resilience-part-of-the-code-of-practice.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/amendments-to-the-scope-of-code-of-practice.pdf"
       ],
       "topics": [
         "DORA / Operational Resilience",
@@ -2622,29 +2730,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "6bba5258f9c8d21c",
-      "title": "Luis de Guindos: Interview with Expansión",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260531~f648dbde70.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-31T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260531~f648dbde70.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "90cf677846e6910d",
       "title": "SEC Proposes Rescission of Climate-Related Disclosure Rules",
       "summary": "The Securities and Exchange Commission today proposed the rescission of overly burdensome and costly rules that require companies to provide certain climate-related information in their registration statements and annual reports. The Commission’s…",
@@ -2712,31 +2797,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "05492a16f209c3d5",
-      "title": "ECB appoints three Directors General",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260529~2699fd8390.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-29T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/ecb/pdf/orga/ecb.ECB_managers.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260529~2699fd8390.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "aa76051a1a577b1f",
@@ -3064,46 +3124,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "43c69eec009bfb77",
-      "title": "From dictionaries to AI: a new era in sentiment analysis for financial stability",
-      "summary": "Financial stability communication is challenging because its task is not to forecast financial crises, let alone predict their precise timing. Rather, it is to identify vulnerabilities and explain how the financial system is likely to fare should it be confronted with adverse shocks. Great care is needed in this endeavour, because the sentiment of financial stability communication can influence market perceptions and risk assessments, as well as broader economic and financial outcomes.",
-      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_01~fe2f4ea541.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-27T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1426.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/fsr/art/ecb.fsrart200506_01.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op219~7483083881.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3063~f88c1b73fc.en.pdf"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_01~fe2f4ea541.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "a7b99b81d5188d4e",
       "title": "House price booms and policy choices: insights from a meta-regression analysis",
       "summary": "This special feature examines policy-assignment dilemmas facing macroprudential authorities when housing markets boom: which instruments work best, on which objectives, and in combination with which other tools? It does so by revitalising Mundell’s Principle of Effective Market Classification, the policy-space analogue of Ricardo’s comparative advantage principle, and by applying it to macroprudential policy. The analysis uses a novel G-search literature-search algorithm and an AI-supported, replicable data-extraction system to assemble estimates of policy-impact parameters from the empirical literature.",
@@ -3150,61 +3170,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "d2a8c02474ead7ae",
-      "title": "Rising bankruptcies, resilient loan books: unpacking euro area corporate credit risk",
-      "summary": "Corporate bankruptcies in the euro area have been on the rise, but the aggregate asset quality of banks’ corporate lending has remained broadly stable. This special feature analyses this divergence and its implications for financial stability. It shows that rising bankruptcies may partly be explained by the normalisation of firm turnover since the COVID-19 pandemic, albeit with marked cross-country unevenness. At the same time, firm-level evidence suggests that balance sheet and profitability challenges are concentrated in a vulnerable tail of firms, but have remained stable for the average euro area company.",
-      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_02~0fd2f6b569.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-27T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2104.en.pdf?0167b3eada64c9757df8e6e0b866b3a1",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2743~bf1446c499.en.pdf",
-        "https://www.bundesbank.de/resource/blob/829100/d0d3c747623926da8b75a7f47f599095/mL/2020-03-24-dkp-15-data.pdf",
-        "https://link.springer.com/content/pdf/10.1007/s13209-014-0109-7.pdf",
-        "https://www.ecb.europa.eu/press/fie/pdf/ecb.fie202204~4c4f5f572f.en.pdf",
-        "http://finance.ec.europa.eu/document/download/4f537f03-1193-41b8-b06f-97ba84cb7f74_en?filename=2311-npl-advisory-panel-securitisation-paper_en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op297~e4d8b4ce0f.en.pdf?062b53fd7789e17b8b3cb46820fc149e",
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/guidance_on_npl.en.pdf",
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.npl_addendum_201803.en.pdf",
-        "https://www.bankingsupervision.europa.eu/press/letterstobanks/shared/pdf/2019/ssm.supervisory_coverage_expectations_for_NPEs_201908.en.pdf"
-      ],
-      "topics": [
-        "Credit Risk",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "credit risk",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "credit-risk",
-          "label": "Credit Risk",
-          "keywords": [
-            "credit risk"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_02~0fd2f6b569.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "c137734ce4640330",
@@ -3864,7 +3829,17 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-05-19T12:10:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op387.en.pdf?0fb1b314f35dfe1069bb0447776b5e39",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisorybankingstatistics_fourth_quarter_2025_202603.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2913~6bf956d0d3.en.pdf",
+        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
+        "https://www.fsb.org/uploads/P131025-2.pdf",
+        "https://www.srb.europa.eu/system/files/media/document/2025-11-07_MREL-dashboard_H1-2025.pdf",
+        "https://competition-policy.ec.europa.eu/system/files/2021-04/state_aid_scoreboard_note_2017.pdf",
+        "https://www.europarl.europa.eu/RegData/etudes/STUD/2025/772638/ECTI_STU(2025)772638_EN.pdf",
+        "https://www.bde.es/f/webbe/Secciones/Publicaciones/InformesBoletinesRevistas/InformesEstabilidadFinancera/25/FSR_2025_1_Box3_1.pdf"
+      ],
       "topics": [
         "Basel / BCBS",
         "Supervision / Enforcement"
@@ -3908,7 +3883,13 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-05-19T09:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2013/central-counterparties-what-are-they-why-do-they-matter-and-how-does-the-boe-supervise-them.pdf",
+        "https://assets.publishing.service.gov.uk/media/65982b8c614fa2000df3a975/FINAL_CCP_Resolution_Regime_Code_of_Practice.pdf",
+        "https://www.fsb.org/uploads/P250424-3.pdf",
+        "https://www.mas.gov.sg/-/media/mas/news-and-publications/consultation-papers/25-mar-2026-consultation-paper-on-rrp-and-bail-in-for-cmfmi/consultation-paper-on-cmfmi-rrp-notice-and-guidelines-and-enhancement-of-resolution-powers.pdf",
+        "https://www.bis.org/cpmi/publ/d162.pdf"
+      ],
       "topics": [
         "Recovery / Resolution"
       ],
@@ -10541,7 +10522,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-14T19:26:59.071Z",
+      "publishedAt": "2026-06-15T12:14:53.756Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10565,7 +10546,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-14T19:26:59.071Z",
+      "publishedAt": "2026-06-15T12:14:53.756Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10589,7 +10570,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-14T19:26:59.071Z",
+      "publishedAt": "2026-06-15T12:14:53.756Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10613,7 +10594,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-14T19:26:59.071Z",
+      "publishedAt": "2026-06-15T12:14:53.756Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10626,14 +10607,14 @@
   "updateTypeSummary": [
     {
       "updateType": "Publications / Reports",
-      "count": 75
-    },
-    {
-      "updateType": "Rules / Standards / Guidance",
-      "count": 68
+      "count": 76
     },
     {
       "updateType": "News",
+      "count": 67
+    },
+    {
+      "updateType": "Rules / Standards / Guidance",
       "count": 66
     },
     {
@@ -10642,18 +10623,18 @@
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 18
+      "count": 17
     },
     {
       "updateType": "Working Papers / Research",
       "count": 13
     },
     {
-      "updateType": "Other",
-      "count": 6
+      "updateType": "Statistics / Data",
+      "count": 7
     },
     {
-      "updateType": "Statistics / Data",
+      "updateType": "Other",
       "count": 6
     },
     {
