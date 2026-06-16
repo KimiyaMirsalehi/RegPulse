@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T11:11:28.772Z",
+  "generatedAt": "2026-06-16T20:52:00.791Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -258,11 +258,11 @@
       "count": 8
     },
     {
-      "topic": "Climate / ESG",
-      "count": 7
+      "topic": "DORA / Operational Resilience",
+      "count": 8
     },
     {
-      "topic": "DORA / Operational Resilience",
+      "topic": "Climate / ESG",
       "count": 7
     },
     {
@@ -324,11 +324,11 @@
       "count": 8
     },
     {
-      "topic": "Climate / ESG",
-      "count": 7
+      "topic": "DORA / Operational Resilience",
+      "count": 8
     },
     {
-      "topic": "DORA / Operational Resilience",
+      "topic": "Climate / ESG",
       "count": 7
     },
     {
@@ -383,7 +383,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 18
+      "count": 19
     },
     {
       "keyword": "policy statement",
@@ -410,11 +410,11 @@
       "count": 9
     },
     {
-      "keyword": "climate",
-      "count": 6
+      "keyword": "operational resilience",
+      "count": 7
     },
     {
-      "keyword": "operational resilience",
+      "keyword": "climate",
       "count": 6
     },
     {
@@ -442,11 +442,15 @@
       "count": 3
     },
     {
-      "keyword": "governance",
+      "keyword": "crypto",
       "count": 3
     },
     {
-      "keyword": "guidelines",
+      "keyword": "dora",
+      "count": 3
+    },
+    {
+      "keyword": "governance",
       "count": 3
     },
     {
@@ -455,10 +459,6 @@
     },
     {
       "keyword": "settlement",
-      "count": 3
-    },
-    {
-      "keyword": "stablecoins",
       "count": 3
     },
     {
@@ -482,23 +482,27 @@
       "count": 2
     },
     {
-      "keyword": "crypto",
-      "count": 2
-    },
-    {
       "keyword": "data standards",
       "count": 2
     },
     {
-      "keyword": "dora",
+      "keyword": "digital operational resilience",
       "count": 2
     },
     {
-      "keyword": "final report",
+      "keyword": "digital operational resilience act",
+      "count": 2
+    },
+    {
+      "keyword": "guidelines",
       "count": 2
     },
     {
       "keyword": "liquidity",
+      "count": 2
+    },
+    {
+      "keyword": "mica",
       "count": 2
     },
     {
@@ -515,6 +519,10 @@
     },
     {
       "keyword": "securitisation",
+      "count": 2
+    },
+    {
+      "keyword": "stablecoins",
       "count": 2
     },
     {
@@ -550,14 +558,6 @@
       "count": 1
     },
     {
-      "keyword": "digital operational resilience",
-      "count": 1
-    },
-    {
-      "keyword": "digital operational resilience act",
-      "count": 1
-    },
-    {
       "keyword": "distributed ledger",
       "count": 1
     },
@@ -567,6 +567,10 @@
     },
     {
       "keyword": "emissions",
+      "count": 1
+    },
+    {
+      "keyword": "final report",
       "count": 1
     },
     {
@@ -599,10 +603,6 @@
     },
     {
       "keyword": "leverage ratio",
-      "count": 1
-    },
-    {
-      "keyword": "mica",
       "count": 1
     },
     {
@@ -739,6 +739,96 @@
     }
   ],
   "publications": [
+    {
+      "id": "c94f886863bf6f15",
+      "title": "The EBA publishes its 2025 Annual Report outlining key achievements",
+      "summary": "The European Banking Authority (EBA) today published its 2025 Annual Report, outlining its main achievements and activities in delivering on its mandates under its Work Programme. In 2025, the EBA focused on streamlining and improving the efficiency of the EU regulatory framework while expanding its supervisory role, particularly under the Digital Operational Resilience Act (DORA) and Markets in Crypto-Assets Regulation (MiCA).",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2025-annual-report-outlining-key-achievements",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-16T14:10:28.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-06/40a1da62-eba5-43e9-bf59-b5e55457c9ee/Annual%20Report%202025%20-%20Part%201.pdf"
+      ],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Crypto / Digital Assets",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "dora",
+        "digital operational resilience",
+        "digital operational resilience act",
+        "operational resilience",
+        "crypto",
+        "mica",
+        "supervisory",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "dora",
+            "digital operational resilience",
+            "digital operational resilience act",
+            "operational resilience"
+          ]
+        },
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "crypto",
+            "mica"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2025-annual-report-outlining-key-achievements",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "0d9c7df5570dd797",
+      "title": "Philip R. Lane: Outlook for the euro area economy",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260616~8076dabd2c.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-16T13:10:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260616~8076dabd2c.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260616~8076dabd2c.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "3c2086b41f31a3f8",
       "title": "Effectiveness of supervisory activities in mitigating banks’ commercial real estate risk",
@@ -2868,47 +2958,6 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "24b2187765d7a442",
-      "title": "Isabel Schnabel: From money market funds to stablecoins: lessons for central banks",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260601~38dffe5ec5.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-01T00:10:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/econres/feds/files/2022012pap.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3199~ad552b59ec.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3174~d4cc1da5a8.en.pdf",
-        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep250926_innovationplatform.en.pdf",
-        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260601_annex~8852850053.en.pdf"
-      ],
-      "topics": [
-        "Crypto / Digital Assets"
-      ],
-      "matchedKeywords": [
-        "stablecoins"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "stablecoins"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260601~38dffe5ec5.en.html",
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -5330,45 +5379,6 @@
       "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "a36423022c0c1a9e",
-      "title": "The EBA amends Guidelines on the definition of default",
-      "summary": "The European Banking Authority (EBA) published today its final Report amending the Guidelines on the application of the definition of default. The Report introduces targeted amendments to better reflect specific aspects of non recourse factoring. It also confirms that the 1% threshold applied to reductions in net present value loss (NPV threshold) in debt restructuring remains appropriate for prudential default recognition.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-07T12:43:02.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "final report",
-        "guidelines",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "final report",
-            "guidelines",
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "8adfb9ef4e007033",
@@ -10536,7 +10546,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-16T11:11:28.772Z",
+      "publishedAt": "2026-06-16T20:52:00.791Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10560,7 +10570,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-16T11:11:28.772Z",
+      "publishedAt": "2026-06-16T20:52:00.791Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10584,7 +10594,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-16T11:11:28.772Z",
+      "publishedAt": "2026-06-16T20:52:00.791Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10608,7 +10618,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-16T11:11:28.772Z",
+      "publishedAt": "2026-06-16T20:52:00.791Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
