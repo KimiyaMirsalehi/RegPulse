@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T20:55:54.055Z",
+  "generatedAt": "2026-06-16T11:11:28.772Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -235,7 +235,7 @@
     },
     {
       "topic": "Governance",
-      "count": 58
+      "count": 57
     },
     {
       "topic": "Basel / BCBS",
@@ -243,19 +243,19 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 21
+      "count": 22
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 15
+      "count": 14
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "Capital Requirements",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Climate / ESG",
@@ -271,18 +271,26 @@
     },
     {
       "topic": "Stress Testing",
-      "count": 5
+      "count": 6
     },
     {
       "topic": "Consumer Protection",
-      "count": 4
+      "count": 3
     },
     {
       "topic": "Liquidity",
       "count": 2
     },
     {
+      "topic": "AI",
+      "count": 1
+    },
+    {
       "topic": "AML / Financial Crime",
+      "count": 1
+    },
+    {
+      "topic": "Credit Risk",
       "count": 1
     }
   ],
@@ -293,7 +301,7 @@
     },
     {
       "topic": "Governance",
-      "count": 58
+      "count": 57
     },
     {
       "topic": "Basel / BCBS",
@@ -301,19 +309,19 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 21
+      "count": 22
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 15
+      "count": 14
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "Capital Requirements",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Climate / ESG",
@@ -329,18 +337,26 @@
     },
     {
       "topic": "Stress Testing",
-      "count": 5
+      "count": 6
     },
     {
       "topic": "Consumer Protection",
-      "count": 4
+      "count": 3
     },
     {
       "topic": "Liquidity",
       "count": 2
     },
     {
+      "topic": "AI",
+      "count": 1
+    },
+    {
       "topic": "AML / Financial Crime",
+      "count": 1
+    },
+    {
+      "topic": "Credit Risk",
       "count": 1
     }
   ],
@@ -359,7 +375,7 @@
     },
     {
       "keyword": "its",
-      "count": 26
+      "count": 25
     },
     {
       "keyword": "conduct",
@@ -379,7 +395,11 @@
     },
     {
       "keyword": "reporting",
-      "count": 12
+      "count": 13
+    },
+    {
+      "keyword": "resolution",
+      "count": 11
     },
     {
       "keyword": "consultation paper",
@@ -387,11 +407,7 @@
     },
     {
       "keyword": "payment",
-      "count": 10
-    },
-    {
-      "keyword": "resolution",
-      "count": 10
+      "count": 9
     },
     {
       "keyword": "climate",
@@ -402,28 +418,20 @@
       "count": 6
     },
     {
-      "keyword": "payments",
+      "keyword": "stress test",
       "count": 5
-    },
-    {
-      "keyword": "capital requirements",
-      "count": 4
     },
     {
       "keyword": "disclosure",
       "count": 4
     },
     {
-      "keyword": "governance",
+      "keyword": "payments",
       "count": 4
     },
     {
-      "keyword": "guidelines",
-      "count": 4
-    },
-    {
-      "keyword": "stress test",
-      "count": 4
+      "keyword": "capital requirements",
+      "count": 3
     },
     {
       "keyword": "clearing",
@@ -431,6 +439,18 @@
     },
     {
       "keyword": "crr",
+      "count": 3
+    },
+    {
+      "keyword": "governance",
+      "count": 3
+    },
+    {
+      "keyword": "guidelines",
+      "count": 3
+    },
+    {
+      "keyword": "resolvability",
       "count": 3
     },
     {
@@ -494,16 +514,12 @@
       "count": 2
     },
     {
-      "keyword": "resolvability",
-      "count": 2
-    },
-    {
-      "keyword": "retail investors",
-      "count": 2
-    },
-    {
       "keyword": "securitisation",
       "count": 2
+    },
+    {
+      "keyword": "artificial intelligence",
+      "count": 1
     },
     {
       "keyword": "basel 3",
@@ -518,7 +534,7 @@
       "count": 1
     },
     {
-      "keyword": "crd",
+      "keyword": "credit risk",
       "count": 1
     },
     {
@@ -615,6 +631,10 @@
     },
     {
       "keyword": "resolution planning",
+      "count": 1
+    },
+    {
+      "keyword": "retail investors",
       "count": 1
     },
     {
@@ -719,6 +739,207 @@
     }
   ],
   "publications": [
+    {
+      "id": "3c2086b41f31a3f8",
+      "title": "Effectiveness of supervisory activities in mitigating banks’ commercial real estate risk",
+      "summary": "We assess the effectiveness of supervisory activities in mitigating credit risk stemming from banks’ commercial real estate portfolios. We analyse two activity types deployed by European banking supervisors: (a) on-site inspections, which assess in depth banks’ risk-taking and internal controls, but can only be selectively applied, and (b) off-site targeted reviews, which survey risk management practices across institutions, are less intrusive but are applied more widely.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3247~e9939db1a7.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-16T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3247~e9939db1a7.en.pdf"
+      ],
+      "topics": [
+        "Credit Risk",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "credit risk",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "credit-risk",
+          "label": "Credit Risk",
+          "keywords": [
+            "credit risk"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3247~e9939db1a7.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "f11a6d873a03bfb6",
+      "title": "Innovation without borders? The geography of technological diffusion",
+      "summary": "How well does innovation diffuse across geographic boundaries? To shed light on this question, we present a large-scale field experiment involving 3,300 firms across twelve European Union countries. We elicit firms’ perceptions of the share of similar firms in their own country that had invested in artificial intelligence (AI), as well as the corresponding share among similar firms in Germany, France, and Italy. We randomly provide half of the sample with accurate information about both domestic and foreign AI investment.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3246~e9aa80d0b9.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-16T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3246~e9aa80d0b9.en.pdf"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "artificial intelligence"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3246~e9aa80d0b9.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "cab15a2cadd5e5fd",
+      "title": "Household Finance and Consumption Survey: Methodological report for the 2023 wave",
+      "summary": "This report summarises the methodologies used in the fifth wave of the Eurosystem Household Finance and Consumption Survey, which provides household-level data collected in a harmonised way in the 20 euro area countries at the time of collection, as well as in the Czech Republic and Hungary. The total sample size comprises almost 90,000 households. Although the survey does not refer to the same time period in all countries, the most common reference period for the data is 2023. The report presents the methodologies applied in areas such as data collection, sample design, weighting, imputation and variance estimation.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpsps/ecb.sps52~20e2b58784.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-16T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpsps/ecb.sps52~20e2b58784.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpsps/ecb.sps52~20e2b58784.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "2d1100a7d1fc56a5",
+      "title": "Household Finance and Consumption Survey: Results from the 2023 wave",
+      "summary": "This report summarises the stylised facts from the 2023 wave of the Eurosystem Household Finance and Consumption Survey, which provides household-level data collected in a harmonised way in 20 euro area countries, as well as in the Czech Republic and Hungary, for a sample of almost 90,000 households. When compared with previous waves, the 2023 results are strongly affected by the temporary surge in inflation experienced in the euro area between 2021 and 2023. Since asset prices had not caught up with the price level by the time the survey was conducted, the real value of both assets and liabilities decreased for most households.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpsps/ecb.sps53~7267e5b389.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-16T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpsps/ecb.sps53~7267e5b389.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpsps/ecb.sps53~7267e5b389.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "e4a126df0d00e239",
+      "title": "The EBA proposes simplifications to the EU bank capital framework in a holistic manner to strengthen its efficiency",
+      "summary": "The European Banking Authority (EBA) continues to execute on its simplification and efficiency programme. After proposals in April to reduce the reporting burden for banks and for a simpler stress-test in 2027, it publishes today a comprehensive review of the EU bank microprudential, macroprudential and resolution capital framework, including proposals to simplify it. The proposals aim to reduce complexity while preserving banks’ resilience and resolvability as well as authorities’ tools, and to ensure the framework remains focused on emerging and materially evolving risks.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-proposes-simplifications-eu-bank-capital-framework-holistic-manner-strengthen-its-efficiency",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-16T07:57:58.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2025-10/b8e0ef8e-2d49-43fc-b917-dbca3423588c/Report%20on%20the%20efficiency%20of%20the%20regulatory%20and%20supervisory%20framework.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2024-07/3f548b65-873a-4f0d-ab5a-094cd18dee33/Report%20on%20stacking%20orders%20and%20capital%20buffers.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-06/fa80675a-1caa-4098-822f-511c6fad0616/Report%20on%20simplifying%20the%20stacking%20orders%20of%20the%20EU%20prudential%20and%20resolution%20framework.pdf"
+      ],
+      "topics": [
+        "Stress Testing",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "stress test",
+        "reporting",
+        "its",
+        "resolution",
+        "resolvability"
+      ],
+      "topicMatches": [
+        {
+          "id": "stress-testing",
+          "label": "Stress Testing",
+          "keywords": [
+            "stress test"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution",
+            "resolvability"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-proposes-simplifications-eu-bank-capital-framework-holistic-manner-strengthen-its-efficiency",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "93b09569e4c079cd",
       "title": "Carbon emissions of ECB and Eurosystem portfolios continue to decline",
@@ -3079,134 +3300,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "9a42dfba016f7f51",
-      "title": "Financial Stability Review, May 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/html/ecb.fsr202605~50566915a7.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-27T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/pdf/ecb.fsr202605~50566915a7.en.pdf",
-        "https://www.esrb.europa.eu/pub/pdf/reports/esrb.report202501_systemicliquidityrisk~90f2044791.sv.pdf?6c3085cedfab4a953fb1662eed433bda",
-        "https://www.ecb.europa.eu/pub/pdf/other/ecb.report202601_financialstabilityrisks.en.pdf?640b4328004d04797e1fd7ebf0e39aa0",
-        "https://www.ecb.europa.eu/pub/pdf/other/ecb.report202601_financialstabilityrisks_annex.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1426.pdf",
-        "https://www.consilium.europa.eu/media/epwgg30u/26-03-2026-eg_draft-note-energy-measures.pdf",
-        "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/focus/2019/pdf/ecb~a18359e8d9.fsrbox201905_05.pdf",
-        "https://www.esrb.europa.eu/pub/pdf/reports/esrb.report202602_financialstabilityrisks.en.pdf",
-        "https://www.ecb.europa.eu/press/govcstatement/pdf/ecb.govcstatement202507~143971cee9.en.pdf",
-        "https://www.ecb.europa.eu/press/govcstatement/pdf/ecb.govcstatement202412~b1f786e5f1.en.pdf",
-        "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/pdf/ecb.fsr202511~263b5810d4.en.pdf",
-        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
-        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202601.en.pdf",
-        "https://www.esrb.europa.eu/pub/pdf/reports/nbfi_monitor/esrb.nbfi202406~2e211b2f80.en.pdf",
-        "https://ec.europa.eu/finance/docs/law/260511-money-market-funds-report_en.pdf",
-        "https://www.ecb.europa.eu/press/intro/publications/pdf/ecb.ebaecb202605.de.pdf?f567fb7620fdd07d357598798f26bfd3",
-        "https://www.esma.europa.eu/sites/default/files/2025-06/ESMA12-2121844265-4904_DP_on_integrated_reporting.pdf",
-        "https://www.fsb.org/uploads/FSB-Policy-Recommendations-on-Asset-Management-Structural-Vulnerabilities.pdf",
-        "http://www.esma.europa.eu/sites/default/files/library/esma34-39-1119-report_on_the_esrb_recommendation_on_liquidity_risks_in_funds.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/html/ecb.fsr202605~50566915a7.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "a7b99b81d5188d4e",
-      "title": "House price booms and policy choices: insights from a meta-regression analysis",
-      "summary": "This special feature examines policy-assignment dilemmas facing macroprudential authorities when housing markets boom: which instruments work best, on which objectives, and in combination with which other tools? It does so by revitalising Mundell’s Principle of Effective Market Classification, the policy-space analogue of Ricardo’s comparative advantage principle, and by applying it to macroprudential policy. The analysis uses a novel G-search literature-search algorithm and an AI-supported, replicable data-extraction system to assemble estimates of policy-impact parameters from the empirical literature.",
-      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_03~90365ff1cb.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-27T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_03~90365ff1cb.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "20fc9f6b979dfef8",
-      "title": "Identifying relationship-level effects using covariance restrictions",
-      "summary": "We propose a new model in which relationship-specific effects or shocks are identified in a bipartite network under mild covariance restrictions, generalizing the influential Abowd et al. (1999) framework. For example, separate demand shocks are identified for each bank from which a firm borrows. We show how previous approaches break down when confronted with such heterogeneity, while our novel identification strategy yields a simple estimator that is consistent and asymptotically normal, under weaker network density assumptions than previous approaches. The methodology performs well in empirically-calibrated simulations.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3238~5b04fbe5e5.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-27T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3238~5b04fbe5e5.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3238~5b04fbe5e5.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "c137734ce4640330",
-      "title": "Stockholding in Europe: Evidence from the Consumer Expectations Survey",
-      "summary": "We examine recent changes in stock market participation using newly available survey data from eleven euro area countries over the period 2020–2024. The evidence points to substantial turnover, with around 10% of non-stockholders entering the market each year, and more than 20% of stockholders exiting. New entrants tend to have lower education, income, financial literacy, and risk tolerance than established investors, indicating a shift in the composition of market participants. We also highlight the growing importance of cryptocurrency investments among retail investors.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3239~efed05d5c7.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-27T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3239~efed05d5c7.en.pdf"
-      ],
-      "topics": [
-        "Consumer Protection"
-      ],
-      "matchedKeywords": [
-        "retail investors"
-      ],
-      "topicMatches": [
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "retail investors"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3239~efed05d5c7.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "cf9a5f560cb811ba",
@@ -5665,65 +5758,6 @@
       ],
       "link": "https://www.bankofengland.co.uk/monetary-policy-report/2026/april-2026",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "1e32597bc168076e",
-      "title": "The EBA publishes its final Guidelines on supervisory independence",
-      "summary": "The European Banking Authority (EBA) today published its final Guidelines on Supervisory Independence under the Capital Requirements Directive (CRD). The Guidelines further clarify the arrangements that competent authorities should have in place to prevent and manage conflicts of interest involving both their staff and the members of their governance bodies. These arrangements include declarations of interest, limitations on trading of financial instruments and cooling-oof restrictions.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-guidelines-supervisory-independence",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-29T13:20:30.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Capital Requirements",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "capital requirements",
-        "crd",
-        "governance",
-        "supervisory",
-        "guidelines",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital requirements",
-            "crd"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "governance"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory",
-            "guidelines",
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-guidelines-supervisory-independence",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
     },
@@ -9734,61 +9768,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "c1643388c9264683",
-      "title": "Court approves distribution of money recovered from Argento Wealth",
-      "summary": "In its 19 May 2026 judgment, the High Court approved pro rata distribution to eligible investors of money recovered by the FCA from Argento Wealth Limited (AWL). Eligible investors must act by 1 August 2026. You can receive a share of the money recovered if you:Invested in the AWL Loan Scheme; orInvested in the EMB Scheme and if your investment was arranged by AWL or its sub-distributors. We will make payments to eligible investors, as defined in the court judgment, who provide their bank account details on or before 1 August 2026. If we do not have your bank details by this date, then you will be unable to receive a distribution payment.",
-      "url": "https://www.fca.org.uk/news/news-stories/court-approves-distribution-money-recovered-argento-wealth",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "its",
-        "payment",
-        "payments"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payment",
-            "payments"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/news-stories/court-approves-distribution-money-recovered-argento-wealth",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "aa3a18ad9e864825",
       "title": "Court orders appointment of special administrators for Euro Exchange Securities UK Limited",
       "summary": "The High Court today confirmed the appointment of special administrators for Euro Exchange Securities UK Limited (EES). EES did not seek to overturn the court’s initial decision, which saw the firm cease trading with immediate effect last week. In light of the FCA's actions, EES agreed it is not in the company’s interests to seek to return to normal trading and will work with the appointed special administrators to ensure client money is returned as quickly as possible. Duncan Perring and James Bennett of Teneo Financial Advisory Limited have been appointed as joint special administrators, under the Payment and Electronic Money Institution Insolvency Regulations 2021.",
@@ -10275,6 +10254,41 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "bd9711ef852e9dfa",
+      "title": "Later life lending: building the fourth retirement pillar",
+      "summary": "Speech by Emad Aladhal, director of retail banking at the Later Life Lending Summit. IntroductionIn the years ahead, housing wealth will become an increasing part of how many people provide for their retirement. But it continues to be seen as an option of last resort, if thought about at all. Knowing I had this speech, as an experiment at a recent BBQ I had a conversation with my friends about retirement and savings – none of whom work in financial services. They talked about their employers’ pensions, SIPPs, ISAs, investments, and potential business ventures to supplement income in retirement. None brought up later life lending, or how they could use their home to help.",
+      "url": "https://www.fca.org.uk/news/speeches/later-life-lending-building-fourth-retirement-pillar",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/speeches/later-life-lending-building-fourth-retirement-pillar",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
       "id": "141c005681803884",
       "title": "Open banking takes next step forward with launch of UK Payments Initiative scheme",
       "summary": "The UK Payments Initiative (UKPI) announcement signals a major step forward for open banking and commercial variable recurring payments (cVRP). The launch of UKPI paves the way for greater payments competition, innovation and economic growth. Read the announcement. The industry-led scheme will give people more choice about how and when they pay for recurring goods and services. We want to see competition between commercial open banking schemes and expect the launch of the first scheme by UKPI to act as a catalyst for other initiatives to emerge.",
@@ -10522,7 +10536,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-15T20:55:54.055Z",
+      "publishedAt": "2026-06-16T11:11:28.772Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10546,7 +10560,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-15T20:55:54.055Z",
+      "publishedAt": "2026-06-16T11:11:28.772Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10570,7 +10584,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-15T20:55:54.055Z",
+      "publishedAt": "2026-06-16T11:11:28.772Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10594,7 +10608,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-15T20:55:54.055Z",
+      "publishedAt": "2026-06-16T11:11:28.772Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10615,7 +10629,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 66
+      "count": 65
     },
     {
       "updateType": "Consultations",
@@ -10623,7 +10637,7 @@
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 17
+      "count": 18
     },
     {
       "updateType": "Working Papers / Research",
