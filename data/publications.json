@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T20:52:00.791Z",
+  "generatedAt": "2026-06-17T10:56:58.101Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -258,12 +258,12 @@
       "count": 8
     },
     {
-      "topic": "DORA / Operational Resilience",
+      "topic": "Climate / ESG",
       "count": 8
     },
     {
-      "topic": "Climate / ESG",
-      "count": 7
+      "topic": "DORA / Operational Resilience",
+      "count": 8
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -278,12 +278,12 @@
       "count": 3
     },
     {
-      "topic": "Liquidity",
+      "topic": "AI",
       "count": 2
     },
     {
-      "topic": "AI",
-      "count": 1
+      "topic": "Liquidity",
+      "count": 2
     },
     {
       "topic": "AML / Financial Crime",
@@ -324,12 +324,12 @@
       "count": 8
     },
     {
-      "topic": "DORA / Operational Resilience",
+      "topic": "Climate / ESG",
       "count": 8
     },
     {
-      "topic": "Climate / ESG",
-      "count": 7
+      "topic": "DORA / Operational Resilience",
+      "count": 8
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -344,12 +344,12 @@
       "count": 3
     },
     {
-      "topic": "Liquidity",
+      "topic": "AI",
       "count": 2
     },
     {
-      "topic": "AI",
-      "count": 1
+      "topic": "Liquidity",
+      "count": 2
     },
     {
       "topic": "AML / Financial Crime",
@@ -410,12 +410,12 @@
       "count": 9
     },
     {
-      "keyword": "operational resilience",
+      "keyword": "climate",
       "count": 7
     },
     {
-      "keyword": "climate",
-      "count": 6
+      "keyword": "operational resilience",
+      "count": 7
     },
     {
       "keyword": "stress test",
@@ -606,6 +606,10 @@
       "count": 1
     },
     {
+      "keyword": "machine learning",
+      "count": 1
+    },
+    {
       "keyword": "mrel",
       "count": 1
     },
@@ -739,6 +743,75 @@
     }
   ],
   "publications": [
+    {
+      "id": "1e84e03daa07def7",
+      "title": "Beat the heat, the role of heat waves and droughts in regional EU economies",
+      "summary": "Europe is increasingly exposed to heat waves and droughts, but their short-term economic effects across sectors remain hard to predict. This study develops climate-augmented models to predict real growth in per capita value added across 1,117 EU regions (2002–2022), by combining economic indicators with high-frequency climate data. When using machine learning (ML, Random Forest and XGBoost), climate variables improve predictions in agriculture, while gains for other sectors are limited and do not outperform economic models. Heat wave indicators consistently enhance predictive performance, whereas drought effects vary by sector.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3248~f871c3bd85.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-17T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3248~f871c3bd85.en.pdf"
+      ],
+      "topics": [
+        "AI",
+        "Climate / ESG"
+      ],
+      "matchedKeywords": [
+        "machine learning",
+        "climate"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "machine learning"
+          ]
+        },
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3248~f871c3bd85.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "e9521c6d34f7a3b9",
+      "title": "New data release: ECB wage tracker points to stable negotiated wage pressures in 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260617~79dfc49802.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-17T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260617~79dfc49802.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "c94f886863bf6f15",
       "title": "The EBA publishes its 2025 Annual Report outlining key achievements",
@@ -2937,32 +3010,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "721fc2458db2dba9",
-      "title": "ECB Consumer Expectations Survey results – April 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-01T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/shared/pdf/CES_aggregate_statistics_guide.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op287~ea7eebc23f.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "bf046c3dd028a0ea",
       "title": "ESMA publishes latest edition of its newsletter",
       "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
@@ -3229,31 +3276,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "9a58a1d3f598893f",
-      "title": "Firm level heterogeneity and the impact of monetary policy on labour demand",
-      "summary": "Monetary policy asymmetrically affects the response of firms’ employment to an output shock and plays a role in cushioning employment adjustment over the business cycle. Combining annual firm-level data until 2020 with quarterly firm-level data until 2023 and high-frequency monetary policy surprises, we show that for a given change in output, monetary policy influences the extent to which firms hold on to labour, or “labour hoard”. Furthermore, this effect is asymmetric: a restrictive monetary policy reduces labour hoarding behaviour by 2 to 3 times more than an accommodative policy increases it. Finally, we look at the role of financing conditions and firm demographics.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3240~37b21c7b50.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-28T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3240~37b21c7b50.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3240~37b21c7b50.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "a968a818ef8076d6",
@@ -10546,7 +10568,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-16T20:52:00.791Z",
+      "publishedAt": "2026-06-17T10:56:58.101Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10570,7 +10592,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-16T20:52:00.791Z",
+      "publishedAt": "2026-06-17T10:56:58.101Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10594,7 +10616,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-16T20:52:00.791Z",
+      "publishedAt": "2026-06-17T10:56:58.101Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10618,7 +10640,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-16T20:52:00.791Z",
+      "publishedAt": "2026-06-17T10:56:58.101Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
