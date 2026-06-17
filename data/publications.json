@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-17T10:56:58.101Z",
-  "totalPublications": 276,
+  "generatedAt": "2026-06-17T20:12:39.363Z",
+  "totalPublications": 277,
   "sourceCount": 17,
   "successfulSources": 17,
   "warningSources": 0,
@@ -156,7 +156,7 @@
       "region": "US",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 10,
+      "itemCount": 11,
       "url": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 113
+      "count": 115
     },
     {
       "topic": "Governance",
@@ -243,11 +243,11 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 22
+      "count": 23
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 14
+      "count": 13
     },
     {
       "topic": "Recovery / Resolution",
@@ -282,12 +282,12 @@
       "count": 2
     },
     {
-      "topic": "Liquidity",
+      "topic": "AML / Financial Crime",
       "count": 2
     },
     {
-      "topic": "AML / Financial Crime",
-      "count": 1
+      "topic": "Liquidity",
+      "count": 2
     },
     {
       "topic": "Credit Risk",
@@ -297,7 +297,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 113
+      "count": 115
     },
     {
       "topic": "Governance",
@@ -309,11 +309,11 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 22
+      "count": 23
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 14
+      "count": 13
     },
     {
       "topic": "Recovery / Resolution",
@@ -348,12 +348,12 @@
       "count": 2
     },
     {
-      "topic": "Liquidity",
+      "topic": "AML / Financial Crime",
       "count": 2
     },
     {
-      "topic": "AML / Financial Crime",
-      "count": 1
+      "topic": "Liquidity",
+      "count": 2
     },
     {
       "topic": "Credit Risk",
@@ -363,7 +363,7 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 41
+      "count": 42
     },
     {
       "keyword": "board",
@@ -391,7 +391,7 @@
     },
     {
       "keyword": "enforcement",
-      "count": 14
+      "count": 15
     },
     {
       "keyword": "reporting",
@@ -407,7 +407,7 @@
     },
     {
       "keyword": "payment",
-      "count": 9
+      "count": 8
     },
     {
       "keyword": "climate",
@@ -418,12 +418,12 @@
       "count": 7
     },
     {
-      "keyword": "stress test",
+      "keyword": "disclosure",
       "count": 5
     },
     {
-      "keyword": "disclosure",
-      "count": 4
+      "keyword": "stress test",
+      "count": 5
     },
     {
       "keyword": "payments",
@@ -494,6 +494,10 @@
       "count": 2
     },
     {
+      "keyword": "financial crime",
+      "count": 2
+    },
+    {
       "keyword": "guidelines",
       "count": 2
     },
@@ -507,10 +511,6 @@
     },
     {
       "keyword": "own funds",
-      "count": 2
-    },
-    {
-      "keyword": "payment services",
       "count": 2
     },
     {
@@ -574,10 +574,6 @@
       "count": 1
     },
     {
-      "keyword": "financial crime",
-      "count": 1
-    },
-    {
       "keyword": "financial promotions",
       "count": 1
     },
@@ -623,6 +619,10 @@
     },
     {
       "keyword": "open banking",
+      "count": 1
+    },
+    {
+      "keyword": "payment services",
       "count": 1
     },
     {
@@ -673,7 +673,7 @@
     },
     {
       "region": "US",
-      "count": 72
+      "count": 73
     },
     {
       "region": "Global",
@@ -694,15 +694,15 @@
       "count": 50
     },
     {
+      "institution": "Federal Reserve Board",
+      "count": 31
+    },
+    {
       "institution": "ECB Banking Supervision",
       "count": 30
     },
     {
       "institution": "European Central Bank",
-      "count": 30
-    },
-    {
-      "institution": "Federal Reserve Board",
       "count": 30
     },
     {
@@ -743,6 +743,80 @@
     }
   ],
   "publications": [
+    {
+      "id": "0ca4f64edfaa297b",
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+      "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-17T18:00:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20260617.pdf"
+      ],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "1655dd7ba9e082ba",
+      "title": "Federal Reserve issues FOMC statement",
+      "summary": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-17T18:00:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/monetarypolicy/files/monetary20260617a1.pdf"
+      ],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "1e84e03daa07def7",
       "title": "Beat the heat, the role of heat waves and droughts in regional EU economies",
@@ -811,6 +885,44 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "99b4be08256e116f",
+      "title": "ESMA 2025 Annual Report: focus on stronger supervision, regulatory simplification, and innovation",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets reg",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-2025-annual-report-focus-stronger-supervision-regulatory-simplification",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-06-17T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-06/ESMA22-50751485-1657_2025_Annual_Report.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2026-06/ESMA71-545613100-2954_Annual_Report_2025_focus_on_stronger_supervision__regulatory_simplification__and_innovation_-_Press_release.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-2025-annual-report-focus-stronger-supervision-regulatory-simplification",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "c94f886863bf6f15",
@@ -3993,17 +4105,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-05-19T12:10:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op387.en.pdf?0fb1b314f35dfe1069bb0447776b5e39",
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisorybankingstatistics_fourth_quarter_2025_202603.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2913~6bf956d0d3.en.pdf",
-        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
-        "https://www.fsb.org/uploads/P131025-2.pdf",
-        "https://www.srb.europa.eu/system/files/media/document/2025-11-07_MREL-dashboard_H1-2025.pdf",
-        "https://competition-policy.ec.europa.eu/system/files/2021-04/state_aid_scoreboard_note_2017.pdf",
-        "https://www.europarl.europa.eu/RegData/etudes/STUD/2025/772638/ECTI_STU(2025)772638_EN.pdf",
-        "https://www.bde.es/f/webbe/Secciones/Publicaciones/InformesBoletinesRevistas/InformesEstabilidadFinancera/25/FSR_2025_1_Box3_1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Supervision / Enforcement"
@@ -4047,13 +4149,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-05-19T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2013/central-counterparties-what-are-they-why-do-they-matter-and-how-does-the-boe-supervise-them.pdf",
-        "https://assets.publishing.service.gov.uk/media/65982b8c614fa2000df3a975/FINAL_CCP_Resolution_Regime_Code_of_Practice.pdf",
-        "https://www.fsb.org/uploads/P250424-3.pdf",
-        "https://www.mas.gov.sg/-/media/mas/news-and-publications/consultation-papers/25-mar-2026-consultation-paper-on-rrp-and-bail-in-for-cmfmi/consultation-paper-on-cmfmi-rrp-notice-and-guidelines-and-enhancement-of-resolution-powers.pdf",
-        "https://www.bis.org/cpmi/publ/d162.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Recovery / Resolution"
       ],
@@ -5024,41 +5120,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "ad87dffc745ead82",
-      "title": "European Commission launches call for candidates for the ESAs’ Board of Appeal",
-      "summary": "The European Commission has launched a call for expression of interest for the appointment",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/european-commission-launches-call-candidates-esas-board-appeal",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-05-12T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "board"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/european-commission-launches-call-candidates-esas-board-appeal",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "37b96392e2c2dfd8",
       "title": "Sharon Donnery: Interview with Expansión",
       "summary": "",
@@ -5145,41 +5206,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "406bff69a62c6e82",
-      "title": "Federal Reserve Board announces approval of related applications by Columbia Bank MHC, and Columbia Financial, Inc.",
-      "summary": "Federal Reserve Board announces approval of related applications by Columbia Bank MHC, and Columbia Financial, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm",
-      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-press",
-      "sourceName": "Federal Reserve Press Releases",
-      "institution": "Federal Reserve Board",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-08T21:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "board"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        }
-      ],
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "a5669c9a6b86bded",
@@ -5620,14 +5646,14 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "d4d9a0f711ccf299",
+      "id": "a08241171247d5ee",
       "title": "Agencies issue host state loan-to-deposit ratios",
       "summary": "Agencies issue host state loan-to-deposit ratios",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260501a.htm",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-press",
-      "sourceName": "Federal Reserve Press Releases",
+      "sourceId": "federal-reserve-banking-reg",
+      "sourceName": "Federal Reserve Banking and Consumer Regulatory Policy",
       "institution": "Federal Reserve Board",
       "region": "US",
       "jurisdiction": "US",
@@ -5650,9 +5676,9 @@
         }
       ],
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260501a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
+      "updateType": "Other",
+      "updateTypeDetail": "Other update"
     },
     {
       "id": "023f38bef5e167c8",
@@ -9765,6 +9791,68 @@
       "updateTypeDetail": "Publication / report"
     },
     {
+      "id": "72f72c1ebffe1c33",
+      "title": "Beyond the headlines: the unseen fight against financial crime",
+      "summary": "Speech by Therese Chambers, joint executive director of enforcement and market oversight, delivered at the International Bar Association (IBA) Anti-Corruption Conference. I’ve been practising law for over 3 decades now. Starting out, I thought every case would be like the ones on US television: dramatic, with a big reveal and resounding outcome, all packed into a single 30-minute episode. But real law looks nothing like television. Hollywood doesn’t show the months, if not years, of work before we even step into a courtroom. Or the drawn-out disclosure exercises! Like many of you, I have had cases that led to high-profile trials and newspaper headlines.",
+      "url": "https://www.fca.org.uk/news/speeches/beyond-headlines-unseen-fight-against-financial-crime",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "financial crime",
+        "conduct",
+        "disclosure",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "financial crime"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/speeches/beyond-headlines-unseen-fight-against-financial-crime",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
       "id": "c39a58d308bb3622",
       "title": "Consumers warned about misleading car finance 'money tips' claims ads",
       "summary": "Consumers are being warned to be wary of misleading car finance 'money tips' adverts issued by claims management companies (CMCs) and law firms on social media. As part of the joint regulatory taskforce, the FCA has identified a growing number of adverts that appear to offer independent advice from an individual but are in fact paid promotions from CMCs and law firms encouraging people to sign up for motor finance claims. Consumers should be aware that some adverts:Pose as impartial advice from individuals, without clearly saying they are promoting a business.",
@@ -10240,52 +10328,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "092c35d7e0667394",
-      "title": "Halo Financial Limited enters administration",
-      "summary": "On 29 May 2026, Halo Financial Limited (Halo) entered special administration. Louise Longley and Bai Cham of BTG Begbies Traynor (Central) LLP (Begbies) were appointed as joint special administrators. Halo is authorised by the FCA to provide payment services under the Payment Services Regulations 2017 (the PSRs). On 30 April 2026, Halo agreed to a voluntary undertaking, which restricted the activities it can carry out, including conducting payment services and accepting any additional funds. Find more details on the Financial Services Register. As Halo continues to be authorised by us, we will continue to engage with the special administrators and seek the best outcomes for consumers.",
-      "url": "https://www.fca.org.uk/news/news-stories/halo-financial-limited-enters-administration",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "payment",
-        "payment services"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payment",
-            "payment services"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/news-stories/halo-financial-limited-enters-administration",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "bd9711ef852e9dfa",
       "title": "Later life lending: building the fourth retirement pillar",
       "summary": "Speech by Emad Aladhal, director of retail banking at the Later Life Lending Summit. IntroductionIn the years ahead, housing wealth will become an increasing part of how many people provide for their retirement. But it continues to be seen as an option of last resort, if thought about at all. Knowing I had this speech, as an experiment at a recent BBQ I had a conversation with my friends about retirement and savings – none of whom work in financial services. They talked about their employers’ pensions, SIPPs, ISAs, investments, and potential business ventures to supplement income in retirement. None brought up later life lending, or how they could use their home to help.",
@@ -10568,7 +10610,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-17T10:56:58.101Z",
+      "publishedAt": "2026-06-17T20:12:39.363Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10592,7 +10634,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-17T10:56:58.101Z",
+      "publishedAt": "2026-06-17T20:12:39.363Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10616,7 +10658,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-17T10:56:58.101Z",
+      "publishedAt": "2026-06-17T20:12:39.363Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10640,7 +10682,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-17T10:56:58.101Z",
+      "publishedAt": "2026-06-17T20:12:39.363Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10653,11 +10695,11 @@
   "updateTypeSummary": [
     {
       "updateType": "Publications / Reports",
-      "count": 76
+      "count": 77
     },
     {
       "updateType": "News",
-      "count": 67
+      "count": 65
     },
     {
       "updateType": "Rules / Standards / Guidance",
@@ -10669,19 +10711,19 @@
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 18
+      "count": 19
     },
     {
       "updateType": "Working Papers / Research",
       "count": 13
     },
     {
-      "updateType": "Statistics / Data",
+      "updateType": "Other",
       "count": 7
     },
     {
-      "updateType": "Other",
-      "count": 6
+      "updateType": "Statistics / Data",
+      "count": 7
     },
     {
       "updateType": "Source Pages",
