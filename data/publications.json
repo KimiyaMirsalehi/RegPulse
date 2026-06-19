@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T10:27:18.180Z",
+  "generatedAt": "2026-06-19T19:50:10.701Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 118
+      "count": 117
     },
     {
       "topic": "Governance",
@@ -274,12 +274,12 @@
       "count": 6
     },
     {
-      "topic": "Consumer Protection",
+      "topic": "AI",
       "count": 3
     },
     {
-      "topic": "AI",
-      "count": 2
+      "topic": "Consumer Protection",
+      "count": 3
     },
     {
       "topic": "AML / Financial Crime",
@@ -305,7 +305,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 118
+      "count": 117
     },
     {
       "topic": "Governance",
@@ -348,12 +348,12 @@
       "count": 6
     },
     {
-      "topic": "Consumer Protection",
+      "topic": "AI",
       "count": 3
     },
     {
-      "topic": "AI",
-      "count": 2
+      "topic": "Consumer Protection",
+      "count": 3
     },
     {
       "topic": "AML / Financial Crime",
@@ -399,7 +399,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 20
+      "count": 19
     },
     {
       "keyword": "policy statement",
@@ -630,6 +630,10 @@
       "count": 1
     },
     {
+      "keyword": "large language models",
+      "count": 1
+    },
+    {
       "keyword": "leverage ratio",
       "count": 1
     },
@@ -772,6 +776,166 @@
   ],
   "publications": [
     {
+      "id": "ae6f18502f6e0eb1",
+      "title": "Asymmetric information and capital regulation in SME lending: a structural model of bank and non-bank competition",
+      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+      "url": "https://www.bankofengland.co.uk/working-paper/2026/asymmetric-information-and-capita-regulation-in-sme-lending",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-19T13:01:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/asymmetric-information-and-capital-regulation-in-sme-lending.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/asymmetric-information-and-capita-regulation-in-sme-lending",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "f859d1f87a23dc33",
+      "title": "Inflation attitudes of large language models",
+      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+      "url": "https://www.bankofengland.co.uk/working-paper/2026/inflation-attitudes-of-large-language-models",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-19T13:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/inflation-attitudes-of-large-language-models.pdf"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "matchedKeywords": [
+        "large language models"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "large language models"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/inflation-attitudes-of-large-language-models",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "45e7d60df6aca709",
+      "title": "Market Participants Survey results - June 2026",
+      "summary": "Expectations for monetary policy from experts in UK rates markets.",
+      "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-june-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-19T11:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-june-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "e01121b764a7309e",
+      "title": "Frank Elderson: Fireside chat",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260619_1~09441a4cbe.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-19T10:30:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.other_publications_banking_sector_framework.en.pdf?eef7462d182fe3c12e02707d8521b1cc",
+        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep251010_technical_annex_financial_stability_impact_digital_euro.en.pdf?f55d1581c257d73d86ad560edce18c17"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260619_1~09441a4cbe.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "4bd1806d8f750b92",
+      "title": "Frank Elderson: Fireside chat",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260619~16185e3a2c.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-19T10:30:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.other_publications_banking_sector_framework.en.pdf?eef7462d182fe3c12e02707d8521b1cc",
+        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep251010_technical_annex_financial_stability_impact_digital_euro.en.pdf?f55d1581c257d73d86ad560edce18c17"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260619~16185e3a2c.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
       "id": "e772a2c02dad6959",
       "title": "Piero Cipollone: The foundations of national sovereignty: the role of central bank money",
       "summary": "",
@@ -808,9 +972,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-06-19T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/ecb/pub/pdf/ssm.supervisorybankingstatistics_first_quarter_2026_202606.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -3196,33 +3358,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "508e9b45d939b67a",
-      "title": "Piero Cipollone: Europe’s money evolves so people’s freedom to pay remains",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260603_1~2801335beb.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-03T13:30:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.derdgp251030_RDG_progress_report_October_25.en.pdf",
-        "https://commission.europa.eu/document/download/5445de81-9481-4335-9902-9756159ba614_en?filename=one-europe-one-market-roadmap.pdf",
-        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.dep260305_call_for_expression_of_interest.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260603_1~2801335beb.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "50f1fe65c1603669",
       "title": "Frank Elderson: Strengthening operational resilience for the age of AI",
       "summary": "",
@@ -4109,12 +4244,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-05-27T09:00:00.000Z",
-      "pdfLinks": [
-        "https://assets.publishing.service.gov.uk/media/69947796c0aa8279cb9c77c6/Applying_the_FSMA_2000_model_of_regulation_to_the_CRR_2025_-_Policy_Update_Response.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/may/ps1426app1.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/may/ps1426app2.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/may/ps1426app4.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements",
         "Supervision / Enforcement"
@@ -4158,9 +4288,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-05-26T18:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/monetary20260526a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -5587,50 +5715,6 @@
         }
       ],
       "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260511~a38d273de0.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "4097a9fb3353dd18",
-      "title": "Sharon Donnery: Single Market, shared opportunities",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260509~a01253fc16.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-09T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260509~a01253fc16.en.html",
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
@@ -7169,29 +7253,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "b00e2757447947e1",
-      "title": "Credit Conditions Survey - 2026 Q1",
-      "summary": "This quarterly survey of banks and building societies is aimed at improving our understanding of trends and developments in credit conditions.",
-      "url": "https://www.bankofengland.co.uk/credit-conditions-survey/2026/2026-q1",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-09T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/credit-conditions-survey/2026/2026-q1",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "3ae7a999c73f87b2",
       "title": "SEC Appoints David Woodcock as Director of the Division of Enforcement",
       "summary": "The Securities and Exchange Commission today announced that David Woodcock has been appointed Director of the Division of Enforcement, effective May 4, 2026. Mr. Woodcock is currently a partner in the Dallas and Washington, D. C. offices of Gibson, Dunn…",
@@ -7295,52 +7356,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "72731e5269770df2",
-      "title": "Bank of England Weekly Report 1 April 2026",
-      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2026/1-april-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-02T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/1-april-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "1f4d014fdd057e63",
-      "title": "Out of work, out of the labour force? Attachment, search effort and participation flows",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/out-of-work-out-of-the-labour-force",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-02T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/out-of-work-out-of-the-labour-force",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "8e2094f580ba4f1a",
@@ -9133,10 +9148,10 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "fc32394257b73da0",
-      "title": "SS2/25: Prudential considerations for insurance and reinsurance undertakings when transferring risk to Special Purpose Vehicles",
-      "summary": "Supervisory statement 2/25",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/july/prudential-considerations-for-insurance-and-reinsurance-undertakings",
+      "id": "d1352df67b0cb06f",
+      "title": "LIAF03/25 – Low Impact Amendments Finalisation December 2025",
+      "summary": "The PRA has published LIAF03/25, a collection of final low impact rule amendments.",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/december/low-impact-amendments-finalisation-december-2025",
       "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "sourceId": "boe-prudential-publications",
@@ -9147,22 +9162,10 @@
       "sourceType": "rss",
       "publishedAt": "2025-12-19T10:00:00.000Z",
       "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/july/prudential-considerations-for-insurance-and-reinsurance-undertakings",
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/december/low-impact-amendments-finalisation-december-2025",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
@@ -10663,7 +10666,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-19T10:27:18.180Z",
+      "publishedAt": "2026-06-19T19:50:10.701Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10687,7 +10690,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-19T10:27:18.180Z",
+      "publishedAt": "2026-06-19T19:50:10.701Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10711,7 +10714,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-19T10:27:18.180Z",
+      "publishedAt": "2026-06-19T19:50:10.701Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10735,7 +10738,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-19T10:27:18.180Z",
+      "publishedAt": "2026-06-19T19:50:10.701Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10748,7 +10751,7 @@
   "updateTypeSummary": [
     {
       "updateType": "Publications / Reports",
-      "count": 77
+      "count": 76
     },
     {
       "updateType": "News",
@@ -10768,7 +10771,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 13
+      "count": 14
     },
     {
       "updateType": "Statistics / Data",
