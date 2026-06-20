@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T08:56:52.957Z",
+  "generatedAt": "2026-06-20T19:27:00.329Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 118
+      "count": 117
     },
     {
       "topic": "Governance",
@@ -305,7 +305,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 118
+      "count": 117
     },
     {
       "topic": "Governance",
@@ -399,7 +399,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 20
+      "count": 19
     },
     {
       "keyword": "policy statement",
@@ -9148,10 +9148,10 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "fc32394257b73da0",
-      "title": "SS2/25: Prudential considerations for insurance and reinsurance undertakings when transferring risk to Special Purpose Vehicles",
-      "summary": "Supervisory statement 2/25",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/july/prudential-considerations-for-insurance-and-reinsurance-undertakings",
+      "id": "d1352df67b0cb06f",
+      "title": "LIAF03/25 – Low Impact Amendments Finalisation December 2025",
+      "summary": "The PRA has published LIAF03/25, a collection of final low impact rule amendments.",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/december/low-impact-amendments-finalisation-december-2025",
       "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "sourceId": "boe-prudential-publications",
@@ -9162,22 +9162,10 @@
       "sourceType": "rss",
       "publishedAt": "2025-12-19T10:00:00.000Z",
       "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/july/prudential-considerations-for-insurance-and-reinsurance-undertakings",
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/december/low-impact-amendments-finalisation-december-2025",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
@@ -10678,7 +10666,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-20T08:56:52.957Z",
+      "publishedAt": "2026-06-20T19:27:00.329Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10702,7 +10690,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-20T08:56:52.957Z",
+      "publishedAt": "2026-06-20T19:27:00.329Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10726,7 +10714,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-20T08:56:52.957Z",
+      "publishedAt": "2026-06-20T19:27:00.329Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10750,7 +10738,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-20T08:56:52.957Z",
+      "publishedAt": "2026-06-20T19:27:00.329Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
