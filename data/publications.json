@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-21T19:42:13.946Z",
-  "totalPublications": 276,
+  "generatedAt": "2026-06-22T11:55:26.123Z",
+  "totalPublications": 275,
   "sourceCount": 17,
   "successfulSources": 17,
   "warningSources": 0,
@@ -78,7 +78,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "html-list-parser",
-      "itemCount": 10,
+      "itemCount": 9,
       "url": "https://www.esma.europa.eu/press-news/esma-news",
       "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
       "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 118
+      "count": 119
     },
     {
       "topic": "Governance",
@@ -247,18 +247,18 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 13
+      "count": 14
     },
     {
       "topic": "Recovery / Resolution",
       "count": 11
     },
     {
-      "topic": "Climate / ESG",
-      "count": 9
+      "topic": "Capital Requirements",
+      "count": 8
     },
     {
-      "topic": "Capital Requirements",
+      "topic": "Climate / ESG",
       "count": 8
     },
     {
@@ -278,11 +278,11 @@
       "count": 3
     },
     {
-      "topic": "Consumer Protection",
-      "count": 3
+      "topic": "AML / Financial Crime",
+      "count": 2
     },
     {
-      "topic": "AML / Financial Crime",
+      "topic": "Consumer Protection",
       "count": 2
     },
     {
@@ -305,7 +305,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 118
+      "count": 119
     },
     {
       "topic": "Governance",
@@ -321,18 +321,18 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 13
+      "count": 14
     },
     {
       "topic": "Recovery / Resolution",
       "count": 11
     },
     {
-      "topic": "Climate / ESG",
-      "count": 9
+      "topic": "Capital Requirements",
+      "count": 8
     },
     {
-      "topic": "Capital Requirements",
+      "topic": "Climate / ESG",
       "count": 8
     },
     {
@@ -352,11 +352,11 @@
       "count": 3
     },
     {
-      "topic": "Consumer Protection",
-      "count": 3
+      "topic": "AML / Financial Crime",
+      "count": 2
     },
     {
-      "topic": "AML / Financial Crime",
+      "topic": "Consumer Protection",
       "count": 2
     },
     {
@@ -391,7 +391,7 @@
     },
     {
       "keyword": "its",
-      "count": 27
+      "count": 28
     },
     {
       "keyword": "conduct",
@@ -403,15 +403,15 @@
     },
     {
       "keyword": "policy statement",
-      "count": 17
+      "count": 18
     },
     {
       "keyword": "enforcement",
-      "count": 16
+      "count": 15
     },
     {
       "keyword": "reporting",
-      "count": 14
+      "count": 13
     },
     {
       "keyword": "consultation paper",
@@ -423,11 +423,11 @@
     },
     {
       "keyword": "payment",
-      "count": 8
+      "count": 9
     },
     {
       "keyword": "climate",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "operational resilience",
@@ -442,15 +442,15 @@
       "count": 5
     },
     {
+      "keyword": "transparency",
+      "count": 4
+    },
+    {
       "keyword": "capital requirements",
       "count": 3
     },
     {
       "keyword": "clearing",
-      "count": 3
-    },
-    {
-      "keyword": "crypto",
       "count": 3
     },
     {
@@ -470,12 +470,8 @@
       "count": 3
     },
     {
-      "keyword": "transparency",
+      "keyword": "stablecoins",
       "count": 3
-    },
-    {
-      "keyword": "authorisation",
-      "count": 2
     },
     {
       "keyword": "bail in",
@@ -490,15 +486,15 @@
       "count": 2
     },
     {
-      "keyword": "consumer duty",
-      "count": 2
-    },
-    {
       "keyword": "credit risk",
       "count": 2
     },
     {
       "keyword": "crr",
+      "count": 2
+    },
+    {
+      "keyword": "crypto",
       "count": 2
     },
     {
@@ -522,15 +518,15 @@
       "count": 2
     },
     {
-      "keyword": "investigation",
-      "count": 2
-    },
-    {
       "keyword": "mica",
       "count": 2
     },
     {
       "keyword": "own funds",
+      "count": 2
+    },
+    {
+      "keyword": "payment services",
       "count": 2
     },
     {
@@ -550,11 +546,11 @@
       "count": 2
     },
     {
-      "keyword": "stablecoins",
-      "count": 2
+      "keyword": "artificial intelligence",
+      "count": 1
     },
     {
-      "keyword": "artificial intelligence",
+      "keyword": "authorisation",
       "count": 1
     },
     {
@@ -567,6 +563,10 @@
     },
     {
       "keyword": "climate risk",
+      "count": 1
+    },
+    {
+      "keyword": "consumer duty",
       "count": 1
     },
     {
@@ -630,6 +630,10 @@
       "count": 1
     },
     {
+      "keyword": "investigation",
+      "count": 1
+    },
+    {
       "keyword": "large language models",
       "count": 1
     },
@@ -662,19 +666,11 @@
       "count": 1
     },
     {
-      "keyword": "payment services",
-      "count": 1
-    },
-    {
       "keyword": "recovery plans",
       "count": 1
     },
     {
       "keyword": "resolution planning",
-      "count": 1
-    },
-    {
-      "keyword": "retail investors",
       "count": 1
     },
     {
@@ -701,7 +697,7 @@
     },
     {
       "region": "EU",
-      "count": 80
+      "count": 79
     },
     {
       "region": "US",
@@ -755,7 +751,7 @@
     },
     {
       "institution": "European Securities and Markets Authority",
-      "count": 10
+      "count": 9
     },
     {
       "institution": "Basel Committee on Banking Supervision",
@@ -775,6 +771,95 @@
     }
   ],
   "publications": [
+    {
+      "id": "6a97b94fcc9d2e0b",
+      "title": "AI and the US labour market: effects on employment growth",
+      "summary": "The adoption of AI is reshaping the US labour market, with its impact on employment growth varying across occupations. AI has led to a job reallocation, particularly disadvantaging occupations with a high risk of AI substitution compared to those with low substitution risk. An econometric analysis confirms that AI has widened the gap in employment growth between employment in high-risk occupations and low-risk occupations between 2019 and 2025. However, this divergence in employment growth has not translated into wage disparities.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_01~d9259db536.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-22T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bis.org/publ/work1325.pdf",
+        "https://www.ifo.de/DocDL/cesifo1_wp10601.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_01~d9259db536.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "9bfe91a2f87330bf",
+      "title": "Sterling-denominated systemic stablecoins",
+      "summary": "Policy statement and consultation on draft Code of Practice",
+      "url": "https://www.bankofengland.co.uk/paper/2026/ps/sterling-denominated-systemic-stablecoin",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-22T07:30:00.000Z",
+      "pdfLinks": [
+        "https://www.dmo.gov.uk/media/nrgnywtz/pr050126.pdf",
+        "https://www.bis.org/cpmi/publ/d101a.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2024/september/ps924app2.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/financial-stability-report/2019/december-2019.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/draft-code-of-practice-for-sterling-denominated-stablecoin-issuer.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2020/the-pras-methodologies-for-setting-pillar-2a-capital-update-dec-2020.pdf"
+      ],
+      "topics": [
+        "Crypto / Digital Assets",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "stablecoins",
+        "policy statement"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "stablecoins"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/sterling-denominated-systemic-stablecoin",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
     {
       "id": "ae6f18502f6e0eb1",
       "title": "Asymmetric information and capital regulation in SME lending: a structural model of bank and non-bank competition",
@@ -4049,31 +4134,6 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "53ebd44f096c83ec",
-      "title": "Letter from the ECB President to Mr Fabio de Masi, MEP, on institutional matters",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260529_Fabio_de_Masi~7462168237.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-29T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260529_Fabio_de_Masi~7462168237.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260529_Fabio_de_Masi~7462168237.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "0071fbb891f5bb29",
       "title": "Federal Reserve Board issues enforcement actions with former employee of Atlantic Union Bank and former employee of Frost Bank",
       "summary": "Federal Reserve Board issues enforcement actions with former employee of Atlantic Union Bank and former employee of Frost Bank",
@@ -4157,13 +4217,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-05-28T09:00:00.000Z",
-      "pdfLinks": [
-        "https://assets.publishing.service.gov.uk/media/6994777dc0aa8279cb9c77c5/The_Overseas_Prudential_Requirements_Regime_-_draft_regulations.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/may/ps1526app1.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/may/ps1526app2.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/may/ps1526app8.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/may/ps1526app9.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -4761,29 +4815,6 @@
       ],
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "fad8c6babf734fdd",
-      "title": "ESMA publishes shortlist of candidates for position of Chair",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets reg",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-shortlist-candidates-position-chair-0",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-05-20T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-shortlist-candidates-position-chair-0",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
     },
@@ -7225,29 +7256,6 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/8-april-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "61e3cd4ef971f371",
-      "title": "Bank Liabilities Survey - 2026 Q1",
-      "summary": "This quarterly survey of banks and building societies is aimed at improving our understanding of the role of lenders’ liabilities and capital in driving credit and monetary conditions.",
-      "url": "https://www.bankofengland.co.uk/bank-liabilities-survey/2026/2026-q1",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-09T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/bank-liabilities-survey/2026/2026-q1",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
@@ -10046,6 +10054,41 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
+      "id": "034b54b65973adcf",
+      "title": "FCA consults on proposals to support strong, consistent standards in the SIPP market",
+      "summary": "The FCA has set out plans to drive greater consistency of standards in self-invested pensions (SIPPs), while maintaining the flexibility and broad investment choice they offer. Most SIPP providers are already doing the right thing and providing a good service to their customers. However, the FCA has historically found cases of poor due diligence, weak record keeping and gaps in how firms protect money and assets. To drive greater consistency, the FCA is proposing clear standards of due diligence. This is intended to secure better outcomes for consumers by improving consistency and adequacy of due diligence across all SIPP operators.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-consults-proposals-support-strong-consistent-standards-sipp-market",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-consults-proposals-support-strong-consistent-standards-sipp-market",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
+    {
       "id": "4e7e730f9c290b0d",
       "title": "FCA decides to fine Carlos Ricardo Fuenmayor £99,600 for disclosure failures",
       "summary": "",
@@ -10163,54 +10206,6 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "d9d9b746419c6998",
-      "title": "FCA launches investigation into second motor finance claims management company",
-      "summary": "The FCA has opened an enforcement investigation into Consultation Claims Limited (CCL) following concerns about its conduct in the period April 2025 to December 2025 in relation to motor finance claims. The FCA is investigating concerns that consumers may have been signed up during the period April 2025 to December 2025 without their consent, with some allegations that signatures have been forged. The FCA is investigating the full customer journey, including how customers were contacted, what they were told during and after sign-up, and the information they were given about exit fees.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-launches-investigation-second-motor-finance-claims-management-company",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "enforcement",
-        "investigation",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "enforcement",
-            "investigation",
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-launches-investigation-second-motor-finance-claims-management-company",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "1059e099b485fade",
@@ -10389,10 +10384,10 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "2a6c4d0c12169d17",
-      "title": "Football clubs warned about questionable sponsorship deals with unauthorised financial firms",
-      "summary": "Football clubs have been warned not to put their fans’ cash at risk by signing sponsorship deals with financial firms that aren't allowed to operate in the UK. According to the FCA, a number of unauthorised firms, including crypto businesses and trading platforms, are using sponsorship to target unwitting football fans. These unauthorised firms may be breaching UK financial services laws by providing financial services in the UK without authorisation. Fans using these firms risk losing all their money. The FCA has written directly to football clubs, mainly in the Premier League, to warn about their relationships with these firms and remind them of their responsibilities to fans.",
-      "url": "https://www.fca.org.uk/news/press-releases/football-clubs-warned-questionable-sponsorship-deals-unauthorised-firms",
+      "id": "d29d97b8a42786f4",
+      "title": "Investors get real-time view of UK bond market activity for the first time",
+      "summary": "For the first time, investors and market participants can access a single, real-time source of prices and trading activity across the UK bond market, following the launch of its bond consolidated tape, operated by ETS Connect UK. Until now, data on bond trades was scattered across multiple sources, making it difficult to get a clear and complete picture of market activity. The new service brings it all together in one place. The launch builds on changes to the UK's bond market transparency rules that came into force in December 2025. Those changes have already made a real difference.",
+      "url": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -10404,23 +10399,16 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
-        "Crypto / Digital Assets",
         "Governance",
+        "Reporting / Disclosure",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
-        "crypto",
         "conduct",
-        "authorisation"
+        "transparency",
+        "its"
       ],
       "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "crypto"
-          ]
-        },
         {
           "id": "governance",
           "label": "Governance",
@@ -10429,17 +10417,24 @@
           ]
         },
         {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "transparency"
+          ]
+        },
+        {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
           "keywords": [
-            "authorisation"
+            "its"
           ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/press-releases/football-clubs-warned-questionable-sponsorship-deals-unauthorised-firms",
+      "link": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "bd9711ef852e9dfa",
@@ -10475,6 +10470,52 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "894c88a991859345",
+      "title": "Monevium Ltd enters special administration",
+      "summary": "On 18 June 2026, Monevium Ltd (Monevium) entered special administration. Adam Henry Stephens and Christopher Allen of S&W Partners LLP (S&W) were appointed as special administrators. Monevium is authorised by the FCA to provide payment services. On 28 February 2024, Monevium agreed to a voluntary undertaking, which restricted the activities it can carry out. See details on the Financial Services Register.",
+      "url": "https://www.fca.org.uk/news/news-stories/monevium-ltd-enters-special-administration",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "payment",
+        "payment services"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payment services"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/monevium-ltd-enters-special-administration",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "5292bbadd0ae9406",
@@ -10556,70 +10597,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "5830e3817e4b1d23",
-      "title": "Simpler climate reporting rules could save firms £20m annually",
-      "summary": "Investment firms could save around £20m a year under new proposals from the FCA to simplify climate reporting for investment products. The FCA estimates it could deliver these savings by replacing detailed product-level reports based on the Task Force on Climate-related Financial Disclosures (TCFD) with simpler, more targeted information for retail investors, in line with the Consumer Duty. The changes aim to give investors clearer insight into how climate risks – such as floods, storms and other extreme weather events – could affect investment performance, while reducing unnecessary costs to firms.",
-      "url": "https://www.fca.org.uk/news/press-releases/simpler-climate-reporting-rules-could-save-firms-20m-annually",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Climate / ESG",
-        "Consumer Protection",
-        "Governance",
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "climate",
-        "consumer duty",
-        "retail investors",
-        "conduct",
-        "reporting"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate"
-          ]
-        },
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "consumer duty",
-            "retail investors"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/simpler-climate-reporting-rules-could-save-firms-20m-annually",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "3c9fd7e88df77153",
       "title": "Solvenza Limited in administration",
       "summary": "On 28 April 2026, Solvenza Limited (Solvenza) entered administration. Louise Longley and Julian Pitts of BTG Begbies Traynor (Central) LLP (Begbies) were appointed joint administrators. Solvenza (Firm Reference Number: 718517) is regulated by the FCA, authorised to carry out debt purchasing and debt collection activities, which provide debt resolution solutions to consumers. The joint administrators are responsible for managing the affairs of Solvenza during the administration process. Debt Collection Services UK Limited (DCS) has been instructed by the administrators to collect debts owed to Solvenza over the course of the administration.",
@@ -10678,7 +10655,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-21T19:42:13.946Z",
+      "publishedAt": "2026-06-22T11:55:26.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10702,7 +10679,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-21T19:42:13.946Z",
+      "publishedAt": "2026-06-22T11:55:26.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10726,7 +10703,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-21T19:42:13.946Z",
+      "publishedAt": "2026-06-22T11:55:26.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10750,7 +10727,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-21T19:42:13.946Z",
+      "publishedAt": "2026-06-22T11:55:26.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10763,19 +10740,19 @@
   "updateTypeSummary": [
     {
       "updateType": "Publications / Reports",
-      "count": 76
-    },
-    {
-      "updateType": "News",
-      "count": 66
+      "count": 74
     },
     {
       "updateType": "Rules / Standards / Guidance",
+      "count": 66
+    },
+    {
+      "updateType": "News",
       "count": 65
     },
     {
       "updateType": "Consultations",
-      "count": 19
+      "count": 20
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
