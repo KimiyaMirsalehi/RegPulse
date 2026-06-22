@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T11:55:26.123Z",
+  "generatedAt": "2026-06-22T20:48:57.582Z",
   "totalPublications": 275,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,15 +231,15 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 119
+      "count": 120
     },
     {
       "topic": "Governance",
-      "count": 55
+      "count": 56
     },
     {
       "topic": "Basel / BCBS",
-      "count": 37
+      "count": 38
     },
     {
       "topic": "Reporting / Disclosure",
@@ -251,15 +251,15 @@
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "Capital Requirements",
-      "count": 8
+      "count": 10
     },
     {
       "topic": "Climate / ESG",
-      "count": 8
+      "count": 9
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -305,15 +305,15 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 119
+      "count": 120
     },
     {
       "topic": "Governance",
-      "count": 55
+      "count": 56
     },
     {
       "topic": "Basel / BCBS",
-      "count": 37
+      "count": 38
     },
     {
       "topic": "Reporting / Disclosure",
@@ -325,15 +325,15 @@
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "Capital Requirements",
-      "count": 8
+      "count": 10
     },
     {
       "topic": "Climate / ESG",
-      "count": 8
+      "count": 9
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -391,7 +391,7 @@
     },
     {
       "keyword": "its",
-      "count": 28
+      "count": 29
     },
     {
       "keyword": "conduct",
@@ -419,7 +419,7 @@
     },
     {
       "keyword": "resolution",
-      "count": 10
+      "count": 11
     },
     {
       "keyword": "payment",
@@ -430,23 +430,31 @@
       "count": 6
     },
     {
-      "keyword": "operational resilience",
+      "keyword": "disclosure",
       "count": 6
     },
     {
-      "keyword": "disclosure",
-      "count": 5
+      "keyword": "operational resilience",
+      "count": 6
     },
     {
       "keyword": "stress test",
       "count": 5
     },
     {
-      "keyword": "transparency",
+      "keyword": "capital requirements",
       "count": 4
     },
     {
-      "keyword": "capital requirements",
+      "keyword": "governance",
+      "count": 4
+    },
+    {
+      "keyword": "bail in",
+      "count": 3
+    },
+    {
+      "keyword": "bail-in",
       "count": 3
     },
     {
@@ -454,11 +462,19 @@
       "count": 3
     },
     {
+      "keyword": "crr",
+      "count": 3
+    },
+    {
       "keyword": "dora",
       "count": 3
     },
     {
-      "keyword": "governance",
+      "keyword": "own funds",
+      "count": 3
+    },
+    {
+      "keyword": "pillar 3",
       "count": 3
     },
     {
@@ -474,12 +490,8 @@
       "count": 3
     },
     {
-      "keyword": "bail in",
-      "count": 2
-    },
-    {
-      "keyword": "bail-in",
-      "count": 2
+      "keyword": "transparency",
+      "count": 3
     },
     {
       "keyword": "basel 3",
@@ -487,10 +499,6 @@
     },
     {
       "keyword": "credit risk",
-      "count": 2
-    },
-    {
-      "keyword": "crr",
       "count": 2
     },
     {
@@ -522,7 +530,7 @@
       "count": 2
     },
     {
-      "keyword": "own funds",
+      "keyword": "mrel",
       "count": 2
     },
     {
@@ -534,7 +542,7 @@
       "count": 2
     },
     {
-      "keyword": "pillar 3",
+      "keyword": "resolution planning",
       "count": 2
     },
     {
@@ -586,6 +594,10 @@
       "count": 1
     },
     {
+      "keyword": "disclosure requirements",
+      "count": 1
+    },
+    {
       "keyword": "distributed ledger",
       "count": 1
     },
@@ -595,6 +607,10 @@
     },
     {
       "keyword": "emissions",
+      "count": 1
+    },
+    {
+      "keyword": "esg",
       "count": 1
     },
     {
@@ -611,6 +627,10 @@
     },
     {
       "keyword": "ict risks",
+      "count": 1
+    },
+    {
+      "keyword": "implementing technical standards",
       "count": 1
     },
     {
@@ -654,10 +674,6 @@
       "count": 1
     },
     {
-      "keyword": "mrel",
-      "count": 1
-    },
-    {
       "keyword": "nature related",
       "count": 1
     },
@@ -670,23 +686,15 @@
       "count": 1
     },
     {
-      "keyword": "resolution planning",
+      "keyword": "risk weighted assets",
+      "count": 1
+    },
+    {
+      "keyword": "risk-weighted assets",
       "count": 1
     },
     {
       "keyword": "sanction",
-      "count": 1
-    },
-    {
-      "keyword": "stress testing",
-      "count": 1
-    },
-    {
-      "keyword": "supervisory reporting",
-      "count": 1
-    },
-    {
-      "keyword": "sustainability",
       "count": 1
     }
   ],
@@ -771,6 +779,229 @@
     }
   ],
   "publications": [
+    {
+      "id": "83bea81a7ab27876",
+      "title": "Latest EBA MREL dashboard shows that MREL requirements range from 25% to 29% of risk-weighted assets, depending on bank category, while bail-in remains the preferred resolution strategy",
+      "summary": "The European Banking Authority (EBA) today published its latest semi-annual dashboard on the minimum requirement for own funds and eligible liabilities (MREL), providing an update on the state of resolution planning and on the resources that banks are using to meet their requirements. As of December 2025, bail-in remains the preferred resolution strategy in terms of risk-weighed assets (RWAs), while rollover needs reach EUR 231 billion for instruments set to become ineligible over the next 12 months.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/latest-eba-mrel-dashboard-shows-mrel-requirements-range-25-29-risk-weighted-assets-depending-bank",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-22T14:45:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-06/010e3ba1-a6cf-4b7c-8067-7879ad823cb5/MREL%20Dashboard%20-%20Q4%202025.pdf"
+      ],
+      "topics": [
+        "Capital Requirements",
+        "Supervision / Enforcement",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "own funds",
+        "risk-weighted assets",
+        "risk weighted assets",
+        "its",
+        "resolution",
+        "resolution planning",
+        "mrel",
+        "bail-in",
+        "bail in"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "own funds",
+            "risk-weighted assets",
+            "risk weighted assets"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution",
+            "resolution planning",
+            "mrel",
+            "bail-in",
+            "bail in"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/latest-eba-mrel-dashboard-shows-mrel-requirements-range-25-29-risk-weighted-assets-depending-bank",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "1e00f343e34d7eb8",
+      "title": "EBA updates Pillar 3 disclosure requirements on ESG risks, equity and shadow banking exposures, as part of simplification effort",
+      "summary": "The European Banking Authority (EBA) has published today its final draft Implementing Technical Standards (ITS) amending the Pillar 3 disclosure framework on environmental, social and governance (ESG) risks, and introducing disclosure requirements on equity and shadow banking exposures. The package finalises the implementation of the disclosure requirements introduced by the Capital Requirements Regulation (CRR 3). Developed in line with the EU’s simplification agenda and the Omnibus package, the ITS streamline existing requirements, and enhance usability and consistency.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-pillar-3-disclosure-requirements-esg-risks-equity-and-shadow-banking-exposures-part",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-22T13:54:55.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2025-10/b8e0ef8e-2d49-43fc-b917-dbca3423588c/Report%20on%20the%20efficiency%20of%20the%20regulatory%20and%20supervisory%20framework.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-06/96e1c806-c918-460c-bc8b-4e547b0d85e6/Final%20report%20on%20Draft%20ITS%20on%20amended%20disclosure%20requirements%20for%20ESG%20risks%2C%20equity%20exposures%20and%20aggregate%20exposure%20to%20shadow%20banking%20entities.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Capital Requirements",
+        "Climate / ESG",
+        "Governance",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "pillar 3",
+        "disclosure requirements",
+        "capital requirements",
+        "crr",
+        "esg",
+        "governance",
+        "disclosure",
+        "implementing technical standards",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "pillar 3",
+            "disclosure requirements"
+          ]
+        },
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital requirements",
+            "crr"
+          ]
+        },
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "esg"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure",
+            "pillar 3"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "implementing technical standards",
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-pillar-3-disclosure-requirements-esg-risks-equity-and-shadow-banking-exposures-part",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "bcbc4256ff849887",
+      "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260622~b060a27b78.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-22T13:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3052~d9937e701b.en.pdf",
+        "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/24/T1/Files/be2401-art06e.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2948~bb4dede124.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2235~69b97077ff.da.pdf",
+        "https://www.nber.org/system/files/working_papers/w31996/w31996.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op372.en.pdf?26bfe8b1d35c90ecc2021976222bdca8",
+        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260622_annex~6ac8dad701.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260622~b060a27b78.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "27807a17fb4c3e84",
+      "title": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
+      "summary": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-22T12:45:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "6a97b94fcc9d2e0b",
       "title": "AI and the US labour market: effects on employment growth",
@@ -1547,9 +1778,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-06-18T13:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260618a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Crypto / Digital Assets",
         "Governance",
@@ -3418,31 +3647,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "b656b07bdd72a307",
-      "title": "Christine Lagarde: Women and leadership: widening the pipeline",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260604~f5d373b29f.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-04T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/other/ecb.genderdiversity20260302.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260604~f5d373b29f.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "50f1fe65c1603669",
       "title": "Frank Elderson: Strengthening operational resilience for the age of AI",
       "summary": "",
@@ -3793,41 +3997,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "249edcc78b624082",
-      "title": "​The EBA updates list of other systemically important institutions",
-      "summary": "​The European Banking Authority (EBA) today updated the list of other systemically important institutions (O-SIIs) in the EU, based on notifications received from national authorities during 2025. The publication aims to increase transparency and provides a consistent overview of institutions identified as systemically important across Member States.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-list-other-systemically-important-institutions-2",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-02T08:58:15.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "transparency"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "transparency"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-list-other-systemically-important-institutions-2",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "e042a9c2ffe676fc",
       "title": "The international role of the euro, June 2026",
       "summary": "",
@@ -4121,10 +4290,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-05-29T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-05/ESMA92-2024897840-14578_Report_on_quality_and_use_of_data_2025.pdf",
-        "https://www.esma.europa.eu/sites/default/files/2023-06/ESMA50-157-3404_ESMA_Data_Strategy_2023-2028.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4147,10 +4313,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-05-28T15:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20260528a1.pdf",
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20260528a2.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance",
         "Supervision / Enforcement"
@@ -5356,41 +5519,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "f8a2961edc1fc16b",
-      "title": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
-      "summary": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
-      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-press",
-      "sourceName": "Federal Reserve Press Releases",
-      "institution": "Federal Reserve Board",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-14T18:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "board"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        }
-      ],
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "55a7d13b2896c908",
       "title": "Bank of England Weekly Report 13 May 2026",
       "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
@@ -5603,41 +5731,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "d2354f890232d810",
-      "title": "The EBA issues an opinion about an Austrian macroprudential measure",
-      "summary": "The European Banking Authority (EBA) provided its opinion to the European Commission about the intention by the Austrian Financial Market Authority (FMA) to increase the level of an existing sectoral systemic risk buffer to address risks in the Austrian commercial real estate market. This measure would result in the sum of the other systemically important institutions (O-SII) buffer rate and the combined systemic risk buffer rate exceeding 5% for the targeted exposures of a subset of banks. The EBA does not object to it.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-opinion-about-austrian-macroprudential-measure",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-12T12:43:32.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-opinion-about-austrian-macroprudential-measure",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "7093ffa248685cb7",
@@ -10655,7 +10748,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-22T11:55:26.123Z",
+      "publishedAt": "2026-06-22T20:48:57.582Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10679,7 +10772,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-22T11:55:26.123Z",
+      "publishedAt": "2026-06-22T20:48:57.582Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10703,7 +10796,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-22T11:55:26.123Z",
+      "publishedAt": "2026-06-22T20:48:57.582Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10727,7 +10820,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-22T11:55:26.123Z",
+      "publishedAt": "2026-06-22T20:48:57.582Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10740,11 +10833,11 @@
   "updateTypeSummary": [
     {
       "updateType": "Publications / Reports",
-      "count": 74
+      "count": 73
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 66
+      "count": 67
     },
     {
       "updateType": "News",
