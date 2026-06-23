@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T20:48:57.582Z",
+  "generatedAt": "2026-06-23T09:39:14.240Z",
   "totalPublications": 275,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -243,7 +243,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 24
+      "count": 23
     },
     {
       "topic": "Payments / Open Finance",
@@ -317,7 +317,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 24
+      "count": 23
     },
     {
       "topic": "Payments / Open Finance",
@@ -411,7 +411,7 @@
     },
     {
       "keyword": "reporting",
-      "count": 13
+      "count": 12
     },
     {
       "keyword": "consultation paper",
@@ -638,10 +638,6 @@
       "count": 1
     },
     {
-      "keyword": "integrated reporting framework",
-      "count": 1
-    },
-    {
       "keyword": "internal model",
       "count": 1
     },
@@ -695,6 +691,10 @@
     },
     {
       "keyword": "sanction",
+      "count": 1
+    },
+    {
+      "keyword": "stress testing",
       "count": 1
     }
   ],
@@ -779,6 +779,124 @@
     }
   ],
   "publications": [
+    {
+      "id": "467dd442ea8ac9c0",
+      "title": "Five years of the ECB Survey of Monetary Analysts: evolution and insights",
+      "summary": "The Survey of Monetary Analysts (SMA) is a valuable information set for understanding the expectations of financial market participants regarding monetary policy and macroeconomic developments in the euro area. This article reviews the evolution of the SMA over the past five years, highlighting key development milestones, including changes to the panel, questionnaire and analytical use of the survey. It explains how SMA data enhance regular monetary policy assessments and the understanding of expectation formation. In particular, the links between the expected policy rate path and the macroeconomic expectations of respondents provide structured insights into the views of the analysts.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202604_01~1fcadce39a.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-23T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op371.en.pdf",
+        "https://www.bsi.si/storage/uploads/392918b9-8b2c-4ed7-b8aa-ae6ffaf98f43/ploj_inflation_interest_rate_expectations_sma.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202604_01~1fcadce39a.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "5c58f60f4e7a570a",
+      "title": "Sharon Donnery: Interview with Central Banking",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260623~1714f89f4e.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-23T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260623~1714f89f4e.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "bf0f6f2daefaac79",
+      "title": "State aid in the EU: an evolving landscape",
+      "summary": "State aid expenditure in the EU has risen in recent years against the background of economic shocks such as the COVID-19 pandemic, Russia’s unjustified war against Ukraine and, most recently, the crisis in the Middle East, as well as a global resurgence of interventionist industrial policy. While traditionally aimed at addressing market failures and achieving policy objectives like regional cohesion and environmental transition, State aid has increasingly shifted towards supporting industrial competitiveness, decarbonisation and strategic resilience.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_03~a3ff0e07f6.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-23T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_03~a3ff0e07f6.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "072e43f58093566a",
+      "title": "Philip R. Lane: Introductory remarks",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623~c112a749e2.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-23T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260623_slides~499fcdd87d.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623~c112a749e2.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
     {
       "id": "83bea81a7ab27876",
       "title": "Latest EBA MREL dashboard shows that MREL requirements range from 25% to 29% of risk-weighted assets, depending on bank category, while bail-in remains the preferred resolution strategy",
@@ -3403,43 +3521,6 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "3fb20965a9f32f19",
-      "title": "ECB announces main milestones for roll-out of Integrated Reporting Framework",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260608~6766ec7154.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-08T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "reporting",
-        "integrated reporting framework"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting",
-            "integrated reporting framework"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260608~6766ec7154.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "8e30fc99f5ee06d9",
       "title": "Capital requirements and process innovation",
       "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
@@ -3997,39 +4078,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "e042a9c2ffe676fc",
-      "title": "The international role of the euro, June 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/other-publications/ire/html/ecb.ire202606.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-02T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/ire/ecb.ire202606.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/ire/ecb.ire202606_annex.en.pdf",
-        "https://www.consilium.europa.eu/media/buspxaox/strengthening-the-international-role-of-the-euro-note-for-the-eurogroup.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/other/ecb.policyoptions_EIOPA~c0adae58b7.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3011~80c0574c0d.en.pdf",
-        "https://www.ecb.europa.eu/press/conferences/ecbforum/shared/pdf/2022/Baldwin_paper.pdf",
-        "https://www.bcg.com/assets/2026/white-paper-stablecoin-payments-truth-behind-numbers.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3174~d4cc1da5a8.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3199~ad552b59ec.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/other-publications/ire/html/ecb.ire202606.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "87096b9f6acbc596",
       "title": "The CFPB Works To Ensure Bilt Consumers Are Made Whole",
       "summary": "The CFPB has been working to ensure consumers affected by Bilt’s transition to a new bank partner are appropriately remedied. CFPB officials met with Bilt to understand the issues caused by the transition and what steps Bilt has taken to ensure customers affected by challenges with the transition were made whole.",
@@ -4146,31 +4194,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "98a26717cf4ba371",
-      "title": "The rise of China in academic research",
-      "summary": "Analyzing more than 300,000 articles across 40 top-tier journals between 2000 and 2022, this study demonstrates that China’s 2006 National Medium-and Long-Term Plan for the Development of Science and Technology catalyzed a surge in publication volume and citations, propelling China past the United States as the world’s leading producer of scientific research. Controlling for national income, population, and human capital, we find these gains are concentrated in fields explicitly targeted by the government’s plan—physics, chemistry, biology, and medicine—while fields excluded from the plan, such as mathematics and economics, show significantly less growth.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3241~e5f6278489.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-01T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3241~e5f6278489.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3241~e5f6278489.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "bf046c3dd028a0ea",
       "title": "ESMA publishes latest edition of its newsletter",
       "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
@@ -4265,9 +4288,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-05-29T13:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/are-the-effects-of-qe-and-tightening-state-contingent.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -5798,50 +5819,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "37b96392e2c2dfd8",
-      "title": "Sharon Donnery: Interview with Expansión",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260511~a38d273de0.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-11T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260511~a38d273de0.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "a5669c9a6b86bded",
@@ -10748,7 +10725,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-22T20:48:57.582Z",
+      "publishedAt": "2026-06-23T09:39:14.240Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10772,7 +10749,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-22T20:48:57.582Z",
+      "publishedAt": "2026-06-23T09:39:14.240Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10796,7 +10773,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-22T20:48:57.582Z",
+      "publishedAt": "2026-06-23T09:39:14.240Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10820,7 +10797,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-22T20:48:57.582Z",
+      "publishedAt": "2026-06-23T09:39:14.240Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10841,7 +10818,7 @@
     },
     {
       "updateType": "News",
-      "count": 65
+      "count": 64
     },
     {
       "updateType": "Consultations",
@@ -10849,7 +10826,7 @@
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 18
+      "count": 19
     },
     {
       "updateType": "Working Papers / Research",
