@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T09:30:35.345Z",
-  "totalPublications": 275,
+  "generatedAt": "2026-06-24T19:46:27.753Z",
+  "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
   "warningSources": 0,
@@ -25,12 +25,12 @@
       "institution": "European Central Bank",
       "region": "EU",
       "status": "success",
-      "parserMode": "fallback-parser",
+      "parserMode": "rss-parser",
       "itemCount": 15,
       "url": "https://www.ecb.europa.eu/rss/pub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "message": "Parsed successfully using fallback parser."
+      "message": "Parsed successfully."
     },
     {
       "id": "ecb-supervision-press",
@@ -182,7 +182,7 @@
       "region": "US",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 17,
+      "itemCount": 18,
       "url": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
       "sourcePageUrl": "https://www.consumerfinance.gov/about-us/newsroom/",
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
@@ -247,11 +247,11 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 15
+      "count": 16
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "Capital Requirements",
@@ -278,11 +278,11 @@
       "count": 3
     },
     {
-      "topic": "AML / Financial Crime",
-      "count": 2
+      "topic": "Consumer Protection",
+      "count": 3
     },
     {
-      "topic": "Consumer Protection",
+      "topic": "AML / Financial Crime",
       "count": 2
     },
     {
@@ -321,11 +321,11 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 15
+      "count": 16
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "Capital Requirements",
@@ -352,11 +352,11 @@
       "count": 3
     },
     {
-      "topic": "AML / Financial Crime",
-      "count": 2
+      "topic": "Consumer Protection",
+      "count": 3
     },
     {
-      "topic": "Consumer Protection",
+      "topic": "AML / Financial Crime",
       "count": 2
     },
     {
@@ -379,7 +379,7 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 42
+      "count": 41
     },
     {
       "keyword": "board",
@@ -399,11 +399,11 @@
     },
     {
       "keyword": "supervisory",
-      "count": 19
+      "count": 20
     },
     {
       "keyword": "policy statement",
-      "count": 18
+      "count": 17
     },
     {
       "keyword": "enforcement",
@@ -418,12 +418,12 @@
       "count": 11
     },
     {
-      "keyword": "resolution",
-      "count": 11
+      "keyword": "payment",
+      "count": 10
     },
     {
-      "keyword": "payment",
-      "count": 9
+      "keyword": "resolution",
+      "count": 10
     },
     {
       "keyword": "climate",
@@ -530,6 +530,10 @@
       "count": 2
     },
     {
+      "keyword": "investigation",
+      "count": 2
+    },
+    {
       "keyword": "mica",
       "count": 2
     },
@@ -571,6 +575,10 @@
     },
     {
       "keyword": "climate risk",
+      "count": 1
+    },
+    {
+      "keyword": "complaints",
       "count": 1
     },
     {
@@ -650,10 +658,6 @@
       "count": 1
     },
     {
-      "keyword": "investigation",
-      "count": 1
-    },
-    {
       "keyword": "large language models",
       "count": 1
     },
@@ -692,10 +696,6 @@
     {
       "keyword": "risk-weighted assets",
       "count": 1
-    },
-    {
-      "keyword": "sanction",
-      "count": 1
     }
   ],
   "regionSummary": [
@@ -709,7 +709,7 @@
     },
     {
       "region": "US",
-      "count": 72
+      "count": 73
     },
     {
       "region": "Global",
@@ -751,7 +751,7 @@
     },
     {
       "institution": "Consumer Financial Protection Bureau",
-      "count": 17
+      "count": 18
     },
     {
       "institution": "European Banking Authority",
@@ -779,6 +779,155 @@
     }
   ],
   "publications": [
+    {
+      "id": "fcfeabd7cab8c364",
+      "title": "SEC Appoints Kathleen Hutchinson as Director of Office of International Affairs",
+      "summary": "The Securities and Exchange Commission has appointed Kathleen M. Hutchinson as Director of the agency’s Office of International Affairs (OIA). OIA advises the Commission on international policy matters, coordinates with foreign authorities across the…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-58-sec-appoints-kathleen-hutchinson-director-office-international-affairs",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-24T18:32:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-58-sec-appoints-kathleen-hutchinson-director-office-international-affairs",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "e9b963f6314a49d2",
+      "title": "Patrick Montagner: When fragmentation creates complexity",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260624~5b40286e76.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-24T14:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisory_guides202507_ond.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260624~5b40286e76.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "61339e74a5777234",
+      "title": "Higher oil prices from the war in the Middle East: assessing the headwinds for euro area growth",
+      "summary": "Oil supply disruptions related to the war in the Middle East have triggered a sharp rise in oil prices, posing headwinds for euro area economic activity. This box assesses the macroeconomic effects of the shock using a Bayesian vector autoregressive model with identified geopolitical oil supply shocks. The results suggest that supply-driven oil price increases associated with geopolitical events have a persistent negative effect on euro area growth, operating through lower private consumption and investment.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_04~9b6a4036fc.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-24T12:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2972~6da32f928b.en.pdf",
+        "https://www.matteoiacoviello.com/research_files/AI_GPR_PAPER.pdf",
+        "https://users.ugent.be/~gpeersma/gert_files/research/MoriPeersman_February2026.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_04~9b6a4036fc.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "5a3c09259ed18de3",
+      "title": "Convergence Report, June 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/other-publications/convergence/html/ecb.cr202606~30e75ae1c2.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-24T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/other-publications/convergence/pdf/ecb.cr202606~30e75ae1c2.en.pdf",
+        "https://economy-finance.ec.europa.eu/document/download/3360898c-cd40-46c0-b170-7adfcb993add_en?filename=ip341_en.pdf",
+        "https://commission.europa.eu/document/download/56f83799-0eb9-4955-8550-728dc4ebbaf2_en?filename=COM_2025_956_1_EN_0.pdf",
+        "https://economy-finance.ec.europa.eu/document/download/f6fd1e81-2434-4729-bc36-28f9e6a79eb9_en?filename=CZ_final_2025.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/other-publications/convergence/html/ecb.cr202606~30e75ae1c2.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "a042437e9ca5a438",
+      "title": "ECB reports on progress towards euro adoption",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-24T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/other-publications/convergence/pdf/ecb.cr202606~30e75ae1c2.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "7010f2eca80ef119",
       "title": "Iceland joins TIPS for instant payments",
@@ -815,6 +964,50 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "2261c772ffad226a",
+      "title": "The CFPB is Correcting Flaws to Restore Integrity and Utility to the Consumer Complaint System",
+      "summary": "The consumer complaint portal has long been plagued by issues that severely limit its effectiveness in addressing consumers’ complaints and practical utility of its information.",
+      "url": "https://www.consumerfinance.gov/about-us/newsroom/the-cfpb-is-correcting-flaws-to-restore-integrity-and-utility-to-the-consumer-complaint-system/",
+      "sourcePageUrl": "https://www.consumerfinance.gov/about-us/newsroom/",
+      "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
+      "sourceId": "cfpb-newsroom",
+      "sourceName": "CFPB Newsroom",
+      "institution": "Consumer Financial Protection Bureau",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-24T04:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Consumer Protection",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "complaints",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "complaints"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.consumerfinance.gov/about-us/newsroom/the-cfpb-is-correcting-flaws-to-restore-integrity-and-utility-to-the-consumer-complaint-system/",
+      "sourceFeedUrl": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "e52d6e1b3dd8ebe2",
@@ -3136,43 +3329,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "c27ed49234a35098",
-      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260611~372040d313.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-11T13:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds260611~5b4603b5aa.en.pdf"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "policy statement"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "policy statement"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260611~372040d313.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "c28db77ed5bc8a68",
       "title": "​The EBA launches early consultation on simplified EU-wide stress test, with climate risk integration",
       "summary": "The European Banking Authority (EBA) published today the draft methodology, templates, and template guidance for the 2027 EU-wide stress test. The 2027 exercise introduces significant simplifications to improve efficiency and risk sensitivity, while preserving the robustness and comparability of results. Key changes include a substantial reduction in data requirements, the alignment of information with harmonised supervisory reporting, and the integration of climate risks into the EU-wide stress test. A total of 63 banks from the EU and Norway, including 47 from the euro area, will participate, covering 75% of the EU banking sector.",
@@ -3890,31 +4046,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "416e35de05d76b7f",
-      "title": "Herding in the foreign exchange market",
-      "summary": "Using a recent and comprehensive data set covering nine of the most actively traded currencies on a monthly basis from 1995 to 2024, this paper explores the presence and potential drivers of herding behaviour in foreign exchange rate forecasts. The dataset features an average of 40–50 forecasters per currency, representing a broader range of currencies, a longer time frame, and a larger cross section of forecasters than is commonly found in the FX herding literature. Our results provide mixed evidence on herding, where the balance tends towards anti-herding conclusions.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3243~a05b1e07b4.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-03T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3243~a05b1e07b4.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3243~a05b1e07b4.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
-    },
-    {
       "id": "531181e0bc56b416",
       "title": "ESAs publish the first report on DORA major ICT-related incidents",
       "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA) today published their",
@@ -4069,31 +4200,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "aeec40d97330bde4",
-      "title": "Investment composition and growth: the role of intangible and tangible ICT capital in the EU and other economies",
-      "summary": "This paper examines whether differences in the composition of investment help explain economic growth disparities in the EU and other advanced economies from 1996 to 2021. While overall investment levels in the EU and the US are broadly similar, the EU invests less in intangible and tangible ICT capital. This difference in composition is associated with part of the EU’s productivity gap with the US. Employing panel fixed effects and local projection methods, we find that intangible and tangible ICT investments -particularly in communications equipment, R&D, and other intellectual property products- are associated with higher GDP per capita growth than other forms of investment.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3242~873057c617.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-02T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3242~873057c617.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3242~873057c617.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "87096b9f6acbc596",
       "title": "The CFPB Works To Ensure Bilt Consumers Are Made Whole",
       "summary": "The CFPB has been working to ensure consumers affected by Bilt’s transition to a new bank partner are appropriately remedied. CFPB officials met with Bilt to understand the issues caused by the transition and what steps Bilt has taken to ensure customers affected by challenges with the transition were made whole.",
@@ -4223,9 +4329,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-06-01T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-06/Newsletter_April_and_May_2026.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -5768,50 +5872,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "7093ffa248685cb7",
-      "title": "Frank Elderson: Boosting prosperity through deeper integration",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260512~683430d655.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-12T10:40:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260512~683430d655.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "6368f07944b4d1e9",
@@ -7415,41 +7475,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "cfdb4a86b07197d2",
-      "title": "SEC Announces Agenda and Panelists for Roundtable on Options Market Structure",
-      "summary": "The Securities and Exchange Commission today announced the agenda and panelists for its April 16, 2026, roundtable on options market structure. The roundtable will be held at the SEC’s headquarters at 100 F Street, N. E., Washington, D. C., from 9 a.m. to 3…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-33-sec-announces-agenda-panelists-roundtable-options-market-structure",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-02T20:44:29.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-33-sec-announces-agenda-panelists-roundtable-options-market-structure",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "8e2094f580ba4f1a",
@@ -9242,10 +9267,10 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "d1352df67b0cb06f",
-      "title": "LIAF03/25 – Low Impact Amendments Finalisation December 2025",
-      "summary": "The PRA has published LIAF03/25, a collection of final low impact rule amendments.",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/december/low-impact-amendments-finalisation-december-2025",
+      "id": "fc32394257b73da0",
+      "title": "SS2/25: Prudential considerations for insurance and reinsurance undertakings when transferring risk to Special Purpose Vehicles",
+      "summary": "Supervisory statement 2/25",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/july/prudential-considerations-for-insurance-and-reinsurance-undertakings",
       "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "sourceId": "boe-prudential-publications",
@@ -9256,10 +9281,22 @@
       "sourceType": "rss",
       "publishedAt": "2025-12-19T10:00:00.000Z",
       "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/december/low-impact-amendments-finalisation-december-2025",
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/july/prudential-considerations-for-insurance-and-reinsurance-undertakings",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
@@ -9888,50 +9925,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "e59fb0f6a072215a",
-      "title": "Bank of England and FCA MoU on supervision of market infrastructure: 2025/26 review",
-      "summary": "The Bank of England has published a joint review with the FCA on how the Memorandum of Understanding (MoU) for financial market infrastructure (FMI) is working. The Bank of England and the FCA (the authorities) cooperate on the supervision of FMIs. The authorities consulted with FMIs to assess the effectiveness of cooperation between the Bank and FCA over the past 12 months. Following the responses, the authorities have concluded that the arrangements for cooperation remain effective with appropriate coordination and no material duplication. Both authorities remain aware that, through efficient coordination, we can improve the effectiveness by which we supervise firms. See the findings",
-      "url": "https://www.fca.org.uk/news/statements/bank-england-fca-mou-supervision-market-infrastructure-review-2025-26",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/statements/bank-england-fca-mou-supervision-market-infrastructure-review-2025-26",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "72f72c1ebffe1c33",
       "title": "Beyond the headlines: the unseen fight against financial crime",
       "summary": "Speech by Therese Chambers, joint executive director of enforcement and market oversight, delivered at the International Bar Association (IBA) Anti-Corruption Conference. I’ve been practising law for over 3 decades now. Starting out, I thought every case would be like the ones on US television: dramatic, with a big reveal and resounding outcome, all packed into a single 30-minute episode. But real law looks nothing like television. Hollywood doesn’t show the months, if not years, of work before we even step into a courtroom. Or the drawn-out disclosure exercises! Like many of you, I have had cases that led to high-profile trials and newspaper headlines.",
@@ -9992,6 +9985,59 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "552d3ba978dde68b",
+      "title": "Commodity traders offer £1m to crisis fund after FCA competition probe",
+      "summary": "The FCA is concerned 11 traders may have shared sensitive information or coordinated trades, potentially restricting competition. Following an investigation, the FCA is concerned 11 traders may have hindered competition in commodity futures markets and infringed competition law by exchanging potentially sensitive information about their trading and/or coordinating their trading strategies with each other. The traders have proposed commitments to change the way they handle sensitive information, undertake annual competition law training and arrange a £1m ex gratia payment.",
+      "url": "https://www.fca.org.uk/news/press-releases/commodity-traders-offer-one-million-pounds-crisis-fund-fca-competition-probe",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "investigation",
+        "payment"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "investigation"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/commodity-traders-offer-one-million-pounds-crisis-fund-fca-competition-probe",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "c39a58d308bb3622",
@@ -10627,10 +10673,10 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "c8d77ef60ed6fe9f",
-      "title": "Silicon Marketing Limited in administration",
-      "summary": "On 21 May 2026, Silicon Marketing Limited (Silicon) entered administration. Carrie James and Nick Parsk of Oury Clark were appointed as joint administrators. Silicon (Firm Reference Number: 674008) is regulated by the FCA, authorised to carry out debt purchasing and debt collection activities, which provide debt resolution solutions to consumers. The joint administrators are responsible for managing the affairs of Silicon during the administration process. The joint administrators have advised that all existing loan agreements remain in place and will not be affected by the administration.",
-      "url": "https://www.fca.org.uk/news/news-stories/silicon-marketing-limited-administration",
+      "id": "72dadc94814f7bd2",
+      "title": "Rethinking regulation for the age of AI",
+      "summary": "Speech by Nikhil Rathi, FCA chief executive at techUK's Agents of Change: Generative and Agentic AI in Financial Services 2026. On joining the FCA over five years ago, I said we would become as much a data and tech regulator as financial services regulator. Being invited to speak here today reflects that. We’re building the future together, and nowhere is that clearer than on AI. Studies suggest more than 80% of financial services firms are already adopting AI. So the question now is about scale. And if we are serious about being a leading AI economy, financial services have to sit at the heart of our approach.",
+      "url": "https://www.fca.org.uk/news/speeches/rethinking-regulation-age-ai",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -10642,12 +10688,10 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
-        "Governance",
-        "Recovery / Resolution"
+        "Governance"
       ],
       "matchedKeywords": [
-        "conduct",
-        "resolution"
+        "conduct"
       ],
       "topicMatches": [
         {
@@ -10656,19 +10700,12 @@
           "keywords": [
             "conduct"
           ]
-        },
-        {
-          "id": "resolution-recovery",
-          "label": "Recovery / Resolution",
-          "keywords": [
-            "resolution"
-          ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/news-stories/silicon-marketing-limited-administration",
+      "link": "https://www.fca.org.uk/news/speeches/rethinking-regulation-age-ai",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "3c9fd7e88df77153",
@@ -10729,7 +10766,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-24T09:30:35.345Z",
+      "publishedAt": "2026-06-24T19:46:27.753Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10753,7 +10790,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-24T09:30:35.345Z",
+      "publishedAt": "2026-06-24T19:46:27.753Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10777,7 +10814,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-24T09:30:35.345Z",
+      "publishedAt": "2026-06-24T19:46:27.753Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10801,7 +10838,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-24T09:30:35.345Z",
+      "publishedAt": "2026-06-24T19:46:27.753Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10814,15 +10851,15 @@
   "updateTypeSummary": [
     {
       "updateType": "Publications / Reports",
-      "count": 73
-    },
-    {
-      "updateType": "Rules / Standards / Guidance",
-      "count": 67
+      "count": 74
     },
     {
       "updateType": "News",
-      "count": 65
+      "count": 66
+    },
+    {
+      "updateType": "Rules / Standards / Guidance",
+      "count": 66
     },
     {
       "updateType": "Consultations",
@@ -10830,7 +10867,7 @@
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 18
+      "count": 19
     },
     {
       "updateType": "Working Papers / Research",
@@ -10838,7 +10875,7 @@
     },
     {
       "updateType": "Statistics / Data",
-      "count": 8
+      "count": 7
     },
     {
       "updateType": "Other",
