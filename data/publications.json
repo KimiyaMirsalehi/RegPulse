@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-23T20:06:11.839Z",
-  "totalPublications": 256,
+  "generatedAt": "2026-06-24T09:30:35.345Z",
+  "totalPublications": 275,
   "sourceCount": 17,
   "successfulSources": 17,
   "warningSources": 0,
@@ -90,12 +90,12 @@
       "institution": "Financial Conduct Authority",
       "region": "UK",
       "status": "success",
-      "parserMode": "rss",
-      "itemCount": 0,
+      "parserMode": "rss-parser",
+      "itemCount": 20,
       "url": "https://www.fca.org.uk/news/rss.xml",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "message": "Official source page is available. No clean dated items were extracted today, so the source page is shown as a direct link."
+      "message": "Parsed successfully."
     },
     {
       "id": "boe-prudential-publications",
@@ -231,35 +231,35 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 110
+      "count": 119
+    },
+    {
+      "topic": "Governance",
+      "count": 56
     },
     {
       "topic": "Basel / BCBS",
       "count": 38
     },
     {
-      "topic": "Governance",
-      "count": 36
-    },
-    {
       "topic": "Reporting / Disclosure",
-      "count": 20
+      "count": 23
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 11
+      "count": 15
+    },
+    {
+      "topic": "Recovery / Resolution",
+      "count": 12
     },
     {
       "topic": "Capital Requirements",
       "count": 10
     },
     {
-      "topic": "Recovery / Resolution",
-      "count": 10
-    },
-    {
       "topic": "Climate / ESG",
-      "count": 8
+      "count": 9
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -276,6 +276,14 @@
     {
       "topic": "AI",
       "count": 3
+    },
+    {
+      "topic": "AML / Financial Crime",
+      "count": 2
+    },
+    {
+      "topic": "Consumer Protection",
+      "count": 2
     },
     {
       "topic": "Credit Risk",
@@ -297,35 +305,35 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 110
+      "count": 119
+    },
+    {
+      "topic": "Governance",
+      "count": 56
     },
     {
       "topic": "Basel / BCBS",
       "count": 38
     },
     {
-      "topic": "Governance",
-      "count": 36
-    },
-    {
       "topic": "Reporting / Disclosure",
-      "count": 20
+      "count": 23
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 11
+      "count": 15
+    },
+    {
+      "topic": "Recovery / Resolution",
+      "count": 12
     },
     {
       "topic": "Capital Requirements",
       "count": 10
     },
     {
-      "topic": "Recovery / Resolution",
-      "count": 10
-    },
-    {
       "topic": "Climate / ESG",
-      "count": 8
+      "count": 9
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -342,6 +350,14 @@
     {
       "topic": "AI",
       "count": 3
+    },
+    {
+      "topic": "AML / Financial Crime",
+      "count": 2
+    },
+    {
+      "topic": "Consumer Protection",
+      "count": 2
     },
     {
       "topic": "Credit Risk",
@@ -363,7 +379,7 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 41
+      "count": 42
     },
     {
       "keyword": "board",
@@ -375,7 +391,11 @@
     },
     {
       "keyword": "its",
-      "count": 24
+      "count": 29
+    },
+    {
+      "keyword": "conduct",
+      "count": 21
     },
     {
       "keyword": "supervisory",
@@ -387,7 +407,7 @@
     },
     {
       "keyword": "enforcement",
-      "count": 14
+      "count": 15
     },
     {
       "keyword": "reporting",
@@ -399,6 +419,10 @@
     },
     {
       "keyword": "resolution",
+      "count": 11
+    },
+    {
+      "keyword": "payment",
       "count": 9
     },
     {
@@ -406,11 +430,11 @@
       "count": 6
     },
     {
-      "keyword": "operational resilience",
+      "keyword": "disclosure",
       "count": 6
     },
     {
-      "keyword": "payment",
+      "keyword": "operational resilience",
       "count": 6
     },
     {
@@ -422,7 +446,7 @@
       "count": 4
     },
     {
-      "keyword": "disclosure",
+      "keyword": "governance",
       "count": 4
     },
     {
@@ -450,6 +474,10 @@
       "count": 3
     },
     {
+      "keyword": "payments",
+      "count": 3
+    },
+    {
       "keyword": "pillar 3",
       "count": 3
     },
@@ -463,6 +491,10 @@
     },
     {
       "keyword": "stablecoins",
+      "count": 3
+    },
+    {
+      "keyword": "transparency",
       "count": 3
     },
     {
@@ -490,7 +522,7 @@
       "count": 2
     },
     {
-      "keyword": "governance",
+      "keyword": "financial crime",
       "count": 2
     },
     {
@@ -506,7 +538,7 @@
       "count": 2
     },
     {
-      "keyword": "payments",
+      "keyword": "payment services",
       "count": 2
     },
     {
@@ -522,11 +554,11 @@
       "count": 2
     },
     {
-      "keyword": "transparency",
-      "count": 2
+      "keyword": "artificial intelligence",
+      "count": 1
     },
     {
-      "keyword": "artificial intelligence",
+      "keyword": "authorisation",
       "count": 1
     },
     {
@@ -542,7 +574,7 @@
       "count": 1
     },
     {
-      "keyword": "conduct",
+      "keyword": "consumer duty",
       "count": 1
     },
     {
@@ -586,6 +618,14 @@
       "count": 1
     },
     {
+      "keyword": "financial promotions",
+      "count": 1
+    },
+    {
+      "keyword": "fine",
+      "count": 1
+    },
+    {
       "keyword": "ict risks",
       "count": 1
     },
@@ -598,11 +638,19 @@
       "count": 1
     },
     {
+      "keyword": "instant payments",
+      "count": 1
+    },
+    {
       "keyword": "internal model",
       "count": 1
     },
     {
       "keyword": "internal models",
+      "count": 1
+    },
+    {
+      "keyword": "investigation",
       "count": 1
     },
     {
@@ -648,20 +696,12 @@
     {
       "keyword": "sanction",
       "count": 1
-    },
-    {
-      "keyword": "stress testing",
-      "count": 1
-    },
-    {
-      "keyword": "supervisory reporting",
-      "count": 1
     }
   ],
   "regionSummary": [
     {
       "region": "UK",
-      "count": 101
+      "count": 120
     },
     {
       "region": "EU",
@@ -706,6 +746,10 @@
       "count": 25
     },
     {
+      "institution": "Financial Conduct Authority",
+      "count": 20
+    },
+    {
       "institution": "Consumer Financial Protection Bureau",
       "count": 17
     },
@@ -726,10 +770,6 @@
       "count": 1
     },
     {
-      "institution": "Financial Conduct Authority",
-      "count": 1
-    },
-    {
       "institution": "IFRS Foundation",
       "count": 1
     },
@@ -739,6 +779,43 @@
     }
   ],
   "publications": [
+    {
+      "id": "7010f2eca80ef119",
+      "title": "Iceland joins TIPS for instant payments",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-24T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "payments",
+        "instant payments"
+      ],
+      "topicMatches": [
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payments",
+            "instant payments"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "e52d6e1b3dd8ebe2",
       "title": "Boris Vujčić: Outlook for the euro area economy and monetary policy",
@@ -3164,29 +3241,6 @@
       "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "189df89b96d1b252",
-      "title": "Monetary policy decisions",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260611~4d41bd5e83.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-11T12:15:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260611~4d41bd5e83.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "c5ec8d7a6854c6a6",
@@ -9753,6 +9807,914 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "d51f50727ce97eea",
+      "title": "AI in financial services: shaping our approach through industry engagement",
+      "summary": "Firms are using AI to drive efficiency, support decision-making and deliver better outcomes for consumers and markets. We want to support that innovation. But it must be safe, responsible and well governed. We have been clear that we are not going to introduce new regulations for AI. Instead, we’ll rely on existing frameworks, including the Consumer Duty, the Senior Managers and Certification Regime (SM&CR), and our expectations on governance and controls. We recognise that AI can raise new and practical questions, and we want to help industry to tackle these. So, we are speaking to firms on topics such as:How firms oversee and govern AI. How they test models and monitor outcomes.",
+      "url": "https://www.fca.org.uk/news/blogs/ai-financial-services-approach",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Consumer Protection",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "consumer duty",
+        "governance",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "consumer duty"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance",
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/blogs/ai-financial-services-approach",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "86a0e76ecd8001e4",
+      "title": "Amplifi Capital (U. K.) Limited enters administration",
+      "summary": "On 9 June 2026, Amplifi Capital (U. K.) Limited (Amplifi) entered administration. Robert Spence and Gareth Slater of Interpath Advisory were appointed joint administrators. Amplifi is authorised by the FCA. Amplifi trades under the names Reevo Money and My Community Finance. Reevo Money provided personal loans to consumers. My Community Finance acted as a credit broker, introducing customers to credit unions; My Community Bank (MCB) and Castle Community Bank (CCB) which issued loans and savings products. All existing loan agreements remain in place and will not change because of the administration. However, Amplifi can no longer issue new loans.",
+      "url": "https://www.fca.org.uk/news/news-stories/amplifi-capital-uk-limited-enters-administration",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/amplifi-capital-uk-limited-enters-administration",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "e59fb0f6a072215a",
+      "title": "Bank of England and FCA MoU on supervision of market infrastructure: 2025/26 review",
+      "summary": "The Bank of England has published a joint review with the FCA on how the Memorandum of Understanding (MoU) for financial market infrastructure (FMI) is working. The Bank of England and the FCA (the authorities) cooperate on the supervision of FMIs. The authorities consulted with FMIs to assess the effectiveness of cooperation between the Bank and FCA over the past 12 months. Following the responses, the authorities have concluded that the arrangements for cooperation remain effective with appropriate coordination and no material duplication. Both authorities remain aware that, through efficient coordination, we can improve the effectiveness by which we supervise firms. See the findings",
+      "url": "https://www.fca.org.uk/news/statements/bank-england-fca-mou-supervision-market-infrastructure-review-2025-26",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/statements/bank-england-fca-mou-supervision-market-infrastructure-review-2025-26",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "72f72c1ebffe1c33",
+      "title": "Beyond the headlines: the unseen fight against financial crime",
+      "summary": "Speech by Therese Chambers, joint executive director of enforcement and market oversight, delivered at the International Bar Association (IBA) Anti-Corruption Conference. I’ve been practising law for over 3 decades now. Starting out, I thought every case would be like the ones on US television: dramatic, with a big reveal and resounding outcome, all packed into a single 30-minute episode. But real law looks nothing like television. Hollywood doesn’t show the months, if not years, of work before we even step into a courtroom. Or the drawn-out disclosure exercises! Like many of you, I have had cases that led to high-profile trials and newspaper headlines.",
+      "url": "https://www.fca.org.uk/news/speeches/beyond-headlines-unseen-fight-against-financial-crime",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "financial crime",
+        "conduct",
+        "disclosure",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "financial crime"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/speeches/beyond-headlines-unseen-fight-against-financial-crime",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "c39a58d308bb3622",
+      "title": "Consumers warned about misleading car finance 'money tips' claims ads",
+      "summary": "Consumers are being warned to be wary of misleading car finance 'money tips' adverts issued by claims management companies (CMCs) and law firms on social media. As part of the joint regulatory taskforce, the FCA has identified a growing number of adverts that appear to offer independent advice from an individual but are in fact paid promotions from CMCs and law firms encouraging people to sign up for motor finance claims. Consumers should be aware that some adverts:Pose as impartial advice from individuals, without clearly saying they are promoting a business.",
+      "url": "https://www.fca.org.uk/news/press-releases/consumers-warned-about-misleading-car-finance-money-tips-claims-ads",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/consumers-warned-about-misleading-car-finance-money-tips-claims-ads",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "aa3a18ad9e864825",
+      "title": "Court orders appointment of special administrators for Euro Exchange Securities UK Limited",
+      "summary": "The High Court today confirmed the appointment of special administrators for Euro Exchange Securities UK Limited (EES). EES did not seek to overturn the court’s initial decision, which saw the firm cease trading with immediate effect last week. In light of the FCA's actions, EES agreed it is not in the company’s interests to seek to return to normal trading and will work with the appointed special administrators to ensure client money is returned as quickly as possible. Duncan Perring and James Bennett of Teneo Financial Advisory Limited have been appointed as joint special administrators, under the Payment and Electronic Money Institution Insolvency Regulations 2021.",
+      "url": "https://www.fca.org.uk/news/press-releases/court-orders-appointment-special-administrators-euro-exchange-securities-uk-limited",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "payment"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/court-orders-appointment-special-administrators-euro-exchange-securities-uk-limited",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "197c81371817c5f7",
+      "title": "FCA closes investigation into Drax Group PLC",
+      "summary": "Drax Group PLC (Drax) has announced the FCA has closed its investigation into the company. We undertook an extensive investigation following concerns raised regarding disclosures to the market about the sustainability of Drax’s Canadian biomass. We did not find evidence that justified any further action. Thousands of pages of complex material were reviewed as part of the investigation, and individuals from the company interviewed. Our focus was on areas within our remit, specifically whether Drax’s annual reports and accounts between 2021 and 2023 contained misleading statements or left out important information investors needed to know.",
+      "url": "https://www.fca.org.uk/news/statements/fca-closes-investigation-drax-group-plc",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "sustainability",
+        "conduct",
+        "investigation",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "sustainability"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "investigation",
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/statements/fca-closes-investigation-drax-group-plc",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "034b54b65973adcf",
+      "title": "FCA consults on proposals to support strong, consistent standards in the SIPP market",
+      "summary": "The FCA has set out plans to drive greater consistency of standards in self-invested pensions (SIPPs), while maintaining the flexibility and broad investment choice they offer. Most SIPP providers are already doing the right thing and providing a good service to their customers. However, the FCA has historically found cases of poor due diligence, weak record keeping and gaps in how firms protect money and assets. To drive greater consistency, the FCA is proposing clear standards of due diligence. This is intended to secure better outcomes for consumers by improving consistency and adequacy of due diligence across all SIPP operators.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-consults-proposals-support-strong-consistent-standards-sipp-market",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-consults-proposals-support-strong-consistent-standards-sipp-market",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
+    {
+      "id": "4e7e730f9c290b0d",
+      "title": "FCA decides to fine Carlos Ricardo Fuenmayor £99,600 for disclosure failures",
+      "summary": "",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-decides-fine-carlos-ricardo-fuenmayor-disclosure-failures",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "disclosure",
+        "fine"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "fine"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-decides-fine-carlos-ricardo-fuenmayor-disclosure-failures",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "246a793c558b3692",
+      "title": "FCA imposes requirements on Euro Exchange Securities UK Limited and interim managers appointed by the Court",
+      "summary": "On 4 June 2026, the FCA required Euro Exchange Securities UK Limited (EES) to cease carrying out any regulated electronic money or payment services and, on the FCA’s application, interim managers were appointed by the Court over EES. Serious concerns around the way EES operated its business indicated there were significant risks of financial crime. This includes systemic weaknesses in the firm’s financial crime framework and safeguarding arrangements, alongside its ownership and governance. These risks could have had an impact on both consumers and the integrity of the market.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-imposes-requirements-euro-exchange-securities-uk-limited-and-interim-managers-appointed-court",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance",
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "financial crime",
+        "governance",
+        "conduct",
+        "its",
+        "payment",
+        "payment services"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "financial crime"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance",
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payment services"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-imposes-requirements-euro-exchange-securities-uk-limited-and-interim-managers-appointed-court",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "1059e099b485fade",
+      "title": "FCA proposes changes to help more people access mortgages",
+      "summary": "First-time buyers, older borrowers and the self-employed could find it easier to get a mortgage, as the FCA sets out next steps to help reform the market. Its proposed mortgage rule changes would give lenders more flexibility to consider individual circumstances and develop products that better meet people's needs – while maintaining strong consumer protections. They include:Reducing barriers for lenders to offer flexible repayments for people with variable income, like the self-employed, and lend to those paid in foreign currency.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-proposals-help-more-access-mortgages",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-proposals-help-more-access-mortgages",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "fc5024863a70d612",
+      "title": "FCA secures confiscation order against Ponzi scheme fraudster",
+      "summary": "The FCA has secured a confiscation order of £452,286.80 against convicted fraudster Daniel Pugh. Mr Pugh, 36, is serving a 7 years and 6 months prison sentence for defrauding investors out of £1.3m. Run from his bedroom in Devon, Pugh used Facebook adverts to target investors and promised them wholly unrealistic returns, claiming these would be generated by trading across various markets. Only 19% of the funds collected from investors were traded and the scheme was, in effect, a Ponzi scheme, which was run with another individual. At a hearing at Southwark Crown Court on 5 June 2026, Mr Pugh was ordered to pay £452,286.80.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-secures-confiscation-order-against-ponzi-scheme-fraudster",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-secures-confiscation-order-against-ponzi-scheme-fraudster",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "498e05f301c8d70a",
+      "title": "FCA takes action against Neil Woodford and W4.0 for operating without authorisation",
+      "summary": "The FCAhasstartedcivil proceedings against Mr Neil Woodford andW4.0. The FCAallegesthat Mr Woodford and W4.0 are providing regulated investment advice and making financial promotions through the subscription-based platform, www.w4pz.com, without authorisation. In the FCA’sview, the activitybreachessections 19 and 21 of the Financial Services and Markets Act 2000 (FSMA). The FCA is seekingan injunction against Mr Woodford and W4.0 tostop them carrying on the potentiallyunlawfulactivities. W4.0 is the trading name of W Four Point Zero FZE LLCand is registered in the United Arab Emirates.",
+      "url": "https://www.fca.org.uk/news/statements/fca-takes-action-against-neil-woodford-and-w40-operating-without-authorisation",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Consumer Protection",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "financial promotions",
+        "conduct",
+        "authorisation"
+      ],
+      "topicMatches": [
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "financial promotions"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "authorisation"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/statements/fca-takes-action-against-neil-woodford-and-w40-operating-without-authorisation",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "2b1e8b6851fa62c5",
+      "title": "FCA update on reforms to the UK Money Market Fund Regulation",
+      "summary": "We set out next steps on issuing new rules and guidance on Money Market Funds (MMFs), following Government plans to replace the current rules. On 15 May, the Government set out its expectation that it will lay legislation that will replace the UK Money Market Funds Regulation. Read the Government statement. Money Market Funds (MMFs) play an important role in the financial system. MMFs are widely used for cash management and provide an alternative or complement to bank deposits for a broad range of investors. However, recent periods of market stress have highlighted the need to strengthen the resilience of these funds.",
+      "url": "https://www.fca.org.uk/news/statements/reforms-uk-money-market-fund-regulation",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/statements/reforms-uk-money-market-fund-regulation",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "d29d97b8a42786f4",
+      "title": "Investors get real-time view of UK bond market activity for the first time",
+      "summary": "For the first time, investors and market participants can access a single, real-time source of prices and trading activity across the UK bond market, following the launch of its bond consolidated tape, operated by ETS Connect UK. Until now, data on bond trades was scattered across multiple sources, making it difficult to get a clear and complete picture of market activity. The new service brings it all together in one place. The launch builds on changes to the UK's bond market transparency rules that came into force in December 2025. Those changes have already made a real difference.",
+      "url": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "transparency",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "transparency"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "bd9711ef852e9dfa",
+      "title": "Later life lending: building the fourth retirement pillar",
+      "summary": "Speech by Emad Aladhal, director of retail banking at the Later Life Lending Summit. IntroductionIn the years ahead, housing wealth will become an increasing part of how many people provide for their retirement. But it continues to be seen as an option of last resort, if thought about at all. Knowing I had this speech, as an experiment at a recent BBQ I had a conversation with my friends about retirement and savings – none of whom work in financial services. They talked about their employers’ pensions, SIPPs, ISAs, investments, and potential business ventures to supplement income in retirement. None brought up later life lending, or how they could use their home to help.",
+      "url": "https://www.fca.org.uk/news/speeches/later-life-lending-building-fourth-retirement-pillar",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/speeches/later-life-lending-building-fourth-retirement-pillar",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "894c88a991859345",
+      "title": "Monevium Ltd enters special administration",
+      "summary": "On 18 June 2026, Monevium Ltd (Monevium) entered special administration. Adam Henry Stephens and Christopher Allen of S&W Partners LLP (S&W) were appointed as special administrators. Monevium is authorised by the FCA to provide payment services. On 28 February 2024, Monevium agreed to a voluntary undertaking, which restricted the activities it can carry out. See details on the Financial Services Register.",
+      "url": "https://www.fca.org.uk/news/news-stories/monevium-ltd-enters-special-administration",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "payment",
+        "payment services"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payment services"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/monevium-ltd-enters-special-administration",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "5292bbadd0ae9406",
+      "title": "Opening the door to mortgages: rules focused on better outcomes for people",
+      "summary": "Buying a home is different now to even a decade ago. People are living longer, the way they work has changed and, for many, how much they earn can vary month-to-month. People will also carry mortgage debt for longer and use it more flexibly across their lives. That’s why we’re proposing changes to help more people to access a mortgage – including first-time buyers, older borrowers and the self-employed. More flexibility for how people live nowWe want to give mortgage lenders the flexibility to take a rounded view of someone’s finances – so they can offer a mortgage that fits real people’s real lives, not a standard template.",
+      "url": "https://www.fca.org.uk/news/blogs/opening-door-mortgages-rules-focused-better-outcomes-people",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/blogs/opening-door-mortgages-rules-focused-better-outcomes-people",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "c8d77ef60ed6fe9f",
+      "title": "Silicon Marketing Limited in administration",
+      "summary": "On 21 May 2026, Silicon Marketing Limited (Silicon) entered administration. Carrie James and Nick Parsk of Oury Clark were appointed as joint administrators. Silicon (Firm Reference Number: 674008) is regulated by the FCA, authorised to carry out debt purchasing and debt collection activities, which provide debt resolution solutions to consumers. The joint administrators are responsible for managing the affairs of Silicon during the administration process. The joint administrators have advised that all existing loan agreements remain in place and will not be affected by the administration.",
+      "url": "https://www.fca.org.uk/news/news-stories/silicon-marketing-limited-administration",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "resolution"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/silicon-marketing-limited-administration",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "3c9fd7e88df77153",
+      "title": "Solvenza Limited in administration",
+      "summary": "On 28 April 2026, Solvenza Limited (Solvenza) entered administration. Louise Longley and Julian Pitts of BTG Begbies Traynor (Central) LLP (Begbies) were appointed joint administrators. Solvenza (Firm Reference Number: 718517) is regulated by the FCA, authorised to carry out debt purchasing and debt collection activities, which provide debt resolution solutions to consumers. The joint administrators are responsible for managing the affairs of Solvenza during the administration process. Debt Collection Services UK Limited (DCS) has been instructed by the administrators to collect debts owed to Solvenza over the course of the administration.",
+      "url": "https://www.fca.org.uk/news/news-stories/solvenza-limited-administration",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "resolution"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "resolution"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/solvenza-limited-administration",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "34235643e4835526",
       "title": "Basel Committee / BIS Updates: official source page",
       "summary": "Open the official Basel Committee / BIS Updates source page for the latest publications, announcements and regulatory updates.",
@@ -9767,7 +10729,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-23T20:06:11.839Z",
+      "publishedAt": "2026-06-24T09:30:35.345Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -9791,31 +10753,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-23T20:06:11.839Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "isSourceLandingCard": true,
-      "updateType": "Source Pages",
-      "updateTypeDetail": "Official source page"
-    },
-    {
-      "id": "009e000a4664468c",
-      "title": "FCA News: official source page",
-      "summary": "Open the official FCA News source page for the latest publications, announcements and regulatory updates.",
-      "url": "https://www.fca.org.uk/what-we-publish",
-      "link": "https://www.fca.org.uk/what-we-publish",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-23T20:06:11.839Z",
+      "publishedAt": "2026-06-24T09:30:35.345Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -9839,7 +10777,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-23T20:06:11.839Z",
+      "publishedAt": "2026-06-24T09:30:35.345Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -9863,7 +10801,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-23T20:06:11.839Z",
+      "publishedAt": "2026-06-24T09:30:35.345Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -9876,23 +10814,23 @@
   "updateTypeSummary": [
     {
       "updateType": "Publications / Reports",
-      "count": 72
+      "count": 73
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 59
+      "count": 67
     },
     {
       "updateType": "News",
-      "count": 57
+      "count": 65
     },
     {
       "updateType": "Consultations",
-      "count": 19
+      "count": 20
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 16
+      "count": 18
     },
     {
       "updateType": "Working Papers / Research",
@@ -9908,7 +10846,7 @@
     },
     {
       "updateType": "Source Pages",
-      "count": 5
+      "count": 4
     }
   ]
 }
