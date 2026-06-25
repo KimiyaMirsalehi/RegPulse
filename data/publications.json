@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-25T09:22:25.200Z",
-  "totalPublications": 275,
+  "generatedAt": "2026-06-25T20:01:02.067Z",
+  "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
   "warningSources": 0,
@@ -182,7 +182,7 @@
       "region": "US",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 18,
+      "itemCount": 19,
       "url": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
       "sourcePageUrl": "https://www.consumerfinance.gov/about-us/newsroom/",
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
@@ -231,11 +231,11 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 118
+      "count": 120
     },
     {
       "topic": "Governance",
-      "count": 55
+      "count": 57
     },
     {
       "topic": "Basel / BCBS",
@@ -243,22 +243,18 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 23
+      "count": 26
     },
     {
       "topic": "Payments / Open Finance",
       "count": 16
     },
     {
-      "topic": "Recovery / Resolution",
+      "topic": "Climate / ESG",
       "count": 11
     },
     {
       "topic": "Capital Requirements",
-      "count": 10
-    },
-    {
-      "topic": "Climate / ESG",
       "count": 9
     },
     {
@@ -267,11 +263,19 @@
     },
     {
       "topic": "DORA / Operational Resilience",
+      "count": 8
+    },
+    {
+      "topic": "Recovery / Resolution",
       "count": 7
     },
     {
       "topic": "Stress Testing",
       "count": 7
+    },
+    {
+      "topic": "Liquidity",
+      "count": 4
     },
     {
       "topic": "AI",
@@ -287,10 +291,6 @@
     },
     {
       "topic": "Credit Risk",
-      "count": 2
-    },
-    {
-      "topic": "Liquidity",
       "count": 2
     },
     {
@@ -305,11 +305,11 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 118
+      "count": 120
     },
     {
       "topic": "Governance",
-      "count": 55
+      "count": 57
     },
     {
       "topic": "Basel / BCBS",
@@ -317,22 +317,18 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 23
+      "count": 26
     },
     {
       "topic": "Payments / Open Finance",
       "count": 16
     },
     {
-      "topic": "Recovery / Resolution",
+      "topic": "Climate / ESG",
       "count": 11
     },
     {
       "topic": "Capital Requirements",
-      "count": 10
-    },
-    {
-      "topic": "Climate / ESG",
       "count": 9
     },
     {
@@ -341,11 +337,19 @@
     },
     {
       "topic": "DORA / Operational Resilience",
+      "count": 8
+    },
+    {
+      "topic": "Recovery / Resolution",
       "count": 7
     },
     {
       "topic": "Stress Testing",
       "count": 7
+    },
+    {
+      "topic": "Liquidity",
+      "count": 4
     },
     {
       "topic": "AI",
@@ -364,10 +368,6 @@
       "count": 2
     },
     {
-      "topic": "Liquidity",
-      "count": 2
-    },
-    {
       "topic": "Model Risk",
       "count": 2
     },
@@ -379,19 +379,19 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 41
+      "count": 40
     },
     {
       "keyword": "board",
-      "count": 32
+      "count": 33
+    },
+    {
+      "keyword": "its",
+      "count": 31
     },
     {
       "keyword": "banking supervision",
       "count": 30
-    },
-    {
-      "keyword": "its",
-      "count": 29
     },
     {
       "keyword": "conduct",
@@ -402,23 +402,19 @@
       "count": 19
     },
     {
+      "keyword": "enforcement",
+      "count": 17
+    },
+    {
       "keyword": "policy statement",
       "count": 17
     },
     {
-      "keyword": "enforcement",
-      "count": 14
+      "keyword": "reporting",
+      "count": 13
     },
     {
       "keyword": "consultation paper",
-      "count": 12
-    },
-    {
-      "keyword": "reporting",
-      "count": 12
-    },
-    {
-      "keyword": "resolution",
       "count": 10
     },
     {
@@ -427,14 +423,18 @@
     },
     {
       "keyword": "climate",
-      "count": 6
+      "count": 8
     },
     {
       "keyword": "disclosure",
-      "count": 6
+      "count": 7
     },
     {
       "keyword": "operational resilience",
+      "count": 7
+    },
+    {
+      "keyword": "resolution",
       "count": 6
     },
     {
@@ -446,7 +446,7 @@
       "count": 4
     },
     {
-      "keyword": "governance",
+      "keyword": "liquidity",
       "count": 4
     },
     {
@@ -454,12 +454,8 @@
       "count": 4
     },
     {
-      "keyword": "bail in",
-      "count": 3
-    },
-    {
-      "keyword": "bail-in",
-      "count": 3
+      "keyword": "transparency",
+      "count": 4
     },
     {
       "keyword": "clearing",
@@ -471,10 +467,6 @@
     },
     {
       "keyword": "dora",
-      "count": 3
-    },
-    {
-      "keyword": "own funds",
       "count": 3
     },
     {
@@ -491,10 +483,6 @@
     },
     {
       "keyword": "stablecoins",
-      "count": 3
-    },
-    {
-      "keyword": "transparency",
       "count": 3
     },
     {
@@ -522,19 +510,19 @@
       "count": 2
     },
     {
+      "keyword": "emissions",
+      "count": 2
+    },
+    {
       "keyword": "financial crime",
       "count": 2
     },
     {
-      "keyword": "guidelines",
+      "keyword": "governance",
       "count": 2
     },
     {
       "keyword": "investigation",
-      "count": 2
-    },
-    {
-      "keyword": "liquidity",
       "count": 2
     },
     {
@@ -546,7 +534,7 @@
       "count": 2
     },
     {
-      "keyword": "payment services",
+      "keyword": "own funds",
       "count": 2
     },
     {
@@ -562,11 +550,23 @@
       "count": 2
     },
     {
+      "keyword": "accountability",
+      "count": 1
+    },
+    {
       "keyword": "artificial intelligence",
       "count": 1
     },
     {
       "keyword": "authorisation",
+      "count": 1
+    },
+    {
+      "keyword": "bail in",
+      "count": 1
+    },
+    {
+      "keyword": "bail-in",
       "count": 1
     },
     {
@@ -586,7 +586,7 @@
       "count": 1
     },
     {
-      "keyword": "consumer duty",
+      "keyword": "consumer finance",
       "count": 1
     },
     {
@@ -618,10 +618,6 @@
       "count": 1
     },
     {
-      "keyword": "emissions",
-      "count": 1
-    },
-    {
       "keyword": "esg",
       "count": 1
     },
@@ -630,11 +626,19 @@
       "count": 1
     },
     {
+      "keyword": "financial disclosure",
+      "count": 1
+    },
+    {
       "keyword": "financial promotions",
       "count": 1
     },
     {
       "keyword": "fine",
+      "count": 1
+    },
+    {
+      "keyword": "guidelines",
       "count": 1
     },
     {
@@ -686,15 +690,11 @@
       "count": 1
     },
     {
-      "keyword": "recovery plans",
+      "keyword": "net zero",
       "count": 1
     },
     {
-      "keyword": "risk weighted assets",
-      "count": 1
-    },
-    {
-      "keyword": "risk-weighted assets",
+      "keyword": "payment services",
       "count": 1
     }
   ],
@@ -709,7 +709,7 @@
     },
     {
       "region": "US",
-      "count": 72
+      "count": 73
     },
     {
       "region": "Global",
@@ -751,7 +751,7 @@
     },
     {
       "institution": "Consumer Financial Protection Bureau",
-      "count": 18
+      "count": 19
     },
     {
       "institution": "European Banking Authority",
@@ -779,6 +779,723 @@
     }
   ],
   "publications": [
+    {
+      "id": "9d4c78af032f1f28",
+      "title": "ECB concludes asset quality reviews of KfW Beteiligungsholding GmbH and Promontoria 19 Coöperatie U. A.",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260625~a11b2bb311.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T16:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/annex/ssm.pr260625_annex_DEIPX.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/annex/ssm.pr260625_annex_FRCCF.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260625~a11b2bb311.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "964c5b5cfe837cc8",
+      "title": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+      "summary": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T15:00:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20240719a1.pdf"
+      ],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "f8337083e79520aa",
+      "title": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
+      "summary": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T15:00:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20260625b1.pdf"
+      ],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "98fb0d46d034fc32",
+      "title": "Bank of England Weekly Report 24 June 2026",
+      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+      "url": "https://www.bankofengland.co.uk/weekly-report/2026/24-june-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T14:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/24-june-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "ec91a32df53f0d4e",
+      "title": "Piero Cipollone: Central bank money for the digital era",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260625~db26a75179.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T12:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260625~db26a75179.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260625~db26a75179.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "15157fd9fdd5c477",
+      "title": "Accountability of the Prudential Regulation Authority for delivery of the Secondary Competitiveness and Growth Objective (SCGO)",
+      "summary": "Appendix to the Prudential Regulation Authority Annual Report 2025/26",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/pra-secondary-competitiveness-and-growth-objectives-report-2025-26",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/report/prascgo-june-2025.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/publication/2024/authorisations-performance-report-q4-202425.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/publication/2025/authorisations-performance-report.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/report/scgo-report.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/financial-stability-report/2025/financial-stability-report-december-2025.pdf",
+        "https://regulatoryreform.com/wp-content/uploads/2015/02/UK-Standard-Cost-Model-handbook.pdf"
+      ],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "accountability"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "accountability"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/pra-secondary-competitiveness-and-growth-objectives-report-2025-26",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "ba8494a9397dd1a9",
+      "title": "Alternative Liquidity Facility Annual Report 2025/26",
+      "summary": "Our Alternative Liquidity Facility offers a non-interest based deposit facility backed by the Bank to commercial banks that cannot pay or receive interest.",
+      "url": "https://www.bankofengland.co.uk/alternative-liquidity-facility/2026/alf-annual-report-2025-26",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/alternative-liquidity-facility/alf-annual-report-2025-26.pdf"
+      ],
+      "topics": [
+        "Liquidity"
+      ],
+      "matchedKeywords": [
+        "liquidity"
+      ],
+      "topicMatches": [
+        {
+          "id": "liquidity",
+          "label": "Liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/alternative-liquidity-facility/2026/alf-annual-report-2025-26",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "af02c1fb8d3fad0b",
+      "title": "Annual Reports 2026",
+      "summary": "We have published several of our Annual Reports.",
+      "url": "https://www.bankofengland.co.uk/annual-report/annual-reports-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/annual-report/annual-reports-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "20663fa3fc464fdf",
+      "title": "Asset Purchase Facility Annual Report 2025/26",
+      "summary": "Our Asset Purchase Facility buys financial assets, such as government bonds, with the aim of improving liquidity in credit markets.",
+      "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2025-26",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/asset-purchase-facility/2026/apf-annual-report-2025-26.pdf"
+      ],
+      "topics": [
+        "Liquidity"
+      ],
+      "matchedKeywords": [
+        "liquidity"
+      ],
+      "topicMatches": [
+        {
+          "id": "liquidity",
+          "label": "Liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2025-26",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "559508ab0749e425",
+      "title": "Bank of England Annual Report and Accounts - 2026",
+      "summary": "The Bank of England and the Prudential Regulation Authority (PRA) publish separate Annual Reports and Accounts. The reports provide information on our activities and finances for the preceding year.",
+      "url": "https://www.bankofengland.co.uk/annual-report/2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2026/boe-2026.pdf#page=8",
+        "https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2026/boe-2026.pdf#page=14",
+        "https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2026/boe-2026.pdf#page=24",
+        "https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2026/boe-2026.pdf#page=26",
+        "https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2026/boe-2026.pdf#page=37",
+        "https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2026/boe-2026.pdf#page=49",
+        "https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2026/boe-2026.pdf#page=56",
+        "https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2026/boe-2026.pdf#page=64",
+        "https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2026/boe-2026.pdf#page=73",
+        "https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2026/boe-2026.pdf#page=74",
+        "https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2026/boe-2026.pdf#page=84",
+        "https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2026/boe-2026.pdf#page=89",
+        "https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2026/boe-2026.pdf#page=92",
+        "https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2026/boe-2026.pdf#page=94",
+        "https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2026/boe-2026.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/annual-report/2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "0c5ea09d8e53ef81",
+      "title": "Bank of England Climate Transition Plan – 2026 update",
+      "summary": "This update to the Bank’s 2023 Climate Transition Plan sets out the progress made to transition the Bank of England’s physical operations to net-zero greenhouse gas emissions by 2040.",
+      "url": "https://www.bankofengland.co.uk/climate-change/bank-of-england-climate-transition-plan-2026-update",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ifrs.org/content/dam/ifrs/knowledge-hub/resources/tpt/disclosure-framework-oct-2023.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/about/human-resources/pensionreport.pdf"
+      ],
+      "topics": [
+        "Climate / ESG"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "net zero",
+        "emissions"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate",
+            "net zero",
+            "emissions"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/climate-change/bank-of-england-climate-transition-plan-2026-update",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "1f16161b50c2fbfe",
+      "title": "Enforcement Decision Making Committee Report 2025/26",
+      "summary": "This Enforcement Decision Making Committee (EDMC) annual report covers the period of 1 March 2025 to 28 February 2026.",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/enforcement-decision-making-committee-report-2025-26",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/enforcement-decision-making-committee-report-2025-26",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "ac1a3ad54a5d5c7c",
+      "title": "Letter from Claudia Buch, Chair of the Supervisory Board, to Mr Fabio de Masi, MEP, on banking supervision",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.mepletter260625_DeMasi~b3f7e17e42.en.pdf",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-publications",
+      "sourceName": "ECB Banking Supervision Publications",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.mepletter260625_DeMasi~b3f7e17e42.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "board",
+        "supervision",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.mepletter260625_DeMasi~b3f7e17e42.en.pdf",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "edbdf6ed2210487e",
+      "title": "Prescribed Persons (Reports on Disclosures of Information) Regulations 2017 – Annual Report 2025/26",
+      "summary": "The Bank of England and PRA are both Prescribed Persons as defined by Parliament under The Public Interest Disclosure (Prescribed Persons) Order 2014.",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/prescribed-persons-regulations-2017-annual-report-2025-26",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "disclosure"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/prescribed-persons-regulations-2017-annual-report-2025-26",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "84ecc596fd69c31d",
+      "title": "Prudential Regulation Authority Annual Report 2025/26",
+      "summary": "The Bank of England and the Prudential Regulation Authority (PRA) have published their annual reports. The PRA report includes information on our activities for the year ended 28 February 2026.",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/pra-annual-report-2025-26",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/about/prc/prctermsofreference.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/letter/2025/pra-response-to-the-lords-fsrc-report-on-the-scgo---final-version.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/publication/2025/list-2025-results-report-insurer-specific-results.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/publication/2025/october/effective-practices-cyber-response-and-recovery-capabilities.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/memoranda-of-understanding/2026/praoffa9171301v1ctp-mou--clean-redacted-for-publication-12-jan-26.pdf",
+        "https://www.cmorg.org.uk/sites/default/files/2025-10/CMORG%20-%20AI%20Shared%20Responsibility%20Model%20-%20October%202025%20-%20TLP%20CLEAR.pdf",
+        "https://www.cmorg.org.uk/sites/default/files/2025-11/CMORG%20-%20Dynamic%20Scenario%20Library%20v1.1%20-%20Final%20-%20October%202025%20-%20TLP%20CLEAR.pdf",
+        "https://www.fsb.org/uploads/P030226.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2025/ss425-december-2025.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/letter/2025/thematic-feedback-on-accounting-for-ifrs-9-ecl-2025.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/regulatory-action/2025/final-notice-from-boe-and-pra-to-george-jay-hambro.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/regulatory-action/2025/final-notice-from-boe-and-pra-to-barents-reinsurance.pdf",
+        "https://assets.publishing.service.gov.uk/media/687e612692957f2ec567c621/Financial_Services__Growth___Competitiveness_Strategy_final.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/approach/panel-appointments-sop.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2025/november/ps2325app2.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/pra-annual-report-2025-26",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "dab257b8f87ef8ec",
+      "title": "Prudential Regulation Authority’s (PRA) Cost Benefit Analysis Panel Annual Report 2025/26",
+      "summary": "The Cost Benefit Analysis (CBA) Panel is a statutory panel established to provide advice to the PRA and the Bank on the preparation of CBA. The Panel provides independent input to the PRA’s and the Bank’s CBAs, helping to support increased transparency and scrutiny of their policymaking. This report covers the period from 1 March 2025 to 28 February 2026.",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/cba-annual-report-2025-26",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/cost-benefit-analysis-panel-tor.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/approach/panel-appointments-sop.pdf"
+      ],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "transparency"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "transparency"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/cba-annual-report-2025-26",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "e992e46e2b772e38",
+      "title": "Report on the Bank’s official market operations March 2025–February 2026",
+      "summary": "The Bank publishes an annual report covering key developments in its market operations and their usage. This report covers the period March 2025 to end-February 2026.",
+      "url": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "cad03c940a860df2",
+      "title": "The Bank of England's climate-related financial disclosure 2026",
+      "summary": "The Bank has continued to integrate the implications of climate change into the delivery of its mission, across both its policy work and its own operational resilience.",
+      "url": "https://www.bankofengland.co.uk/climate-change/the-bank-of-englands-climate-related-financial-disclosure-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2025/ss425-december-2025.pdf",
+        "https://www.fca.org.uk/publication/corporate/quantitative-climate-scenario-analysis-financial-decisions-case-studies.pdf",
+        "https://www.fca.org.uk/publication/corporate/from-risk-resilience-integrating-adaptation-finance.pdf",
+        "https://www.fca.org.uk/publication/corporate/skilling-up-training-available-physical-risks-climate-change-financial-sector.pdf",
+        "https://www.fca.org.uk/publication/corporate/risk-professionals-guide-physical-risk-assessments-garp-benchmarking-study-13-vendors.pdf",
+        "https://www.fca.org.uk/publication/corporate/cfrf-mobilising-adaptation-finance-build-resilience-2024.pdf"
+      ],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Climate / ESG",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "operational resilience",
+        "climate",
+        "disclosure",
+        "financial disclosure",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "operational resilience"
+          ]
+        },
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure",
+            "financial disclosure"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/climate-change/the-bank-of-englands-climate-related-financial-disclosure-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "ed4965d16a64927e",
       "title": "RPIB consultation on the Design of the Future Retail Payments Infrastructure",
@@ -1043,6 +1760,41 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "2fd52ebdfc4f0ec6",
+      "title": "CFPB Announces Joint Final Rule on Adopting Uniform Standards for Reporting Financial Data",
+      "summary": "",
+      "url": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-announces-joint-final-rule-on-adopting-uniform-standards-for-reporting-financial-data/",
+      "sourcePageUrl": "https://www.consumerfinance.gov/about-us/newsroom/",
+      "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
+      "sourceId": "cfpb-newsroom",
+      "sourceName": "CFPB Newsroom",
+      "institution": "Consumer Financial Protection Bureau",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T04:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "reporting"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        }
+      ],
+      "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-announces-joint-final-rule-on-adopting-uniform-standards-for-reporting-financial-data/",
+      "sourceFeedUrl": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "0b2cb52dc8e43e83",
@@ -3133,29 +3885,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "29e6421bd5c93aa3",
-      "title": "Christine Lagarde: Money in transition",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-15T07:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "f08ca54628d12d82",
       "title": "SEC Appoints John Moses as Director of the Office of Investor Education and Assistance",
       "summary": "The Securities and Exchange Commission has appointed John Moses as Director of the agency’s Office of Investor Education and Assistance, which provides services and resources to help investors build their financial futures and protect against investment…",
@@ -3369,7 +4098,6 @@
       "sourceType": "rss",
       "publishedAt": "2026-06-11T15:00:00.000Z",
       "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260611a1.pdf",
         "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260611a2.pdf"
       ],
       "topics": [
@@ -3473,11 +4201,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-06-11T12:20:06.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2025-10/b8e0ef8e-2d49-43fc-b917-dbca3423588c/Report%20on%20the%20efficiency%20of%20the%20regulatory%20and%20supervisory%20framework.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-06/7185aac4-4a70-4d83-ae1b-1cfca979ae07/2027%20EU-wide%20stress%20test%20-%20Draft%20Methodological%20Note.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-06/e4eedf91-0957-4f02-b4c9-22154f491904/2027%20EU-wide%20stress%20test%20-%20Draft%20Template%20Guidance.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Climate / ESG",
         "Stress Testing",
@@ -3543,11 +4267,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-06-11T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.other_publications_banking_sector_framework.en.pdf?eef7462d182fe3c12e02707d8521b1cc",
-        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
-        "https://www.bis.org/fsi/publ/insights66.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Supervision / Enforcement"
@@ -3792,9 +4512,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-06-08T11:34:12.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-06/571e1ec7-2e50-42db-9035-1c2b21f75004/Discussion%20paper%20-%20P3DH%20SNCIs.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Reporting / Disclosure"
@@ -3837,9 +4555,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-06-05T13:02:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/capital-requirements-and-process-innovation.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements"
       ],
@@ -3874,9 +4590,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-06-05T13:01:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/staying-afloat-the-impact-of-flooding-on-uk-firms.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -3899,9 +4613,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-06-05T13:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/how-should-central-banks-respond-to-commodity-price-shocks.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -3947,14 +4659,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-06-05T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2829~f36cabd504.en.pdf",
-        "https://www.esrb.europa.eu/pub/pdf/wp/esrbwp18.en.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-01/9b15d89a-77fb-4608-b1fa-4dcd49e6046d/Report%20on%20consolidation.pdf",
-        "https://www.esrb.europa.eu/pub/pdf/reports/esrb.report200219_systemiccyberrisk~101a09685e.en.pdf",
-        "https://www.esrb.europa.eu/pub/pdf/asc/esrb.ascreport202512_AIandsystemicrisk.en.pdf",
-        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Supervision / Enforcement"
@@ -5620,76 +6325,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "9bb0872798a65a31",
-      "title": "Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust",
-      "summary": "Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm",
-      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-press",
-      "sourceName": "Federal Reserve Press Releases",
-      "institution": "Federal Reserve Board",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-15T20:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "board"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        }
-      ],
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "84fc5465edb77b83",
-      "title": "Federal Reserve Board announces it does not object to the conversion of United Texas Bank, of Dallas, Texas, from a bank supervised by the Federal Reserve to a national bank supervised by the Office of the Comptroller of the Currency",
-      "summary": "Federal Reserve Board announces it does not object to the conversion of United Texas Bank, of Dallas, Texas, from a bank supervised by the Federal Reserve to a national bank supervised by the Office of the Comptroller of the Currency",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515b.htm",
-      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-press",
-      "sourceName": "Federal Reserve Press Releases",
-      "institution": "Federal Reserve Board",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-15T20:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "board"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        }
-      ],
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515b.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "5be4796bc6b8517c",
       "title": "Results of the firm feedback survey 2025",
       "summary": "The annual firm feedback survey gives PRA-authorised firms the opportunity to comment on their experience of being supervised by the PRA.",
@@ -5823,50 +6458,6 @@
         }
       ],
       "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260513_1~bbdaaea337.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "dbb064abb1f4a2ac",
-      "title": "Frank Elderson: “Market fragmentation is banks’ real constraint”",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260513~cb8e1269c5.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-13T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260513~cb8e1269c5.en.html",
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
@@ -6809,29 +7400,6 @@
       "updateTypeDetail": "Other update"
     },
     {
-      "id": "772ca2d1d2c293ae",
-      "title": "Bank of England Weekly Report 22 April 2026",
-      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2026/22-april-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-23T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/22-april-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "8f9f309e5a0d9bc6",
       "title": "LIAC01/26 – Low Impact Amendments Consultation April 2026",
       "summary": "Low Impact Amendments Consultation April 2026",
@@ -7038,43 +7606,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "f428d7aa15e3a7b1",
-      "title": "The Bank of England's fees regime for financial market infrastructure supervision 2026/27",
-      "summary": "Consultation paper",
-      "url": "https://www.bankofengland.co.uk/paper/2026/cp/the-boes-fees-regime-for-financial-market-infrastructure-supervision-2026-27",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-17T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision",
-        "consultation paper"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "consultation paper"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/paper/2026/cp/the-boes-fees-regime-for-financial-market-infrastructure-supervision-2026-27",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
       "id": "4d83d6d224d7f737",
       "title": "CP7/26 – Regulated fees and levies: Rates proposals 2026/27",
       "summary": "Consultation paper 7/26",
@@ -7179,29 +7710,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "e9d88bac0d0537f3",
-      "title": "Bank of England Weekly Report 15 April 2026",
-      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2026/15-april-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-16T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/15-april-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "64dea0906bd7e630",
       "title": "SEC Seeks Public Comment on the Consolidated Audit Trail and Other Audit Trails and Data Sources",
       "summary": "The Securities and Exchange Commission today issued a concept release soliciting public comment in support of a comprehensive review of the Consolidated Audit Trail (CAT) and other audit trails and related data sources currently used in the regulation of…",
@@ -7221,86 +7729,6 @@
       "topicMatches": [],
       "link": "https://www.sec.gov/newsroom/press-releases/2026-37-sec-seeks-public-comment-consolidated-audit-trail-other-audit-trails-data-sources",
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "03db51dd3a1c6d00",
-      "title": "External minimum requirements for own funds and eligible liabilities (MRELs) – 2026",
-      "summary": "Public disclosure for firms with a resolution entity incorporated in the UK for which a bail-in or transfer preferred resolution strategy has been set.",
-      "url": "https://www.bankofengland.co.uk/financial-stability/resolution/mrels-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-16T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Capital Requirements",
-        "Reporting / Disclosure",
-        "Recovery / Resolution"
-      ],
-      "matchedKeywords": [
-        "own funds",
-        "disclosure",
-        "resolution",
-        "bail-in",
-        "bail in"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "own funds"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "disclosure"
-          ]
-        },
-        {
-          "id": "resolution-recovery",
-          "label": "Recovery / Resolution",
-          "keywords": [
-            "resolution",
-            "bail-in",
-            "bail in"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/financial-stability/resolution/mrels-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "6efed4696ccca9c2",
-      "title": "Report on the exercise of relevant sub-delegated powers for the financial year ending 28 February 2026",
-      "summary": "Presented to Parliament pursuant to paragraph 32(2)(a) of Schedule 7 to the European Union (Withdrawal) Act 2018.",
-      "url": "https://www.bankofengland.co.uk/financial-stability/resolution/report-on-the-exercise-of-relevant-sub-delegated-powers-for-fin-year-ending-28-feb-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-16T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/financial-stability/resolution/report-on-the-exercise-of-relevant-sub-delegated-powers-for-fin-year-ending-28-feb-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
     },
@@ -7338,103 +7766,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "1bb93aef3ba4032d",
-      "title": "Operational guide to bail-in resolution",
-      "summary": "This publication describes how the Bank could execute a bail-in resolution, and the operational processes and arrangements that may be involved in this.",
-      "url": "https://www.bankofengland.co.uk/paper/2026/operational-guide-to-bail-in-resolution",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-13T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Recovery / Resolution"
-      ],
-      "matchedKeywords": [
-        "resolution",
-        "bail-in",
-        "bail in"
-      ],
-      "topicMatches": [
-        {
-          "id": "resolution-recovery",
-          "label": "Recovery / Resolution",
-          "keywords": [
-            "resolution",
-            "bail-in",
-            "bail in"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/paper/2026/operational-guide-to-bail-in-resolution",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "74414674b5dc57ab",
-      "title": "Operational guide to transfer resolution",
-      "summary": "This publication describes how the Bank could execute a transfer resolution, and the operational processes and arrangements that may be involved in this.",
-      "url": "https://www.bankofengland.co.uk/paper/2026/operational-guide-to-transfer-resolution",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-13T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Recovery / Resolution"
-      ],
-      "matchedKeywords": [
-        "resolution"
-      ],
-      "topicMatches": [
-        {
-          "id": "resolution-recovery",
-          "label": "Recovery / Resolution",
-          "keywords": [
-            "resolution"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/paper/2026/operational-guide-to-transfer-resolution",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "5ba10db54d15c2b9",
-      "title": "Real domestic effects of banks’ cross-border lending",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/real-domestic-effects-of-banks-cross-border-lending",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-10T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/real-domestic-effects-of-banks-cross-border-lending",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "3ae7a999c73f87b2",
@@ -9035,41 +9366,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "5eee9f7d92545cff",
-      "title": "CP1/26 – Financial Services Compensation Scheme – Management Expenses Levy Limit (MELL) 2026/27",
-      "summary": "Consultation paper 1/26",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/financial-services-compensation-scheme-management-expenses-levy-limit-2026-27-consultation-paper",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-01-13T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "consultation paper"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "consultation paper"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/financial-services-compensation-scheme-management-expenses-levy-limit-2026-27-consultation-paper",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
       "id": "beb023e918618df7",
       "title": "Agencies issue 2025 Shared National Credit Program report",
       "summary": "Agencies issue 2025 Shared National Credit Program report",
@@ -9128,87 +9424,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "b242eb439bc9fe31",
-      "title": "Future Banking Data: November CFO roundtable summary",
-      "summary": "On 12 November 2025 the PRA hosted a roundtable meeting with Chief Financial Officers (CFOs) of systemically important firms operating in the UK, to discuss Future Banking Data (FBD).",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/future-banking-data-november-cfo-roundtable-summary",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-01-07T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/future-banking-data-november-cfo-roundtable-summary",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "4bd3dbccc5a1f63c",
-      "title": "PRA Regulatory Digest - December 2025",
-      "summary": "The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2025/december-2025",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-01-06T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2025/december-2025",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "b12a9433d0fd636e",
-      "title": "Berne Financial Services Agreement (BFSA) Operational Direction and Guidelines for UK Insurers’ Section IV Notifications",
-      "summary": "The Berne Financial Services Agreement (BFSA) is a mutual recognition agreement between the UK and Switzerland, effective from 1 January 2026. This agreement enhances cross-border market access for financial services between the two countries.",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/berne-financial-services-agreement-operational-direction-and-guidelines",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-01-02T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "guidelines"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "guidelines"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/berne-financial-services-agreement-operational-direction-and-guidelines",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "4fec317b4aecf462",
       "title": "Agencies release annual asset-size thresholds under Community Reinvestment Act regulations",
       "summary": "Agencies release annual asset-size thresholds under Community Reinvestment Act regulations",
@@ -9242,29 +9457,6 @@
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "updateType": "Other",
       "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "d1352df67b0cb06f",
-      "title": "LIAF03/25 – Low Impact Amendments Finalisation December 2025",
-      "summary": "The PRA has published LIAF03/25, a collection of final low impact rule amendments.",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/december/low-impact-amendments-finalisation-december-2025",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2025-12-19T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/december/low-impact-amendments-finalisation-december-2025",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "40647ceec0bd6d85",
@@ -9357,54 +9549,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "92b393661b02e2e2",
-      "title": "Supervisory Banking Statistics for significant institutions - Third quarter 2025",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisorybankingstatistics_third_quarter_2025_202512.en.pdf",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-publications",
-      "sourceName": "ECB Banking Supervision Publications",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2025-12-17T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisorybankingstatistics_third_quarter_2025_202512.en.pdf"
-      ],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisorybankingstatistics_third_quarter_2025_202512.en.pdf",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
     },
     {
       "id": "4f5d9dd5cf7ba6ad",
@@ -9809,52 +9953,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "d51f50727ce97eea",
-      "title": "AI in financial services: shaping our approach through industry engagement",
-      "summary": "Firms are using AI to drive efficiency, support decision-making and deliver better outcomes for consumers and markets. We want to support that innovation. But it must be safe, responsible and well governed. We have been clear that we are not going to introduce new regulations for AI. Instead, we’ll rely on existing frameworks, including the Consumer Duty, the Senior Managers and Certification Regime (SM&CR), and our expectations on governance and controls. We recognise that AI can raise new and practical questions, and we want to help industry to tackle these. So, we are speaking to firms on topics such as:How firms oversee and govern AI. How they test models and monitor outcomes.",
-      "url": "https://www.fca.org.uk/news/blogs/ai-financial-services-approach",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Consumer Protection",
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "consumer duty",
-        "governance",
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "consumer duty"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "governance",
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/blogs/ai-financial-services-approach",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "86a0e76ecd8001e4",
       "title": "Amplifi Capital (U. K.) Limited enters administration",
       "summary": "On 9 June 2026, Amplifi Capital (U. K.) Limited (Amplifi) entered administration. Robert Spence and Gareth Slater of Interpath Advisory were appointed joint administrators. Amplifi is authorised by the FCA. Amplifi trades under the names Reevo Money and My Community Finance. Reevo Money provided personal loans to consumers. My Community Finance acted as a credit broker, introducing customers to credit unions; My Community Bank (MCB) and Castle Community Bank (CCB) which issued loans and savings products. All existing loan agreements remain in place and will not change because of the administration. However, Amplifi can no longer issue new loans.",
@@ -9950,6 +10048,68 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "3eaf100f4aa63a97",
+      "title": "CACEIS UK censured and to pay £31.7m to WealthTek clients for weak financial crime controls",
+      "summary": "CACEIS UK, an asset servicing bank, has been censured by the FCA and will make a £31.7m voluntary payment to WealthTek clients for failing to act on information that left clients exposed to the risk of financial crime. The FCA has now secured over £57m in total for WealthTek clients in just over a year, with action taken against CACEIS UK, Sapia Partners and Barclays Bank UK. CACEIS UK became WealthTek's sub-custodian in November 2020, meaning they were responsible for keeping its client’s assets safe. WealthTek was then known as Vertus Asset Management LLP.",
+      "url": "https://www.fca.org.uk/news/press-releases/caceis-uk-censured-pay-31-million-wealthtek-clients-weak-financial-crime-controls",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance",
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "financial crime",
+        "conduct",
+        "its",
+        "payment"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "financial crime"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/caceis-uk-censured-pay-31-million-wealthtek-clients-weak-financial-crime-controls",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "552d3ba978dde68b",
@@ -10225,72 +10385,6 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "246a793c558b3692",
-      "title": "FCA imposes requirements on Euro Exchange Securities UK Limited and interim managers appointed by the Court",
-      "summary": "On 4 June 2026, the FCA required Euro Exchange Securities UK Limited (EES) to cease carrying out any regulated electronic money or payment services and, on the FCA’s application, interim managers were appointed by the Court over EES. Serious concerns around the way EES operated its business indicated there were significant risks of financial crime. This includes systemic weaknesses in the firm’s financial crime framework and safeguarding arrangements, alongside its ownership and governance. These risks could have had an impact on both consumers and the integrity of the market.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-imposes-requirements-euro-exchange-securities-uk-limited-and-interim-managers-appointed-court",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime",
-        "Governance",
-        "Supervision / Enforcement",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "financial crime",
-        "governance",
-        "conduct",
-        "its",
-        "payment",
-        "payment services"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "financial crime"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "governance",
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payment",
-            "payment services"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-imposes-requirements-euro-exchange-securities-uk-limited-and-interim-managers-appointed-court",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "1059e099b485fade",
@@ -10673,10 +10767,10 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "3c9fd7e88df77153",
-      "title": "Solvenza Limited in administration",
-      "summary": "On 28 April 2026, Solvenza Limited (Solvenza) entered administration. Louise Longley and Julian Pitts of BTG Begbies Traynor (Central) LLP (Begbies) were appointed joint administrators. Solvenza (Firm Reference Number: 718517) is regulated by the FCA, authorised to carry out debt purchasing and debt collection activities, which provide debt resolution solutions to consumers. The joint administrators are responsible for managing the affairs of Solvenza during the administration process. Debt Collection Services UK Limited (DCS) has been instructed by the administrators to collect debts owed to Solvenza over the course of the administration.",
-      "url": "https://www.fca.org.uk/news/news-stories/solvenza-limited-administration",
+      "id": "a3609fe403264424",
+      "title": "Shaping the future of the credit market – the road ahead",
+      "summary": "Speech by Alison Walters, director of consumer finance at the Credit Week: Powering the Future of Finance event. We all recognise that consumer credit plays a vital role in the real economy and in people’s everyday lives, supporting households, enabling opportunity, and helping people manage financial pressures. But the world around us is changing, the credit market is changing and so are consumer demands and needs. With that in mind, it is important to consider whether the market today is fit for the future.",
+      "url": "https://www.fca.org.uk/news/speeches/shaping-future-credit-market-road-ahead",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -10688,12 +10782,54 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
-        "Governance",
-        "Recovery / Resolution"
+        "Consumer Protection",
+        "Governance"
       ],
       "matchedKeywords": [
-        "conduct",
-        "resolution"
+        "consumer finance",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "consumer finance"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/speeches/shaping-future-credit-market-road-ahead",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "1025eabcec3154ac",
+      "title": "Why stronger Buy Now Pay Later protections are the right step for consumers",
+      "summary": "BNPL can help people to manage their cash flow. It can allow them to spread the cost of purchases and smooth their finances. But, as with any borrowing, BNPL also carries risks. Let me clear about this: BNPL has an important role to play. We don’t want to reduce or remove access to credit, but to ensure it is offered in a way that works for consumers. That's why we are introducing protections for consumers using BNPL. Consumers will benefit from clearer information before they borrow, proportionate affordability checks, and access to support if they get into difficulty with their repayments.",
+      "url": "https://www.fca.org.uk/news/blogs/why-stronger-buy-now-pay-later-protections-are-right-step-consumers",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
       ],
       "topicMatches": [
         {
@@ -10702,16 +10838,9 @@
           "keywords": [
             "conduct"
           ]
-        },
-        {
-          "id": "resolution-recovery",
-          "label": "Recovery / Resolution",
-          "keywords": [
-            "resolution"
-          ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/news-stories/solvenza-limited-administration",
+      "link": "https://www.fca.org.uk/news/blogs/why-stronger-buy-now-pay-later-protections-are-right-step-consumers",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -10731,7 +10860,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-25T09:22:25.200Z",
+      "publishedAt": "2026-06-25T20:01:02.067Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10755,7 +10884,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-25T09:22:25.200Z",
+      "publishedAt": "2026-06-25T20:01:02.067Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10779,7 +10908,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-25T09:22:25.200Z",
+      "publishedAt": "2026-06-25T20:01:02.067Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10803,7 +10932,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-25T09:22:25.200Z",
+      "publishedAt": "2026-06-25T20:01:02.067Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10816,38 +10945,38 @@
   "updateTypeSummary": [
     {
       "updateType": "Publications / Reports",
-      "count": 72
+      "count": 75
     },
     {
       "updateType": "News",
-      "count": 66
+      "count": 67
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 66
-    },
-    {
-      "updateType": "Consultations",
-      "count": 21
+      "count": 67
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
       "count": 20
     },
     {
+      "updateType": "Consultations",
+      "count": 19
+    },
+    {
       "updateType": "Working Papers / Research",
-      "count": 15
+      "count": 14
     },
     {
       "updateType": "Other",
       "count": 6
     },
     {
-      "updateType": "Statistics / Data",
-      "count": 5
+      "updateType": "Source Pages",
+      "count": 4
     },
     {
-      "updateType": "Source Pages",
+      "updateType": "Statistics / Data",
       "count": 4
     }
   ]
