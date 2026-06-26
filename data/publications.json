@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T09:27:38.812Z",
+  "generatedAt": "2026-06-26T19:48:33.040Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -239,11 +239,11 @@
     },
     {
       "topic": "Basel / BCBS",
-      "count": 39
+      "count": 38
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 27
+      "count": 25
     },
     {
       "topic": "Payments / Open Finance",
@@ -258,7 +258,7 @@
       "count": 9
     },
     {
-      "topic": "DORA / Operational Resilience",
+      "topic": "Crypto / Digital Assets",
       "count": 8
     },
     {
@@ -270,7 +270,7 @@
       "count": 8
     },
     {
-      "topic": "Crypto / Digital Assets",
+      "topic": "DORA / Operational Resilience",
       "count": 7
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "topic": "Basel / BCBS",
-      "count": 39
+      "count": 38
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 27
+      "count": 25
     },
     {
       "topic": "Payments / Open Finance",
@@ -332,7 +332,7 @@
       "count": 9
     },
     {
-      "topic": "DORA / Operational Resilience",
+      "topic": "Crypto / Digital Assets",
       "count": 8
     },
     {
@@ -344,7 +344,7 @@
       "count": 8
     },
     {
-      "topic": "Crypto / Digital Assets",
+      "topic": "DORA / Operational Resilience",
       "count": 7
     },
     {
@@ -382,11 +382,11 @@
       "count": 40
     },
     {
-      "keyword": "board",
-      "count": 33
+      "keyword": "its",
+      "count": 35
     },
     {
-      "keyword": "its",
+      "keyword": "board",
       "count": 33
     },
     {
@@ -402,20 +402,20 @@
       "count": 20
     },
     {
-      "keyword": "enforcement",
-      "count": 17
-    },
-    {
       "keyword": "policy statement",
       "count": 17
     },
     {
-      "keyword": "reporting",
-      "count": 13
+      "keyword": "enforcement",
+      "count": 16
     },
     {
       "keyword": "consultation paper",
-      "count": 11
+      "count": 12
+    },
+    {
+      "keyword": "reporting",
+      "count": 12
     },
     {
       "keyword": "payment",
@@ -430,12 +430,12 @@
       "count": 7
     },
     {
-      "keyword": "operational resilience",
+      "keyword": "resolution",
       "count": 7
     },
     {
-      "keyword": "resolution",
-      "count": 7
+      "keyword": "operational resilience",
+      "count": 6
     },
     {
       "keyword": "stress test",
@@ -466,14 +466,6 @@
       "count": 3
     },
     {
-      "keyword": "dora",
-      "count": 3
-    },
-    {
-      "keyword": "pillar 3",
-      "count": 3
-    },
-    {
       "keyword": "resolvability",
       "count": 3
     },
@@ -494,15 +486,15 @@
       "count": 2
     },
     {
+      "keyword": "crypto",
+      "count": 2
+    },
+    {
       "keyword": "data standards",
       "count": 2
     },
     {
-      "keyword": "digital operational resilience",
-      "count": 2
-    },
-    {
-      "keyword": "digital operational resilience act",
+      "keyword": "dora",
       "count": 2
     },
     {
@@ -526,11 +518,19 @@
       "count": 2
     },
     {
+      "keyword": "mica",
+      "count": 2
+    },
+    {
       "keyword": "mrel",
       "count": 2
     },
     {
       "keyword": "own funds",
+      "count": 2
+    },
+    {
+      "keyword": "pillar 3",
       "count": 2
     },
     {
@@ -543,6 +543,10 @@
     },
     {
       "keyword": "stress testing",
+      "count": 2
+    },
+    {
+      "keyword": "supervisory reporting",
       "count": 2
     },
     {
@@ -582,10 +586,6 @@
       "count": 1
     },
     {
-      "keyword": "crypto",
-      "count": 1
-    },
-    {
       "keyword": "cryptoasset",
       "count": 1
     },
@@ -594,11 +594,15 @@
       "count": 1
     },
     {
-      "keyword": "cybersecurity",
+      "keyword": "digital euro",
       "count": 1
     },
     {
-      "keyword": "digital euro",
+      "keyword": "digital operational resilience",
+      "count": 1
+    },
+    {
+      "keyword": "digital operational resilience act",
       "count": 1
     },
     {
@@ -638,10 +642,6 @@
       "count": 1
     },
     {
-      "keyword": "ict risks",
-      "count": 1
-    },
-    {
       "keyword": "implementing technical standards",
       "count": 1
     },
@@ -674,10 +674,6 @@
       "count": 1
     },
     {
-      "keyword": "mica",
-      "count": 1
-    },
-    {
       "keyword": "nature related",
       "count": 1
     },
@@ -695,6 +691,10 @@
     },
     {
       "keyword": "recovery plans",
+      "count": 1
+    },
+    {
+      "keyword": "risk weighted assets",
       "count": 1
     }
   ],
@@ -779,6 +779,177 @@
     }
   ],
   "publications": [
+    {
+      "id": "9217c910ed56e907",
+      "title": "​The European Banking Authority consults on a draft methodology for setting fines under the Markets in Crypto-Assets Regulation (MiCA)",
+      "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-banking-authority-consults-draft-methodology-setting-fines-under-markets-crypto-assets",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-26T13:27:24.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-06/2b552586-bdf3-4faf-b1b3-136c4550f625/Consultation%20Paper%20on%20methodology%20for%20setting%20fines%20under%20MiCA.pdf"
+      ],
+      "topics": [
+        "Crypto / Digital Assets",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "crypto",
+        "mica",
+        "consultation paper",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "crypto",
+            "mica"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "consultation paper",
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/european-banking-authority-consults-draft-methodology-setting-fines-under-markets-crypto-assets",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
+    {
+      "id": "ec03b5825e072974",
+      "title": "Developing a house price-at-risk framework for the UK",
+      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+      "url": "https://www.bankofengland.co.uk/working-paper/2026/developing-a-house-price-at-risk-framework-for-the-uk",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-26T13:01:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/developing-a-house-price-at-risk-framework-for-the-uk.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/developing-a-house-price-at-risk-framework-for-the-uk",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "d61def2447954ade",
+      "title": "Monetary transmission to firm-level research and development",
+      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+      "url": "https://www.bankofengland.co.uk/working-paper/2026/monetary-transmission-to-firm-level-r-and-d",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-26T13:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/monetary-transmission-to-firm-level-r-and-d.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/monetary-transmission-to-firm-level-r-and-d",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "e3ff9389d13fd55f",
+      "title": "SEC, CFTC Seek Public Comment on the Harmonization of Portfolio Margining Frameworks",
+      "summary": "The Securities and Exchange Commission and the Commodity Futures Trading Commission today issued a joint request for public comment on potential approaches to further harmonize regulatory frameworks applicable to portfolio margining across securities,…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-59-sec-cftc-seek-public-comment-harmonization-portfolio-margining-frameworks",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-26T12:58:32.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-59-sec-cftc-seek-public-comment-harmonization-portfolio-margining-frameworks",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "5247ac467bb5334e",
+      "title": "​The EBA updates validation rules for supervisory reporting ​",
+      "summary": "The European Banking Authority (EBA) today published an updated list of validation rules defined in its reporting frameworks, as part of its regular quarterly review process. The revised package identifies rules that have (i) been deactivated due to inaccuracies or IT-related issues, (ii) been reactivated, or (iii) undergone a change in severity status.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-validation-rules-supervisory-reporting",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-26T11:17:02.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "reporting",
+        "supervisory reporting",
+        "supervisory",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting",
+            "supervisory reporting"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-validation-rules-supervisory-reporting",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "a38c2ab2b6f3c765",
       "title": "ESS-ESCB Quality assessment report on statistics underlying the Macroeconomic Imbalance Procedure",
@@ -4235,11 +4406,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-06-12T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecgi.global/sites/default/files/codes/documents/UK-Corporate-Governance-Code-April-2016.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/code-of-practice-about-the-operation-of-recognised-payment-systems-governance.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/amendments-to-the-scope-of-code-of-practice.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance",
         "Supervision / Enforcement",
@@ -4294,10 +4461,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-06-12T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/operational-resilience-part-of-the-code-of-practice.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/amendments-to-the-scope-of-code-of-practice.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "DORA / Operational Resilience",
         "Supervision / Enforcement",
@@ -4385,10 +4549,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-06-12T08:30:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/inflation-attitudes-survey/ipsos-methodology-and-notes-online-survey.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/inflation-attitudes-survey/methodology-and-notes-face-to-face.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4811,49 +4972,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "3fab615f608dcbd2",
-      "title": "​The EBA launches Discussion Paper on Pillar 3 Data Hub for small banks",
-      "summary": "​The European Banking Authority (EBA) today published a Discussion Paper which proposes a simplified process for small and non-complex institutions (SNCIs) when implementing the Pillar 3 Data Hub (P3DH). The objective is to gather stakeholder feedback on a streamlined approach under which the EBA would collect and perform the calculation and publication of Pillar 3 disclosures for SNCIs, thereby reducing the burden for the latter.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-discussion-paper-pillar-3-data-hub-small-banks",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-08T11:34:12.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "pillar 3"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "pillar 3"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "pillar 3"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-discussion-paper-pillar-3-data-hub-small-banks",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
       "id": "8e30fc99f5ee06d9",
       "title": "Capital requirements and process innovation",
       "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
@@ -5099,69 +5217,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "363e76ed337ec9cc",
-      "title": "ESAs publish the first report on DORA major ICT-related incidents",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA) today published their first annual overview of major ICT-related incidents in the EU financial sector based on a reporting mechanism established by the Digital Operational Resilience Act (DORA). It shows that ICT risks are increasingly borderless and interconnected. The authorities also note that the recent evolution of highly capable AI-driven tools should encourage financial entities to strengthen cybersecurity measures to maintain their resilience going forward.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-publish-first-report-dora-major-ict-related-incidents",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-03T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "DORA / Operational Resilience",
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "dora",
-        "digital operational resilience",
-        "digital operational resilience act",
-        "operational resilience",
-        "ict risks",
-        "cybersecurity",
-        "reporting",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "dora-operational-resilience",
-          "label": "DORA / Operational Resilience",
-          "keywords": [
-            "dora",
-            "digital operational resilience",
-            "digital operational resilience act",
-            "operational resilience",
-            "ict risks",
-            "cybersecurity"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-publish-first-report-dora-major-ict-related-incidents",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "531181e0bc56b416",
@@ -7510,64 +7565,6 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "8978dd25d03db05c",
-      "title": "Agents' summary of business conditions - April 2026",
-      "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
-      "url": "https://www.bankofengland.co.uk/agents-summary/2026/april-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-24T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "reporting"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/agents-summary/2026/april-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "f39b72e01e841a5e",
-      "title": "Monthly Decision Maker Panel data - April 2026",
-      "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
-      "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/april-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-24T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/april-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "a465f1b24263e4bd",
       "title": "Agencies finalize changes to enhance community bank leverage ratio",
       "summary": "Agencies finalize changes to enhance community bank leverage ratio",
@@ -8018,41 +8015,6 @@
         }
       ],
       "link": "https://www.sec.gov/newsroom/press-releases/2026-35-sec-appoints-david-woodcock-director-division-enforcement",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "550e4ec2fdacd175",
-      "title": "SEC Announces Enforcement Results for Fiscal Year 2025",
-      "summary": "The Securities and Exchange Commission today announced enforcement results for the fiscal year that ended on September 30, 2025. Central to an effective enforcement program is determining which cases to bring and responsibly stewarding Commission…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-34",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-07T19:48:30.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "enforcement"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "enforcement"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-34",
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -10900,7 +10862,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-26T09:27:38.812Z",
+      "publishedAt": "2026-06-26T19:48:33.040Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10924,7 +10886,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-26T09:27:38.812Z",
+      "publishedAt": "2026-06-26T19:48:33.040Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10948,7 +10910,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-26T09:27:38.812Z",
+      "publishedAt": "2026-06-26T19:48:33.040Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10972,7 +10934,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-26T09:27:38.812Z",
+      "publishedAt": "2026-06-26T19:48:33.040Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10985,7 +10947,7 @@
   "updateTypeSummary": [
     {
       "updateType": "Publications / Reports",
-      "count": 73
+      "count": 71
     },
     {
       "updateType": "Rules / Standards / Guidance",
@@ -11005,7 +10967,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 14
+      "count": 16
     },
     {
       "updateType": "Other",
