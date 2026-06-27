@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T08:35:57.125Z",
+  "generatedAt": "2026-06-27T19:21:03.372Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -779,6 +779,31 @@
     }
   ],
   "publications": [
+    {
+      "id": "7651c20f4023aa79",
+      "title": "Isabel Schnabel: Is inflation back?",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260627~3807c2766e.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-27T13:45:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260627~3807c2766e.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260627~3807c2766e.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "9217c910ed56e907",
       "title": "​The European Banking Authority consults on a draft methodology for setting fines under the Markets in Crypto-Assets Regulation (MiCA)",
@@ -4192,31 +4217,6 @@
       "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "0d9c7df5570dd797",
-      "title": "Philip R. Lane: Outlook for the euro area economy",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260616~8076dabd2c.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-16T13:10:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260616~8076dabd2c.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260616~8076dabd2c.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "3c2086b41f31a3f8",
@@ -10862,7 +10862,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-27T08:35:57.125Z",
+      "publishedAt": "2026-06-27T19:21:03.372Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10886,7 +10886,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-27T08:35:57.125Z",
+      "publishedAt": "2026-06-27T19:21:03.372Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10910,7 +10910,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-27T08:35:57.125Z",
+      "publishedAt": "2026-06-27T19:21:03.372Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10934,7 +10934,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-27T08:35:57.125Z",
+      "publishedAt": "2026-06-27T19:21:03.372Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
