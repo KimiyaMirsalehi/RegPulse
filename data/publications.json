@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T11:02:10.594Z",
+  "generatedAt": "2026-06-29T19:58:04.111Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 121
+      "count": 120
     },
     {
       "topic": "Governance",
@@ -243,18 +243,18 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 25
+      "count": 24
     },
     {
       "topic": "Payments / Open Finance",
       "count": 16
     },
     {
-      "topic": "Climate / ESG",
-      "count": 10
+      "topic": "Capital Requirements",
+      "count": 9
     },
     {
-      "topic": "Capital Requirements",
+      "topic": "Climate / ESG",
       "count": 9
     },
     {
@@ -266,19 +266,23 @@
       "count": 8
     },
     {
-      "topic": "Stress Testing",
-      "count": 8
-    },
-    {
       "topic": "DORA / Operational Resilience",
       "count": 7
     },
     {
+      "topic": "Stress Testing",
+      "count": 6
+    },
+    {
       "topic": "Consumer Protection",
-      "count": 4
+      "count": 5
     },
     {
       "topic": "Liquidity",
+      "count": 4
+    },
+    {
+      "topic": "Model Risk",
       "count": 4
     },
     {
@@ -286,12 +290,8 @@
       "count": 3
     },
     {
-      "topic": "Model Risk",
-      "count": 3
-    },
-    {
       "topic": "AML / Financial Crime",
-      "count": 2
+      "count": 3
     },
     {
       "topic": "Credit Risk",
@@ -305,7 +305,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 121
+      "count": 120
     },
     {
       "topic": "Governance",
@@ -317,18 +317,18 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 25
+      "count": 24
     },
     {
       "topic": "Payments / Open Finance",
       "count": 16
     },
     {
-      "topic": "Climate / ESG",
-      "count": 10
+      "topic": "Capital Requirements",
+      "count": 9
     },
     {
-      "topic": "Capital Requirements",
+      "topic": "Climate / ESG",
       "count": 9
     },
     {
@@ -340,19 +340,23 @@
       "count": 8
     },
     {
-      "topic": "Stress Testing",
-      "count": 8
-    },
-    {
       "topic": "DORA / Operational Resilience",
       "count": 7
     },
     {
+      "topic": "Stress Testing",
+      "count": 6
+    },
+    {
       "topic": "Consumer Protection",
-      "count": 4
+      "count": 5
     },
     {
       "topic": "Liquidity",
+      "count": 4
+    },
+    {
+      "topic": "Model Risk",
       "count": 4
     },
     {
@@ -360,12 +364,8 @@
       "count": 3
     },
     {
-      "topic": "Model Risk",
-      "count": 3
-    },
-    {
       "topic": "AML / Financial Crime",
-      "count": 2
+      "count": 3
     },
     {
       "topic": "Credit Risk",
@@ -399,7 +399,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 20
+      "count": 19
     },
     {
       "keyword": "policy statement",
@@ -415,7 +415,7 @@
     },
     {
       "keyword": "reporting",
-      "count": 12
+      "count": 10
     },
     {
       "keyword": "payment",
@@ -423,14 +423,10 @@
     },
     {
       "keyword": "climate",
-      "count": 8
-    },
-    {
-      "keyword": "disclosure",
       "count": 7
     },
     {
-      "keyword": "resolution",
+      "keyword": "disclosure",
       "count": 7
     },
     {
@@ -438,12 +434,12 @@
       "count": 6
     },
     {
-      "keyword": "stress test",
+      "keyword": "resolution",
       "count": 6
     },
     {
       "keyword": "transparency",
-      "count": 5
+      "count": 6
     },
     {
       "keyword": "capital requirements",
@@ -458,6 +454,10 @@
       "count": 4
     },
     {
+      "keyword": "stress test",
+      "count": 4
+    },
+    {
       "keyword": "clearing",
       "count": 3
     },
@@ -466,7 +466,7 @@
       "count": 3
     },
     {
-      "keyword": "resolvability",
+      "keyword": "internal models",
       "count": 3
     },
     {
@@ -479,6 +479,10 @@
     },
     {
       "keyword": "basel 3",
+      "count": 2
+    },
+    {
+      "keyword": "consumer duty",
       "count": 2
     },
     {
@@ -510,10 +514,6 @@
       "count": 2
     },
     {
-      "keyword": "internal models",
-      "count": 2
-    },
-    {
       "keyword": "investigation",
       "count": 2
     },
@@ -538,15 +538,11 @@
       "count": 2
     },
     {
-      "keyword": "securitisation",
+      "keyword": "resolvability",
       "count": 2
     },
     {
       "keyword": "stress testing",
-      "count": 2
-    },
-    {
-      "keyword": "supervisory reporting",
       "count": 2
     },
     {
@@ -574,15 +570,7 @@
       "count": 1
     },
     {
-      "keyword": "climate risk",
-      "count": 1
-    },
-    {
       "keyword": "complaints",
-      "count": 1
-    },
-    {
-      "keyword": "consumer duty",
       "count": 1
     },
     {
@@ -595,6 +583,10 @@
     },
     {
       "keyword": "cryptoasset exposures",
+      "count": 1
+    },
+    {
+      "keyword": "deposit guarantee",
       "count": 1
     },
     {
@@ -696,6 +688,14 @@
     {
       "keyword": "recovery plans",
       "count": 1
+    },
+    {
+      "keyword": "risk weighted assets",
+      "count": 1
+    },
+    {
+      "keyword": "risk-weighted assets",
+      "count": 1
     }
   ],
   "regionSummary": [
@@ -779,6 +779,196 @@
     }
   ],
   "publications": [
+    {
+      "id": "cebc10faa118945c",
+      "title": "Christine Lagarde: Back to basics in an uncertain environment",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260629~cb5a2e2168.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-29T19:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op371.en.pdf?f80ec8ae70bf291a160a0b89674bf747",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op372.en.pdf?26bfe8b1d35c90ecc2021976222bdca8"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260629~cb5a2e2168.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "2c063738ed608197",
+      "title": "ECB sanctions BIL for breaching ECB decision on internal models",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260629~f60e0e7048.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-29T16:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.guidetothemethodofsettingadministrativepecuniarypenalties_202103~400cbafa55.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "AML / Financial Crime",
+        "Model Risk",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "sanctions",
+        "internal models",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "sanctions"
+          ]
+        },
+        {
+          "id": "model-risk",
+          "label": "Model Risk",
+          "keywords": [
+            "internal models"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260629~f60e0e7048.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "ab1c856ff80419d9",
+      "title": "The EBA publishes its 2025 Report on supervisory convergence, supporting a simpler and more efficient EU prudential framework",
+      "summary": "​The European Banking Authority (EBA) today published its 2025 Report on supervisory convergence, as part of its broader efforts to contribute to a more efficient, streamlined and effective EU prudential framework. This work responds to the EBA’s initiatives to increase the efficiency of the regulatory and supervisory framework, including through greater transparency and a focus on supervisory convergence. The Report highlights continued progress in aligning supervisory practices across the European Union (EU), while identifying areas where further convergence is needed.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2025-report-supervisory-convergence-supporting-simpler-and-more-efficient-eu",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-29T12:28:23.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2025-10/b8e0ef8e-2d49-43fc-b917-dbca3423588c/Report%20on%20the%20efficiency%20of%20the%20regulatory%20and%20supervisory%20framework.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-06/ca46f10c-6f22-40fc-949a-00fa54f7716c/Report%20on%20Supervisory%20Convergence%202025.pdf"
+      ],
+      "topics": [
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "transparency",
+        "supervisory",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "transparency"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2025-report-supervisory-convergence-supporting-simpler-and-more-efficient-eu",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "331333a7e3db65b9",
+      "title": "The EBA publishes a roadmap on the delivery of its mandates under the revised Deposit Guarantee Schemes Directive",
+      "summary": "The European Banking Authority (EBA) today published a roadmap outlining how it will deliver its mandates under the revised Deposit Guarantee Schemes Directive (DGSD3). The roadmap sets out the EBA’s role in implementing DGSD3 by developing a set of regulatory products to strengthen depositor protection across the EU. It also presents the timeline for these deliverables, which will ensure depositors are better informed about their rights, better protected, and that deposit guarantee schemes are prepared to act when needed.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-roadmap-delivery-its-mandates-under-revised-deposit-guarantee-schemes-directive",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-29T09:56:54.000Z",
+      "pdfLinks": [
+        "https://eba.europa.eu/sites/default/files/documents/10180/2622242/324e89ec-3523-4c5b-bd4f-e415367212bb/EBA%20Opinion%20on%20the%20eligibility%20of%20deposits%20coverage%20level%20and%20cooperation%20between%20DGSs.pdf?retry=1",
+        "https://www.eba.europa.eu/sites/default/files/document_library/EBA%20Opinion%20on%20DGS%20Payouts.pdf",
+        "https://www.eba.europa.eu/sites/default/files/document_library/Publications/Opinions/2020/EBA%20Opinion%20on%20DGS%20funding%20and%20uses%20of%20DGS%20funds.pdf",
+        "https://www.eba.europa.eu/sites/default/files/document_library/Publications/Opinions/2020/961347/EBA%20Opinion%20on%20the%20interplay%20between%20the%20AMLD%20and%20the%20DGSD.pdf",
+        "https://www.eba.europa.eu/sites/default/files/document_library/Publications/Opinions/2021/1022906/EBA%20Opinion%20on%20the%20treatment%20of%20client%20funds%20under%20DGSD.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-06/e3e5cd23-92cb-40ae-b765-b9e8234f4e7d/Roadmap%20on%20the%20delivery%20of%20the%20DGSD%20mandates.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "its",
+        "deposit guarantee"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "deposit guarantee"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-roadmap-delivery-its-mandates-under-revised-deposit-guarantee-schemes-directive",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "7651c20f4023aa79",
       "title": "Isabel Schnabel: Is inflation back?",
@@ -4093,29 +4283,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "e9521c6d34f7a3b9",
-      "title": "New data release: ECB wage tracker points to stable negotiated wage pressures in 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260617~79dfc49802.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-17T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260617~79dfc49802.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "99b4be08256e116f",
       "title": "ESMA 2025 Annual Report: focus on stronger supervision, regulatory simplification, and innovation",
       "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets reg",
@@ -4129,10 +4296,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-06-17T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-06/ESMA22-50751485-1657_2025_Annual_Report.pdf",
-        "https://www.esma.europa.eu/sites/default/files/2026-06/ESMA71-545613100-2954_Annual_Report_2025_focus_on_stronger_supervision__regulatory_simplification__and_innovation_-_Press_release.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -4167,9 +4331,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-06-16T14:10:28.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-06/40a1da62-eba5-43e9-bf59-b5e55457c9ee/Annual%20Report%202025%20-%20Part%201.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "DORA / Operational Resilience",
         "Crypto / Digital Assets",
@@ -4300,74 +4462,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "e4a126df0d00e239",
-      "title": "The EBA proposes simplifications to the EU bank capital framework in a holistic manner to strengthen its efficiency",
-      "summary": "The European Banking Authority (EBA) continues to execute on its simplification and efficiency programme. After proposals in April to reduce the reporting burden for banks and for a simpler stress-test in 2027, it publishes today a comprehensive review of the EU bank microprudential, macroprudential and resolution capital framework, including proposals to simplify it. The proposals aim to reduce complexity while preserving banks’ resilience and resolvability as well as authorities’ tools, and to ensure the framework remains focused on emerging and materially evolving risks.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-proposes-simplifications-eu-bank-capital-framework-holistic-manner-strengthen-its-efficiency",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-16T07:57:58.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2025-10/b8e0ef8e-2d49-43fc-b917-dbca3423588c/Report%20on%20the%20efficiency%20of%20the%20regulatory%20and%20supervisory%20framework.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2024-07/3f548b65-873a-4f0d-ab5a-094cd18dee33/Report%20on%20stacking%20orders%20and%20capital%20buffers.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-06/fa80675a-1caa-4098-822f-511c6fad0616/Report%20on%20simplifying%20the%20stacking%20orders%20of%20the%20EU%20prudential%20and%20resolution%20framework.pdf"
-      ],
-      "topics": [
-        "Stress Testing",
-        "Reporting / Disclosure",
-        "Supervision / Enforcement",
-        "Recovery / Resolution"
-      ],
-      "matchedKeywords": [
-        "stress test",
-        "reporting",
-        "its",
-        "resolution",
-        "resolvability"
-      ],
-      "topicMatches": [
-        {
-          "id": "stress-testing",
-          "label": "Stress Testing",
-          "keywords": [
-            "stress test"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        },
-        {
-          "id": "resolution-recovery",
-          "label": "Recovery / Resolution",
-          "keywords": [
-            "resolution",
-            "resolvability"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-proposes-simplifications-eu-bank-capital-framework-holistic-manner-strengthen-its-efficiency",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "f08ca54628d12d82",
@@ -4659,72 +4753,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "c28db77ed5bc8a68",
-      "title": "​The EBA launches early consultation on simplified EU-wide stress test, with climate risk integration",
-      "summary": "The European Banking Authority (EBA) published today the draft methodology, templates, and template guidance for the 2027 EU-wide stress test. The 2027 exercise introduces significant simplifications to improve efficiency and risk sensitivity, while preserving the robustness and comparability of results. Key changes include a substantial reduction in data requirements, the alignment of information with harmonised supervisory reporting, and the integration of climate risks into the EU-wide stress test. A total of 63 banks from the EU and Norway, including 47 from the euro area, will participate, covering 75% of the EU banking sector.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-early-consultation-simplified-eu-wide-stress-test-climate-risk-integration",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-11T12:20:06.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Climate / ESG",
-        "Stress Testing",
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "climate",
-        "climate risk",
-        "stress test",
-        "reporting",
-        "supervisory reporting",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate",
-            "climate risk"
-          ]
-        },
-        {
-          "id": "stress-testing",
-          "label": "Stress Testing",
-          "keywords": [
-            "stress test"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting",
-            "supervisory reporting"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-early-consultation-simplified-eu-wide-stress-test-climate-risk-integration",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "c5ec8d7a6854c6a6",
@@ -6688,54 +6716,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "4b30e9dfc3bd1e39",
-      "title": "Pedro Machado: Strengthening the supervisory grip on securitisation: reading the data, anticipating the risks",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260514~4917539c35.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-14T12:10:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "securitisation",
-        "supervision",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision",
-            "securitisation"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260514~4917539c35.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "671a689aa9fe78ba",
@@ -10486,50 +10466,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "2b1e8b6851fa62c5",
-      "title": "FCA update on reforms to the UK Money Market Fund Regulation",
-      "summary": "We set out next steps on issuing new rules and guidance on Money Market Funds (MMFs), following Government plans to replace the current rules. On 15 May, the Government set out its expectation that it will lay legislation that will replace the UK Money Market Funds Regulation. Read the Government statement. Money Market Funds (MMFs) play an important role in the financial system. MMFs are widely used for cash management and provide an alternative or complement to bank deposits for a broad range of investors. However, recent periods of market stress have highlighted the need to strengthen the resilience of these funds.",
-      "url": "https://www.fca.org.uk/news/statements/reforms-uk-money-market-fund-regulation",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/statements/reforms-uk-money-market-fund-regulation",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "d29d97b8a42786f4",
       "title": "Investors get real-time view of UK bond market activity for the first time",
       "summary": "For the first time, investors and market participants can access a single, real-time source of prices and trading activity across the UK bond market, following the launch of its bond consolidated tape, operated by ETS Connect UK. Until now, data on bond trades was scattered across multiple sources, making it difficult to get a clear and complete picture of market activity. The new service brings it all together in one place. The launch builds on changes to the UK's bond market transparency rules that came into force in December 2025. Those changes have already made a real difference.",
@@ -10743,6 +10679,50 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
+      "id": "f8e172adf2163274",
+      "title": "Refining the Consumer Duty to give greater confidence to wholesale firms",
+      "summary": "When the FCA introduced the Consumer Duty, we set out to do something simple but transformative: ensure financial services work better for consumers. It was, by design, ambitious. And it is working. For example, most investment platforms have improved how they treat interest on clients’ cash and public confidence in banks has grown since the Duty was introduced. Wherever possible, it is also helping us to avoid prescriptive new rules. The Duty’s foundations are simple harmonising concepts that apply across sectors and value chains. But it was novel, and a big undertaking for firms to implement, so it is only natural that we should reflect on how it’s been working three years on.",
+      "url": "https://www.fca.org.uk/news/blogs/refining-consumer-duty-give-greater-confidence-wholesale-firms",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Consumer Protection",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "consumer duty",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "consumer duty"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/blogs/refining-consumer-duty-give-greater-confidence-wholesale-firms",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "72dadc94814f7bd2",
       "title": "Rethinking regulation for the age of AI",
       "summary": "Speech by Nikhil Rathi, FCA chief executive at techUK's Agents of Change: Generative and Agentic AI in Financial Services 2026. On joining the FCA over five years ago, I said we would become as much a data and tech regulator as financial services regulator. Being invited to speak here today reflects that. We’re building the future together, and nowhere is that clearer than on AI. Studies suggest more than 80% of financial services firms are already adopting AI. So the question now is about scale. And if we are serious about being a leading AI economy, financial services have to sit at the heart of our approach.",
@@ -10871,7 +10851,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-29T11:02:10.594Z",
+      "publishedAt": "2026-06-29T19:58:04.111Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10895,7 +10875,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-29T11:02:10.594Z",
+      "publishedAt": "2026-06-29T19:58:04.111Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10919,7 +10899,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-29T11:02:10.594Z",
+      "publishedAt": "2026-06-29T19:58:04.111Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10943,7 +10923,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-29T11:02:10.594Z",
+      "publishedAt": "2026-06-29T19:58:04.111Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10960,7 +10940,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 68
+      "count": 70
     },
     {
       "updateType": "News",
@@ -10968,11 +10948,11 @@
     },
     {
       "updateType": "Consultations",
-      "count": 20
+      "count": 19
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 19
+      "count": 18
     },
     {
       "updateType": "Working Papers / Research",
