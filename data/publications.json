@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-30T09:36:03.015Z",
-  "totalPublications": 276,
+  "generatedAt": "2026-06-30T19:58:50.953Z",
+  "totalPublications": 275,
   "sourceCount": 17,
   "successfulSources": 17,
   "warningSources": 0,
@@ -156,7 +156,7 @@
       "region": "US",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 9,
+      "itemCount": 8,
       "url": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
@@ -231,11 +231,11 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 119
+      "count": 117
     },
     {
       "topic": "Governance",
-      "count": 57
+      "count": 58
     },
     {
       "topic": "Basel / BCBS",
@@ -243,35 +243,35 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 24
+      "count": 25
     },
     {
       "topic": "Payments / Open Finance",
       "count": 15
     },
     {
-      "topic": "Crypto / Digital Assets",
+      "topic": "Climate / ESG",
       "count": 10
     },
     {
-      "topic": "Capital Requirements",
-      "count": 9
-    },
-    {
-      "topic": "Climate / ESG",
+      "topic": "Crypto / Digital Assets",
       "count": 9
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 8
+      "count": 9
     },
     {
-      "topic": "DORA / Operational Resilience",
-      "count": 7
+      "topic": "Capital Requirements",
+      "count": 8
     },
     {
       "topic": "Stress Testing",
       "count": 7
+    },
+    {
+      "topic": "DORA / Operational Resilience",
+      "count": 6
     },
     {
       "topic": "Consumer Protection",
@@ -279,10 +279,6 @@
     },
     {
       "topic": "Liquidity",
-      "count": 4
-    },
-    {
-      "topic": "Model Risk",
       "count": 4
     },
     {
@@ -294,8 +290,12 @@
       "count": 3
     },
     {
+      "topic": "Model Risk",
+      "count": 3
+    },
+    {
       "topic": "Credit Risk",
-      "count": 2
+      "count": 1
     },
     {
       "topic": "Market Risk",
@@ -305,11 +305,11 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 119
+      "count": 117
     },
     {
       "topic": "Governance",
-      "count": 57
+      "count": 58
     },
     {
       "topic": "Basel / BCBS",
@@ -317,35 +317,35 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 24
+      "count": 25
     },
     {
       "topic": "Payments / Open Finance",
       "count": 15
     },
     {
-      "topic": "Crypto / Digital Assets",
+      "topic": "Climate / ESG",
       "count": 10
     },
     {
-      "topic": "Capital Requirements",
-      "count": 9
-    },
-    {
-      "topic": "Climate / ESG",
+      "topic": "Crypto / Digital Assets",
       "count": 9
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 8
+      "count": 9
     },
     {
-      "topic": "DORA / Operational Resilience",
-      "count": 7
+      "topic": "Capital Requirements",
+      "count": 8
     },
     {
       "topic": "Stress Testing",
       "count": 7
+    },
+    {
+      "topic": "DORA / Operational Resilience",
+      "count": 6
     },
     {
       "topic": "Consumer Protection",
@@ -353,10 +353,6 @@
     },
     {
       "topic": "Liquidity",
-      "count": 4
-    },
-    {
-      "topic": "Model Risk",
       "count": 4
     },
     {
@@ -368,8 +364,12 @@
       "count": 3
     },
     {
+      "topic": "Model Risk",
+      "count": 3
+    },
+    {
       "topic": "Credit Risk",
-      "count": 2
+      "count": 1
     },
     {
       "topic": "Market Risk",
@@ -383,11 +383,11 @@
     },
     {
       "keyword": "its",
-      "count": 34
+      "count": 33
     },
     {
       "keyword": "board",
-      "count": 33
+      "count": 32
     },
     {
       "keyword": "banking supervision",
@@ -398,16 +398,16 @@
       "count": 22
     },
     {
-      "keyword": "supervisory",
-      "count": 19
-    },
-    {
       "keyword": "policy statement",
       "count": 17
     },
     {
+      "keyword": "supervisory",
+      "count": 17
+    },
+    {
       "keyword": "enforcement",
-      "count": 16
+      "count": 15
     },
     {
       "keyword": "consultation paper",
@@ -430,20 +430,16 @@
       "count": 7
     },
     {
-      "keyword": "operational resilience",
-      "count": 6
+      "keyword": "transparency",
+      "count": 7
     },
     {
       "keyword": "resolution",
       "count": 6
     },
     {
-      "keyword": "transparency",
-      "count": 6
-    },
-    {
-      "keyword": "capital requirements",
-      "count": 4
+      "keyword": "operational resilience",
+      "count": 5
     },
     {
       "keyword": "liquidity",
@@ -458,6 +454,10 @@
       "count": 4
     },
     {
+      "keyword": "capital requirements",
+      "count": 3
+    },
+    {
       "keyword": "clearing",
       "count": 3
     },
@@ -466,11 +466,11 @@
       "count": 3
     },
     {
-      "keyword": "crypto",
+      "keyword": "governance",
       "count": 3
     },
     {
-      "keyword": "internal models",
+      "keyword": "guidelines",
       "count": 3
     },
     {
@@ -490,6 +490,10 @@
       "count": 3
     },
     {
+      "keyword": "accountability",
+      "count": 2
+    },
+    {
       "keyword": "basel 3",
       "count": 2
     },
@@ -498,7 +502,7 @@
       "count": 2
     },
     {
-      "keyword": "credit risk",
+      "keyword": "crypto",
       "count": 2
     },
     {
@@ -510,7 +514,11 @@
       "count": 2
     },
     {
-      "keyword": "dora",
+      "keyword": "deposit guarantee",
+      "count": 2
+    },
+    {
+      "keyword": "esg",
       "count": 2
     },
     {
@@ -518,19 +526,11 @@
       "count": 2
     },
     {
-      "keyword": "governance",
-      "count": 2
-    },
-    {
-      "keyword": "guidelines",
+      "keyword": "internal models",
       "count": 2
     },
     {
       "keyword": "investigation",
-      "count": 2
-    },
-    {
-      "keyword": "mica",
       "count": 2
     },
     {
@@ -554,10 +554,6 @@
       "count": 2
     },
     {
-      "keyword": "accountability",
-      "count": 1
-    },
-    {
       "keyword": "artificial intelligence",
       "count": 1
     },
@@ -570,10 +566,6 @@
       "count": 1
     },
     {
-      "keyword": "benchmarking",
-      "count": 1
-    },
-    {
       "keyword": "complaints",
       "count": 1
     },
@@ -582,19 +574,11 @@
       "count": 1
     },
     {
+      "keyword": "credit risk",
+      "count": 1
+    },
+    {
       "keyword": "cryptoasset exposures",
-      "count": 1
-    },
-    {
-      "keyword": "deposit guarantee",
-      "count": 1
-    },
-    {
-      "keyword": "digital operational resilience",
-      "count": 1
-    },
-    {
-      "keyword": "digital operational resilience act",
       "count": 1
     },
     {
@@ -610,11 +594,11 @@
       "count": 1
     },
     {
-      "keyword": "emissions",
+      "keyword": "dora",
       "count": 1
     },
     {
-      "keyword": "esg",
+      "keyword": "emissions",
       "count": 1
     },
     {
@@ -627,6 +611,10 @@
     },
     {
       "keyword": "fine",
+      "count": 1
+    },
+    {
+      "keyword": "greenwashing",
       "count": 1
     },
     {
@@ -659,6 +647,10 @@
     },
     {
       "keyword": "market risk",
+      "count": 1
+    },
+    {
+      "keyword": "mica",
       "count": 1
     },
     {
@@ -696,6 +688,14 @@
     {
       "keyword": "sanctions",
       "count": 1
+    },
+    {
+      "keyword": "securitisation",
+      "count": 1
+    },
+    {
+      "keyword": "supervisory reporting",
+      "count": 1
     }
   ],
   "regionSummary": [
@@ -709,7 +709,7 @@
     },
     {
       "region": "US",
-      "count": 73
+      "count": 72
     },
     {
       "region": "Global",
@@ -739,7 +739,7 @@
     },
     {
       "institution": "Federal Reserve Board",
-      "count": 29
+      "count": 28
     },
     {
       "institution": "U.S. Securities and Exchange Commission",
@@ -779,6 +779,204 @@
     }
   ],
   "publications": [
+    {
+      "id": "43e95916ffaac7f3",
+      "title": "SEC Seeks Public Comment on Novel Exchange-Traded Funds",
+      "summary": "The Securities and Exchange Commission today issued a request for public comment on exchange-traded funds (ETFs) seeking to invest in innovative asset classes or engage in novel investment strategies. The request focuses on ways to facilitate innovation…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-60-sec-seeks-public-comment-novel-exchange-traded-funds",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-30T14:15:05.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-60-sec-seeks-public-comment-novel-exchange-traded-funds",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "8ebc7b46d97007c0",
+      "title": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
+      "summary": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-30T14:00:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260630a1.pdf",
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260630a2.pdf"
+      ],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "e376f7c4b2426394",
+      "title": "Consolidated balance sheet - 31 March 2025",
+      "summary": "We publish our balance sheet once a quarter. It contains consolidated data on our assets and liabilities for five quarters earlier.",
+      "url": "https://www.bankofengland.co.uk/weekly-report/2025/consolidated-balance-sheet-31-march-2025",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-30T13:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/weekly-report/2025/consolidated-balance-sheet-31-march-2025",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "641e02df0154ad0b",
+      "title": "The EBA clarifies its Product Oversight and Governance Guidelines which address greenwashing risks in ESG products",
+      "summary": "The European Banking Authority (EBA) today published revised Guidelines on product oversight and governance (POG) for retail banking products. They clarify requirements for products with environmental, social and governance (ESG) features whenever offered and sold to consumers and address greenwashing risks. The Guidelines aim to ensure that financial institutions apply robust standards when designing and distributing ESG-related retail products, with a view to reducing the risk of consumers being misled or sold products that do not meet their needs.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-30T12:50:17.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2024-05/a12e5087-8fd2-451f-8005-6d45dc838ffd/Report%20on%20greenwashing%20monitoring%20and%20supervision.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-06/d4b262c5-d8b7-45fa-a772-89a3719b61cd/EBA%20amending%20GLs%20on%20POG%20GLs%20-%20Final%20report.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-06/8f6eeb6c-371d-4a96-ad85-f6c6d07142cc/Consolidated%20version%20of%20EBA-GL-2015-18%20on%20product%20oversight%20and%20governance%20.pdf"
+      ],
+      "topics": [
+        "Climate / ESG",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "esg",
+        "greenwashing",
+        "governance",
+        "guidelines",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "esg",
+            "greenwashing"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "guidelines",
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "84772c30692e9018",
+      "title": "EU deposit guarantee scheme funds to protect depositors against bank failures continue to grow and have reached a volume of €85bn, the EBA observes",
+      "summary": "The European Banking Authority (EBA) today published end-2025 data on two key concepts and indicators in the DGSD, namely financial means available to, and covered deposits protected by DGSs. This annual publication, covering each Member State, enhances transparency and accountability across the EU to the benefit of depositors, markets, policymakers, DGSs and Members States.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eu-deposit-guarantee-scheme-funds-protect-depositors-against-bank-failures-continue-grow-and-have",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-30T10:39:20.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Reporting / Disclosure",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "accountability",
+        "transparency",
+        "deposit guarantee"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "accountability"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "transparency"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "deposit guarantee"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eu-deposit-guarantee-scheme-funds-protect-depositors-against-bank-failures-continue-grow-and-have",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "3f24243ebaf16064",
       "title": "Bank of England and Financial Conduct Authority’s approach to joint regulation of systemic stablecoin issuers",
@@ -3984,9 +4182,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-06-18T15:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20260618a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance",
         "Supervision / Enforcement"
@@ -4106,11 +4302,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-06-18T12:12:19.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-06/237ad40d-8ab0-4b2f-9fa1-5d6694829ff4/Risk%20Assessment%20Report%20-%20Spring%202026.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-06/67e6b7ed-66da-4c0d-953d-4e6842933598/EBA%20Dashboard%20-%20Q1%202026.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-06/670a41e4-117e-4bbb-89a1-831bf73338fd/RAQ%20Summer%202026%20booklet.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -4127,76 +4319,6 @@
         }
       ],
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eueea-banks-remain-resilient-amid-rising-geopolitical-market-and-technological-risks",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "80e496b93fcb8d49",
-      "title": "​The EBA publishes its annual assessment of banks’ internal approaches for capital requirements calculation",
-      "summary": "​The European Banking Authority (EBA) today published its 2025 Reports on the annual market and credit risk benchmarking exercises, highlighting continued progress in the consistency and reliability of banks’ internal models across the EU, while identifying areas for supervisory attention as key regulatory reforms approach full implementation.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-annual-assessment-banks-internal-approaches-capital-requirements-calculation",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-18T08:42:17.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-06/5430e673-4f48-4852-9018-31c1fc38118f/EBA%20Report%20results%20from%20the%202025%20Market%20Risk%20Benchmarking%20Exercise%20-%20IMA.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-06/15f27c99-5c42-429b-bbac-d64cce671672/EBA%20Report%20results%20from%20the%202025%20Market%20Risk%20Benchmarking%20Exercise%20-%20ASA.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-06/addc87e5-36b9-4eb5-bba7-d5168aa19819/EBA%20Report%20results%20from%20the%202025%20credit%20risk%20benchmarking%20exercise.pdf"
-      ],
-      "topics": [
-        "Capital Requirements",
-        "Credit Risk",
-        "Model Risk",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "capital requirements",
-        "credit risk",
-        "internal models",
-        "benchmarking",
-        "supervisory",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital requirements"
-          ]
-        },
-        {
-          "id": "credit-risk",
-          "label": "Credit Risk",
-          "keywords": [
-            "credit risk"
-          ]
-        },
-        {
-          "id": "model-risk",
-          "label": "Model Risk",
-          "keywords": [
-            "internal models",
-            "benchmarking"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory",
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-annual-assessment-banks-internal-approaches-capital-requirements-calculation",
       "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
@@ -4351,69 +4473,6 @@
       "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "c94f886863bf6f15",
-      "title": "The EBA publishes its 2025 Annual Report outlining key achievements",
-      "summary": "The European Banking Authority (EBA) today published its 2025 Annual Report, outlining its main achievements and activities in delivering on its mandates under its Work Programme. In 2025, the EBA focused on streamlining and improving the efficiency of the EU regulatory framework while expanding its supervisory role, particularly under the Digital Operational Resilience Act (DORA) and Markets in Crypto-Assets Regulation (MiCA).",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2025-annual-report-outlining-key-achievements",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-16T14:10:28.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "DORA / Operational Resilience",
-        "Crypto / Digital Assets",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "dora",
-        "digital operational resilience",
-        "digital operational resilience act",
-        "operational resilience",
-        "crypto",
-        "mica",
-        "supervisory",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "dora-operational-resilience",
-          "label": "DORA / Operational Resilience",
-          "keywords": [
-            "dora",
-            "digital operational resilience",
-            "digital operational resilience act",
-            "operational resilience"
-          ]
-        },
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "crypto",
-            "mica"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory",
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2025-annual-report-outlining-key-achievements",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "3c2086b41f31a3f8",
@@ -6672,41 +6731,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "443bb6300d97d5c2",
-      "title": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
-      "summary": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
-      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-press",
-      "sourceName": "Federal Reserve Press Releases",
-      "institution": "Federal Reserve Board",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-15T21:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "board"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        }
-      ],
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "5be4796bc6b8517c",
       "title": "Results of the firm feedback survey 2025",
       "summary": "The annual firm feedback survey gives PRA-authorised firms the opportunity to comment on their experience of being supervised by the PRA.",
@@ -7451,29 +7475,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "b224cf91e2fbae97",
-      "title": "The Bank of England's approach to cost benefit analysis",
-      "summary": "Statement of policy",
-      "url": "https://www.bankofengland.co.uk/paper/2024/sop/the-bank-of-englands-approach-to-cost-benefit-analysis",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-29T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/paper/2024/sop/the-bank-of-englands-approach-to-cost-benefit-analysis",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "b15ce6fec336b344",
       "title": "The PRA’s Standard Cost Model",
       "summary": "Technical Note",
@@ -7961,41 +7962,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "3ae7a999c73f87b2",
-      "title": "SEC Appoints David Woodcock as Director of the Division of Enforcement",
-      "summary": "The Securities and Exchange Commission today announced that David Woodcock has been appointed Director of the Division of Enforcement, effective May 4, 2026. Mr. Woodcock is currently a partner in the Dallas and Washington, D. C. offices of Gibson, Dunn…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-35-sec-appoints-david-woodcock-director-division-enforcement",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-08T16:20:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "enforcement"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "enforcement"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-35-sec-appoints-david-woodcock-director-division-enforcement",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "8e2094f580ba4f1a",
@@ -9483,41 +9449,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "4fec317b4aecf462",
-      "title": "Agencies release annual asset-size thresholds under Community Reinvestment Act regulations",
-      "summary": "Agencies release annual asset-size thresholds under Community Reinvestment Act regulations",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251230a.htm",
-      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-banking-reg",
-      "sourceName": "Federal Reserve Banking and Consumer Regulatory Policy",
-      "institution": "Federal Reserve Board",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2025-12-30T16:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "board"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        }
-      ],
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251230a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
       "id": "4f5d9dd5cf7ba6ad",
       "title": "Agencies Announce Dollar Thresholds for Applicability of Truth in Lending and Consumer Leasing Rules for Consumer Credit and Lease Transactions",
       "summary": "The CFPB and the FRB are announcing the dollar thresholds used to determine whether certain consumer credit and lease transactions in 2026 are subject to certain protections under Regulation Z (Truth in Lending) and Regulation M (Consumer Leasing).",
@@ -10862,7 +10793,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-30T09:36:03.015Z",
+      "publishedAt": "2026-06-30T19:58:50.953Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10886,7 +10817,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-30T09:36:03.015Z",
+      "publishedAt": "2026-06-30T19:58:50.953Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10910,7 +10841,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-30T09:36:03.015Z",
+      "publishedAt": "2026-06-30T19:58:50.953Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10934,7 +10865,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-30T09:36:03.015Z",
+      "publishedAt": "2026-06-30T19:58:50.953Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10947,11 +10878,11 @@
   "updateTypeSummary": [
     {
       "updateType": "Publications / Reports",
-      "count": 73
+      "count": 74
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 70
+      "count": 68
     },
     {
       "updateType": "News",
@@ -10970,11 +10901,11 @@
       "count": 15
     },
     {
-      "updateType": "Other",
+      "updateType": "Statistics / Data",
       "count": 6
     },
     {
-      "updateType": "Statistics / Data",
+      "updateType": "Other",
       "count": 5
     },
     {
