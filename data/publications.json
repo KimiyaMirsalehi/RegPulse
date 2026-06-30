@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T19:58:04.111Z",
+  "generatedAt": "2026-06-30T09:36:03.015Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,11 +231,11 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 120
+      "count": 119
     },
     {
       "topic": "Governance",
-      "count": 56
+      "count": 57
     },
     {
       "topic": "Basel / BCBS",
@@ -247,7 +247,11 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 16
+      "count": 15
+    },
+    {
+      "topic": "Crypto / Digital Assets",
+      "count": 10
     },
     {
       "topic": "Capital Requirements",
@@ -256,10 +260,6 @@
     {
       "topic": "Climate / ESG",
       "count": 9
-    },
-    {
-      "topic": "Crypto / Digital Assets",
-      "count": 8
     },
     {
       "topic": "Recovery / Resolution",
@@ -271,11 +271,11 @@
     },
     {
       "topic": "Stress Testing",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "Consumer Protection",
-      "count": 5
+      "count": 4
     },
     {
       "topic": "Liquidity",
@@ -305,11 +305,11 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 120
+      "count": 119
     },
     {
       "topic": "Governance",
-      "count": 56
+      "count": 57
     },
     {
       "topic": "Basel / BCBS",
@@ -321,7 +321,11 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 16
+      "count": 15
+    },
+    {
+      "topic": "Crypto / Digital Assets",
+      "count": 10
     },
     {
       "topic": "Capital Requirements",
@@ -330,10 +334,6 @@
     {
       "topic": "Climate / ESG",
       "count": 9
-    },
-    {
-      "topic": "Crypto / Digital Assets",
-      "count": 8
     },
     {
       "topic": "Recovery / Resolution",
@@ -345,11 +345,11 @@
     },
     {
       "topic": "Stress Testing",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "Consumer Protection",
-      "count": 5
+      "count": 4
     },
     {
       "topic": "Liquidity",
@@ -379,11 +379,11 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 40
+      "count": 41
     },
     {
       "keyword": "its",
-      "count": 35
+      "count": 34
     },
     {
       "keyword": "board",
@@ -395,7 +395,7 @@
     },
     {
       "keyword": "conduct",
-      "count": 21
+      "count": 22
     },
     {
       "keyword": "supervisory",
@@ -419,7 +419,7 @@
     },
     {
       "keyword": "payment",
-      "count": 9
+      "count": 8
     },
     {
       "keyword": "climate",
@@ -450,7 +450,7 @@
       "count": 4
     },
     {
-      "keyword": "payments",
+      "keyword": "stablecoins",
       "count": 4
     },
     {
@@ -466,7 +466,15 @@
       "count": 3
     },
     {
+      "keyword": "crypto",
+      "count": 3
+    },
+    {
       "keyword": "internal models",
+      "count": 3
+    },
+    {
+      "keyword": "payments",
       "count": 3
     },
     {
@@ -474,7 +482,11 @@
       "count": 3
     },
     {
-      "keyword": "stablecoins",
+      "keyword": "stablecoin",
+      "count": 3
+    },
+    {
+      "keyword": "stress testing",
       "count": 3
     },
     {
@@ -490,7 +502,7 @@
       "count": 2
     },
     {
-      "keyword": "crypto",
+      "keyword": "cryptoasset",
       "count": 2
     },
     {
@@ -542,19 +554,11 @@
       "count": 2
     },
     {
-      "keyword": "stress testing",
-      "count": 2
-    },
-    {
       "keyword": "accountability",
       "count": 1
     },
     {
       "keyword": "artificial intelligence",
-      "count": 1
-    },
-    {
-      "keyword": "authorisation",
       "count": 1
     },
     {
@@ -578,19 +582,11 @@
       "count": 1
     },
     {
-      "keyword": "cryptoasset",
-      "count": 1
-    },
-    {
       "keyword": "cryptoasset exposures",
       "count": 1
     },
     {
       "keyword": "deposit guarantee",
-      "count": 1
-    },
-    {
-      "keyword": "digital euro",
       "count": 1
     },
     {
@@ -627,10 +623,6 @@
     },
     {
       "keyword": "financial disclosure",
-      "count": 1
-    },
-    {
-      "keyword": "financial promotions",
       "count": 1
     },
     {
@@ -695,6 +687,14 @@
     },
     {
       "keyword": "risk-weighted assets",
+      "count": 1
+    },
+    {
+      "keyword": "sanction",
+      "count": 1
+    },
+    {
+      "keyword": "sanctions",
       "count": 1
     }
   ],
@@ -779,6 +779,105 @@
     }
   ],
   "publications": [
+    {
+      "id": "3f24243ebaf16064",
+      "title": "Bank of England and Financial Conduct Authority’s approach to joint regulation of systemic stablecoin issuers",
+      "summary": "Approach document",
+      "url": "https://www.bankofengland.co.uk/paper/2026/boe-and-fcas-approach-to-joint-regulation-of-systemic-stablecoin-issuers",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-30T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.fca.org.uk/publication/policy/ps26-10.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/memoranda-of-understanding/2025/mou-boe-fca-psr-pra.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/letter/2026/innovations-in-the-use-of-deposits-emoney-and-regulated-stablecoins.pdf",
+        "https://www.bis.org/cpmi/publ/d206.pdf"
+      ],
+      "topics": [
+        "Crypto / Digital Assets",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "stablecoin",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "stablecoin"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/paper/2026/boe-and-fcas-approach-to-joint-regulation-of-systemic-stablecoin-issuers",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "25caba4c202e1b40",
+      "title": "ECB publishes indicative operational calendars for 2027",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630~9f54a0a4fb.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-30T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260630_annex~d20c0ea013.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630~9f54a0a4fb.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "1e28aea7d6836477",
+      "title": "ECB publishes indicative operational calendars for 2028",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-30T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260630_1_annex~eee6d9d2a3.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "cebc10faa118945c",
       "title": "Christine Lagarde: Back to basics in an uncertain environment",
@@ -3474,29 +3573,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "6eeb457fee2da677",
-      "title": "ECB publishes consolidated banking data for end-December 2025",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260619~f097597c01.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-19T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260619~f097597c01.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "9f8a6fa0605240dc",
       "title": "ECB publishes supervisory banking statistics on significant institutions for the first quarter of 2026",
       "summary": "",
@@ -4056,43 +4132,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "8783969d3b870d64",
-      "title": "Piero Cipollone: Digital euro: the future of money",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260618~da08e71469.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-18T12:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260618~da08e71469.en.pdf"
-      ],
-      "topics": [
-        "Crypto / Digital Assets"
-      ],
-      "matchedKeywords": [
-        "digital euro"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "digital euro"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260618~da08e71469.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "80e496b93fcb8d49",
       "title": "​The EBA publishes its annual assessment of banks’ internal approaches for capital requirements calculation",
       "summary": "​The European Banking Authority (EBA) today published its 2025 Reports on the annual market and credit risk benchmarking exercises, highlighting continued progress in the consistency and reliability of banks’ internal models across the EU, while identifying areas for supervisory attention as key regulatory reforms approach full implementation.",
@@ -4176,9 +4215,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-06-17T18:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20260617.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -4213,9 +4250,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-06-17T18:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/monetarypolicy/files/monetary20260617a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -7508,43 +7543,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "949aea0a89775a69",
-      "title": "Substitution between RTGS and instant payment schemes: the impact of the 2022 Faster Payments transaction limit increase on CHAPS",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/substitution-between-rtgs-and-instant-payment-schemes",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-24T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "payment",
-        "payments"
-      ],
-      "topicMatches": [
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payment",
-            "payments"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/substitution-between-rtgs-and-instant-payment-schemes",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
       "id": "a465f1b24263e4bd",
       "title": "Agencies finalize changes to enhance community bank leverage ratio",
       "summary": "Agencies finalize changes to enhance community bank leverage ratio",
@@ -10178,6 +10176,59 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
+      "id": "3e575b850d0cef84",
+      "title": "FCA and the Bank of England set out approach to joint regulation of systemic stablecoin issuers",
+      "summary": "The Bank of England and the FCA have published a joint approach setting out how they and where relevant other authorities will work together to regulate systemic stablecoin issuers in the UK. It explains how responsibilities will be split between the authorities, and how UK stablecoin issuers may move from FCA supervision to joint regulation once recognised as systemic by HM Treasury. The approach aims to provide clarity and predictability for firms as the market develops. Read the paper",
+      "url": "https://www.fca.org.uk/news/statements/fca-and-bank-england-set-out-approach-joint-regulation-systemic-stablecoin-issuers",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Crypto / Digital Assets",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "stablecoin",
+        "conduct",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "stablecoin"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/statements/fca-and-bank-england-set-out-approach-joint-regulation-systemic-stablecoin-issuers",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
       "id": "197c81371817c5f7",
       "title": "FCA closes investigation into Drax Group PLC",
       "summary": "Drax Group PLC (Drax) has announced the FCA has closed its investigation into the company. We undertook an extensive investigation following concerns raised regarding disclosures to the market about the sustainability of Drax’s Canadian biomass. We did not find evidence that justified any further action. Thousands of pages of complex material were reviewed as part of the investigation, and individuals from the company interviewed. Our focus was on areas within our remit, specifically whether Drax’s annual reports and accounts between 2021 and 2023 contained misleading statements or left out important information investors needed to know.",
@@ -10369,10 +10420,10 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "1059e099b485fade",
-      "title": "FCA proposes changes to help more people access mortgages",
-      "summary": "First-time buyers, older borrowers and the self-employed could find it easier to get a mortgage, as the FCA sets out next steps to help reform the market. Its proposed mortgage rule changes would give lenders more flexibility to consider individual circumstances and develop products that better meet people's needs – while maintaining strong consumer protections. They include:Reducing barriers for lenders to offer flexible repayments for people with variable income, like the self-employed, and lend to those paid in foreign currency.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-proposals-help-more-access-mortgages",
+      "id": "e93ab150ea55aeb1",
+      "title": "FCA sets landmark crypto rules to cement the UK’s place as a global hub",
+      "summary": "Firms supporting people to buy, trade and hold crypto will need to meet clear standards under landmark rules set out by the FCA. All firms must meet financial resilience requirements including capital and stress testing. The FCA is also introducing new market integrity rules covering areas such as insider trading and market manipulation. The new framework also sets out specific rules for stablecoins, a type of cryptoasset designed to maintain a stable value, typically by being linked to a currency such as the pound. Stablecoins will be subject to clear, strong and transparent standards, helping to build trust in how they are used over time.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-sets-landmark-crypto-rules-cement-uks-place-global-hub",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -10384,86 +10435,46 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
-        "Governance",
-        "Supervision / Enforcement"
+        "Crypto / Digital Assets",
+        "Stress Testing",
+        "Governance"
       ],
       "matchedKeywords": [
-        "conduct",
-        "its"
+        "crypto",
+        "cryptoasset",
+        "stablecoins",
+        "stress testing",
+        "conduct"
       ],
       "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "crypto",
+            "cryptoasset",
+            "stablecoins"
+          ]
+        },
+        {
+          "id": "stress-testing",
+          "label": "Stress Testing",
+          "keywords": [
+            "stress testing"
+          ]
+        },
         {
           "id": "governance",
           "label": "Governance",
           "keywords": [
             "conduct"
           ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-proposals-help-more-access-mortgages",
+      "link": "https://www.fca.org.uk/news/press-releases/fca-sets-landmark-crypto-rules-cement-uks-place-global-hub",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "498e05f301c8d70a",
-      "title": "FCA takes action against Neil Woodford and W4.0 for operating without authorisation",
-      "summary": "The FCAhasstartedcivil proceedings against Mr Neil Woodford andW4.0. The FCAallegesthat Mr Woodford and W4.0 are providing regulated investment advice and making financial promotions through the subscription-based platform, www.w4pz.com, without authorisation. In the FCA’sview, the activitybreachessections 19 and 21 of the Financial Services and Markets Act 2000 (FSMA). The FCA is seekingan injunction against Mr Woodford and W4.0 tostop them carrying on the potentiallyunlawfulactivities. W4.0 is the trading name of W Four Point Zero FZE LLCand is registered in the United Arab Emirates.",
-      "url": "https://www.fca.org.uk/news/statements/fca-takes-action-against-neil-woodford-and-w40-operating-without-authorisation",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Consumer Protection",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "financial promotions",
-        "conduct",
-        "authorisation"
-      ],
-      "topicMatches": [
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "financial promotions"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "authorisation"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/statements/fca-takes-action-against-neil-woodford-and-w40-operating-without-authorisation",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "d29d97b8a42786f4",
@@ -10851,7 +10862,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-06-29T19:58:04.111Z",
+      "publishedAt": "2026-06-30T09:36:03.015Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10875,7 +10886,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-29T19:58:04.111Z",
+      "publishedAt": "2026-06-30T09:36:03.015Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10899,7 +10910,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-29T19:58:04.111Z",
+      "publishedAt": "2026-06-30T09:36:03.015Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10923,7 +10934,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-06-29T19:58:04.111Z",
+      "publishedAt": "2026-06-30T09:36:03.015Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10936,7 +10947,7 @@
   "updateTypeSummary": [
     {
       "updateType": "Publications / Reports",
-      "count": 71
+      "count": 73
     },
     {
       "updateType": "Rules / Standards / Guidance",
@@ -10944,7 +10955,7 @@
     },
     {
       "updateType": "News",
-      "count": 67
+      "count": 66
     },
     {
       "updateType": "Consultations",
@@ -10956,7 +10967,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 16
+      "count": 15
     },
     {
       "updateType": "Other",
