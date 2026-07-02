@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T19:56:20.782Z",
+  "generatedAt": "2026-07-02T08:56:26.718Z",
   "totalPublications": 275,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 115
+      "count": 112
     },
     {
       "topic": "Governance",
@@ -275,7 +275,7 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 4
+      "count": 5
     },
     {
       "topic": "Liquidity",
@@ -305,7 +305,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 115
+      "count": 112
     },
     {
       "topic": "Governance",
@@ -349,7 +349,7 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 4
+      "count": 5
     },
     {
       "topic": "Liquidity",
@@ -382,12 +382,12 @@
       "count": 39
     },
     {
-      "keyword": "its",
-      "count": 34
-    },
-    {
       "keyword": "board",
       "count": 33
+    },
+    {
+      "keyword": "its",
+      "count": 32
     },
     {
       "keyword": "banking supervision",
@@ -614,10 +614,6 @@
       "count": 1
     },
     {
-      "keyword": "fine",
-      "count": 1
-    },
-    {
       "keyword": "greenwashing",
       "count": 1
     },
@@ -675,6 +671,10 @@
     },
     {
       "keyword": "recovery plans",
+      "count": 1
+    },
+    {
+      "keyword": "retail investors",
       "count": 1
     },
     {
@@ -779,6 +779,130 @@
     }
   ],
   "publications": [
+    {
+      "id": "3415673992d08de8",
+      "title": "Bank Liabilities Survey - 2026 Q2",
+      "summary": "This quarterly survey of banks and building societies is aimed at improving our understanding of the role of lenders’ liabilities and capital in driving credit and monetary conditions.",
+      "url": "https://www.bankofengland.co.uk/bank-liabilities-survey/2026/2026-q2",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-02T08:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/bank-liabilities-survey/2026/2026-q2",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "2b65ae6cdb81d1c5",
+      "title": "Credit Conditions Survey - 2026 Q2",
+      "summary": "This quarterly survey of banks and building societies is aimed at improving our understanding of trends and developments in credit conditions.",
+      "url": "https://www.bankofengland.co.uk/credit-conditions-survey/2026/2026-q2",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-02T08:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/credit-conditions-survey/2026/2026-q2",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "ed54cb50114189aa",
+      "title": "Claudia Buch: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260702~8fde047a2d.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-02T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0159_EN.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/other/ecb.simplification_supervisory_reporting_framework202512.en.pdf",
+        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.other_publications_banking_sector_framework.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2292~77deb8b18f.en.pdf",
+        "https://www.imf.org/external/pubs/ft/spn/2010/spn1008.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260702~8fde047a2d.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "ff9151d190b7adf9",
+      "title": "Moody’s Germany fined EUR 2,145,000 for misreporting to ESMA",
+      "summary": "",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/moodys-germany-fined-eur-2145000-misreporting-esma",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA43-857238790-2075_Decision_of_the_Board_of_Supervisors_to_adopt_supervisory_measures_and_impose_fines_in_respect_of_infringements_committed_by_Moody_s_Deutschla.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA43-857238790-2031_Public_Notice_-__Moody_s_Deutschland_GmbH.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA43-857238790-2033_Moody_s_Germany_fined_EUR_2_145_000_for_misreporting_to_ESMA_-_Press_release_0.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/moodys-germany-fined-eur-2145000-misreporting-esma",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "76efcf1845f850f5",
       "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
@@ -4021,11 +4145,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-06-19T10:30:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.other_publications_banking_sector_framework.en.pdf?eef7462d182fe3c12e02707d8521b1cc",
-        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep251010_technical_annex_financial_stability_impact_digital_euro.en.pdf?f55d1581c257d73d86ad560edce18c17"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Supervision / Enforcement"
@@ -4092,9 +4212,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-06-19T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisorybankingstatistics_first_quarter_2026_202606.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Supervision / Enforcement"
@@ -5821,41 +5939,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "bf046c3dd028a0ea",
-      "title": "ESMA publishes latest edition of its newsletter",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-43",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-06-01T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-43",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "90cf677846e6910d",
       "title": "SEC Proposes Rescission of Climate-Related Disclosure Rules",
       "summary": "The Securities and Exchange Commission today proposed the rescission of overly burdensome and costly rules that require companies to provide certain climate-related information in their registration statements and annual reports. The Commission’s…",
@@ -6708,50 +6791,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "e8d7460e86590b6f",
-      "title": "Patrick Montagner: Banking supervision, integration and competitiveness in Europe",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260518~0c6457d9f7.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-18T15:15:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260518~0c6457d9f7.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "066cb221a0176459",
       "title": "Extending RTGS and CHAPS settlement hours – next steps towards near 24x7 settlement",
       "summary": "Consultation paper",
@@ -7457,64 +7496,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "348831f4d26e9415",
-      "title": "Bank of England Weekly Report 29 April 2026",
-      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2026/29-april-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-30T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/29-april-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "e4e3d6f0a0afe086",
-      "title": "Monetary Policy Report - April 2026",
-      "summary": "Our quarterly Monetary Policy Report sets out the economic analysis and inflation projections that the Monetary Policy Committee uses to make its interest rate decisions.",
-      "url": "https://www.bankofengland.co.uk/monetary-policy-report/2026/april-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-30T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/monetary-policy-report/2026/april-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "024952495d3cce94",
@@ -10339,59 +10320,6 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "4e7e730f9c290b0d",
-      "title": "FCA decides to fine Carlos Ricardo Fuenmayor £99,600 for disclosure failures",
-      "summary": "",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-decides-fine-carlos-ricardo-fuenmayor-disclosure-failures",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "disclosure",
-        "fine"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "disclosure"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "fine"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-decides-fine-carlos-ricardo-fuenmayor-disclosure-failures",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "e93ab150ea55aeb1",
       "title": "FCA sets landmark crypto rules to cement the UK’s place as a global hub",
       "summary": "Firms supporting people to buy, trade and hold crypto will need to meet clear standards under landmark rules set out by the FCA. All firms must meet financial resilience requirements including capital and stress testing. The FCA is also introducing new market integrity rules covering areas such as insider trading and market manipulation. The new framework also sets out specific rules for stablecoins, a type of cryptoasset designed to maintain a stable value, typically by being linked to a currency such as the pound. Stablecoins will be subject to clear, strong and transparent standards, helping to build trust in how they are used over time.",
@@ -10447,6 +10375,59 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "668deffd42af038e",
+      "title": "Financial regulator to simplify investment disclosure regime",
+      "summary": "The FCA is proposing to simplify how platforms, advisers and wealth managers communicate the costs of investing while reminding firms to communicate with consumers about investing in plain English. The move will bring all investment cost disclosures into line with previous investment product disclosure reforms and create a more consistent framework for firms to give customers clearer, more useful information. The proposals will allow firms to innovate, test and compete to inform and engage retail investors, communicate clearly in plain English, not jargon and give information in engaging ways.",
+      "url": "https://www.fca.org.uk/news/press-releases/financial-regulator-simplify-investment-disclosure-regime",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Consumer Protection",
+        "Governance",
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "retail investors",
+        "conduct",
+        "disclosure"
+      ],
+      "topicMatches": [
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "retail investors"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/financial-regulator-simplify-investment-disclosure-regime",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "d29d97b8a42786f4",
@@ -10834,7 +10815,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-07-01T19:56:20.782Z",
+      "publishedAt": "2026-07-02T08:56:26.718Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10858,7 +10839,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-01T19:56:20.782Z",
+      "publishedAt": "2026-07-02T08:56:26.718Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10882,7 +10863,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-01T19:56:20.782Z",
+      "publishedAt": "2026-07-02T08:56:26.718Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10906,7 +10887,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-01T19:56:20.782Z",
+      "publishedAt": "2026-07-02T08:56:26.718Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10919,15 +10900,15 @@
   "updateTypeSummary": [
     {
       "updateType": "Publications / Reports",
-      "count": 74
+      "count": 75
     },
     {
       "updateType": "News",
-      "count": 67
+      "count": 68
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 66
+      "count": 64
     },
     {
       "updateType": "Consultations",
