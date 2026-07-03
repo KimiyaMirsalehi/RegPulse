@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T19:27:36.762Z",
+  "generatedAt": "2026-07-03T09:18:10.072Z",
   "totalPublications": 275,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 112
+      "count": 111
     },
     {
       "topic": "Governance",
@@ -243,7 +243,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 29
+      "count": 28
     },
     {
       "topic": "Payments / Open Finance",
@@ -275,7 +275,7 @@
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 6
+      "count": 5
     },
     {
       "topic": "AML / Financial Crime",
@@ -305,7 +305,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 112
+      "count": 111
     },
     {
       "topic": "Governance",
@@ -317,7 +317,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 29
+      "count": 28
     },
     {
       "topic": "Payments / Open Finance",
@@ -349,7 +349,7 @@
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 6
+      "count": 5
     },
     {
       "topic": "AML / Financial Crime",
@@ -398,11 +398,11 @@
       "count": 22
     },
     {
-      "keyword": "supervisory",
-      "count": 18
+      "keyword": "policy statement",
+      "count": 17
     },
     {
-      "keyword": "policy statement",
+      "keyword": "supervisory",
       "count": 17
     },
     {
@@ -435,7 +435,7 @@
     },
     {
       "keyword": "transparency",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "operational resilience",
@@ -594,10 +594,6 @@
       "count": 1
     },
     {
-      "keyword": "dora",
-      "count": 1
-    },
-    {
       "keyword": "emissions",
       "count": 1
     },
@@ -696,6 +692,10 @@
     {
       "keyword": "supervisory reporting",
       "count": 1
+    },
+    {
+      "keyword": "sustainability",
+      "count": 1
     }
   ],
   "regionSummary": [
@@ -779,6 +779,77 @@
     }
   ],
   "publications": [
+    {
+      "id": "70399c84e7f26a3c",
+      "title": "Monthly Decision Maker Panel data - June 2026",
+      "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+      "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/june-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-03T08:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/june-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "d66b522dd73b59a7",
+      "title": "ESMA reminds firms of existing rules and obligations under binary option measures amid growing popularity of prediction markets globally",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and sup",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-reminds-firms-existing-rules-and-obligations-under-binary-option-measures",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-03T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA35-243228190-8148_Public_Statement_on_the_application_of_the_national_product_intervention_measures_on_binary_options_to_event_contracts.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-reminds-firms-existing-rules-and-obligations-under-binary-option-measures",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "d27df611f68b07fc",
+      "title": "Christine Lagarde: Interview with Les Échos",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-02T21:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
     {
       "id": "a961c3255c02217b",
       "title": "Piero Cipollone: The digital transformation of money, payments and finance",
@@ -902,7 +973,7 @@
       "sourceType": "rss",
       "publishedAt": "2026-07-02T10:26:46.000Z",
       "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/749ee07d-9405-42ce-8a1d-bafe9858b547/Peer%20review%20Report%20on%20Pillar%203%20Disclosures.pdf"
+        "https://www.eba.europa.eu/sites/default/files/2026-07/749ee07d-9405-42ce-8a1d-bafe9858b547/Peer%20review%20on%20Pillar%203%20Disclosures%20June%202026.pdf"
       ],
       "topics": [
         "Basel / BCBS",
@@ -4102,37 +4173,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "bcbc4256ff849887",
-      "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260622~b060a27b78.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-22T13:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3052~d9937e701b.en.pdf",
-        "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/24/T1/Files/be2401-art06e.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2948~bb4dede124.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2235~69b97077ff.da.pdf",
-        "https://www.nber.org/system/files/working_papers/w31996/w31996.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op372.en.pdf?26bfe8b1d35c90ecc2021976222bdca8",
-        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260622_annex~6ac8dad701.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260622~b060a27b78.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "27807a17fb4c3e84",
       "title": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
       "summary": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
@@ -4181,10 +4221,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-06-22T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bis.org/publ/work1325.pdf",
-        "https://www.ifo.de/DocDL/cesifo1_wp10601.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -5897,50 +5934,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "531181e0bc56b416",
-      "title": "ESAs publish the first report on DORA major ICT-related incidents",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA) today published their",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esas-publish-first-report-dora-major-ict-related-incidents",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "DORA / Operational Resilience",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "dora",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "dora-operational-resilience",
-          "label": "DORA / Operational Resilience",
-          "keywords": [
-            "dora"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esas-publish-first-report-dora-major-ict-related-incidents",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "9ae844fdb79a350a",
       "title": "Agencies remove additional references to reputation risk",
       "summary": "Agencies remove additional references to reputation risk",
@@ -7337,41 +7330,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "120bc4af2d4be7e5",
-      "title": "Asset Purchase Facility Quarterly Report - 2026 Q1",
-      "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
-      "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q1",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-05T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "transparency"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "transparency"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q1",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "90f5f1aec7bb0d83",
@@ -10872,7 +10830,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-07-02T19:27:36.762Z",
+      "publishedAt": "2026-07-03T09:18:10.072Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10896,7 +10854,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-02T19:27:36.762Z",
+      "publishedAt": "2026-07-03T09:18:10.072Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10920,7 +10878,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-02T19:27:36.762Z",
+      "publishedAt": "2026-07-03T09:18:10.072Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10944,7 +10902,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-02T19:27:36.762Z",
+      "publishedAt": "2026-07-03T09:18:10.072Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10957,15 +10915,15 @@
   "updateTypeSummary": [
     {
       "updateType": "Publications / Reports",
-      "count": 75
+      "count": 73
     },
     {
       "updateType": "News",
-      "count": 69
+      "count": 68
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 63
+      "count": 65
     },
     {
       "updateType": "Consultations",
@@ -10973,7 +10931,7 @@
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 17
+      "count": 18
     },
     {
       "updateType": "Working Papers / Research",
