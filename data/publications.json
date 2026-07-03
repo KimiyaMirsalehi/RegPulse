@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T09:18:10.072Z",
+  "generatedAt": "2026-07-03T19:22:38.455Z",
   "totalPublications": 275,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 111
+      "count": 112
     },
     {
       "topic": "Governance",
@@ -305,7 +305,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 111
+      "count": 112
     },
     {
       "topic": "Governance",
@@ -398,11 +398,11 @@
       "count": 22
     },
     {
-      "keyword": "policy statement",
-      "count": 17
+      "keyword": "supervisory",
+      "count": 18
     },
     {
-      "keyword": "supervisory",
+      "keyword": "policy statement",
       "count": 17
     },
     {
@@ -801,6 +801,41 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "c3458df7ee2bb912",
+      "title": "ESMA launches Common Supervisory Action with NCAs on the risk management function",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-launches-common-supervisory-action-ncas-risk-management-function",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-03T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-launches-common-supervisory-action-ncas-risk-management-function",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "d66b522dd73b59a7",
@@ -4119,9 +4154,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-06-22T14:45:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-06/010e3ba1-a6cf-4b7c-8067-7879ad823cb5/MREL%20Dashboard%20-%20Q4%202025.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements",
         "Supervision / Enforcement",
@@ -5484,29 +5517,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "d19442ad8c55de53",
-      "title": "​Euribor panel to include KBC Bank​",
-      "summary": "",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/euribor-panel-include-kbc-bank",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/euribor-panel-include-kbc-bank",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "e45145448a5a4109",
@@ -10830,7 +10840,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-07-03T09:18:10.072Z",
+      "publishedAt": "2026-07-03T19:22:38.455Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10854,7 +10864,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-03T09:18:10.072Z",
+      "publishedAt": "2026-07-03T19:22:38.455Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10878,7 +10888,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-03T09:18:10.072Z",
+      "publishedAt": "2026-07-03T19:22:38.455Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10902,7 +10912,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-03T09:18:10.072Z",
+      "publishedAt": "2026-07-03T19:22:38.455Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
