@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T19:18:06.016Z",
+  "generatedAt": "2026-07-06T10:22:13.191Z",
   "totalPublications": 275,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 112
+      "count": 111
     },
     {
       "topic": "Governance",
@@ -243,7 +243,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 28
+      "count": 27
     },
     {
       "topic": "Payments / Open Finance",
@@ -251,7 +251,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "Recovery / Resolution",
@@ -278,23 +278,19 @@
       "count": 5
     },
     {
+      "topic": "Liquidity",
+      "count": 5
+    },
+    {
       "topic": "AML / Financial Crime",
       "count": 4
-    },
-    {
-      "topic": "Liquidity",
-      "count": 4
-    },
-    {
-      "topic": "AI",
-      "count": 3
     },
     {
       "topic": "Model Risk",
       "count": 3
     },
     {
-      "topic": "Credit Risk",
+      "topic": "AI",
       "count": 1
     },
     {
@@ -305,7 +301,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 112
+      "count": 111
     },
     {
       "topic": "Governance",
@@ -317,7 +313,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 28
+      "count": 27
     },
     {
       "topic": "Payments / Open Finance",
@@ -325,7 +321,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "Recovery / Resolution",
@@ -352,23 +348,19 @@
       "count": 5
     },
     {
+      "topic": "Liquidity",
+      "count": 5
+    },
+    {
       "topic": "AML / Financial Crime",
       "count": 4
-    },
-    {
-      "topic": "Liquidity",
-      "count": 4
-    },
-    {
-      "topic": "AI",
-      "count": 3
     },
     {
       "topic": "Model Risk",
       "count": 3
     },
     {
-      "topic": "Credit Risk",
+      "topic": "AI",
       "count": 1
     },
     {
@@ -383,14 +375,14 @@
     },
     {
       "keyword": "board",
-      "count": 34
-    },
-    {
-      "keyword": "banking supervision",
-      "count": 31
+      "count": 35
     },
     {
       "keyword": "its",
+      "count": 32
+    },
+    {
+      "keyword": "banking supervision",
       "count": 31
     },
     {
@@ -398,16 +390,16 @@
       "count": 22
     },
     {
-      "keyword": "supervisory",
-      "count": 18
-    },
-    {
       "keyword": "policy statement",
       "count": 17
     },
     {
+      "keyword": "supervisory",
+      "count": 17
+    },
+    {
       "keyword": "enforcement",
-      "count": 16
+      "count": 15
     },
     {
       "keyword": "consultation paper",
@@ -419,11 +411,7 @@
     },
     {
       "keyword": "disclosure",
-      "count": 9
-    },
-    {
-      "keyword": "climate",
-      "count": 7
+      "count": 8
     },
     {
       "keyword": "payment",
@@ -434,8 +422,16 @@
       "count": 7
     },
     {
+      "keyword": "climate",
+      "count": 6
+    },
+    {
       "keyword": "transparency",
       "count": 6
+    },
+    {
+      "keyword": "liquidity",
+      "count": 5
     },
     {
       "keyword": "operational resilience",
@@ -444,10 +440,6 @@
     {
       "keyword": "payments",
       "count": 5
-    },
-    {
-      "keyword": "liquidity",
-      "count": 4
     },
     {
       "keyword": "stablecoins",
@@ -463,10 +455,6 @@
     },
     {
       "keyword": "crr",
-      "count": 3
-    },
-    {
-      "keyword": "financial crime",
       "count": 3
     },
     {
@@ -514,6 +502,10 @@
       "count": 2
     },
     {
+      "keyword": "financial crime",
+      "count": 2
+    },
+    {
       "keyword": "governance",
       "count": 2
     },
@@ -554,10 +546,6 @@
       "count": 2
     },
     {
-      "keyword": "artificial intelligence",
-      "count": 1
-    },
-    {
       "keyword": "bail in",
       "count": 1
     },
@@ -575,10 +563,6 @@
     },
     {
       "keyword": "consumer protection",
-      "count": 1
-    },
-    {
-      "keyword": "credit risk",
       "count": 1
     },
     {
@@ -610,6 +594,10 @@
       "count": 1
     },
     {
+      "keyword": "fraud",
+      "count": 1
+    },
+    {
       "keyword": "greenwashing",
       "count": 1
     },
@@ -631,10 +619,6 @@
     },
     {
       "keyword": "leverage ratio",
-      "count": 1
-    },
-    {
-      "keyword": "machine learning",
       "count": 1
     },
     {
@@ -695,6 +679,10 @@
     },
     {
       "keyword": "sustainability",
+      "count": 1
+    },
+    {
+      "keyword": "tier 1",
       "count": 1
     }
   ],
@@ -779,6 +767,155 @@
     }
   ],
   "publications": [
+    {
+      "id": "8011213e2e045e38",
+      "title": "Monetary policy transmission and non-bank financial intermediation",
+      "summary": "The growing importance of non‑bank financial intermediaries (NBFIs) also has important implications for the transmission of monetary policy in the euro area. It alters the composition of credit supply and strengthens the role of market‑based finance for the corporate sector. In the aggregate, NBFIs tend to amplify the transmission of monetary policy within the financial sector. In particular, intermediaries with uninsured short‑term funding amplify monetary transmission to credit. This becomes particularly pronounced during episodes of financial stress, when liquidity pressures and valuation losses can trigger asset sales and spillovers to banks.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op391.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-06T07:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op391.en.pdf"
+      ],
+      "topics": [
+        "Liquidity"
+      ],
+      "matchedKeywords": [
+        "liquidity"
+      ],
+      "topicMatches": [
+        {
+          "id": "liquidity",
+          "label": "Liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op391.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "953c22bff106ef0b",
+      "title": "Monetary policy transmission and structural changes",
+      "summary": "This paper surveys research from the ESCB ChaMP Research Network on how ongoing structural change is affecting monetary policy transmission in the euro area. It shows that transmission is state-dependent and varies systematically with changesin the sectoral composition of the economy, in its international integration, in financial conditions and in inflation regimes. More service-intensive economies exhibit weaker real responses to monetary tightening, while high-inflation environments areassociated with faster and stronger price pass-through, helping explain why the recent disinflation episode entailed relatively low output costs.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op393.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-06T07:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op393.en.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op393.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "e755017859196830",
+      "title": "Monetary policy transmission through the financial system to households",
+      "summary": "This Occasional Paper reviews evidence from the ChaMP Research Network on the transmission of monetary policy to households in the euro area – an area of monetary policy that has attracted less attention among researchers. It highlights thecentral role of banks and non-bank intermediaries in shaping how policy affects borrowing, saving and consumption. Despite the overall effectiveness of monetary policy in the euro area, the pass-through of policy rates to household borrowingcosts is incomplete and heterogeneous, reflecting differences in funding structures, market power and institutional settings. A key insight is that transmission depends on household heterogeneity.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op390.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-06T07:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op390.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op390.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "ebce237c073f6df8",
+      "title": "Monetary policy transmission via banks to firms",
+      "summary": "This Occasional Paper reviews evidence from the ChaMP Research Network on the transmission of monetary policy to firms in the euro area. Overall, transmission to firms remains effective, including during the 2022-23 tightening cycle. However, new results show that this transmission is neither uniform nor mechanical. The pass-through from policy rates and other instruments to corporate financing conditions is shaped by multiple layers of heterogeneity that may, in some cases, have aggregate implications.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op389.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-06T07:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op389.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op389.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "3b0aca79f3d7cc04",
+      "title": "The propagation of shocks across the production network and implications for monetary policy",
+      "summary": "The repeated occurrence of supply-chain disruptions since the COVID-19 pandemic reveals the need to complement traditional macroeconomic frameworks with approaches that better capture the complexity of modern economic productionstructures. This paper synthesises the findings of the ChaMP Research Network, highlighting how production network models and heterogeneity across firms, sectors and countries enrich our understanding of monetary policy transmission.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op392.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-06T07:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op392.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op392.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "70399c84e7f26a3c",
       "title": "Monthly Decision Maker Panel data - June 2026",
@@ -4023,32 +4160,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "467dd442ea8ac9c0",
-      "title": "Five years of the ECB Survey of Monetary Analysts: evolution and insights",
-      "summary": "The Survey of Monetary Analysts (SMA) is a valuable information set for understanding the expectations of financial market participants regarding monetary policy and macroeconomic developments in the euro area. This article reviews the evolution of the SMA over the past five years, highlighting key development milestones, including changes to the panel, questionnaire and analytical use of the survey. It explains how SMA data enhance regular monetary policy assessments and the understanding of expectation formation. In particular, the links between the expected policy rate path and the macroeconomic expectations of respondents provide structured insights into the views of the analysts.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202604_01~1fcadce39a.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-23T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op371.en.pdf",
-        "https://www.bsi.si/storage/uploads/392918b9-8b2c-4ed7-b8aa-ae6ffaf98f43/ploj_inflation_interest_rate_expectations_sma.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202604_01~1fcadce39a.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "5c58f60f4e7a570a",
       "title": "Sharon Donnery: Interview with Central Banking",
       "summary": "",
@@ -4154,7 +4265,9 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-06-22T14:45:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-06/010e3ba1-a6cf-4b7c-8067-7879ad823cb5/MREL%20Dashboard%20-%20Q4%202025.pdf"
+      ],
       "topics": [
         "Capital Requirements",
         "Supervision / Enforcement",
@@ -4239,41 +4352,6 @@
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "6a97b94fcc9d2e0b",
-      "title": "AI and the US labour market: effects on employment growth",
-      "summary": "The adoption of AI is reshaping the US labour market, with its impact on employment growth varying across occupations. AI has led to a job reallocation, particularly disadvantaging occupations with a high risk of AI substitution compared to those with low substitution risk. An econometric analysis confirms that AI has widened the gap in employment growth between employment in high-risk occupations and low-risk occupations between 2019 and 2025. However, this divergence in employment growth has not translated into wage disparities.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_01~d9259db536.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-22T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_01~d9259db536.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "9bfe91a2f87330bf",
@@ -5020,52 +5098,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "1e84e03daa07def7",
-      "title": "Beat the heat, the role of heat waves and droughts in regional EU economies",
-      "summary": "Europe is increasingly exposed to heat waves and droughts, but their short-term economic effects across sectors remain hard to predict. This study develops climate-augmented models to predict real growth in per capita value added across 1,117 EU regions (2002–2022), by combining economic indicators with high-frequency climate data. When using machine learning (ML, Random Forest and XGBoost), climate variables improve predictions in agriculture, while gains for other sectors are limited and do not outperform economic models. Heat wave indicators consistently enhance predictive performance, whereas drought effects vary by sector.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3248~f871c3bd85.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-17T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3248~f871c3bd85.en.pdf"
-      ],
-      "topics": [
-        "AI",
-        "Climate / ESG"
-      ],
-      "matchedKeywords": [
-        "machine learning",
-        "climate"
-      ],
-      "topicMatches": [
-        {
-          "id": "ai",
-          "label": "AI",
-          "keywords": [
-            "machine learning"
-          ]
-        },
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3248~f871c3bd85.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "99b4be08256e116f",
       "title": "ESMA 2025 Annual Report: focus on stronger supervision, regulatory simplification, and innovation",
       "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets reg",
@@ -5097,89 +5129,6 @@
       ],
       "link": "https://www.esma.europa.eu/press-news/esma-news/esma-2025-annual-report-focus-stronger-supervision-regulatory-simplification",
       "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "3c2086b41f31a3f8",
-      "title": "Effectiveness of supervisory activities in mitigating banks’ commercial real estate risk",
-      "summary": "We assess the effectiveness of supervisory activities in mitigating credit risk stemming from banks’ commercial real estate portfolios. We analyse two activity types deployed by European banking supervisors: (a) on-site inspections, which assess in depth banks’ risk-taking and internal controls, but can only be selectively applied, and (b) off-site targeted reviews, which survey risk management practices across institutions, are less intrusive but are applied more widely.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3247~e9939db1a7.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-16T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3247~e9939db1a7.en.pdf"
-      ],
-      "topics": [
-        "Credit Risk",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "credit risk",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "credit-risk",
-          "label": "Credit Risk",
-          "keywords": [
-            "credit risk"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3247~e9939db1a7.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "f11a6d873a03bfb6",
-      "title": "Innovation without borders? The geography of technological diffusion",
-      "summary": "How well does innovation diffuse across geographic boundaries? To shed light on this question, we present a large-scale field experiment involving 3,300 firms across twelve European Union countries. We elicit firms’ perceptions of the share of similar firms in their own country that had invested in artificial intelligence (AI), as well as the corresponding share among similar firms in Germany, France, and Italy. We randomly provide half of the sample with accurate information about both domestic and foreign AI investment.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3246~e9aa80d0b9.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-16T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3246~e9aa80d0b9.en.pdf"
-      ],
-      "topics": [
-        "AI"
-      ],
-      "matchedKeywords": [
-        "artificial intelligence"
-      ],
-      "topicMatches": [
-        {
-          "id": "ai",
-          "label": "AI",
-          "keywords": [
-            "artificial intelligence"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3246~e9aa80d0b9.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
     },
@@ -9867,68 +9816,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "72f72c1ebffe1c33",
-      "title": "Beyond the headlines: the unseen fight against financial crime",
-      "summary": "Speech by Therese Chambers, joint executive director of enforcement and market oversight, delivered at the International Bar Association (IBA) Anti-Corruption Conference. I’ve been practising law for over 3 decades now. Starting out, I thought every case would be like the ones on US television: dramatic, with a big reveal and resounding outcome, all packed into a single 30-minute episode. But real law looks nothing like television. Hollywood doesn’t show the months, if not years, of work before we even step into a courtroom. Or the drawn-out disclosure exercises! Like many of you, I have had cases that led to high-profile trials and newspaper headlines.",
-      "url": "https://www.fca.org.uk/news/speeches/beyond-headlines-unseen-fight-against-financial-crime",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime",
-        "Governance",
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "financial crime",
-        "conduct",
-        "disclosure",
-        "enforcement"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "financial crime"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "disclosure"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "enforcement"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/speeches/beyond-headlines-unseen-fight-against-financial-crime",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "3eaf100f4aa63a97",
       "title": "CACEIS UK censured and to pay £31.7m to WealthTek clients for weak financial crime controls",
       "summary": "CACEIS UK, an asset servicing bank, has been censured by the FCA and will make a £31.7m voluntary payment to WealthTek clients for failing to act on information that left clients exposed to the risk of financial crime. The FCA has now secured over £57m in total for WealthTek clients in just over a year, with action taken against CACEIS UK, Sapia Partners and Barclays Bank UK. CACEIS UK became WealthTek's sub-custodian in November 2020, meaning they were responsible for keeping its client’s assets safe. WealthTek was then known as Vertus Asset Management LLP.",
@@ -10233,6 +10120,61 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
+    },
+    {
+      "id": "a25308038c66f089",
+      "title": "FCA publishes landmark review into impact of AI on retail financial services",
+      "summary": "The review sets out how AI could reshape retail financial services for consumers, firms, markets and regulators by 2030 and beyond. Led by FCA executive director Sheldon Mills and commissioned by the Board, The Mills Review is the first work of its kind initiated by a regulator globally. Drawing on views from across the financial services landscape, the report identifies 4 major AI‑driven shifts likely to impact retail financial services: the transformation of firm operations; the evolution of consumer journeys; the reshaping of competition and market power; and the amplification of fraud and cyber risks.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-publishes-landmark-review-impact-ai-retail-financial-services",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "fraud",
+        "board",
+        "conduct",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "fraud"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board",
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-publishes-landmark-review-impact-ai-retail-financial-services",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "e93ab150ea55aeb1",
@@ -10840,7 +10782,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-07-05T19:18:06.016Z",
+      "publishedAt": "2026-07-06T10:22:13.191Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10864,7 +10806,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-05T19:18:06.016Z",
+      "publishedAt": "2026-07-06T10:22:13.191Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10888,7 +10830,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-05T19:18:06.016Z",
+      "publishedAt": "2026-07-06T10:22:13.191Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10912,7 +10854,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-05T19:18:06.016Z",
+      "publishedAt": "2026-07-06T10:22:13.191Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10925,7 +10867,7 @@
   "updateTypeSummary": [
     {
       "updateType": "Publications / Reports",
-      "count": 73
+      "count": 71
     },
     {
       "updateType": "News",
@@ -10933,7 +10875,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 65
+      "count": 66
     },
     {
       "updateType": "Consultations",
@@ -10941,11 +10883,11 @@
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 18
+      "count": 17
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 15
+      "count": 17
     },
     {
       "updateType": "Statistics / Data",
