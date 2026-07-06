@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T10:22:13.191Z",
+  "generatedAt": "2026-07-06T19:57:24.528Z",
   "totalPublications": 275,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 111
+      "count": 110
     },
     {
       "topic": "Governance",
@@ -243,18 +243,14 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 27
+      "count": 28
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 16
+      "count": 15
     },
     {
       "topic": "Climate / ESG",
-      "count": 10
-    },
-    {
-      "topic": "Recovery / Resolution",
       "count": 10
     },
     {
@@ -263,6 +259,10 @@
     },
     {
       "topic": "Crypto / Digital Assets",
+      "count": 9
+    },
+    {
+      "topic": "Recovery / Resolution",
       "count": 9
     },
     {
@@ -301,7 +301,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 111
+      "count": 110
     },
     {
       "topic": "Governance",
@@ -313,18 +313,14 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 27
+      "count": 28
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 16
+      "count": 15
     },
     {
       "topic": "Climate / ESG",
-      "count": 10
-    },
-    {
-      "topic": "Recovery / Resolution",
       "count": 10
     },
     {
@@ -333,6 +329,10 @@
     },
     {
       "topic": "Crypto / Digital Assets",
+      "count": 9
+    },
+    {
+      "topic": "Recovery / Resolution",
       "count": 9
     },
     {
@@ -371,7 +371,7 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 40
+      "count": 39
     },
     {
       "keyword": "board",
@@ -390,11 +390,11 @@
       "count": 22
     },
     {
-      "keyword": "policy statement",
-      "count": 17
+      "keyword": "supervisory",
+      "count": 18
     },
     {
-      "keyword": "supervisory",
+      "keyword": "policy statement",
       "count": 17
     },
     {
@@ -402,11 +402,11 @@
       "count": 15
     },
     {
-      "keyword": "consultation paper",
-      "count": 12
+      "keyword": "reporting",
+      "count": 13
     },
     {
-      "keyword": "reporting",
+      "keyword": "consultation paper",
       "count": 12
     },
     {
@@ -418,11 +418,11 @@
       "count": 7
     },
     {
-      "keyword": "resolution",
-      "count": 7
+      "keyword": "climate",
+      "count": 6
     },
     {
-      "keyword": "climate",
+      "keyword": "resolution",
       "count": 6
     },
     {
@@ -442,20 +442,20 @@
       "count": 5
     },
     {
+      "keyword": "capital requirements",
+      "count": 4
+    },
+    {
+      "keyword": "crr",
+      "count": 4
+    },
+    {
       "keyword": "stablecoins",
       "count": 4
     },
     {
       "keyword": "stress test",
       "count": 4
-    },
-    {
-      "keyword": "capital requirements",
-      "count": 3
-    },
-    {
-      "keyword": "crr",
-      "count": 3
     },
     {
       "keyword": "settlement",
@@ -475,10 +475,6 @@
     },
     {
       "keyword": "basel 3",
-      "count": 2
-    },
-    {
-      "keyword": "clearing",
       "count": 2
     },
     {
@@ -522,19 +518,7 @@
       "count": 2
     },
     {
-      "keyword": "mrel",
-      "count": 2
-    },
-    {
-      "keyword": "own funds",
-      "count": 2
-    },
-    {
       "keyword": "pillar 3",
-      "count": 2
-    },
-    {
-      "keyword": "resolution planning",
       "count": 2
     },
     {
@@ -542,15 +526,15 @@
       "count": 2
     },
     {
+      "keyword": "supervisory reporting",
+      "count": 2
+    },
+    {
       "keyword": "taxonomy",
       "count": 2
     },
     {
-      "keyword": "bail in",
-      "count": 1
-    },
-    {
-      "keyword": "bail-in",
+      "keyword": "clearing",
       "count": 1
     },
     {
@@ -630,6 +614,10 @@
       "count": 1
     },
     {
+      "keyword": "mrel",
+      "count": 1
+    },
+    {
       "keyword": "nature related",
       "count": 1
     },
@@ -642,6 +630,10 @@
       "count": 1
     },
     {
+      "keyword": "own funds",
+      "count": 1
+    },
+    {
       "keyword": "payment services",
       "count": 1
     },
@@ -650,15 +642,11 @@
       "count": 1
     },
     {
+      "keyword": "resolution planning",
+      "count": 1
+    },
+    {
       "keyword": "retail investors",
-      "count": 1
-    },
-    {
-      "keyword": "risk weighted assets",
-      "count": 1
-    },
-    {
-      "keyword": "risk-weighted assets",
       "count": 1
     },
     {
@@ -671,10 +659,6 @@
     },
     {
       "keyword": "securitisation",
-      "count": 1
-    },
-    {
-      "keyword": "supervisory reporting",
       "count": 1
     },
     {
@@ -767,6 +751,119 @@
     }
   ],
   "publications": [
+    {
+      "id": "17c3f4a037529cc7",
+      "title": "SEC Names Paul Knight as Chief Operating Officer",
+      "summary": "The Securities and Exchange Commission today announced that Paul Knight has been named as the agency’s Chief Operating Officer (COO). As COO, Mr. Knight will oversee the SEC's operational and administrative functions, including the agency's Office of…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-62-sec-names-paul-knight-chief-operating-officer",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-06T19:10:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-62-sec-names-paul-knight-chief-operating-officer",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "18ca3afa0476a011",
+      "title": "Philip R. Lane: AI and monetary policy",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-06T18:30:00.000Z",
+      "pdfLinks": [
+        "https://www.chicagofed.org/-/media/publications/speeches/2026/5-8-26-hoover.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2200.en.pdf",
+        "https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025081-print-pdf.pdf",
+        "https://pages.stern.nyu.edu/~slenzu/Papers/Lenzu_AI_and_MP.pdf",
+        "https://economics.mit.edu/sites/default/files/2026-02/speculative_growth_AI_public%20feb%2024.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "077b873219b315a5",
+      "title": "​The EBA publishes 2025 loss data for immovable property markets under Article 430a of the Capital Requirements Regulation",
+      "summary": "​The European Banking Authority (EBA) today published its annual dataset on losses and exposures for residential and commercial immovable property across the European Union and European Economic Area for 2025, in line with Article 430a(3) of the Capital Requirements Regulation (CRR). The publication provides a centralised and harmonised source of data on losses and exposures relating to residential and commercial immovable property across the EU/EEA. The data are drawn from supervisory reporting submitted by institutions and are presented by national immovable property market.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-2025-loss-data-immovable-property-markets-under-article-430a-capital-requirements",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-06T12:22:58.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-07/d763c7b1-e7f2-4e0a-bdae-93fd1db81a75/Immovable%20property%20loss%20-%20Q4%202025.pdf"
+      ],
+      "topics": [
+        "Capital Requirements",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "capital requirements",
+        "crr",
+        "reporting",
+        "supervisory reporting",
+        "supervisory",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital requirements",
+            "crr"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting",
+            "supervisory reporting"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-2025-loss-data-immovable-property-markets-under-article-430a-capital-requirements",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "8011213e2e045e38",
       "title": "Monetary policy transmission and non-bank financial intermediation",
@@ -915,6 +1012,55 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "0ca35b033d1cb7a6",
+      "title": "ESMA publishes preliminary findings on the Active Account Requirement and the first Annual Report of the Joint Monitoring Mechanism",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets reg",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-preliminary-findings-active-account-requirement-and-first",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-06T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA91-1525761655-5356_Interim_report_of_the_effectiveness_of_the_active_account_requirement.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA91-1525761655-5414_First_annual_report_of_the_Joint_Monitoring_Mechanism.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-preliminary-findings-active-account-requirement-and-first",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "fa294e730efab2a7",
+      "title": "ESMA selects Etrading Software (Netherlands) B. V. as Consolidated Tape Provider for OTC derivatives",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-selects-etrading-software-netherlands-bv-consolidated-tape-provider-otc",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-06T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-selects-etrading-software-netherlands-bv-consolidated-tape-provider-otc",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "70399c84e7f26a3c",
@@ -4227,98 +4373,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "072e43f58093566a",
-      "title": "Philip R. Lane: Introductory remarks",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623~c112a749e2.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-23T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260623_slides~499fcdd87d.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623~c112a749e2.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "83bea81a7ab27876",
-      "title": "Latest EBA MREL dashboard shows that MREL requirements range from 25% to 29% of risk-weighted assets, depending on bank category, while bail-in remains the preferred resolution strategy",
-      "summary": "The European Banking Authority (EBA) today published its latest semi-annual dashboard on the minimum requirement for own funds and eligible liabilities (MREL), providing an update on the state of resolution planning and on the resources that banks are using to meet their requirements. As of December 2025, bail-in remains the preferred resolution strategy in terms of risk-weighed assets (RWAs), while rollover needs reach EUR 231 billion for instruments set to become ineligible over the next 12 months.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/latest-eba-mrel-dashboard-shows-mrel-requirements-range-25-29-risk-weighted-assets-depending-bank",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-22T14:45:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-06/010e3ba1-a6cf-4b7c-8067-7879ad823cb5/MREL%20Dashboard%20-%20Q4%202025.pdf"
-      ],
-      "topics": [
-        "Capital Requirements",
-        "Supervision / Enforcement",
-        "Recovery / Resolution"
-      ],
-      "matchedKeywords": [
-        "own funds",
-        "risk-weighted assets",
-        "risk weighted assets",
-        "its",
-        "resolution",
-        "resolution planning",
-        "mrel",
-        "bail-in",
-        "bail in"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "own funds",
-            "risk-weighted assets",
-            "risk weighted assets"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        },
-        {
-          "id": "resolution-recovery",
-          "label": "Recovery / Resolution",
-          "keywords": [
-            "resolution",
-            "resolution planning",
-            "mrel",
-            "bail-in",
-            "bail in"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/latest-eba-mrel-dashboard-shows-mrel-requirements-range-25-29-risk-weighted-assets-depending-bank",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "27807a17fb4c3e84",
       "title": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
       "summary": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
@@ -4748,41 +4802,6 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "4f6fb9b5b00f675b",
-      "title": "ESMA contributes to global CCP fire drill exercise",
-      "summary": "In November 2025, 38 central counterparties (‘CCPs’) from across the world, together with clearing members, con",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-contributes-global-ccp-fire-drill-exercise",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-06-19T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "clearing"
-      ],
-      "topicMatches": [
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "clearing"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-contributes-global-ccp-fire-drill-exercise",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "b70a06c1b2ce4543",
       "title": "Travel restrictions as border frictions: evidence from the Covid-19 pandemic",
       "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
@@ -5096,41 +5115,6 @@
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "99b4be08256e116f",
-      "title": "ESMA 2025 Annual Report: focus on stronger supervision, regulatory simplification, and innovation",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets reg",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-2025-annual-report-focus-stronger-supervision-regulatory-simplification",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-2025-annual-report-focus-stronger-supervision-regulatory-simplification",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "f08ca54628d12d82",
@@ -7976,29 +7960,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "64dea0906bd7e630",
-      "title": "SEC Seeks Public Comment on the Consolidated Audit Trail and Other Audit Trails and Data Sources",
-      "summary": "The Securities and Exchange Commission today issued a concept release soliciting public comment in support of a comprehensive review of the Consolidated Audit Trail (CAT) and other audit trails and related data sources currently used in the regulation of…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-37-sec-seeks-public-comment-consolidated-audit-trail-other-audit-trails-data-sources",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-16T13:55:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-37-sec-seeks-public-comment-consolidated-audit-trail-other-audit-trails-data-sources",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "8e2094f580ba4f1a",
       "title": "CP6/26 – High loan to income lending",
       "summary": "Consultation paper 6/26",
@@ -10782,7 +10743,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-07-06T10:22:13.191Z",
+      "publishedAt": "2026-07-06T19:57:24.528Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10806,7 +10767,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-06T10:22:13.191Z",
+      "publishedAt": "2026-07-06T19:57:24.528Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10830,7 +10791,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-06T10:22:13.191Z",
+      "publishedAt": "2026-07-06T19:57:24.528Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10854,7 +10815,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-06T10:22:13.191Z",
+      "publishedAt": "2026-07-06T19:57:24.528Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10866,12 +10827,12 @@
   ],
   "updateTypeSummary": [
     {
-      "updateType": "Publications / Reports",
-      "count": 71
+      "updateType": "News",
+      "count": 70
     },
     {
-      "updateType": "News",
-      "count": 68
+      "updateType": "Publications / Reports",
+      "count": 70
     },
     {
       "updateType": "Rules / Standards / Guidance",
@@ -10882,12 +10843,12 @@
       "count": 21
     },
     {
-      "updateType": "Speeches / Interviews / Blogs",
+      "updateType": "Working Papers / Research",
       "count": 17
     },
     {
-      "updateType": "Working Papers / Research",
-      "count": 17
+      "updateType": "Speeches / Interviews / Blogs",
+      "count": 16
     },
     {
       "updateType": "Statistics / Data",
