@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T19:57:24.528Z",
+  "generatedAt": "2026-07-07T09:41:17.622Z",
   "totalPublications": 275,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 110
+      "count": 109
     },
     {
       "topic": "Governance",
@@ -243,18 +243,18 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 28
+      "count": 27
     },
     {
       "topic": "Payments / Open Finance",
       "count": 15
     },
     {
-      "topic": "Climate / ESG",
-      "count": 10
+      "topic": "Capital Requirements",
+      "count": 9
     },
     {
-      "topic": "Capital Requirements",
+      "topic": "Climate / ESG",
       "count": 9
     },
     {
@@ -291,7 +291,7 @@
     },
     {
       "topic": "AI",
-      "count": 1
+      "count": 2
     },
     {
       "topic": "Market Risk",
@@ -301,7 +301,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 110
+      "count": 109
     },
     {
       "topic": "Governance",
@@ -313,18 +313,18 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 28
+      "count": 27
     },
     {
       "topic": "Payments / Open Finance",
       "count": 15
     },
     {
-      "topic": "Climate / ESG",
-      "count": 10
+      "topic": "Capital Requirements",
+      "count": 9
     },
     {
-      "topic": "Capital Requirements",
+      "topic": "Climate / ESG",
       "count": 9
     },
     {
@@ -361,7 +361,7 @@
     },
     {
       "topic": "AI",
-      "count": 1
+      "count": 2
     },
     {
       "topic": "Market Risk",
@@ -371,7 +371,7 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 39
+      "count": 38
     },
     {
       "keyword": "board",
@@ -426,10 +426,6 @@
       "count": 6
     },
     {
-      "keyword": "transparency",
-      "count": 6
-    },
-    {
       "keyword": "liquidity",
       "count": 5
     },
@@ -439,6 +435,10 @@
     },
     {
       "keyword": "payments",
+      "count": 5
+    },
+    {
+      "keyword": "transparency",
       "count": 5
     },
     {
@@ -514,7 +514,7 @@
       "count": 2
     },
     {
-      "keyword": "investigation",
+      "keyword": "large language models",
       "count": 2
     },
     {
@@ -598,11 +598,23 @@
       "count": 1
     },
     {
-      "keyword": "large language models",
+      "keyword": "investigation",
+      "count": 1
+    },
+    {
+      "keyword": "large language model",
       "count": 1
     },
     {
       "keyword": "leverage ratio",
+      "count": 1
+    },
+    {
+      "keyword": "llm",
+      "count": 1
+    },
+    {
+      "keyword": "llms",
       "count": 1
     },
     {
@@ -659,10 +671,6 @@
     },
     {
       "keyword": "securitisation",
-      "count": 1
-    },
-    {
-      "keyword": "sustainability",
       "count": 1
     },
     {
@@ -751,6 +759,174 @@
     }
   ],
   "publications": [
+    {
+      "id": "cf99daba970494f7",
+      "title": "Financial Stability in Focus: The bank capital framework",
+      "summary": "The Financial Stability in Focus sets out the FPC’s view on specific topics related to financial stability.",
+      "url": "https://www.bankofengland.co.uk/financial-stability-in-focus/2026/fsif-the-bank-capital-framework",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-07T09:30:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/financial-stability-in-focus/2025/fsif-the-fpcs-assessment-of-bank-capital-requirements.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/statement/2015/the-financial-policy-committees-powers-over-leverage-ratio-tools.pdf",
+        "https://finance.ec.europa.eu/document/download/d7962418-d7d8-4d03-a999-ec760637a67c_en?filename=crr-delegated-act-2026-3647_en.pdf",
+        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2025-10/b8e0ef8e-2d49-43fc-b917-dbca3423588c/Report%20on%20the%20efficiency%20of%20the%20regulatory%20and%20supervisory%20framework.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-06/fa80675a-1caa-4098-822f-511c6fad0616/Report%20on%20simplifying%20the%20stacking%20orders%20of%20the%20EU%20prudential%20and%20resolution%20framework.pdf",
+        "https://www.federalreserve.gov/aboutthefed/boardmeetings/files/leverage-ratio-memo-20250625.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2025/ss4515-november-2025-update.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/financial-stability-in-focus/2026/fsif-the-bank-capital-framework",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "1e04265ea08df84b",
+      "title": "Financial Stability Report - July 2026",
+      "summary": "The Financial Stability Report sets out our Financial Policy Committee's view on the stability of the UK financial system and what it is doing to remove or reduce any risks to it.",
+      "url": "https://www.bankofengland.co.uk/financial-stability-report/2026/july-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-07T09:30:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/financial-stability-report/2026/financial-stability-report-july-2026.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/financial-policy-committee-record/2026/fpc-summary-and-record-april-2026.pdf",
+        "https://www.cmorg.org.uk/sites/default/files/2026-06/CMORG%20-%20Firm%20Guidance%20For%20Frontier%20AI%20-%20Final%20-%20June%202026%20-%20Version%201.0%20-%20TLP%20CLEAR.pdf",
+        "https://www.fsb.org/uploads/P060526.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/financial-stability-report/2025/fpc-core-indicators-december-2025.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2023/the-financial-policy-committees-approach-to-setting-the-countercyclical-capital-buffer.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2025/ss913update-july-2025.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/letter/2025/significant-risk-transfer-financing-prudential-expectations-letter.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/letter/2025/uk-deposit-takers-2025-priorities.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/publication/2026/uk-deposit-takers-2026-priorities.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2025/ss4515-november-2025-update.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/financial-stability-report/2026/fpc-core-indicators-july-2026.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/financial-stability-report/2026/july-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "17e4515672ce8640",
+      "title": "Prudential Regulation Authority statement on enhancing the usability and releasability of capital buffers",
+      "summary": "The PRA is clarifying that it could release other systemically important institution (O-SII) buffers in the event of systemic stress.",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/pra-statement-on-usability-and-releasability-of-capital-buffers",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-07T09:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/pra-statement-on-usability-and-releasability-of-capital-buffers",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Events",
+      "updateTypeDetail": "Event / conference"
+    },
+    {
+      "id": "138c22ac64ee4050",
+      "title": "Barriers to a European Banking Union",
+      "summary": "We quantify barriers to cross-border bank lending to firms within the euro area and their consequences for credit allocation and output. Using loan-level data from the European credit registry (AnaCredit) and group structures (RIAD),we estimate barriers to relationship formation, loan pricing, and banks’ branching decisions at the country-pair level. We find that barriers to cross-border relationships between banks and firms and cross-border bank entry are large while wedges on interest rates and loan quantities are comparatively small. The estimated wedges are strongly associated with differences in national banking regulations, measured using a novel dataset on regulatory distances.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3249~d8b9cf2aed.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-07T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3249~d8b9cf2aed.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3249~d8b9cf2aed.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "d3cd959799e9c353",
+      "title": "Measuring geoeconomic tension: a large-language-model approach for the euro area",
+      "summary": "We construct an index of geopolitical and geoeconomic tension for the euro area using Large-Language Models (LLMs) that prompt a large dataset of European, local-language newspaper articles. The resulting LLM Geoeconomic and Geopolitical Tension (LGPT) index and its subindices seek to provide an accurate narrative of tensions and their sources over the past quarter century. The multilingual LLM approach allows for a separation between geopolitical and geoeconomic tensions and for granularity in the identification of the source of such tensions including trade, energy and finance.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3250~d58748cc6f.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-07T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3250~d58748cc6f.en.pdf"
+      ],
+      "topics": [
+        "AI",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "large language model",
+        "large language models",
+        "llm",
+        "llms",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "large language model",
+            "large language models",
+            "llm",
+            "llms"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3250~d58748cc6f.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "17c3f4a037529cc7",
       "title": "SEC Names Paul Knight as Chief Operating Officer",
@@ -4147,34 +4323,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "5a3c09259ed18de3",
-      "title": "Convergence Report, June 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/other-publications/convergence/html/ecb.cr202606~30e75ae1c2.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-24T10:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/other-publications/convergence/pdf/ecb.cr202606~30e75ae1c2.en.pdf",
-        "https://economy-finance.ec.europa.eu/document/download/3360898c-cd40-46c0-b170-7adfcb993add_en?filename=ip341_en.pdf",
-        "https://commission.europa.eu/document/download/56f83799-0eb9-4955-8550-728dc4ebbaf2_en?filename=COM_2025_956_1_EN_0.pdf",
-        "https://economy-finance.ec.europa.eu/document/download/f6fd1e81-2434-4729-bc36-28f9e6a79eb9_en?filename=CZ_final_2025.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/other-publications/convergence/html/ecb.cr202606~30e75ae1c2.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "a042437e9ca5a438",
       "title": "ECB reports on progress towards euro adoption",
       "summary": "",
@@ -4188,9 +4336,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-06-24T10:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/other-publications/convergence/pdf/ecb.cr202606~30e75ae1c2.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4348,29 +4494,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "bf0f6f2daefaac79",
-      "title": "State aid in the EU: an evolving landscape",
-      "summary": "State aid expenditure in the EU has risen in recent years against the background of economic shocks such as the COVID-19 pandemic, Russia’s unjustified war against Ukraine and, most recently, the crisis in the Middle East, as well as a global resurgence of interventionist industrial policy. While traditionally aimed at addressing market failures and achieving policy objectives like regional cohesion and environmental transition, State aid has increasingly shifted towards supporting industrial competitiveness, decarbonisation and strategic resilience.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_03~a3ff0e07f6.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-23T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_03~a3ff0e07f6.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "27807a17fb4c3e84",
@@ -7025,29 +7148,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "a5669c9a6b86bded",
-      "title": "Trade in services under regulatory barriers: evidence from UK banking",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/trade-in-services-under-regulatory-barriers-evidence-from-uk-banking",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-08T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/trade-in-services-under-regulatory-barriers-evidence-from-uk-banking",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
       "id": "e0899a87e8a1f86d",
       "title": "ECB report on good practices for climate and nature-related risk stress testing",
       "summary": "",
@@ -7167,29 +7267,6 @@
       ],
       "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.thematicreviewcercompendiumgoodpractices052026.en.pdf",
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "57f0f56ecfc914d1",
-      "title": "Bank of England Weekly Report 6 May 2026",
-      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2026/6-may-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-07T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/6-may-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
     },
@@ -9282,41 +9359,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "2f3a6784fbea68d2",
-      "title": "Letter from Rebecca Jackson and Alison Scott – International Banks Supervision: 2026 priorities",
-      "summary": "Letter to Chief Executive Officers of PRA regulated international banks active in the UK",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/letter-from-rebecca-jackson-and-alison-scott-international-banks-supervision-2026-priorities",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-01-15T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/letter-from-rebecca-jackson-and-alison-scott-international-banks-supervision-2026-priorities",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "beb023e918618df7",
       "title": "Agencies issue 2025 Shared National Credit Program report",
       "summary": "Agencies issue 2025 Shared National Credit Program report",
@@ -9777,6 +9819,41 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "62b3136743438476",
+      "title": "Banks told to improve access to basic accounts",
+      "summary": "People struggling should find it easier to access basic bank accounts, after nine banks committed to improving widespread poor practice identified by the FCA. Nine of the biggest UK banks and building societies are legally mandated to offer basic bank accounts. They exist to serve people who may not otherwise be able to access standard current accounts - providing access to essential services with no fees and no overdraft. A mystery shopping exercise by the FCA found a third of experiences with basic bank accounts rated as poor or very poor. The mystery shop revealed that the bank account providers were not consistently offering these accounts to customers who could benefit from them.",
+      "url": "https://www.fca.org.uk/news/press-releases/banks-told-improve-access-basic-accounts",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/banks-told-improve-access-basic-accounts",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "3eaf100f4aa63a97",
       "title": "CACEIS UK censured and to pay £31.7m to WealthTek clients for weak financial crime controls",
       "summary": "CACEIS UK, an asset servicing bank, has been censured by the FCA and will make a £31.7m voluntary payment to WealthTek clients for failing to act on information that left clients exposed to the risk of financial crime. The FCA has now secured over £57m in total for WealthTek clients in just over a year, with action taken against CACEIS UK, Sapia Partners and Barclays Bank UK. CACEIS UK became WealthTek's sub-custodian in November 2020, meaning they were responsible for keeping its client’s assets safe. WealthTek was then known as Vertus Asset Management LLP.",
@@ -9892,6 +9969,50 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "bafdc898b38891f1",
+      "title": "Eldens Finance Limited enters administration",
+      "summary": "On Monday 6 July 2026, Eldens Finance Limited (Eldens) was placed into administration. Antony Batty and Hugh Jesseman of Antony Batty & Company Ltd were appointed as Joint Administrators. Eldens provided pawnbroking loans, primarily secured against high-value and luxury assets. The Joint Administrators are responsible for winding down the firm in an orderly way in the interests of its creditors. On 19 June 2026, Eldens agreed to enter into a voluntary requirement to restrict its ability to deal and dispose of assets and its permissions to carry out regulatory activities. More information about these requirements can be found on the FS Register.",
+      "url": "https://www.fca.org.uk/news/news-stories/eldens-finance-limited-enters-administration",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/eldens-finance-limited-enters-administration",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "3e575b850d0cef84",
       "title": "FCA and the Bank of England set out approach to joint regulation of systemic stablecoin issuers",
       "summary": "The Bank of England and the FCA have published a joint approach setting out how they and where relevant other authorities will work together to regulate systemic stablecoin issuers in the UK. It explains how responsibilities will be split between the authorities, and how UK stablecoin issuers may move from FCA supervision to joint regulation once recognised as systemic by HM Treasury. The approach aims to provide clarity and predictability for firms as the market develops. Read the paper",
@@ -9943,61 +10064,6 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "197c81371817c5f7",
-      "title": "FCA closes investigation into Drax Group PLC",
-      "summary": "Drax Group PLC (Drax) has announced the FCA has closed its investigation into the company. We undertook an extensive investigation following concerns raised regarding disclosures to the market about the sustainability of Drax’s Canadian biomass. We did not find evidence that justified any further action. Thousands of pages of complex material were reviewed as part of the investigation, and individuals from the company interviewed. Our focus was on areas within our remit, specifically whether Drax’s annual reports and accounts between 2021 and 2023 contained misleading statements or left out important information investors needed to know.",
-      "url": "https://www.fca.org.uk/news/statements/fca-closes-investigation-drax-group-plc",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Climate / ESG",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "sustainability",
-        "conduct",
-        "investigation",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "sustainability"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "investigation",
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/statements/fca-closes-investigation-drax-group-plc",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "034b54b65973adcf",
@@ -10246,59 +10312,6 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "d29d97b8a42786f4",
-      "title": "Investors get real-time view of UK bond market activity for the first time",
-      "summary": "For the first time, investors and market participants can access a single, real-time source of prices and trading activity across the UK bond market, following the launch of its bond consolidated tape, operated by ETS Connect UK. Until now, data on bond trades was scattered across multiple sources, making it difficult to get a clear and complete picture of market activity. The new service brings it all together in one place. The launch builds on changes to the UK's bond market transparency rules that came into force in December 2025. Those changes have already made a real difference.",
-      "url": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "transparency",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "transparency"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "894c88a991859345",
@@ -10743,7 +10756,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-07-06T19:57:24.528Z",
+      "publishedAt": "2026-07-07T09:41:17.622Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10767,7 +10780,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-06T19:57:24.528Z",
+      "publishedAt": "2026-07-07T09:41:17.622Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10791,7 +10804,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-06T19:57:24.528Z",
+      "publishedAt": "2026-07-07T09:41:17.622Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10815,7 +10828,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-06T19:57:24.528Z",
+      "publishedAt": "2026-07-07T09:41:17.622Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10832,27 +10845,27 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 70
+      "count": 68
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 66
+      "count": 67
     },
     {
       "updateType": "Consultations",
       "count": 21
     },
     {
-      "updateType": "Working Papers / Research",
-      "count": 17
-    },
-    {
       "updateType": "Speeches / Interviews / Blogs",
       "count": 16
     },
     {
+      "updateType": "Working Papers / Research",
+      "count": 16
+    },
+    {
       "updateType": "Statistics / Data",
-      "count": 6
+      "count": 7
     },
     {
       "updateType": "Other",
@@ -10861,6 +10874,10 @@
     {
       "updateType": "Source Pages",
       "count": 4
+    },
+    {
+      "updateType": "Events",
+      "count": 1
     }
   ]
 }
