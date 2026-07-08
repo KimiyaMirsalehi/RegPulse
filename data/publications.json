@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-08T08:28:05.127Z",
-  "totalPublications": 275,
+  "generatedAt": "2026-07-08T19:25:31.583Z",
+  "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
   "warningSources": 0,
@@ -156,7 +156,7 @@
       "region": "US",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 7,
+      "itemCount": 8,
       "url": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
@@ -231,11 +231,11 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 112
+      "count": 114
     },
     {
       "topic": "Governance",
-      "count": 57
+      "count": 59
     },
     {
       "topic": "Basel / BCBS",
@@ -247,19 +247,19 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 15
+      "count": 14
     },
     {
       "topic": "Capital Requirements",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "Climate / ESG",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Recovery / Resolution",
@@ -267,11 +267,11 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "Consumer Protection",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "DORA / Operational Resilience",
@@ -301,11 +301,11 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 112
+      "count": 114
     },
     {
       "topic": "Governance",
-      "count": 57
+      "count": 59
     },
     {
       "topic": "Basel / BCBS",
@@ -317,19 +317,19 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 15
+      "count": 14
     },
     {
       "topic": "Capital Requirements",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "Climate / ESG",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Recovery / Resolution",
@@ -337,11 +337,11 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "Consumer Protection",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "DORA / Operational Resilience",
@@ -371,50 +371,46 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 38
+      "count": 39
     },
     {
       "keyword": "board",
-      "count": 34
+      "count": 35
+    },
+    {
+      "keyword": "its",
+      "count": 32
     },
     {
       "keyword": "banking supervision",
       "count": 31
     },
     {
-      "keyword": "its",
-      "count": 31
-    },
-    {
       "keyword": "conduct",
-      "count": 22
+      "count": 23
     },
     {
       "keyword": "supervisory",
-      "count": 19
+      "count": 20
     },
     {
       "keyword": "policy statement",
-      "count": 17
+      "count": 18
     },
     {
       "keyword": "enforcement",
       "count": 15
     },
     {
-      "keyword": "consultation paper",
-      "count": 12
+      "keyword": "reporting",
+      "count": 13
     },
     {
-      "keyword": "reporting",
-      "count": 12
+      "keyword": "consultation paper",
+      "count": 11
     },
     {
       "keyword": "disclosure",
-      "count": 8
-    },
-    {
-      "keyword": "payment",
       "count": 7
     },
     {
@@ -427,6 +423,10 @@
     },
     {
       "keyword": "operational resilience",
+      "count": 6
+    },
+    {
+      "keyword": "payment",
       "count": 6
     },
     {
@@ -446,16 +446,20 @@
       "count": 5
     },
     {
-      "keyword": "crr",
-      "count": 4
-    },
-    {
       "keyword": "stablecoins",
       "count": 4
     },
     {
       "keyword": "stress test",
       "count": 4
+    },
+    {
+      "keyword": "crr",
+      "count": 3
+    },
+    {
+      "keyword": "financial crime",
+      "count": 3
     },
     {
       "keyword": "settlement",
@@ -482,7 +486,7 @@
       "count": 2
     },
     {
-      "keyword": "crypto",
+      "keyword": "consumer protection",
       "count": 2
     },
     {
@@ -495,10 +499,6 @@
     },
     {
       "keyword": "deposit guarantee",
-      "count": 2
-    },
-    {
-      "keyword": "financial crime",
       "count": 2
     },
     {
@@ -534,7 +534,7 @@
       "count": 2
     },
     {
-      "keyword": "taxonomy",
+      "keyword": "supervisory reporting",
       "count": 2
     },
     {
@@ -574,7 +574,7 @@
       "count": 1
     },
     {
-      "keyword": "consumer protection",
+      "keyword": "crypto",
       "count": 1
     },
     {
@@ -614,6 +614,10 @@
       "count": 1
     },
     {
+      "keyword": "implementing technical standards",
+      "count": 1
+    },
+    {
       "keyword": "incident reporting",
       "count": 1
     },
@@ -650,10 +654,6 @@
       "count": 1
     },
     {
-      "keyword": "mica",
-      "count": 1
-    },
-    {
       "keyword": "money laundering",
       "count": 1
     },
@@ -678,15 +678,15 @@
       "count": 1
     },
     {
-      "keyword": "payment services",
-      "count": 1
-    },
-    {
       "keyword": "recovery plans",
       "count": 1
     },
     {
       "keyword": "resolution planning",
+      "count": 1
+    },
+    {
+      "keyword": "retail investors",
       "count": 1
     }
   ],
@@ -701,7 +701,7 @@
     },
     {
       "region": "US",
-      "count": 71
+      "count": 72
     },
     {
       "region": "Global",
@@ -731,7 +731,7 @@
     },
     {
       "institution": "Federal Reserve Board",
-      "count": 27
+      "count": 28
     },
     {
       "institution": "U.S. Securities and Exchange Commission",
@@ -771,6 +771,119 @@
     }
   ],
   "publications": [
+    {
+      "id": "070715f901e095c3",
+      "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+      "summary": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-08T18:00:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20260617.pdf"
+      ],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "fdaa75d6dd967b4b",
+      "title": "SEC Small Business Advisory Committee to Explore Modernizing Market Access",
+      "summary": "The Securities and Exchange Commission’s Small Business Capital Formation Advisory Committee announced that it will hold a meeting on Tuesday, July 21, 2026 at 10 a.m. to explore ways to modernize public market access and encourage IPOs…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-64-sec-small-business-advisory-committee-explore-modernizing-market-access",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-08T13:01:01.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-64-sec-small-business-advisory-committee-explore-modernizing-market-access",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "61b5490da380acc2",
+      "title": "​The EBA issues Opinion on the implementation of IFRS 18 in supervisory financial reporting to support consistency with IFRS requirements",
+      "summary": "​The European Banking Authority (EBA) has published today an Opinion providing guidance on how institutions can report profit or loss information during the interim period between the first application date of IFRS 18 and the first application date of the amending Implementing Technical Standards (ITS) on supervisory financial reporting (FINREP), which are currently under consultation. The Opinion aims to support institutions by avoiding the operational burden of maintaining two different profit or loss formats during the transition period. It is also consistent with the EBA’s broader efforts to simplify and streamline the EU supervisory reporting framework.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-opinion-implementation-ifrs-18-supervisory-financial-reporting-support-consistency-ifrs",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-08T12:41:03.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-07/5ebd21e8-52f4-4b99-acbc-f7d725c3694e/Opinion%20Finrep%20IFRS%2018%20-%20interim%20period.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/ad6fd07d-c637-42d3-a4a7-4a4802a8ff26/Annex%201%20%28Final%20Report%20-%20Finrep%20IFRS%2018%29.pdf"
+      ],
+      "topics": [
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "reporting",
+        "supervisory reporting",
+        "supervisory",
+        "implementing technical standards",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting",
+            "supervisory reporting"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "implementing technical standards",
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-opinion-implementation-ifrs-18-supervisory-financial-reporting-support-consistency-ifrs",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
     {
       "id": "4b262a47009f00c7",
       "title": "On the comparison of capital requirements for global systemically important banks",
@@ -835,6 +948,117 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
+      "id": "8bedcd47d44c35e1",
+      "title": "How do economies with open labour markets work? The role of temporary migration in the European Union",
+      "summary": "This paper studies how temporary migration affects macroeconomic fluctuations and the conduct of stabilisation policies using a two-country DSGE model with search-and-matching frictions and endogenous cross-border labour mobility. The analysis shows that migration responds endogenously to both labour market conditions and exchange rate movements, making it an important channel of cross-country adjustment. Labour mobility alters the transmission of shocks in three main ways. First, it redistributes adjustment to productivity shocks across regions, smoothing output fluctuations in receiving economies while producing more nuanced effects in sending economies.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3251~6ae71665ab.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-08T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3251~6ae71665ab.en.pdf"
+      ],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3251~6ae71665ab.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "0884d39314dc2234",
+      "title": "PS17/26 – Regulated fees and levies: Rates proposals 2026/27",
+      "summary": "Policy statement 17/26",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/regulated-fees-and-levies-rates-proposals-2026-27-policy-statement",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-08T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/july/ps1726app1.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/regulated-fees-and-levies-rates-proposals-2026-27-policy-statement",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "943564e0ec71a1c1",
+      "title": "The Bank of England’s fees regime for financial market infrastructure supervision for CCPs and CSDs 2026/27",
+      "summary": "Policy statement",
+      "url": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-fees-regime-for-fmi-supervision-for-ccps-and-csds-2026-27",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-08T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "policy statement"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision",
+            "policy statement"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-fees-regime-for-fmi-supervision-for-ccps-and-csds-2026-27",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "466600976687ea74",
       "title": "ESMA launches Common Supervisory Action on CASPs’ digital operational resilience for custody",
       "summary": "The European Securities and Markets Authority (ESMA), the EU regulator and supervisor, is",
@@ -879,6 +1103,31 @@
       "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "20a2abc7a8cd9756",
+      "title": "ESMA publishes technical standards on CCP admission criteria elements",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-technical-standards-ccp-admission-criteria-elements",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-08T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA91-1505572268-4692_Final_Report_RTS_Admission_Criteria_Elements.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-technical-standards-ccp-admission-criteria-elements",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "f74d00a15920e503",
@@ -1148,7 +1397,8 @@
         "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/publication/2026/uk-deposit-takers-2026-priorities.pdf",
         "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2025/ss4515-november-2025-update.pdf",
         "https://www.bankofengland.co.uk/-/media/boe/files/financial-stability-report/2026/fpc-core-indicators-july-2026.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/financial-stability-report/2026/opening-remarks-july-2026.pdf"
+        "https://www.bankofengland.co.uk/-/media/boe/files/financial-stability-report/2026/opening-remarks-july-2026.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/financial-stability-report/2026/fsr-press-conference-transcript-july-2026.pdf"
       ],
       "topics": [],
       "matchedKeywords": [],
@@ -2342,53 +2592,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "69ef2366696b41f0",
-      "title": "ESMA consults on simplifying EU Taxonomy disclosure framework",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU financial markets regulator and super",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-consults-simplifying-eu-taxonomy-disclosure-framework",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-01T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA32-846262651-5826_Consultation_Paper_on_Technical_Advice_on_selected_KPIs_under_the_Taxonomy_Disclosures_Delegated_Act.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-06/7245797d-51ca-42ad-b679-07511b5182d3/Discussion%20Paper%20on%20Technical%20Advice%20on%20selected%20KPIs%20under%20the%20Taxonomy%20Disclosures%20Delegated%20Act%20%20.pdf"
-      ],
-      "topics": [
-        "Climate / ESG",
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "taxonomy",
-        "disclosure"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "taxonomy"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "disclosure"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-consults-simplifying-eu-taxonomy-disclosure-framework",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
       "id": "8bd6ce284578093e",
       "title": "ESMA recognises the Clearing Corporation of India Limited as a Tier 1 third-country CCP",
       "summary": "The European Securities and Markets Authority (ESMA), the EU’s securities markets regulator, has recognised The",
@@ -2945,56 +3148,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "9217c910ed56e907",
-      "title": "​The European Banking Authority consults on a draft methodology for setting fines under the Markets in Crypto-Assets Regulation (MiCA)",
-      "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-banking-authority-consults-draft-methodology-setting-fines-under-markets-crypto-assets",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-26T13:27:24.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-06/2b552586-bdf3-4faf-b1b3-136c4550f625/Consultation%20Paper%20on%20methodology%20for%20setting%20fines%20under%20MiCA.pdf"
-      ],
-      "topics": [
-        "Crypto / Digital Assets",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "crypto",
-        "mica",
-        "consultation paper",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "crypto",
-            "mica"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "consultation paper",
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/european-banking-authority-consults-draft-methodology-setting-fines-under-markets-crypto-assets",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "ec03b5825e072974",
@@ -4500,29 +4653,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "61339e74a5777234",
-      "title": "Higher oil prices from the war in the Middle East: assessing the headwinds for euro area growth",
-      "summary": "Oil supply disruptions related to the war in the Middle East have triggered a sharp rise in oil prices, posing headwinds for euro area economic activity. This box assesses the macroeconomic effects of the shock using a Bayesian vector autoregressive model with identified geopolitical oil supply shocks. The results suggest that supply-driven oil price increases associated with geopolitical events have a persistent negative effect on euro area growth, operating through lower private consumption and investment.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_04~9b6a4036fc.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-24T12:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_04~9b6a4036fc.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "a042437e9ca5a438",
@@ -6656,14 +6786,14 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "caf223b96e4ccb69",
+      "id": "b3123f400964b0c0",
       "title": "Agencies publish resolution plan feedback letters for certain domestic and foreign banking organizations",
       "summary": "Agencies publish resolution plan feedback letters for certain domestic and foreign banking organizations",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260522a.htm",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-press",
-      "sourceName": "Federal Reserve Press Releases",
+      "sourceId": "federal-reserve-banking-reg",
+      "sourceName": "Federal Reserve Banking and Consumer Regulatory Policy",
       "institution": "Federal Reserve Board",
       "region": "US",
       "jurisdiction": "US",
@@ -6695,9 +6825,9 @@
         }
       ],
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260522a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
+      "updateType": "Other",
+      "updateTypeDetail": "Other update"
     },
     {
       "id": "62a04de628978f28",
@@ -7281,29 +7411,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "6368f07944b4d1e9",
-      "title": "Your voice 2026: insights from the Bank of England’s outreach programmes",
-      "summary": "We listen directly to people from all parts of the UK. This report is a summary of what we have learnt over the past 12 months and how we have used those insights.",
-      "url": "https://www.bankofengland.co.uk/about/get-involved/citizens-panels/your-voice-2026-insights-from-the-boe-outreach-programmes",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-12T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/about/get-involved/citizens-panels/your-voice-2026-insights-from-the-boe-outreach-programmes",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "e0899a87e8a1f86d",
@@ -8147,29 +8254,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "0c939f69b2046bc5",
-      "title": "Chairman Atkins Launches 'Material Matters' Podcast",
-      "summary": "The Securities and Exchange Commission today announced the launch of Material Matters With SEC Chairman Paul Atkins, a new podcast that provides stakeholders and the investing public with exclusive interviews and insights around the agency’s policy and…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-39-chairman-atkins-launches-material-matters-podcast",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-16T17:02:47.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-39-chairman-atkins-launches-material-matters-podcast",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "8e2094f580ba4f1a",
@@ -9415,50 +9499,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "1b6e49544d868daa",
-      "title": "PS3/26 – Restatement of CRR requirements – 2027 implementation – final",
-      "summary": "Policy statement 3/26",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/restatement-of-crr-requirements-final-policy-statement",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-01-20T07:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Capital Requirements",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "crr",
-        "policy statement"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "crr"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "policy statement"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/january/restatement-of-crr-requirements-final-policy-statement",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "98f8972485c78ac9",
       "title": "PS4/26 – The Strong and Simple Framework: The simplified capital regime for Small Domestic Deposit Takers (SDDTs) – final",
       "summary": "Policy statement 4/26",
@@ -10166,10 +10206,63 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "034b54b65973adcf",
-      "title": "FCA consults on proposals to support strong, consistent standards in the SIPP market",
-      "summary": "The FCA has set out plans to drive greater consistency of standards in self-invested pensions (SIPPs), while maintaining the flexibility and broad investment choice they offer. Most SIPP providers are already doing the right thing and providing a good service to their customers. However, the FCA has historically found cases of poor due diligence, weak record keeping and gaps in how firms protect money and assets. To drive greater consistency, the FCA is proposing clear standards of due diligence. This is intended to secure better outcomes for consumers by improving consistency and adequacy of due diligence across all SIPP operators.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-consults-proposals-support-strong-consistent-standards-sipp-market",
+      "id": "1c4444a51933e34f",
+      "title": "FCA appoints new members to the Secondary Markets Advisory Committee",
+      "summary": "The FCA has appointed members to its advisory committee on secondary markets for the period July 2026 to July 2028. The committee will increase from 25 to 27 members. The Secondary Markets Advisory Committee supports the FCA’s work in wholesale secondary markets in equities, fixed income, foreign exchange, and commodities markets across securities, futures, swaps, and options markets. The committee includes representatives from firms operating from across the different segments of financial markets. It supports the work of the FCA by:Helping to develop reforms that improve market competition, increase consumer protection, and enhance the integrity of markets.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-appoints-new-members-secondary-markets-advisory-committee",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Consumer Protection",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "consumer protection",
+        "conduct",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "consumer protection"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-appoints-new-members-secondary-markets-advisory-committee",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "c08d0ab4a4034cdd",
+      "title": "FCA charges individual with insider dealing",
+      "summary": "Richard Bloomfield has been charged by the FCA with 5 counts of insider dealing. The FCA alleges that in his role as a solicitor at a law firm, Mr Bloomfield worked on an acquisition of Seraphine Group PLC and used inside information obtained through his role to deal in securities of Seraphine Group PLC on 5 occasions between 28 March 2022 and 10 January 2023. Mr Bloomfield appeared before Westminster Magistrates’ Court and gave no indication of plea. The case was sent to Southwark Crown Court, and his next appearance will be on 5 August 2026. Mr Bloomfield has been released on unconditional bail. The FCA is not investigating the law firm or Seraphine Group PLC in this case.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-charges-individual-insider-dealing",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -10195,10 +10288,10 @@
           ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-consults-proposals-support-strong-consistent-standards-sipp-market",
+      "link": "https://www.fca.org.uk/news/press-releases/fca-charges-individual-insider-dealing",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "d006263d5240410c",
@@ -10409,52 +10502,6 @@
         }
       ],
       "link": "https://www.fca.org.uk/news/press-releases/financial-regulator-simplify-investment-disclosure-regime",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "894c88a991859345",
-      "title": "Monevium Ltd enters special administration",
-      "summary": "On 18 June 2026, Monevium Ltd (Monevium) entered special administration. Adam Henry Stephens and Christopher Allen of S&W Partners LLP (S&W) were appointed as special administrators. Monevium is authorised by the FCA to provide payment services. On 28 February 2024, Monevium agreed to a voluntary undertaking, which restricted the activities it can carry out. See details on the Financial Services Register.",
-      "url": "https://www.fca.org.uk/news/news-stories/monevium-ltd-enters-special-administration",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "payment",
-        "payment services"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payment",
-            "payment services"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/news-stories/monevium-ltd-enters-special-administration",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -10693,41 +10740,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "72dadc94814f7bd2",
-      "title": "Rethinking regulation for the age of AI",
-      "summary": "Speech by Nikhil Rathi, FCA chief executive at techUK's Agents of Change: Generative and Agentic AI in Financial Services 2026. On joining the FCA over five years ago, I said we would become as much a data and tech regulator as financial services regulator. Being invited to speak here today reflects that. We’re building the future together, and nowhere is that clearer than on AI. Studies suggest more than 80% of financial services firms are already adopting AI. So the question now is about scale. And if we are serious about being a leading AI economy, financial services have to sit at the heart of our approach.",
-      "url": "https://www.fca.org.uk/news/speeches/rethinking-regulation-age-ai",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/speeches/rethinking-regulation-age-ai",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "a3609fe403264424",
       "title": "Shaping the future of the credit market – the road ahead",
       "summary": "Speech by Alison Walters, director of consumer finance at the Credit Week: Powering the Future of Finance event. We all recognise that consumer credit plays a vital role in the real economy and in people’s everyday lives, supporting households, enabling opportunity, and helping people manage financial pressures. But the world around us is changing, the credit market is changing and so are consumer demands and needs. With that in mind, it is important to consider whether the market today is fit for the future.",
@@ -10767,6 +10779,50 @@
         }
       ],
       "link": "https://www.fca.org.uk/news/speeches/shaping-future-credit-market-road-ahead",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "271bc7d3ada65d15",
+      "title": "Showing our workings: solving for growth, risk and trust",
+      "summary": "Speech by Sarah Pritchard, deputy chief executive, at a Breakfast Briefing at The Whitehall Industry Group. As everyone who has wrestled with a problem knows, getting to the right answer is about more than just understanding the question. It’s about having a firm grasp on your constants. We’re working with 2. And they are, admittedly, significant. The first is our vision: deepening trust, rebalancing risk, supporting growth and improving lives. We want to see a fair, thriving financial services market that works for consumers and the wider economy. The second is our priorities: supporting growth, fighting financial crime, helping consumers and being a smarter regulator.",
+      "url": "https://www.fca.org.uk/news/speeches/showing-our-workings-solving-growth-risk-and-trust",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "financial crime",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "financial crime"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/speeches/showing-our-workings-solving-growth-risk-and-trust",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
@@ -10856,7 +10912,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-08T08:28:05.127Z",
+      "publishedAt": "2026-07-08T19:25:31.583Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10880,7 +10936,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-08T08:28:05.127Z",
+      "publishedAt": "2026-07-08T19:25:31.583Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10904,7 +10960,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-08T08:28:05.127Z",
+      "publishedAt": "2026-07-08T19:25:31.583Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10917,27 +10973,27 @@
   "updateTypeSummary": [
     {
       "updateType": "News",
-      "count": 71
-    },
-    {
-      "updateType": "Publications / Reports",
-      "count": 68
+      "count": 72
     },
     {
       "updateType": "Rules / Standards / Guidance",
+      "count": 70
+    },
+    {
+      "updateType": "Publications / Reports",
       "count": 67
     },
     {
       "updateType": "Consultations",
-      "count": 21
-    },
-    {
-      "updateType": "Speeches / Interviews / Blogs",
-      "count": 16
+      "count": 19
     },
     {
       "updateType": "Working Papers / Research",
       "count": 16
+    },
+    {
+      "updateType": "Speeches / Interviews / Blogs",
+      "count": 15
     },
     {
       "updateType": "Statistics / Data",
@@ -10945,7 +11001,7 @@
     },
     {
       "updateType": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "updateType": "Source Pages",
