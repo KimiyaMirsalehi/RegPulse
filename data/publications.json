@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T19:55:13.215Z",
+  "generatedAt": "2026-07-08T08:28:05.127Z",
   "totalPublications": 275,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -221,25 +221,25 @@
       "region": "Global",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 0,
+      "itemCount": 1,
       "url": "https://www.bis.org/doclist/rss_all_categories.rss",
       "sourcePageUrl": "https://www.bis.org/bcbs/publications.htm",
       "officialSourcePage": "https://www.bis.org/bcbs/publications.htm",
-      "message": "Official source page is available. No clean dated items were extracted today, so the source page is shown as a direct link."
+      "message": "Parsed successfully."
     }
   ],
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 111
+      "count": 112
     },
     {
       "topic": "Governance",
-      "count": 58
+      "count": 57
     },
     {
       "topic": "Basel / BCBS",
-      "count": 37
+      "count": 38
     },
     {
       "topic": "Reporting / Disclosure",
@@ -251,7 +251,7 @@
     },
     {
       "topic": "Capital Requirements",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Climate / ESG",
@@ -274,12 +274,12 @@
       "count": 6
     },
     {
-      "topic": "Stress Testing",
+      "topic": "DORA / Operational Resilience",
       "count": 6
     },
     {
-      "topic": "DORA / Operational Resilience",
-      "count": 5
+      "topic": "Stress Testing",
+      "count": 6
     },
     {
       "topic": "Liquidity",
@@ -301,15 +301,15 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 111
+      "count": 112
     },
     {
       "topic": "Governance",
-      "count": 58
+      "count": 57
     },
     {
       "topic": "Basel / BCBS",
-      "count": 37
+      "count": 38
     },
     {
       "topic": "Reporting / Disclosure",
@@ -321,7 +321,7 @@
     },
     {
       "topic": "Capital Requirements",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Climate / ESG",
@@ -344,12 +344,12 @@
       "count": 6
     },
     {
-      "topic": "Stress Testing",
+      "topic": "DORA / Operational Resilience",
       "count": 6
     },
     {
-      "topic": "DORA / Operational Resilience",
-      "count": 5
+      "topic": "Stress Testing",
+      "count": 6
     },
     {
       "topic": "Liquidity",
@@ -371,19 +371,19 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 37
+      "count": 38
     },
     {
       "keyword": "board",
-      "count": 35
-    },
-    {
-      "keyword": "its",
-      "count": 32
+      "count": 34
     },
     {
       "keyword": "banking supervision",
-      "count": 30
+      "count": 31
+    },
+    {
+      "keyword": "its",
+      "count": 31
     },
     {
       "keyword": "conduct",
@@ -391,7 +391,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 18
+      "count": 19
     },
     {
       "keyword": "policy statement",
@@ -418,19 +418,19 @@
       "count": 7
     },
     {
+      "keyword": "capital requirements",
+      "count": 6
+    },
+    {
       "keyword": "climate",
       "count": 6
     },
     {
-      "keyword": "capital requirements",
-      "count": 5
+      "keyword": "operational resilience",
+      "count": 6
     },
     {
       "keyword": "liquidity",
-      "count": 5
-    },
-    {
-      "keyword": "operational resilience",
       "count": 5
     },
     {
@@ -550,6 +550,18 @@
       "count": 1
     },
     {
+      "keyword": "basel committee",
+      "count": 1
+    },
+    {
+      "keyword": "basel committee on banking supervision",
+      "count": 1
+    },
+    {
+      "keyword": "basel iii",
+      "count": 1
+    },
+    {
       "keyword": "clearing",
       "count": 1
     },
@@ -567,6 +579,10 @@
     },
     {
       "keyword": "cryptoasset exposures",
+      "count": 1
+    },
+    {
+      "keyword": "digital operational resilience",
       "count": 1
     },
     {
@@ -672,22 +688,6 @@
     {
       "keyword": "resolution planning",
       "count": 1
-    },
-    {
-      "keyword": "retail investors",
-      "count": 1
-    },
-    {
-      "keyword": "sanction",
-      "count": 1
-    },
-    {
-      "keyword": "sanctions",
-      "count": 1
-    },
-    {
-      "keyword": "securitisation",
-      "count": 1
     }
   ],
   "regionSummary": [
@@ -771,6 +771,115 @@
     }
   ],
   "publications": [
+    {
+      "id": "4b262a47009f00c7",
+      "title": "On the comparison of capital requirements for global systemically important banks",
+      "summary": "Basel III introduced a comprehensive package of capital reforms to bolster the resilience of the global banking system. While the standard supports regulatory convergence across jurisdictions by establishing a common minimum set of requirements for internationally active banks, it also gives national authorities flexibility to exceed the minimum standards. Heterogeneous applications of Basel III across jurisdictions have fuelled perceptions of an uneven playing field and have become central to current debates on how regulation may influence banks' competitiveness.",
+      "url": "https://www.bis.org/fsi/publ/insights76.htm",
+      "sourcePageUrl": "https://www.bis.org/bcbs/publications.htm",
+      "officialSourcePage": "https://www.bis.org/bcbs/publications.htm",
+      "sourceId": "basel-committee-bis",
+      "sourceName": "Basel Committee / BIS Updates",
+      "institution": "Basel Committee on Banking Supervision",
+      "region": "Global",
+      "jurisdiction": "Global",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-08T11:15:00.000Z",
+      "pdfLinks": [
+        "https://www.bis.org/fsi/publ/insights76.pdf",
+        "https://www.bis.org/fsi/publ/insights76_summary.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Capital Requirements",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "basel committee",
+        "basel committee on banking supervision",
+        "basel iii",
+        "banking supervision",
+        "capital requirements",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "basel committee",
+            "basel committee on banking supervision",
+            "basel iii",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital requirements",
+            "basel iii"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bis.org/fsi/publ/insights76.htm",
+      "sourceFeedUrl": "https://www.bis.org/doclist/rss_all_categories.rss",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "466600976687ea74",
+      "title": "ESMA launches Common Supervisory Action on CASPs’ digital operational resilience for custody",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU regulator and supervisor, is",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-launches-common-supervisory-action-casps-digital-operational-resilience",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-08T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "digital operational resilience",
+        "operational resilience",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "digital operational resilience",
+            "operational resilience"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-launches-common-supervisory-action-casps-digital-operational-resilience",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "f74d00a15920e503",
       "title": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
@@ -2231,50 +2340,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "c0cd6bec4e35b3a3",
-      "title": "ESMA appoints Peter Tkáč as the new member of its Management Board",
-      "summary": "The European Securities and Markets Authority (ESMA), the European Union’s financial markets regulator and supe",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-appoints-peter-tkac-new-member-its-management-board",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-01T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "board",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-appoints-peter-tkac-new-member-its-management-board",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "69ef2366696b41f0",
@@ -4339,10 +4404,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-06-24T20:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/publications/files/2026-dfast-results-20260624.pdf",
-        "https://www.federalreserve.gov/publications/files/large-bank-capital-requirements-20260624.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Stress Testing",
         "Governance"
@@ -10780,30 +10842,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "34235643e4835526",
-      "title": "Basel Committee / BIS Updates: official source page",
-      "summary": "Open the official Basel Committee / BIS Updates source page for the latest publications, announcements and regulatory updates.",
-      "url": "https://www.bis.org/bcbs/publications.htm",
-      "link": "https://www.bis.org/bcbs/publications.htm",
-      "sourcePageUrl": "https://www.bis.org/bcbs/publications.htm",
-      "officialSourcePage": "https://www.bis.org/bcbs/publications.htm",
-      "sourceFeedUrl": "https://www.bis.org/doclist/rss_all_categories.rss",
-      "sourceId": "basel-committee-bis",
-      "sourceName": "Basel Committee / BIS Updates",
-      "institution": "Basel Committee on Banking Supervision",
-      "region": "Global",
-      "jurisdiction": "Global",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-07T19:55:13.215Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "isSourceLandingCard": true,
-      "updateType": "Source Pages",
-      "updateTypeDetail": "Official source page"
-    },
-    {
       "id": "9c359a56d14a88be",
       "title": "Central Bank of Cyprus Announcements: official source page",
       "summary": "Open the official Central Bank of Cyprus Announcements source page for the latest publications, announcements and regulatory updates.",
@@ -10818,7 +10856,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-07T19:55:13.215Z",
+      "publishedAt": "2026-07-08T08:28:05.127Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10842,7 +10880,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-07T19:55:13.215Z",
+      "publishedAt": "2026-07-08T08:28:05.127Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10866,7 +10904,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-07T19:55:13.215Z",
+      "publishedAt": "2026-07-08T08:28:05.127Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10879,7 +10917,7 @@
   "updateTypeSummary": [
     {
       "updateType": "News",
-      "count": 70
+      "count": 71
     },
     {
       "updateType": "Publications / Reports",
@@ -10911,7 +10949,7 @@
     },
     {
       "updateType": "Source Pages",
-      "count": 4
+      "count": 3
     },
     {
       "updateType": "Events",
