@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T19:25:31.583Z",
+  "generatedAt": "2026-07-09T09:39:16.283Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 114
+      "count": 115
     },
     {
       "topic": "Governance",
@@ -243,7 +243,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 26
+      "count": 25
     },
     {
       "topic": "Payments / Open Finance",
@@ -278,12 +278,12 @@
       "count": 6
     },
     {
-      "topic": "Stress Testing",
+      "topic": "Liquidity",
       "count": 6
     },
     {
-      "topic": "Liquidity",
-      "count": 5
+      "topic": "Stress Testing",
+      "count": 6
     },
     {
       "topic": "AI",
@@ -301,7 +301,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 114
+      "count": 115
     },
     {
       "topic": "Governance",
@@ -313,7 +313,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 26
+      "count": 25
     },
     {
       "topic": "Payments / Open Finance",
@@ -348,12 +348,12 @@
       "count": 6
     },
     {
-      "topic": "Stress Testing",
+      "topic": "Liquidity",
       "count": 6
     },
     {
-      "topic": "Liquidity",
-      "count": 5
+      "topic": "Stress Testing",
+      "count": 6
     },
     {
       "topic": "AI",
@@ -379,7 +379,7 @@
     },
     {
       "keyword": "its",
-      "count": 32
+      "count": 33
     },
     {
       "keyword": "banking supervision",
@@ -403,7 +403,7 @@
     },
     {
       "keyword": "reporting",
-      "count": 13
+      "count": 12
     },
     {
       "keyword": "consultation paper",
@@ -422,16 +422,16 @@
       "count": 6
     },
     {
+      "keyword": "liquidity",
+      "count": 6
+    },
+    {
       "keyword": "operational resilience",
       "count": 6
     },
     {
       "keyword": "payment",
       "count": 6
-    },
-    {
-      "keyword": "liquidity",
-      "count": 5
     },
     {
       "keyword": "payments",
@@ -772,6 +772,52 @@
   ],
   "publications": [
     {
+      "id": "e00293048ccf1471",
+      "title": "A theory of bank liquidity requirements",
+      "summary": "We develop a general equilibrium theory of financial intermediation and its implications for liquidity regulation. The model is built around an agency problem arising from leveraged intermediation: banks finance loan origination with deposits and face moral hazard in risk management, while holding cash mitigates these incentives at the cost of foregone investment returns. Liquidity demand therefore emerges endogenously from incentive considerations rather than from exposure to exogenous funding shocks. In equilibrium, financial experts choose between allocating equity to the banking sector relative to the non-bank financial sector that can provide ex-post liquidity by buying bank assets.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3252~91761af52b.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-09T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3252~91761af52b.en.pdf"
+      ],
+      "topics": [
+        "Liquidity",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "liquidity",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "liquidity",
+          "label": "Liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3252~91761af52b.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "070715f901e095c3",
       "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
       "summary": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
@@ -805,6 +851,29 @@
       ],
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "9df882905f8e2f99",
+      "title": "SEC to Host Virtual Roundtable on Modernizing IPOs and Expanding Access to Public Markets",
+      "summary": "The Securities and Exchange Commission’s Office of the Advocate for Small Business Capital Formation and the Division of Corporation Finance will co-host a livestreamed discussion on Monday, July 13, 2026, at 2 p.m. to re-examine…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-65-sec-host-virtual-roundtable-modernizing-ipos-expanding-access-public-markets",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-08T17:54:26.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-65-sec-host-virtual-roundtable-modernizing-ipos-expanding-access-public-markets",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
     },
@@ -4341,33 +4410,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "163b7dd12ad33940",
-      "title": "How US financial markets react to geopolitical shocks hitting oil supply",
-      "summary": "This box assesses how energy supply disruptions associated with geopolitical shocks are transmitted to US financial markets, leveraging on the indicator developed by Iacoviello and Tong (2026). Whereas negative geopolitical events typically reduce output, they are ambiguous with respect to inflation. However, those that also constrain global oil supply are inflationary and lead to deeper recessions. In these cases, stock prices fall more persistently, the dollar appreciates markedly, and risk metrics such as corporate bond spreads increase and remain elevated.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_02~7d79ce3c90.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2972~6da32f928b.en.pdf",
-        "https://www.matteoiacoviello.com/research_files/AI_GPR_PAPER.pdf",
-        "https://www.banque-france.fr/system/files/2025-07/WP1005.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_02~7d79ce3c90.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "a8ecfb29f3479da6",
@@ -8163,41 +8205,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "afb23bce9c37ea16",
-      "title": "SEC and CFTC Jointly Propose Amendments to Reduce Private Fund Reporting Burdens",
-      "summary": "The Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC) jointly proposed amendments to reduce private fund reporting burdens while enabling the continued collection of necessary and appropriate information. The…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-40-sec-cftc-jointly-propose-amendments-reduce-private-fund-reporting-burdens",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-20T14:45:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "reporting"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-40-sec-cftc-jointly-propose-amendments-reduce-private-fund-reporting-burdens",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "4d83d6d224d7f737",
       "title": "CP7/26 – Regulated fees and levies: Rates proposals 2026/27",
       "summary": "Consultation paper 7/26",
@@ -10912,7 +10919,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-08T19:25:31.583Z",
+      "publishedAt": "2026-07-09T09:39:16.283Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10936,7 +10943,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-08T19:25:31.583Z",
+      "publishedAt": "2026-07-09T09:39:16.283Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10960,7 +10967,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-08T19:25:31.583Z",
+      "publishedAt": "2026-07-09T09:39:16.283Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10977,11 +10984,11 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 70
+      "count": 71
     },
     {
       "updateType": "Publications / Reports",
-      "count": 67
+      "count": 66
     },
     {
       "updateType": "Consultations",
