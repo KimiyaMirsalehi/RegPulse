@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T09:35:00.544Z",
+  "generatedAt": "2026-07-10T19:27:03.844Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 115
+      "count": 114
     },
     {
       "topic": "Governance",
@@ -243,30 +243,30 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 26
-    },
-    {
-      "topic": "Payments / Open Finance",
-      "count": 11
+      "count": 25
     },
     {
       "topic": "Capital Requirements",
       "count": 10
     },
     {
-      "topic": "AML / Financial Crime",
-      "count": 9
+      "topic": "Payments / Open Finance",
+      "count": 10
     },
     {
       "topic": "Climate / ESG",
       "count": 9
     },
     {
-      "topic": "Consumer Protection",
-      "count": 7
+      "topic": "AML / Financial Crime",
+      "count": 8
     },
     {
       "topic": "Crypto / Digital Assets",
+      "count": 7
+    },
+    {
+      "topic": "Liquidity",
       "count": 7
     },
     {
@@ -274,11 +274,11 @@
       "count": 7
     },
     {
-      "topic": "DORA / Operational Resilience",
+      "topic": "Consumer Protection",
       "count": 6
     },
     {
-      "topic": "Liquidity",
+      "topic": "DORA / Operational Resilience",
       "count": 6
     },
     {
@@ -301,7 +301,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 115
+      "count": 114
     },
     {
       "topic": "Governance",
@@ -313,30 +313,30 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 26
-    },
-    {
-      "topic": "Payments / Open Finance",
-      "count": 11
+      "count": 25
     },
     {
       "topic": "Capital Requirements",
       "count": 10
     },
     {
-      "topic": "AML / Financial Crime",
-      "count": 9
+      "topic": "Payments / Open Finance",
+      "count": 10
     },
     {
       "topic": "Climate / ESG",
       "count": 9
     },
     {
-      "topic": "Consumer Protection",
-      "count": 7
+      "topic": "AML / Financial Crime",
+      "count": 8
     },
     {
       "topic": "Crypto / Digital Assets",
+      "count": 7
+    },
+    {
+      "topic": "Liquidity",
       "count": 7
     },
     {
@@ -344,11 +344,11 @@
       "count": 7
     },
     {
-      "topic": "DORA / Operational Resilience",
+      "topic": "Consumer Protection",
       "count": 6
     },
     {
-      "topic": "Liquidity",
+      "topic": "DORA / Operational Resilience",
       "count": 6
     },
     {
@@ -379,7 +379,7 @@
     },
     {
       "keyword": "its",
-      "count": 34
+      "count": 35
     },
     {
       "keyword": "banking supervision",
@@ -399,15 +399,15 @@
     },
     {
       "keyword": "enforcement",
-      "count": 16
+      "count": 15
     },
     {
       "keyword": "reporting",
-      "count": 13
+      "count": 12
     },
     {
       "keyword": "consultation paper",
-      "count": 11
+      "count": 10
     },
     {
       "keyword": "capital requirements",
@@ -418,11 +418,11 @@
       "count": 7
     },
     {
-      "keyword": "climate",
-      "count": 6
+      "keyword": "liquidity",
+      "count": 7
     },
     {
-      "keyword": "liquidity",
+      "keyword": "climate",
       "count": 6
     },
     {
@@ -430,12 +430,8 @@
       "count": 6
     },
     {
-      "keyword": "payment",
-      "count": 5
-    },
-    {
       "keyword": "payments",
-      "count": 5
+      "count": 6
     },
     {
       "keyword": "resolution",
@@ -446,7 +442,7 @@
       "count": 5
     },
     {
-      "keyword": "financial crime",
+      "keyword": "payment",
       "count": 4
     },
     {
@@ -459,6 +455,10 @@
     },
     {
       "keyword": "crr",
+      "count": 3
+    },
+    {
+      "keyword": "financial crime",
       "count": 3
     },
     {
@@ -534,10 +534,6 @@
       "count": 2
     },
     {
-      "keyword": "settlement",
-      "count": 2
-    },
-    {
       "keyword": "stress testing",
       "count": 2
     },
@@ -571,10 +567,6 @@
     },
     {
       "keyword": "complaints",
-      "count": 1
-    },
-    {
-      "keyword": "consumer finance",
       "count": 1
     },
     {
@@ -688,6 +680,14 @@
     {
       "keyword": "sanction",
       "count": 1
+    },
+    {
+      "keyword": "sanctions",
+      "count": 1
+    },
+    {
+      "keyword": "securitisation",
+      "count": 1
     }
   ],
   "regionSummary": [
@@ -772,6 +772,126 @@
   ],
   "publications": [
     {
+      "id": "c1c5f046bca3bdd3",
+      "title": "SEC Office of Municipal Securities Updates FAQs for Registration of Municipal Advisors",
+      "summary": "The Securities and Exchange Commission’s Office of Municipal Securities today announced it has updated its Registration of Municipal Advisors FAQs webpage to offer more clarity on municipal advisor registration and recordkeeping requirements. The…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-66-sec-office-municipal-securities-updates-faqs-registration-municipal-advisors",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-10T16:00:32.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-66-sec-office-municipal-securities-updates-faqs-registration-municipal-advisors",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "656dcea6645c8ff7",
+      "title": "SoS! The overnight bilateral liquidity provision of non-bank financial institutions to banks",
+      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+      "url": "https://www.bankofengland.co.uk/working-paper/2026/sos-the-overnight-bilateral-liquidity-provision-of-non-bank-financial-institutions-to-banks",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-10T13:01:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/sos-the-overnight-bilateral-liquidity-provision-of-non-bank-financial-institutions-to-banks.pdf"
+      ],
+      "topics": [
+        "Liquidity"
+      ],
+      "matchedKeywords": [
+        "liquidity"
+      ],
+      "topicMatches": [
+        {
+          "id": "liquidity",
+          "label": "Liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/sos-the-overnight-bilateral-liquidity-provision-of-non-bank-financial-institutions-to-banks",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "b78d6e57ee6fe8ba",
+      "title": "Central bank communications that reach the public",
+      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+      "url": "https://www.bankofengland.co.uk/working-paper/2026/central-bank-communications-that-reach-the-public",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-10T13:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/central-bank-communications-that-reach-the-public.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/central-bank-communications-that-reach-the-public",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "0203ed112685745b",
+      "title": "ESMA launches data collection under the first phase of ESAP",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU regulator and supervisor, has",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-launches-data-collection-under-first-phase-esap",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-10T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-launches-data-collection-under-first-phase-esap",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "608e1113d3b3df84",
       "title": "ESMA publishes first market capitalisation data for EU Member States",
       "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
@@ -795,6 +915,29 @@
       "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "7b197c44c7be578a",
+      "title": "New Q&As available",
+      "summary": "",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/new-qas-available-July-2026",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-10T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/new-qas-available-July-2026",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "230c77a42b4d09d7",
@@ -2259,31 +2402,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "d66b522dd73b59a7",
-      "title": "ESMA reminds firms of existing rules and obligations under binary option measures amid growing popularity of prediction markets globally",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and sup",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-reminds-firms-existing-rules-and-obligations-under-binary-option-measures",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-03T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA35-243228190-8148_Public_Statement_on_the_application_of_the_national_product_intervention_measures_on_binary_options_to_event_contracts.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-reminds-firms-existing-rules-and-obligations-under-binary-option-measures",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "d27df611f68b07fc",
       "title": "Christine Lagarde: Interview with Les Échos",
       "summary": "",
@@ -2689,46 +2807,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "f36335c0ed10642a",
-      "title": "ESMA identifies up to €1 billion in potential annual savings from simplifying EU transaction reporting",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and sup",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-identifies-eu1-billion-potential-annual-savings-simplifying-eu",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-02T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA12-1406959660-3235_Final_Report_on_the_Call_for_Evidence_on_a_comprehensive_approach_for_the_simplification_of_financial_transaction_reporting.pdf",
-        "https://www.esma.europa.eu/sites/default/files/2026-07/Transaction_reporting.pdf",
-        "https://www.esma.europa.eu/sites/default/files/2026-07/Cost-Benefit_Analysis_of_simplification_scenarios_under_MiFIR__EMIR_and_SFTR_Transaction_Reporting.pdf",
-        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA71-545613100-2958_Transaction_reporting_-Press_Release.pdf"
-      ],
-      "topics": [
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "reporting"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-identifies-eu1-billion-potential-annual-savings-simplifying-eu",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "76efcf1845f850f5",
@@ -4399,14 +4477,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-06-25T11:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2025/ss425-december-2025.pdf",
-        "https://www.fca.org.uk/publication/corporate/quantitative-climate-scenario-analysis-financial-decisions-case-studies.pdf",
-        "https://www.fca.org.uk/publication/corporate/from-risk-resilience-integrating-adaptation-finance.pdf",
-        "https://www.fca.org.uk/publication/corporate/skilling-up-training-available-physical-risks-climate-change-financial-sector.pdf",
-        "https://www.fca.org.uk/publication/corporate/risk-professionals-guide-physical-risk-assessments-garp-benchmarking-study-13-vendors.pdf",
-        "https://www.fca.org.uk/publication/corporate/cfrf-mobilising-adaptation-finance-build-resilience-2024.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "DORA / Operational Resilience",
         "Climate / ESG",
@@ -4470,11 +4541,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-06-25T09:00:00.000Z",
-      "pdfLinks": [
-        "https://assets.publishing.service.gov.uk/media/690de7a247ad122f854627bf/PVDC_Strategy.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2021/ss121-march-22.pdf",
-        "https://www.fca.org.uk/publication/policy/ps21-3-operational-resilience.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement",
         "Payments / Open Finance"
@@ -7264,50 +7331,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "066cb221a0176459",
-      "title": "Extending RTGS and CHAPS settlement hours – next steps towards near 24x7 settlement",
-      "summary": "Consultation paper",
-      "url": "https://www.bankofengland.co.uk/paper/2026/cp/extending-rtgs-and-chaps-settlement-hours-next-steps",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-18T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "consultation paper",
-        "settlement"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "consultation paper"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "settlement"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/paper/2026/cp/extending-rtgs-and-chaps-settlement-hours-next-steps",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
       "id": "e00cb064b13246a2",
       "title": "Letter from David Bailey, Charlotte Gerken and Rebecca Jackson on reaffirming the PRA's position and clarifying expectations on innovations in the use of deposits, e-money and stablecoins",
       "summary": "Letter to Chief Executive Officers of all banks and designated investment firms.",
@@ -7408,29 +7431,6 @@
       "topicMatches": [],
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/may/results-of-the-firm-feedback-survey-2025",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "55a7d13b2896c908",
-      "title": "Bank of England Weekly Report 13 May 2026",
-      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2026/13-may-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-14T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/13-may-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
     },
@@ -7752,41 +7752,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "7780933882b47165",
-      "title": "Deputy Director of Enforcement Jason Burt to Conclude His Tenure at the SEC",
-      "summary": "The Securities and Exchange Commission today announced that Jason Burt, Deputy Director of the Division of Enforcement (Specialized Units), will depart the agency on May 1, 2026, after more than 22 years of public service.“Jason’s exceptional leadership…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-41-deputy-director-enforcement-jason-burt-conclude-his-tenure-sec",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-30T20:30:36.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "enforcement"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "enforcement"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-41-deputy-director-enforcement-jason-burt-conclude-his-tenure-sec",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "024952495d3cce94",
@@ -9981,68 +9946,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "3eaf100f4aa63a97",
-      "title": "CACEIS UK censured and to pay £31.7m to WealthTek clients for weak financial crime controls",
-      "summary": "CACEIS UK, an asset servicing bank, has been censured by the FCA and will make a £31.7m voluntary payment to WealthTek clients for failing to act on information that left clients exposed to the risk of financial crime. The FCA has now secured over £57m in total for WealthTek clients in just over a year, with action taken against CACEIS UK, Sapia Partners and Barclays Bank UK. CACEIS UK became WealthTek's sub-custodian in November 2020, meaning they were responsible for keeping its client’s assets safe. WealthTek was then known as Vertus Asset Management LLP.",
-      "url": "https://www.fca.org.uk/news/press-releases/caceis-uk-censured-pay-31-million-wealthtek-clients-weak-financial-crime-controls",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime",
-        "Governance",
-        "Supervision / Enforcement",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "financial crime",
-        "conduct",
-        "its",
-        "payment"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "financial crime"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payment"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/caceis-uk-censured-pay-31-million-wealthtek-clients-weak-financial-crime-controls",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "bafdc898b38891f1",
       "title": "Eldens Finance Limited enters administration",
       "summary": "On Monday 6 July 2026, Eldens Finance Limited (Eldens) was placed into administration. Antony Batty and Hugh Jesseman of Antony Batty & Company Ltd were appointed as Joint Administrators. Eldens provided pawnbroking loans, primarily secured against high-value and luxury assets. The Joint Administrators are responsible for winding down the firm in an orderly way in the interests of its creditors. On 19 June 2026, Eldens agreed to enter into a voluntary requirement to restrict its ability to deal and dispose of assets and its permissions to carry out regulatory activities. More information about these requirements can be found on the FS Register.",
@@ -10496,6 +10399,50 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "01a8dc5c83d6cde5",
+      "title": "Logbook Lending Limited enters administration",
+      "summary": "On 1 July 2026, Logbook Lending Limited (trading as AFPremier.co.uk, pawnmy.co.uk, LBL Asset Finance, Log Book Loans 247) entered administration. Paul Appleton, Adam Shama and Robert Ferne of BTG Begbies Traynor (London) LLP were appointed as Joint Administrators. Logbook Lending Limited provided lending secured on vehicles (known as logbook loans or bill of sale agreements), as well as pawnbroking. The firm is no longer lending. However, all existing loan agreements remain in place, and customers should continue to make payments as usual. The Joint Administrators will update customers as soon as possible.",
+      "url": "https://www.fca.org.uk/news/news-stories/logbook-lending-limited-enters-administration",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "payments"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payments"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/logbook-lending-limited-enters-administration",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "9970be8e1683af6a",
       "title": "Motor finance scheme partially suspended",
       "summary": "The Upper Tribunal has made an order suspending parts of the scheme. We set out what the partial suspension means for firms and consumers. The Upper Tribunal has confirmed it will hear the legal challenges to our motor finance scheme on 14 to 18 December 2026 or 16 to 26 February 2027. The final dates depend on whether any of those involved in the case apply for further expert opinion or disclosure of information, and whether any such application is successful.",
@@ -10729,53 +10676,9 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "a3609fe403264424",
-      "title": "Shaping the future of the credit market – the road ahead",
-      "summary": "Speech by Alison Walters, director of consumer finance at the Credit Week: Powering the Future of Finance event. We all recognise that consumer credit plays a vital role in the real economy and in people’s everyday lives, supporting households, enabling opportunity, and helping people manage financial pressures. But the world around us is changing, the credit market is changing and so are consumer demands and needs. With that in mind, it is important to consider whether the market today is fit for the future.",
-      "url": "https://www.fca.org.uk/news/speeches/shaping-future-credit-market-road-ahead",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Consumer Protection",
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "consumer finance",
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "consumer finance"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/speeches/shaping-future-credit-market-road-ahead",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "271bc7d3ada65d15",
       "title": "Showing our workings: solving for growth, risk and trust",
-      "summary": "Speech by Sarah Pritchard, deputy chief executive, at a Breakfast Briefing at The Whitehall Industry Group. As everyone who has wrestled with a problem knows, getting to the right answer is about more than just understanding the question. It’s about having a firm grasp on your constants. We’re working with 2. And they are, admittedly, significant. The first is our vision: deepening trust, rebalancing risk, supporting growth and improving lives. We want to see a fair, thriving financial services market that works for consumers and the wider economy. The second is our priorities: supporting growth, fighting financial crime, helping consumers and being a smarter regulator.",
+      "summary": "Speech by Sarah Pritchard, deputy chief executive, at a Breakfast Briefing at The Whitehall & Industry Group. As everyone who has wrestled with a problem knows, getting to the right answer is about more than just understanding the question. It’s about having a firm grasp on your constants. We’re working with 2. And they are, admittedly, significant. The first is our vision: deepening trust, rebalancing risk, supporting growth and improving lives. We want to see a fair, thriving financial services market that works for consumers and the wider economy. The second is our priorities: supporting growth, fighting financial crime, helping consumers and being a smarter regulator.",
       "url": "https://www.fca.org.uk/news/speeches/showing-our-workings-solving-growth-risk-and-trust",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
@@ -10852,6 +10755,50 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "de5545f64bb0d420",
+      "title": "UK financial regulators to begin overseeing Critical Third Parties announced by Treasury",
+      "summary": "The Bank of England (the Bank), the Prudential Regulation Authority (PRA) and the FCA will start overseeing the first critical third parties (CTPs) on Monday 13 July 2026, following designation by the Treasury. CTPs are technology and other service providers whose services underpin the UK financial system. Today, the Treasury has announced its first designations of 4 global cloud services and technology providers: Amazon Web Services EMEA SARL, Google Cloud EMEA Limited, Microsoft Ireland Operations Ltd, and Oracle Corporation UK Limited.",
+      "url": "https://www.fca.org.uk/news/statements/uk-financial-regulators-overseeing-critical-third-parties-announced-treasury",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/statements/uk-financial-regulators-overseeing-critical-third-parties-announced-treasury",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "f4e61a950beb6291",
       "title": "Why getting product design right really matters to consumers",
       "summary": "Financial products and services shape some of the most important decisions we all make – from saving and borrowing, to protecting ourselves and our families when things go wrong. Consumer needs vary widely, and there’s no such thing as a standard consumer. Our Financial Lives data shows a huge spread of needs, resilience and capability. That’s why it’s so important for firms to design their products effectively. When firms have consumers’ needs firmly in mind, they can support good outcomes – helping people make informed choices, get fair value, and receive the support they need over time to navigate their financial lives.",
@@ -10901,7 +10848,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-10T09:35:00.544Z",
+      "publishedAt": "2026-07-10T19:27:03.844Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10925,7 +10872,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-10T09:35:00.544Z",
+      "publishedAt": "2026-07-10T19:27:03.844Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10949,7 +10896,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-10T09:35:00.544Z",
+      "publishedAt": "2026-07-10T19:27:03.844Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10962,7 +10909,7 @@
   "updateTypeSummary": [
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 73
+      "count": 74
     },
     {
       "updateType": "News",
@@ -10970,19 +10917,19 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 67
+      "count": 66
     },
     {
       "updateType": "Consultations",
-      "count": 19
-    },
-    {
-      "updateType": "Speeches / Interviews / Blogs",
-      "count": 15
+      "count": 18
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 15
+      "count": 17
+    },
+    {
+      "updateType": "Speeches / Interviews / Blogs",
+      "count": 14
     },
     {
       "updateType": "Statistics / Data",
