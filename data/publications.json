@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T19:46:25.904Z",
+  "generatedAt": "2026-07-10T09:35:00.544Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -771,6 +771,31 @@
     }
   ],
   "publications": [
+    {
+      "id": "608e1113d3b3df84",
+      "title": "ESMA publishes first market capitalisation data for EU Member States",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-first-market-capitalisation-data-eu-member-states",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-10T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA12-2121844265-6026_FASTER_Market_capitalisation_figures_and_ratios.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-first-market-capitalisation-data-eu-member-states",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "230c77a42b4d09d7",
       "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
@@ -2701,33 +2726,6 @@
         }
       ],
       "link": "https://www.esma.europa.eu/press-news/esma-news/esma-identifies-eu1-billion-potential-annual-savings-simplifying-eu",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "ff9151d190b7adf9",
-      "title": "Moody’s Germany fined EUR 2,145,000 for misreporting to ESMA",
-      "summary": "",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/moodys-germany-fined-eur-2145000-misreporting-esma",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-02T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA43-857238790-2075_Decision_of_the_Board_of_Supervisors_to_adopt_supervisory_measures_and_impose_fines_in_respect_of_infringements_committed_by_Moody_s_Deutschla.pdf",
-        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA43-857238790-2031_Public_Notice_-__Moody_s_Deutschland_GmbH.pdf",
-        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA43-857238790-2033_Moody_s_Germany_fined_EUR_2_145_000_for_misreporting_to_ESMA_-_Press_release_0.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/moodys-germany-fined-eur-2145000-misreporting-esma",
       "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -10854,10 +10852,10 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "1025eabcec3154ac",
-      "title": "Why stronger Buy Now Pay Later protections are the right step for consumers",
-      "summary": "BNPL can help people to manage their cash flow. It can allow them to spread the cost of purchases and smooth their finances. But, as with any borrowing, BNPL also carries risks. Let me be clear about this: BNPL has an important role to play. We don’t want to reduce or remove access to credit, but to ensure it is offered in a way that works for consumers. That's why we are introducing protections for consumers using BNPL. Consumers will benefit from clearer information before they borrow, proportionate affordability checks, and access to support if they get into difficulty with their repayments.",
-      "url": "https://www.fca.org.uk/news/blogs/why-stronger-buy-now-pay-later-protections-are-right-step-consumers",
+      "id": "f4e61a950beb6291",
+      "title": "Why getting product design right really matters to consumers",
+      "summary": "Financial products and services shape some of the most important decisions we all make – from saving and borrowing, to protecting ourselves and our families when things go wrong. Consumer needs vary widely, and there’s no such thing as a standard consumer. Our Financial Lives data shows a huge spread of needs, resilience and capability. That’s why it’s so important for firms to design their products effectively. When firms have consumers’ needs firmly in mind, they can support good outcomes – helping people make informed choices, get fair value, and receive the support they need over time to navigate their financial lives.",
+      "url": "https://www.fca.org.uk/news/blogs/why-getting-product-design-right-really-matters-consumers",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -10883,10 +10881,10 @@
           ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/blogs/why-stronger-buy-now-pay-later-protections-are-right-step-consumers",
+      "link": "https://www.fca.org.uk/news/blogs/why-getting-product-design-right-really-matters-consumers",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "9c359a56d14a88be",
@@ -10903,7 +10901,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-09T19:46:25.904Z",
+      "publishedAt": "2026-07-10T09:35:00.544Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10927,7 +10925,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-09T19:46:25.904Z",
+      "publishedAt": "2026-07-10T09:35:00.544Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10951,7 +10949,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-09T19:46:25.904Z",
+      "publishedAt": "2026-07-10T09:35:00.544Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10964,11 +10962,11 @@
   "updateTypeSummary": [
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 72
+      "count": 73
     },
     {
       "updateType": "News",
-      "count": 71
+      "count": 70
     },
     {
       "updateType": "Publications / Reports",
