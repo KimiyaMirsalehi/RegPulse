@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T19:05:53.505Z",
+  "generatedAt": "2026-07-13T09:26:52.853Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 114
+      "count": 113
     },
     {
       "topic": "Governance",
@@ -246,11 +246,11 @@
       "count": 25
     },
     {
-      "topic": "Capital Requirements",
-      "count": 10
+      "topic": "Payments / Open Finance",
+      "count": 11
     },
     {
-      "topic": "Payments / Open Finance",
+      "topic": "Capital Requirements",
       "count": 10
     },
     {
@@ -301,7 +301,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 114
+      "count": 113
     },
     {
       "topic": "Governance",
@@ -316,11 +316,11 @@
       "count": 25
     },
     {
-      "topic": "Capital Requirements",
-      "count": 10
+      "topic": "Payments / Open Finance",
+      "count": 11
     },
     {
-      "topic": "Payments / Open Finance",
+      "topic": "Capital Requirements",
       "count": 10
     },
     {
@@ -379,7 +379,7 @@
     },
     {
       "keyword": "its",
-      "count": 35
+      "count": 34
     },
     {
       "keyword": "banking supervision",
@@ -434,16 +434,16 @@
       "count": 6
     },
     {
+      "keyword": "payment",
+      "count": 5
+    },
+    {
       "keyword": "resolution",
       "count": 5
     },
     {
       "keyword": "transparency",
       "count": 5
-    },
-    {
-      "keyword": "payment",
-      "count": 4
     },
     {
       "keyword": "stablecoins",
@@ -666,6 +666,10 @@
       "count": 1
     },
     {
+      "keyword": "payment services",
+      "count": 1
+    },
+    {
       "keyword": "recovery plans",
       "count": 1
     },
@@ -683,10 +687,6 @@
     },
     {
       "keyword": "sanctions",
-      "count": 1
-    },
-    {
-      "keyword": "securitisation",
       "count": 1
     }
   ],
@@ -771,6 +771,45 @@
     }
   ],
   "publications": [
+    {
+      "id": "b02bf5f686e54cb3",
+      "title": "Neo-conglomerates and EU regulatory perimeter challenges – state of play and evaluation of policy options",
+      "summary": "This paper examines the implications of the provision, in the European Union, of bank-like services, including payment services, by large non‑bank groups (i.e. groups that do not comprise entities with a banking licence), and evaluates policy options to address the emergence of so-called neo-conglomerates by recalibrating the regulatory perimeter.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op394.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-13T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op394.en.pdf"
+      ],
+      "topics": [
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "payment",
+        "payment services"
+      ],
+      "topicMatches": [
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payment services"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op394.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "c1c5f046bca3bdd3",
       "title": "SEC Office of Municipal Securities Updates FAQs for Registration of Municipal Advisors",
@@ -4674,41 +4713,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "92f565da4bb9f565",
-      "title": "Tracking euro area labour market developments through restructuring announcements",
-      "summary": "This box examines whether large-scale restructuring announcements recorded in the European Restructuring Monitor (ERM) compiled by Eurofound contain economically meaningful signals of euro area labour market dynamics. We construct a net job changes indicator, demonstrating that its lagged values contain information on episodes of below-average employment performance ahead of official data releases. While ERM coverage is limited by construction, focusing on large firms and manufacturing-intensive sectors, it captures restructuring events in firms employing between one-third and one-half of the total euro area workforce, making it a timely complement to standard aggregate statistics.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_05~a606096644.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_05~a606096644.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "f2d7ef02bffe3740",
@@ -10848,7 +10852,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-12T19:05:53.505Z",
+      "publishedAt": "2026-07-13T09:26:52.853Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10872,7 +10876,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-12T19:05:53.505Z",
+      "publishedAt": "2026-07-13T09:26:52.853Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10896,7 +10900,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-12T19:05:53.505Z",
+      "publishedAt": "2026-07-13T09:26:52.853Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10909,7 +10913,7 @@
   "updateTypeSummary": [
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 74
+      "count": 73
     },
     {
       "updateType": "News",
@@ -10917,7 +10921,7 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 66
+      "count": 67
     },
     {
       "updateType": "Consultations",
