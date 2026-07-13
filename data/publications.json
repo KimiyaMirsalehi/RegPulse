@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T09:26:52.853Z",
+  "generatedAt": "2026-07-13T19:23:20.936Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -25,12 +25,12 @@
       "institution": "European Central Bank",
       "region": "EU",
       "status": "success",
-      "parserMode": "rss-parser",
+      "parserMode": "fallback-parser",
       "itemCount": 15,
       "url": "https://www.ecb.europa.eu/rss/pub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "message": "Parsed successfully."
+      "message": "Parsed successfully using fallback parser."
     },
     {
       "id": "ecb-supervision-press",
@@ -246,16 +246,16 @@
       "count": 25
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 11
-    },
-    {
       "topic": "Capital Requirements",
       "count": 10
     },
     {
       "topic": "Climate / ESG",
-      "count": 9
+      "count": 10
+    },
+    {
+      "topic": "Payments / Open Finance",
+      "count": 10
     },
     {
       "topic": "AML / Financial Crime",
@@ -316,16 +316,16 @@
       "count": 25
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 11
-    },
-    {
       "topic": "Capital Requirements",
       "count": 10
     },
     {
       "topic": "Climate / ESG",
-      "count": 9
+      "count": 10
+    },
+    {
+      "topic": "Payments / Open Finance",
+      "count": 10
     },
     {
       "topic": "AML / Financial Crime",
@@ -414,6 +414,10 @@
       "count": 7
     },
     {
+      "keyword": "climate",
+      "count": 7
+    },
+    {
       "keyword": "disclosure",
       "count": 7
     },
@@ -422,19 +426,15 @@
       "count": 7
     },
     {
-      "keyword": "climate",
-      "count": 6
-    },
-    {
       "keyword": "operational resilience",
       "count": 6
     },
     {
-      "keyword": "payments",
-      "count": 6
+      "keyword": "payment",
+      "count": 5
     },
     {
-      "keyword": "payment",
+      "keyword": "payments",
       "count": 5
     },
     {
@@ -499,6 +499,10 @@
     },
     {
       "keyword": "data standards",
+      "count": 2
+    },
+    {
+      "keyword": "emissions",
       "count": 2
     },
     {
@@ -590,10 +594,6 @@
       "count": 1
     },
     {
-      "keyword": "emissions",
-      "count": 1
-    },
-    {
       "keyword": "esg",
       "count": 1
     },
@@ -611,10 +611,6 @@
     },
     {
       "keyword": "incident reporting",
-      "count": 1
-    },
-    {
-      "keyword": "instant payments",
       "count": 1
     },
     {
@@ -687,6 +683,10 @@
     },
     {
       "keyword": "sanctions",
+      "count": 1
+    },
+    {
+      "keyword": "securitisation",
       "count": 1
     }
   ],
@@ -771,6 +771,93 @@
     }
   ],
   "publications": [
+    {
+      "id": "e60b3de5a8574c2c",
+      "title": "Piero Cipollone: Interview with Jornal de Negocios",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260713~d928475792.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-13T17:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260713~d928475792.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "40eecd2d4cabadf6",
+      "title": "Isabel Schnabel: How to foster growth and resilience in Europe",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260713~e78632b27a.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-13T16:45:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260713~e78632b27a.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260713~e78632b27a.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "ef2c3d33084b8ef9",
+      "title": "Climate regulation, firm emissions, and green takeovers",
+      "summary": "We show that an unexpected tightening of the EU Emissions Trading System led high-emission-intensity firms to cut emissions relative to low-intensity peers within the same industry, without reducing output, thereby improving emission efficiency. Effects are stronger for power producers than for manufacturing firms. Examining mergers and acquisitions (M&As), we find that high-intensity manufacturing firms acquire more green targets after the tightening than low-intensity firms, with no change in the overall number of acquisitions, indicating a shift in focus rather than activity. Finally, we show that these green M&As contributed to the observed emission reductions over the study period.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3253~e9db09cc25.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-13T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3253~e9db09cc25.en.pdf"
+      ],
+      "topics": [
+        "Climate / ESG"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "emissions"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate",
+            "emissions"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3253~e9db09cc25.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "b02bf5f686e54cb3",
       "title": "Neo-conglomerates and EU regulatory perimeter challenges – state of play and evaluation of policy options",
@@ -4443,10 +4530,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-06-25T11:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/cost-benefit-analysis-panel-tor.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/approach/panel-appointments-sop.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Reporting / Disclosure"
       ],
@@ -4715,29 +4799,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "f2d7ef02bffe3740",
-      "title": "What has kept goods inflation low? The role of the import exposure to China",
-      "summary": "This box analyses the impact of prices of imports from China on euro area goods inflation. Inflation for China-exposed goods has been persistently lower than total goods inflation, with model-based estimates suggesting that shocks which bring down the prices of imports from China by 10% in exposed sectors reduce inflation by 0.1-0.7 percentage points in key categories such as furniture and appliances. A historical decomposition estimated over the period between January 2002 and April 2026 shows that, cumulatively, import price shocks from China reduced goods inflation by 0.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_06~f469938e52.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_06~f469938e52.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "d6916980fc4d5ab5",
       "title": "Isabel Schnabel: Interview with Die Zeit",
       "summary": "",
@@ -4905,66 +4966,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "a042437e9ca5a438",
-      "title": "ECB reports on progress towards euro adoption",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-24T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "7010f2eca80ef119",
-      "title": "Iceland joins TIPS for instant payments",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-24T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "payments",
-        "instant payments"
-      ],
-      "topicMatches": [
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payments",
-            "instant payments"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "2261c772ffad226a",
@@ -10852,7 +10853,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-13T09:26:52.853Z",
+      "publishedAt": "2026-07-13T19:23:20.936Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10876,7 +10877,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-13T09:26:52.853Z",
+      "publishedAt": "2026-07-13T19:23:20.936Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10900,7 +10901,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-13T09:26:52.853Z",
+      "publishedAt": "2026-07-13T19:23:20.936Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10921,7 +10922,7 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 67
+      "count": 66
     },
     {
       "updateType": "Consultations",
@@ -10933,7 +10934,7 @@
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 14
+      "count": 15
     },
     {
       "updateType": "Statistics / Data",
