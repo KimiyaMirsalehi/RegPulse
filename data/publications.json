@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T19:20:04.124Z",
+  "generatedAt": "2026-07-15T08:10:17.961Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -771,6 +771,29 @@
     }
   ],
   "publications": [
+    {
+      "id": "b32069758c848f57",
+      "title": "Piero Cipollone: Interview with Ouest-France",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260715~ab95a43007.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-15T06:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260715~ab95a43007.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
     {
       "id": "98573cb5aa50b1ef",
       "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
@@ -4515,9 +4538,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-06-25T11:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/asset-purchase-facility/2026/apf-annual-report-2025-26.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Liquidity"
       ],
@@ -4927,29 +4948,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "3c41e205fad92c45",
-      "title": "ECB to integrate non-financial credit claim portfolios into general collateral framework, phasing out temporary measures",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "f471cdf77a3a77ae",
@@ -10848,7 +10846,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-14T19:20:04.124Z",
+      "publishedAt": "2026-07-15T08:10:17.961Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10872,7 +10870,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-14T19:20:04.124Z",
+      "publishedAt": "2026-07-15T08:10:17.961Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10896,7 +10894,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-14T19:20:04.124Z",
+      "publishedAt": "2026-07-15T08:10:17.961Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10913,7 +10911,7 @@
     },
     {
       "updateType": "News",
-      "count": 70
+      "count": 69
     },
     {
       "updateType": "Publications / Reports",
@@ -10929,7 +10927,7 @@
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 14
+      "count": 15
     },
     {
       "updateType": "Statistics / Data",
