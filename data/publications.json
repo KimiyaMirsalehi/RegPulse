@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T08:10:17.961Z",
+  "generatedAt": "2026-07-15T19:11:03.858Z",
   "totalPublications": 276,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -246,12 +246,12 @@
       "count": 26
     },
     {
-      "topic": "Payments / Open Finance",
+      "topic": "Capital Requirements",
       "count": 11
     },
     {
-      "topic": "Capital Requirements",
-      "count": 10
+      "topic": "Payments / Open Finance",
+      "count": 11
     },
     {
       "topic": "Climate / ESG",
@@ -316,12 +316,12 @@
       "count": 26
     },
     {
-      "topic": "Payments / Open Finance",
+      "topic": "Capital Requirements",
       "count": 11
     },
     {
-      "topic": "Capital Requirements",
-      "count": 10
+      "topic": "Payments / Open Finance",
+      "count": 11
     },
     {
       "topic": "Climate / ESG",
@@ -391,7 +391,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 20
+      "count": 19
     },
     {
       "keyword": "policy statement",
@@ -562,6 +562,10 @@
       "count": 1
     },
     {
+      "keyword": "capital adequacy",
+      "count": 1
+    },
+    {
       "keyword": "carbon",
       "count": 1
     },
@@ -684,10 +688,6 @@
     {
       "keyword": "sanction",
       "count": 1
-    },
-    {
-      "keyword": "sanctions",
-      "count": 1
     }
   ],
   "regionSummary": [
@@ -771,6 +771,158 @@
     }
   ],
   "publications": [
+    {
+      "id": "42e762518bef0c08",
+      "title": "Bank deposit pricing in the euro area",
+      "summary": "We investigate the supply and demand drivers of bank deposit pricing in the Euro area during the period 2007–2024. We document that the pass-through of policy rates to sight deposit rates is low, asymmetric, varies across the monetary policy regimes, and decreases over time. We build and estimate an equilibrium model of bank deposit markets, and find that the price sensitivity of depositors exhibits large heterogeneity between households and firms, across countries, and over time.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3255~7622aab746.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-15T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3255~7622aab746.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3255~7622aab746.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "c2f49e789eb504a9",
+      "title": "ECB clarification on ICAAPs and ILAAPs and respective package submissions",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.ICAAP_ILAAP_clarification_202607.en.pdf",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-publications",
+      "sourceName": "ECB Banking Supervision Publications",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-15T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.ICAAP_ILAAP_clarification_202607.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.ICAAP_ILAAP_clarification_202607.en.pdf",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "12d062d67457d61b",
+      "title": "ECB Guide to the internal capital adequacy assessment process (ICAAP)",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisory_guides202607_icaap.en.pdf",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-publications",
+      "sourceName": "ECB Banking Supervision Publications",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-15T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisory_guides202607_icaap.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Capital Requirements",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "capital adequacy",
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "capital adequacy",
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital adequacy"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisory_guides202607_icaap.en.pdf",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "7f077bb5d2e940f1",
+      "title": "The changing geography of banking in CESEE. Branch closures outpace openings",
+      "summary": "We study the evolution of bank branch networks in ten CESEE countries between 2013 and 2021. Using a manually compiled dataset of all branches and their geocoordinates, we document a decline exceeding 30%, with substantial heterogeneity across and within countries. We show that banking market consolidation is a key driver of closures, while profitability and local economic growth mitigate them. Branches in highly urban or very rural areas close more often. Competitive effects are nonlinear: moderate clustering lowers closure risk, but intense competition increases it. These patterns differ markedly across CESEE banking systems during the entire period we analyze.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3256~2bf448ead2.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-15T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3256~2bf448ead2.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3256~2bf448ead2.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
     {
       "id": "b32069758c848f57",
       "title": "Piero Cipollone: Interview with Ouest-France",
@@ -3932,31 +4084,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "a38c2ab2b6f3c765",
-      "title": "ESS-ESCB Quality assessment report on statistics underlying the Macroeconomic Imbalance Procedure",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//pub/pdf/other/ESCB-ESS_quality_assessment_report_on_statistics_underlying_the_MIP_June_2026.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-26T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/other/ESCB-ESS_quality_assessment_report_on_statistics_underlying_the_MIP_June_2026.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/other/ESCB-ESS_quality_assessment_report_on_statistics_underlying_the_MIP_June_2026.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
-    },
-    {
       "id": "b29442c2281cd6a6",
       "title": "ECB Consumer Expectations Survey results – May 2026",
       "summary": "",
@@ -4948,29 +5075,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "f471cdf77a3a77ae",
-      "title": "Economic Bulletin Issue 4, 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/html/eb202604.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/html/eb202604.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "2fd52ebdfc4f0ec6",
@@ -8883,54 +8987,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "836e86fd3ab3ed9a",
-      "title": "Supervisory Banking Statistics for significant institutions - Fourth quarter 2025",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisorybankingstatistics_fourth_quarter_2025_202603.en.pdf",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-publications",
-      "sourceName": "ECB Banking Supervision Publications",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-03-18T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisorybankingstatistics_fourth_quarter_2025_202603.en.pdf"
-      ],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisorybankingstatistics_fourth_quarter_2025_202603.en.pdf",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
-    },
-    {
       "id": "efaf33893b1bf4de",
       "title": "CP5/26 – Modernising the liquidity policy framework",
       "summary": "Consultation paper 5/26",
@@ -9099,52 +9155,6 @@
       ],
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/february/life-insurance-stress-test-in-2028",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "40e28f227465f847",
-      "title": "List of supervised entities - Cut-off date 1 January 2026",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202602.en.pdf",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-publications",
-      "sourceName": "ECB Banking Supervision Publications",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-02-27T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202602.en.pdf"
-      ],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202602.en.pdf",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
     },
@@ -10846,7 +10856,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-15T08:10:17.961Z",
+      "publishedAt": "2026-07-15T19:11:03.858Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10870,7 +10880,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-15T08:10:17.961Z",
+      "publishedAt": "2026-07-15T19:11:03.858Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10894,7 +10904,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-15T08:10:17.961Z",
+      "publishedAt": "2026-07-15T19:11:03.858Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10915,7 +10925,7 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 65
+      "count": 67
     },
     {
       "updateType": "Consultations",
@@ -10923,18 +10933,18 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 17
+      "count": 16
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
       "count": 15
     },
     {
-      "updateType": "Statistics / Data",
-      "count": 7
+      "updateType": "Other",
+      "count": 6
     },
     {
-      "updateType": "Other",
+      "updateType": "Statistics / Data",
       "count": 6
     },
     {
