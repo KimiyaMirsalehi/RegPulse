@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T08:18:00.260Z",
+  "generatedAt": "2026-07-19T19:05:44.150Z",
   "totalPublications": 277,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -872,7 +872,9 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T12:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-07/cfd37e71-4ca4-483a-ab85-090ac8010535/Final%20Report%20on%20RTS%20and%20ITS%20material%20acquisitions%20mat%20transfers%20mergers%20divisions.pdf"
+      ],
       "topics": [
         "Capital Requirements",
         "Supervision / Enforcement"
@@ -1219,7 +1221,9 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-16T12:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-07/10158b52-0c16-4dd8-bf45-f34c25ba03d1/D%20v%20EBA_Final%20decision.pdf"
+      ],
       "topics": [
         "Governance",
         "Supervision / Enforcement"
@@ -2421,7 +2425,10 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-08T12:41:03.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-07/5ebd21e8-52f4-4b99-acbc-f7d725c3694e/Opinion%20Finrep%20IFRS%2018%20-%20interim%20period.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/ad6fd07d-c637-42d3-a4a7-4a4802a8ff26/Annex%201%20%28Final%20Report%20-%20Finrep%20IFRS%2018%29.pdf"
+      ],
       "topics": [
         "Reporting / Disclosure",
         "Supervision / Enforcement"
@@ -3602,7 +3609,9 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-02T10:26:46.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-07/749ee07d-9405-42ce-8a1d-bafe9858b547/Peer%20review%20on%20Pillar%203%20Disclosures%20June%202026.pdf"
+      ],
       "topics": [
         "Basel / BCBS",
         "Capital Requirements",
@@ -10864,7 +10873,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-19T08:18:00.260Z",
+      "publishedAt": "2026-07-19T19:05:44.150Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10888,7 +10897,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-19T08:18:00.260Z",
+      "publishedAt": "2026-07-19T19:05:44.150Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10912,7 +10921,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-19T08:18:00.260Z",
+      "publishedAt": "2026-07-19T19:05:44.150Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
