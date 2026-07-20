@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T19:05:44.150Z",
+  "generatedAt": "2026-07-20T08:58:05.360Z",
   "totalPublications": 277,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 114
+      "count": 116
     },
     {
       "topic": "Governance",
@@ -263,7 +263,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 8
+      "count": 7
     },
     {
       "topic": "DORA / Operational Resilience",
@@ -278,10 +278,6 @@
       "count": 5
     },
     {
-      "topic": "Stress Testing",
-      "count": 5
-    },
-    {
       "topic": "AI",
       "count": 4
     },
@@ -291,6 +287,10 @@
     },
     {
       "topic": "Model Risk",
+      "count": 4
+    },
+    {
+      "topic": "Stress Testing",
       "count": 4
     },
     {
@@ -301,7 +301,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 114
+      "count": 116
     },
     {
       "topic": "Governance",
@@ -333,7 +333,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 8
+      "count": 7
     },
     {
       "topic": "DORA / Operational Resilience",
@@ -348,10 +348,6 @@
       "count": 5
     },
     {
-      "topic": "Stress Testing",
-      "count": 5
-    },
-    {
       "topic": "AI",
       "count": 4
     },
@@ -361,6 +357,10 @@
     },
     {
       "topic": "Model Risk",
+      "count": 4
+    },
+    {
+      "topic": "Stress Testing",
       "count": 4
     },
     {
@@ -375,11 +375,11 @@
     },
     {
       "keyword": "supervision",
-      "count": 38
+      "count": 39
     },
     {
       "keyword": "its",
-      "count": 35
+      "count": 36
     },
     {
       "keyword": "banking supervision",
@@ -442,10 +442,6 @@
       "count": 4
     },
     {
-      "keyword": "stablecoins",
-      "count": 4
-    },
-    {
       "keyword": "crr",
       "count": 3
     },
@@ -459,6 +455,10 @@
     },
     {
       "keyword": "internal models",
+      "count": 3
+    },
+    {
+      "keyword": "stablecoins",
       "count": 3
     },
     {
@@ -482,15 +482,15 @@
       "count": 2
     },
     {
+      "keyword": "authorisation",
+      "count": 2
+    },
+    {
       "keyword": "consumer protection",
       "count": 2
     },
     {
       "keyword": "crd",
-      "count": 2
-    },
-    {
-      "keyword": "cryptoasset",
       "count": 2
     },
     {
@@ -530,10 +530,6 @@
       "count": 2
     },
     {
-      "keyword": "stress testing",
-      "count": 2
-    },
-    {
       "keyword": "supervisory reporting",
       "count": 2
     },
@@ -543,10 +539,6 @@
     },
     {
       "keyword": "aml",
-      "count": 1
-    },
-    {
-      "keyword": "authorisation",
       "count": 1
     },
     {
@@ -582,7 +574,7 @@
       "count": 1
     },
     {
-      "keyword": "crypto",
+      "keyword": "cryptoasset",
       "count": 1
     },
     {
@@ -688,6 +680,14 @@
     {
       "keyword": "sanctions",
       "count": 1
+    },
+    {
+      "keyword": "securitisation",
+      "count": 1
+    },
+    {
+      "keyword": "settlement",
+      "count": 1
     }
   ],
   "regionSummary": [
@@ -771,6 +771,98 @@
     }
   ],
   "publications": [
+    {
+      "id": "5ded399c588ec3f6",
+      "title": "Survey on the Access to Finance of Enterprises in the euro area - Second quarter of 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//stats/ecb_surveys/safe/html/ecb.safe202607.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-20T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/accesstofinancesofenterprises/pdf/ecb.safe202607.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/ecbu/eb202108.en.pdf",
+        "https://www.ecb.europa.eu/stats/pdf/surveys/sme/ecb.safemi.en.pdf",
+        "https://www.ecb.europa.eu/stats/accesstofinancesofenterprises/pdf/questionnaire/ecb.safeq202607.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//stats/ecb_surveys/safe/html/ecb.safe202607.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "5ef82de729011cee",
+      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-20T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/accesstofinancesofenterprises/pdf/questionnaire/ecb.safeq202607.en.pdf",
+        "https://www.ecb.europa.eu/stats/pdf/surveys/sme/ecb.safemi.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "31b4fffa4588dcec",
+      "title": "ESMA publishes report on cross-border investment services supervision",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-report-cross-border-investment-services-supervision",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-20T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA42-2004696504-8471_Follow-up_report_to_peer_review_on_cross_border_activities_of_investment_firms.pdf",
+        "https://www.esma.europa.eu/sites/default/files/library/esma42-111-5534_report_peer_review_cross_border_activities_investment_firms.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-report-cross-border-investment-services-supervision",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "ccd2465e55fd6140",
       "title": "A flexible deviation from FIRE in the sequence space",
@@ -872,9 +964,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T12:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/cfd37e71-4ca4-483a-ab85-090ac8010535/Final%20Report%20on%20RTS%20and%20ITS%20material%20acquisitions%20mat%20transfers%20mergers%20divisions.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements",
         "Supervision / Enforcement"
@@ -1023,10 +1113,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T07:46:09.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/989e5315-9c23-42c6-a02a-ade75288ad3b/Consultation%20Paper%20on%20amending%20ITS%20the%202027%20market%20risk%20benchmarking%20exercise.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/b9cbdd06-11b5-49ef-88ed-0bb2f9656302/Annex%201%20%28Booking%20instructions%29.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Market Risk",
@@ -1221,9 +1308,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-16T12:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/10158b52-0c16-4dd8-bf45-f34c25ba03d1/D%20v%20EBA_Final%20decision.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance",
         "Supervision / Enforcement"
@@ -2425,10 +2510,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-08T12:41:03.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/5ebd21e8-52f4-4b99-acbc-f7d725c3694e/Opinion%20Finrep%20IFRS%2018%20-%20interim%20period.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/ad6fd07d-c637-42d3-a4a7-4a4802a8ff26/Annex%201%20%28Final%20Report%20-%20Finrep%20IFRS%2018%29.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Reporting / Disclosure",
         "Supervision / Enforcement"
@@ -2824,11 +2906,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-07T13:41:26.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-03/fa3aadf2-ac8a-4645-8196-a2c1ddf2a1f5/Guidelines%20on%20the%20TCB%20capital%20endowment%20requirement.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2025-08/654f1ca6-0cad-4a2a-b85c-dd2abfae5fe6/Consultation%20Paper%20on%20draft%20amended%20Guidelines%20on%20internal%20governance.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/7e51bdcd-7c73-4f94-b31c-03375fe53359/Final%20Report%20on%20Guidelines%20on%20the%20authorisation%20of%20third-country%20branches%20.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements",
         "Supervision / Enforcement"
@@ -3196,9 +3274,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-06T12:22:58.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/d763c7b1-e7f2-4e0a-bdae-93fd1db81a75/Immovable%20property%20loss%20-%20Q4%202025.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements",
         "Reporting / Disclosure",
@@ -3343,31 +3419,6 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "ebce237c073f6df8",
-      "title": "Monetary policy transmission via banks to firms",
-      "summary": "This Occasional Paper reviews evidence from the ChaMP Research Network on the transmission of monetary policy to firms in the euro area. Overall, transmission to firms remains effective, including during the 2022-23 tightening cycle. However, new results show that this transmission is neither uniform nor mechanical. The pass-through from policy rates and other instruments to corporate financing conditions is shaped by multiple layers of heterogeneity that may, in some cases, have aggregate implications.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op389.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-06T07:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op389.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op389.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
       "id": "3b0aca79f3d7cc04",
       "title": "The propagation of shocks across the production network and implications for monetary policy",
       "summary": "The repeated occurrence of supply-chain disruptions since the COVID-19 pandemic reveals the need to complement traditional macroeconomic frameworks with approaches that better capture the complexity of modern economic productionstructures. This paper synthesises the findings of the ChaMP Research Network, highlighting how production network models and heterogeneity across firms, sectors and countries enrich our understanding of monetary policy transmission.",
@@ -3389,32 +3440,6 @@
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op392.en.pdf",
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "0ca35b033d1cb7a6",
-      "title": "ESMA publishes preliminary findings on the Active Account Requirement and the first Annual Report of the Joint Monitoring Mechanism",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets reg",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-preliminary-findings-active-account-requirement-and-first",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-06T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA91-1525761655-5356_Interim_report_of_the_effectiveness_of_the_active_account_requirement.pdf",
-        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA91-1525761655-5414_First_annual_report_of_the_Joint_Monitoring_Mechanism.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-preliminary-findings-active-account-requirement-and-first",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
     },
@@ -3961,9 +3986,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-01T10:41:36.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/7245797d-51ca-42ad-b679-07511b5182d3/Discussion%20Paper%20on%20Taxonomy%20disclosures.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Climate / ESG"
       ],
@@ -4410,32 +4433,6 @@
       "topicMatches": [],
       "link": "https://www.sec.gov/newsroom/press-releases/2026-59-sec-cftc-seek-public-comment-harmonization-portfolio-margining-frameworks",
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "b29442c2281cd6a6",
-      "title": "ECB Consumer Expectations Survey results – May 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260626_1~60a21704a8.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-26T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/shared/pdf/CES_aggregate_statistics_guide.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op287~ea7eebc23f.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260626_1~60a21704a8.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
     },
@@ -10266,63 +10263,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "e93ab150ea55aeb1",
-      "title": "FCA sets landmark crypto rules to cement the UK’s place as a global hub",
-      "summary": "Firms supporting people to buy, trade and hold crypto will need to meet clear standards under landmark rules set out by the FCA. All firms must meet financial resilience requirements including capital and stress testing. The FCA is also introducing new market integrity rules covering areas such as insider trading and market manipulation. The new framework also sets out specific rules for stablecoins, a type of cryptoasset designed to maintain a stable value, typically by being linked to a currency such as the pound. Stablecoins will be subject to clear, strong and transparent standards, helping to build trust in how they are used over time.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-sets-landmark-crypto-rules-cement-uks-place-global-hub",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Crypto / Digital Assets",
-        "Stress Testing",
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "crypto",
-        "cryptoasset",
-        "stablecoins",
-        "stress testing",
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "crypto",
-            "cryptoasset",
-            "stablecoins"
-          ]
-        },
-        {
-          "id": "stress-testing",
-          "label": "Stress Testing",
-          "keywords": [
-            "stress testing"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-sets-landmark-crypto-rules-cement-uks-place-global-hub",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "668deffd42af038e",
       "title": "Financial regulator to simplify investment disclosure regime",
       "summary": "The FCA is proposing to simplify how platforms, advisers and wealth managers communicate the costs of investing while reminding firms to communicate with consumers about investing in plain English. The move will bring all investment cost disclosures into line with previous investment product disclosure reforms and create a more consistent framework for firms to give customers clearer, more useful information. The proposals will allow firms to innovate, test and compete to inform and engage retail investors, communicate clearly in plain English, not jargon and give information in engaging ways.",
@@ -10657,6 +10597,52 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "857135ee16cce7a9",
+      "title": "Prosper Capital LLP enters creditors’ voluntary liquidation",
+      "summary": "On 1 June 2026, Prosper Capital LLP (Prosper) went into creditors’ voluntary liquidation. Jeremy Karr and Simon Killick of BTG Begbies Traynor (Central) LLP were appointed as joint liquidators. Prosper, an FCA-authorised firm (firm reference number (FRN): 453007), was an alternative investment fund manager and arranged deals in investments. Prosper has applied to cancel its authorisation, which is subject to review by the FCA. Prosper was also also responsible for the activities of its appointed representative, Crowd2Let Capital Limited (Crowd2Let) (FRN: 743371). Below we set out:What to do if you’re a customer who wishes to make a complaint or has an existing complaint against the firm.",
+      "url": "https://www.fca.org.uk/news/news-stories/prosper-capital-llp-enters-creditors-voluntary-liquidation",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "authorisation",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "authorisation",
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/prosper-capital-llp-enters-creditors-voluntary-liquidation",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "271bc7d3ada65d15",
       "title": "Showing our workings: solving for growth, risk and trust",
       "summary": "Speech by Sarah Pritchard, deputy chief executive, at a Breakfast Briefing at The Whitehall & Industry Group. As everyone who has wrestled with a problem knows, getting to the right answer is about more than just understanding the question. It’s about having a firm grasp on your constants. We’re working with 2. And they are, admittedly, significant. The first is our vision: deepening trust, rebalancing risk, supporting growth and improving lives. We want to see a fair, thriving financial services market that works for consumers and the wider economy. The second is our priorities: supporting growth, fighting financial crime, helping consumers and being a smarter regulator.",
@@ -10873,7 +10859,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-19T19:05:44.150Z",
+      "publishedAt": "2026-07-20T08:58:05.360Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10897,7 +10883,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-19T19:05:44.150Z",
+      "publishedAt": "2026-07-20T08:58:05.360Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10921,7 +10907,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-19T19:05:44.150Z",
+      "publishedAt": "2026-07-20T08:58:05.360Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10942,7 +10928,7 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 65
+      "count": 66
     },
     {
       "updateType": "Consultations",
@@ -10950,7 +10936,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 17
+      "count": 16
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
