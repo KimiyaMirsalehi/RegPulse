@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T19:46:31.311Z",
+  "generatedAt": "2026-07-21T08:30:42.525Z",
   "totalPublications": 268,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -747,6 +747,60 @@
     }
   ],
   "publications": [
+    {
+      "id": "308977f0ae2053c3",
+      "title": "July 2026 euro area bank lending survey",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-21T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.bls_questionnaire.en.pdf",
+        "https://www.ecb.europa.eu/stats/pdf/bls_user_guide_202604.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "c9f1c627c2d0ea3d",
+      "title": "The euro area bank lending survey - Second quarter of 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//stats/ecb_surveys/bank_lending_survey/html/ecb.blssurvey2026q2~baa6b60429.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-21T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.blssurvey2026q2~baa6b60429.en.pdf",
+        "https://www.ecb.europa.eu/stats/pdf/bls_user_guide_202604.en.pdf",
+        "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.bls_questionnaire.en.pdf",
+        "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.bls_annex2026q2.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//stats/ecb_surveys/bank_lending_survey/html/ecb.blssurvey2026q2~baa6b60429.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "5ded399c588ec3f6",
       "title": "Survey on the Access to Finance of Enterprises in the euro area - Second quarter of 2026",
@@ -2963,31 +3017,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "e755017859196830",
-      "title": "Monetary policy transmission through the financial system to households",
-      "summary": "This Occasional Paper reviews evidence from the ChaMP Research Network on the transmission of monetary policy to households in the euro area – an area of monetary policy that has attracted less attention among researchers. It highlights thecentral role of banks and non-bank intermediaries in shaping how policy affects borrowing, saving and consumption. Despite the overall effectiveness of monetary policy in the euro area, the pass-through of policy rates to household borrowingcosts is incomplete and heterogeneous, reflecting differences in funding structures, market power and institutional settings. A key insight is that transmission depends on household heterogeneity.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op390.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-06T07:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op390.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op390.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
       "id": "3b0aca79f3d7cc04",
       "title": "The propagation of shocks across the production network and implications for monetary policy",
       "summary": "The repeated occurrence of supply-chain disruptions since the COVID-19 pandemic reveals the need to complement traditional macroeconomic frameworks with approaches that better capture the complexity of modern economic productionstructures. This paper synthesises the findings of the ChaMP Research Network, highlighting how production network models and heterogeneity across firms, sectors and countries enrich our understanding of monetary policy transmission.",
@@ -3770,31 +3799,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "7651c20f4023aa79",
-      "title": "Isabel Schnabel: Is inflation back?",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260627~3807c2766e.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-27T13:45:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260627~3807c2766e.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260627~3807c2766e.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "ec03b5825e072974",
       "title": "Developing a house price-at-risk framework for the UK",
       "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
@@ -4398,9 +4402,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-06-25T11:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/asset-purchase-facility/2026/apf-annual-report-2025-26.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Liquidity"
       ],
@@ -10313,7 +10315,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-20T19:46:31.311Z",
+      "publishedAt": "2026-07-21T08:30:42.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10337,7 +10339,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "rss",
-      "publishedAt": "2026-07-20T19:46:31.311Z",
+      "publishedAt": "2026-07-21T08:30:42.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10361,7 +10363,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-20T19:46:31.311Z",
+      "publishedAt": "2026-07-21T08:30:42.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10385,7 +10387,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-20T19:46:31.311Z",
+      "publishedAt": "2026-07-21T08:30:42.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10406,18 +10408,18 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 65
+      "count": 66
     },
     {
       "updateType": "Consultations",
       "count": 16
     },
     {
-      "updateType": "Working Papers / Research",
-      "count": 16
+      "updateType": "Speeches / Interviews / Blogs",
+      "count": 15
     },
     {
-      "updateType": "Speeches / Interviews / Blogs",
+      "updateType": "Working Papers / Research",
       "count": 15
     },
     {
