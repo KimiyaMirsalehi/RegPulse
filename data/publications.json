@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T08:29:04.640Z",
+  "generatedAt": "2026-07-22T19:19:06.679Z",
   "totalPublications": 277,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 116
+      "count": 119
     },
     {
       "topic": "Governance",
@@ -243,7 +243,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 23
+      "count": 22
     },
     {
       "topic": "Payments / Open Finance",
@@ -254,12 +254,12 @@
       "count": 11
     },
     {
-      "topic": "Climate / ESG",
+      "topic": "AML / Financial Crime",
       "count": 9
     },
     {
-      "topic": "AML / Financial Crime",
-      "count": 8
+      "topic": "Climate / ESG",
+      "count": 9
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -282,16 +282,16 @@
       "count": 4
     },
     {
-      "topic": "Consumer Protection",
-      "count": 4
-    },
-    {
       "topic": "Model Risk",
       "count": 4
     },
     {
       "topic": "Stress Testing",
       "count": 4
+    },
+    {
+      "topic": "Consumer Protection",
+      "count": 3
     },
     {
       "topic": "Market Risk",
@@ -301,7 +301,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 116
+      "count": 119
     },
     {
       "topic": "Governance",
@@ -313,7 +313,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 23
+      "count": 22
     },
     {
       "topic": "Payments / Open Finance",
@@ -324,12 +324,12 @@
       "count": 11
     },
     {
-      "topic": "Climate / ESG",
+      "topic": "AML / Financial Crime",
       "count": 9
     },
     {
-      "topic": "AML / Financial Crime",
-      "count": 8
+      "topic": "Climate / ESG",
+      "count": 9
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -352,16 +352,16 @@
       "count": 4
     },
     {
-      "topic": "Consumer Protection",
-      "count": 4
-    },
-    {
       "topic": "Model Risk",
       "count": 4
     },
     {
       "topic": "Stress Testing",
       "count": 4
+    },
+    {
+      "topic": "Consumer Protection",
+      "count": 3
     },
     {
       "topic": "Market Risk",
@@ -395,19 +395,19 @@
     },
     {
       "keyword": "enforcement",
-      "count": 16
+      "count": 17
     },
     {
       "keyword": "policy statement",
       "count": 16
     },
     {
-      "keyword": "reporting",
+      "keyword": "consultation paper",
       "count": 12
     },
     {
-      "keyword": "consultation paper",
-      "count": 11
+      "keyword": "reporting",
+      "count": 12
     },
     {
       "keyword": "capital requirements",
@@ -419,7 +419,7 @@
     },
     {
       "keyword": "disclosure",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "liquidity",
@@ -450,11 +450,19 @@
       "count": 3
     },
     {
+      "keyword": "fraud",
+      "count": 3
+    },
+    {
       "keyword": "implementing technical standards",
       "count": 3
     },
     {
       "keyword": "internal models",
+      "count": 3
+    },
+    {
+      "keyword": "money laundering",
       "count": 3
     },
     {
@@ -506,19 +514,11 @@
       "count": 2
     },
     {
-      "keyword": "fraud",
-      "count": 2
-    },
-    {
       "keyword": "large language models",
       "count": 2
     },
     {
       "keyword": "market risk",
-      "count": 2
-    },
-    {
-      "keyword": "money laundering",
       "count": 2
     },
     {
@@ -610,6 +610,10 @@
       "count": 1
     },
     {
+      "keyword": "investigation",
+      "count": 1
+    },
+    {
       "keyword": "large language model",
       "count": 1
     },
@@ -667,10 +671,6 @@
     },
     {
       "keyword": "resolvability",
-      "count": 1
-    },
-    {
-      "keyword": "retail investors",
       "count": 1
     },
     {
@@ -771,6 +771,78 @@
     }
   ],
   "publications": [
+    {
+      "id": "d9253113c002b92f",
+      "title": "SEC Announces Departure of Principal Deputy Director of Enforcement Sam Waldon",
+      "summary": "The Securities and Exchange Commission today announced that Sam Waldon, Principal Deputy Director of the Division of Enforcement, will depart the agency on July 31, 2026, after more than 14 years at the SEC. He will be succeeded as Principal Deputy…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-68-sec-announces-departure-principal-deputy-director-enforcement-sam-waldon",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-22T13:45:25.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-68-sec-announces-departure-principal-deputy-director-enforcement-sam-waldon",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "e1ce173fbd2be701",
+      "title": "CP12/26 – Insurance friendly societies, amalgamations and transfers",
+      "summary": "Consultation paper 12/26",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/insurance-friendly-societies-amalgamations-and-transfers-consultation-paper",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-22T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2026/cp1226app1.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "consultation paper"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "consultation paper"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/insurance-friendly-societies-amalgamations-and-transfers-consultation-paper",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
     {
       "id": "8c52efdfb3913fa5",
       "title": "ECB appoints Boris Kisselevsky as Director General Secretariat",
@@ -4326,9 +4398,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-06-30T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260630_1_annex~eee6d9d2a3.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4351,9 +4421,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-06-29T16:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.guidetothemethodofsettingadministrativepecuniarypenalties_202103~400cbafa55.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "AML / Financial Crime",
@@ -8006,29 +8074,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "c00d5da3b168cd23",
-      "title": "SEC Divisions of Investment Management and Corporation Finance Issue Staff Guidance Supporting Retirement Plans for Small Businesses",
-      "summary": "Staff in the Securities and Exchange Commission’s Divisions of Investment Management and Corporation Finance issued guidance addressing certain questions regarding the application of the federal securities laws to pooled employer plans (PEPs), which help…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-43-sec-divisions-investment-management-corporation-finance-issue-staff-guidance-supporting-retirement",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-05T20:23:55.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-43-sec-divisions-investment-management-corporation-finance-issue-staff-guidance-supporting-retirement",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "90f5f1aec7bb0d83",
       "title": "Written overview for the exchange of views of the Chair of the Supervisory Board of the ECB with the Eurogroup on 4 May 2026",
       "summary": "",
@@ -9537,29 +9582,6 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "be1a134362c3bb22",
-      "title": "PRA Regulatory Digest - January 2026",
-      "summary": "The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/january-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-02-02T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/january-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "eabf29b463b0a7b9",
       "title": "Consumer Financial Protection Bureau and the Department of Justice Withdraw Joint Statement on Fair Lending and Credit Opportunities for Noncitizen Borrowers",
       "summary": "CFPB and Justice have withdrawn a joint statement linked to a creditor’s consideration of an individual’s immigration status under the Equal Credit Opportunity Act.",
@@ -9985,6 +10007,96 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "c3fe663cf19fe222",
+      "title": "Anthropic to support FCA’s Supercharged Sandbox",
+      "summary": "Anthropic will support the second group of firms in the FCA's Supercharged Sandbox. The Sandbox is a controlled environment where firms can safely experiment with advanced AI. Anthropic will provide access to Claude for participants – including Claude Code and Claude Cowork – to help speed up their development work. The second group of firms in the Supercharged Sandbox will explore a range of AI use cases.",
+      "url": "https://www.fca.org.uk/news/press-releases/anthropic-supercharged-sandbox",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/anthropic-supercharged-sandbox",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "d4ed81181dfab1d2",
+      "title": "Arrests and searches made as part of a fraud and money laundering investigation",
+      "summary": "Four people have been arrested and search warrants executed in Hackney, Beckenham and Slough as part of a FCA and police investigation into fraud and money laundering. The arrests and searcheswere carried out by the police’s Eastern Region Special Operations Unit and South East Regional Organised Crime Unit with the FCA. The suspects were interviewed under caution by the FCA and released on bail. The investigation is ongoing and further updates will be provided in due course. Notes to editorsThe FCA cannot comment further at this time. The FCA enables a fair and thriving financial services market for the good of consumers and the economy. Find out more about the FCA.",
+      "url": "https://www.fca.org.uk/news/press-releases/arrests-searches-made-fraud-money-laundering-investigation",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "money laundering",
+        "fraud",
+        "conduct",
+        "investigation"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "money laundering",
+            "fraud"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "investigation"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/arrests-searches-made-fraud-money-laundering-investigation",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "62b3136743438476",
       "title": "Banks told to improve access to basic accounts",
       "summary": "People struggling should find it easier to access basic bank accounts, after nine banks committed to improving widespread poor practice identified by the FCA. Nine of the biggest UK banks and building societies are legally mandated to offer basic bank accounts. They exist to serve people who may not otherwise be able to access standard current accounts - providing access to essential services with no fees and no overdraft. A mystery shopping exercise by the FCA found a third of experiences with basic bank accounts rated as poor or very poor. The mystery shop revealed that the bank account providers were not consistently offering these accounts to customers who could benefit from them.",
@@ -10295,59 +10407,6 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "668deffd42af038e",
-      "title": "Financial regulator to simplify investment disclosure regime",
-      "summary": "The FCA is proposing to simplify how platforms, advisers and wealth managers communicate the costs of investing while reminding firms to communicate with consumers about investing in plain English. The move will bring all investment cost disclosures into line with previous investment product disclosure reforms and create a more consistent framework for firms to give customers clearer, more useful information. The proposals will allow firms to innovate, test and compete to inform and engage retail investors, communicate clearly in plain English, not jargon and give information in engaging ways.",
-      "url": "https://www.fca.org.uk/news/press-releases/financial-regulator-simplify-investment-disclosure-regime",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Consumer Protection",
-        "Governance",
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "retail investors",
-        "conduct",
-        "disclosure"
-      ],
-      "topicMatches": [
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "retail investors"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "disclosure"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/financial-regulator-simplify-investment-disclosure-regime",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "3974ea7e0b953c58",
@@ -10721,41 +10780,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "eeb90443df3239a6",
-      "title": "Statutory panel chair appointments confirmed for FCA listing authority and practitioner panels",
-      "summary": "The FCA has announced Kirsty Cooper will take up the role as Chair of the Listing Authority Advisory Panel (LAAP). Clare Woodman and Matt Hammerstein have been reappointed as Chair of the FCA Markets Practitioner Panel and Chair of the FCA Practitioner Panel. The panels play an important role helping the FCA develop policy – representing the interests of consumers and financial services firms, including smaller regulated firms. Welcoming the appointments, FCA Chair Ashley Alder said:'I am pleased to welcome Kirsty to the role of Chair of the LAAP at a time of profound change across markets.",
-      "url": "https://www.fca.org.uk/news/press-releases/statutory-panel-chair-appointments-confirmed-fca-listing-authority-and-practitioner-panels",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/statutory-panel-chair-appointments-confirmed-fca-listing-authority-and-practitioner-panels",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "d9f5552f3caf454d",
       "title": "Streamlined rulebook to save asset managers £128m a year",
       "summary": "The FCA has proposed a package of reforms that would tailor requirements proportionately for asset managers, cut costs for firms and give better data to supervise the sector more effectively. A large share of the £128m-a-year savings are expected to come from simpler Fund Reporting for Asset Management Entities (FRAME) requirements. These would be tailored to the specific circumstances of UK industry, delivering better data to make regulation more efficient. The package would also modernise and simplify Alternative Investment Fund Managers Directive (AIFMD)-related rules dating from 2013.",
@@ -10893,7 +10917,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-22T08:29:04.640Z",
+      "publishedAt": "2026-07-22T19:19:06.679Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10917,7 +10941,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-22T08:29:04.640Z",
+      "publishedAt": "2026-07-22T19:19:06.679Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10941,7 +10965,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-22T08:29:04.640Z",
+      "publishedAt": "2026-07-22T19:19:06.679Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10962,11 +10986,11 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 67
+      "count": 66
     },
     {
       "updateType": "Consultations",
-      "count": 19
+      "count": 20
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
