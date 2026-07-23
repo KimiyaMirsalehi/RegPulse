@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T08:30:07.915Z",
+  "generatedAt": "2026-07-23T19:17:20.824Z",
   "totalPublications": 277,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 119
+      "count": 120
     },
     {
       "topic": "Governance",
@@ -243,7 +243,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 22
+      "count": 21
     },
     {
       "topic": "Capital Requirements",
@@ -259,7 +259,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -270,11 +270,11 @@
       "count": 6
     },
     {
-      "topic": "Liquidity",
+      "topic": "Recovery / Resolution",
       "count": 6
     },
     {
-      "topic": "Recovery / Resolution",
+      "topic": "Liquidity",
       "count": 5
     },
     {
@@ -301,7 +301,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 119
+      "count": 120
     },
     {
       "topic": "Governance",
@@ -313,7 +313,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 22
+      "count": 21
     },
     {
       "topic": "Capital Requirements",
@@ -329,7 +329,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -340,11 +340,11 @@
       "count": 6
     },
     {
-      "topic": "Liquidity",
+      "topic": "Recovery / Resolution",
       "count": 6
     },
     {
-      "topic": "Recovery / Resolution",
+      "topic": "Liquidity",
       "count": 5
     },
     {
@@ -399,7 +399,7 @@
     },
     {
       "keyword": "policy statement",
-      "count": 16
+      "count": 17
     },
     {
       "keyword": "consultation paper",
@@ -418,16 +418,16 @@
       "count": 7
     },
     {
-      "keyword": "disclosure",
+      "keyword": "operational resilience",
       "count": 6
+    },
+    {
+      "keyword": "disclosure",
+      "count": 5
     },
     {
       "keyword": "liquidity",
-      "count": 6
-    },
-    {
-      "keyword": "operational resilience",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "payment",
@@ -586,6 +586,10 @@
       "count": 1
     },
     {
+      "keyword": "deposit guarantee",
+      "count": 1
+    },
+    {
       "keyword": "digital operational resilience",
       "count": 1
     },
@@ -684,10 +688,6 @@
     {
       "keyword": "sanctions",
       "count": 1
-    },
-    {
-      "keyword": "securitisation",
-      "count": 1
     }
   ],
   "regionSummary": [
@@ -771,6 +771,205 @@
     }
   ],
   "publications": [
+    {
+      "id": "6e7b37dd375be086",
+      "title": "SEC Announces Roundtable on Preparations for 24-Hour Trading",
+      "summary": "The Securities and Exchange Commission announced today that it will host a roundtable on Sept. 17, 2026, to discuss moving towards 24-hour trading in the U. S. equity markets, including preparations to support overnight trading, operations and resiliency…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-23T15:04:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "3d39327ed75a1d25",
+      "title": "ECB reveals shortlisted designs for new banknotes and launches public survey",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-23T14:15:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/shared/pdf/ecb.design_contest_jury_members.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "880c3794897d278b",
+      "title": "Report of the Design Contest Jury on the winning design proposals for future euro banknotes",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pubbydate/2026/html/ecb.desreportbanknotes202607.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-23T14:15:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/other/ecb.desreportbanknotes202607.en.pdf",
+        "https://www.ecb.europa.eu/ecb/jobsproc/proc/pdf/pro-007891_-_call_for_applications_-_design_contest_future_euro_banknotes.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pubbydate/2026/html/ecb.desreportbanknotes202607.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "0132f6cb5bdaa91a",
+      "title": "Bank of England Weekly Report 22 July 2026",
+      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+      "url": "https://www.bankofengland.co.uk/weekly-report/2026/22-july-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-23T14:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/22-july-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "cd732b9ba0c35a8e",
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-23T13:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds260723~ef801dc812.en.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "11b8765e42ee69c9",
+      "title": "Monetary policy decisions",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-23T12:15:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds260723~ef801dc812.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "13419124a01f589e",
+      "title": "​The EBA consults on rules to further improve depositor protection under the revised Deposit Guarantee Schemes Directive",
+      "summary": "​The European Banking Authority (EBA) today launched four public consultations on proposed rules to further strengthen depositor protection, preserve financial stability, and further harmonise depositor protection standards across the EU under the revised Deposit Guarantee Schemes Directive (DGSD3).",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-rules-further-improve-depositor-protection-under-revised-deposit-guarantee-schemes",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-23T08:30:15.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-07/f3a7bf66-d0ac-4c87-88f1-6e3de76ba5a5/Consultation%20Paper%20on%20RTS%20on%20client%20funds.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/c7de6689-b8cf-4377-b801-e50028404482/Consultation%20Paper%20on%20ITS%20on%20information%20exchange.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/b81e293d-fb94-4715-b393-c81662999b35/Consultation%20Paper%20on%20ITS%20on%20depositor%20information.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/d60e0fc5-805d-4e76-9821-2c14b51ea155/Consultation%20paper%20on%20Guidelines%20on%20investment%20of%20available%20financial%20means.pdf"
+      ],
+      "topics": [
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "deposit guarantee"
+      ],
+      "topicMatches": [
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "deposit guarantee"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-rules-further-improve-depositor-protection-under-revised-deposit-guarantee-schemes",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
     {
       "id": "d9253113c002b92f",
       "title": "SEC Announces Departure of Principal Deputy Director of Enforcement Sam Waldon",
@@ -3527,43 +3726,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "8011213e2e045e38",
-      "title": "Monetary policy transmission and non-bank financial intermediation",
-      "summary": "The growing importance of non‑bank financial intermediaries (NBFIs) also has important implications for the transmission of monetary policy in the euro area. It alters the composition of credit supply and strengthens the role of market‑based finance for the corporate sector. In the aggregate, NBFIs tend to amplify the transmission of monetary policy within the financial sector. In particular, intermediaries with uninsured short‑term funding amplify monetary transmission to credit. This becomes particularly pronounced during episodes of financial stress, when liquidity pressures and valuation losses can trigger asset sales and spillovers to banks.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op391.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-06T07:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op391.en.pdf"
-      ],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op391.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "953c22bff106ef0b",
       "title": "Monetary policy transmission and structural changes",
       "summary": "This paper surveys research from the ESCB ChaMP Research Network on how ongoing structural change is affecting monetary policy transmission in the euro area. It shows that transmission is state-dependent and varies systematically with changesin the sectoral composition of the economy, in its international integration, in financial conditions and in inflation regimes. More service-intensive economies exhibit weaker real responses to monetary tightening, while high-inflation environments areassociated with faster and stronger price pass-through, helping explain why the recent disinflation episode entailed relatively low output costs.",
@@ -3860,45 +4022,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "2a83b8b7552fce75",
-      "title": "Frank Elderson: The green transition – benefits and barriers",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702~49c4f8e9a6.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-02T10:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3116~86b1c681b9.en.pdf",
-        "https://www.ngfs.net/system/files/2026-05/NGFS_Extreme%20weather%20events.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3203~063779fe18.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op380.en.pdf?94694a07f4e73bcbed5f59b75f9b8733",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op333~1b97e436be.en.pdf?90e7aaae4ef927f887a787587a22adba",
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.202011finalguideonclimate-relatedandenvironmentalrisks~58213f6564.en.pdf",
-        "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/24/T3/Files/be2403-art09e.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op281~05a7735b1c.en.pdf",
-        "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/24/Files/dt2425e.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op371.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op367~16f0cba571.en.pdf",
-        "https://www.fachagentur-wind-solar.de/fileadmin/Veroeffentlichungen/Wind/Analysen/FA_Wind_Solar_Status_of_Onshore_Wind_Energy_Development_in_Germany_Year_2025.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3185~74a163e02b.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2969~0f4c56a156.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op388.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702~49c4f8e9a6.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "79282a48dbbed1e9",
       "title": "Frank Elderson: The green transition – benefits and barriers",
       "summary": "",
@@ -4132,43 +4255,6 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "b8b7baffd4faac56",
-      "title": "The EBA launches consultation on key performance indicators of Taxonomy disclosures",
-      "summary": "The European Banking Authority (EBA) today published a Discussion Paper on certain key performance indicators (KPIs) and other aspects of the Disclosures Delegated Act, under Article 8 of the Taxonomy Regulation. The aim is to consult the public on potential measures to simplify and enhance the usability of information disclosed by credit institutions and investment firms. The consultation is open until 12 August 2026.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-consultation-key-performance-indicators-taxonomy-disclosures",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-01T10:41:36.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/7245797d-51ca-42ad-b679-07511b5182d3/Discussion%20Paper%20on%20Taxonomy%20disclosures.pdf"
-      ],
-      "topics": [
-        "Climate / ESG"
-      ],
-      "matchedKeywords": [
-        "taxonomy"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "taxonomy"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-consultation-key-performance-indicators-taxonomy-disclosures",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
       "id": "e9a02680d13a705e",
       "title": "FSCS Protected Deposit Reporting Requirements",
       "summary": "The PRA has recently received a number of queries from firms relating to the identification, marking and reporting of FSCS protected deposits.",
@@ -4263,10 +4349,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-06-30T14:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260630a1.pdf",
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260630a2.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -4324,12 +4407,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-06-30T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.fca.org.uk/publication/policy/ps26-10.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/memoranda-of-understanding/2025/mou-boe-fca-psr-pra.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/letter/2026/innovations-in-the-use-of-deposits-emoney-and-regulated-stablecoins.pdf",
-        "https://www.bis.org/cpmi/publ/d206.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Crypto / Digital Assets",
         "Governance"
@@ -4358,54 +4436,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "25caba4c202e1b40",
-      "title": "ECB publishes indicative operational calendars for 2027",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630~9f54a0a4fb.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-30T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260630_annex~d20c0ea013.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630~9f54a0a4fb.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "1e28aea7d6836477",
-      "title": "ECB publishes indicative operational calendars for 2028",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-30T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "2c063738ed608197",
@@ -7596,29 +7626,6 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "3fe0e011d0caa60f",
-      "title": "Quantitative tightening? Britain’s 1980s experiment with overfunding",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/quantitative-tightening-britains-1980s-experiment-with-overfunding",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-22T13:01:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/quantitative-tightening-britains-1980s-experiment-with-overfunding",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
       "id": "7d84e5c7b831547e",
       "title": "Frank Elderson: A central banker’s perspective on climate change and nature degradation",
       "summary": "",
@@ -8049,29 +8056,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "8adfb9ef4e007033",
-      "title": "SEC Charges 21 Individuals With Alleged Wide-Reaching Insider Trading Scheme",
-      "summary": "The Securities and Exchange Commission today charged 21 individuals for their alleged involvement in a decade-long insider trading scheme that used information misappropriated from multiple global law firms and resulted in millions of dollars in illicit…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-44-sec-charges-21-individuals-alleged-wide-reaching-insider-trading-scheme",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-06T23:24:19.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-44-sec-charges-21-individuals-alleged-wide-reaching-insider-trading-scheme",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "90f5f1aec7bb0d83",
@@ -10541,10 +10525,10 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "9970be8e1683af6a",
-      "title": "Motor finance scheme partially suspended",
-      "summary": "The Upper Tribunal has made an order suspending parts of the scheme. We set out what the partial suspension means for firms and consumers. The Upper Tribunal has confirmed it will hear the legal challenges to our motor finance scheme on 14 to 18 December 2026 or 16 to 26 February 2027. The final dates depend on whether any of those involved in the case apply for further expert opinion or disclosure of information, and whether any such application is successful.",
-      "url": "https://www.fca.org.uk/news/statements/motor-finance-scheme-partially-suspended",
+      "id": "1337252e340ee2fb",
+      "title": "Managing conflicts of interest in insurance",
+      "summary": "Having just joined as the FCA’s new insurance director, it’s been great getting to know the team and see the variety of work they’re doing – whether that’s working with the industry to improve claims experiences for customers, consulting on simplifying our rules or supporting growth with a new regime for captive insurers. One item that has crossed my desk is vertically integrated business models, which we’re publishing information for firms on today. When a consumer buys insurance, they need to trust that the firm they're dealing with is genuinely working toward the best outcome for them – and that they’re not losing out due to conflicts of interest.",
+      "url": "https://www.fca.org.uk/news/blogs/managing-conflicts-interest-insurance",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -10556,12 +10540,10 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
-        "Governance",
-        "Reporting / Disclosure"
+        "Governance"
       ],
       "matchedKeywords": [
-        "conduct",
-        "disclosure"
+        "conduct"
       ],
       "topicMatches": [
         {
@@ -10570,16 +10552,9 @@
           "keywords": [
             "conduct"
           ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "disclosure"
-          ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/statements/motor-finance-scheme-partially-suspended",
+      "link": "https://www.fca.org.uk/news/blogs/managing-conflicts-interest-insurance",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
@@ -10895,7 +10870,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-23T08:30:07.915Z",
+      "publishedAt": "2026-07-23T19:17:20.824Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10919,7 +10894,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-23T08:30:07.915Z",
+      "publishedAt": "2026-07-23T19:17:20.824Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10943,7 +10918,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-23T08:30:07.915Z",
+      "publishedAt": "2026-07-23T19:17:20.824Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10956,15 +10931,15 @@
   "updateTypeSummary": [
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 73
+      "count": 74
     },
     {
       "updateType": "News",
-      "count": 72
+      "count": 71
     },
     {
       "updateType": "Publications / Reports",
-      "count": 66
+      "count": 67
     },
     {
       "updateType": "Consultations",
@@ -10976,7 +10951,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 15
+      "count": 14
     },
     {
       "updateType": "Other",
