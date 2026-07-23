@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T19:19:06.679Z",
+  "generatedAt": "2026-07-23T08:30:07.915Z",
   "totalPublications": 277,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -246,11 +246,11 @@
       "count": 22
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 12
+      "topic": "Capital Requirements",
+      "count": 11
     },
     {
-      "topic": "Capital Requirements",
+      "topic": "Payments / Open Finance",
       "count": 11
     },
     {
@@ -290,12 +290,12 @@
       "count": 4
     },
     {
-      "topic": "Consumer Protection",
+      "topic": "Market Risk",
       "count": 3
     },
     {
-      "topic": "Market Risk",
-      "count": 3
+      "topic": "Consumer Protection",
+      "count": 2
     }
   ],
   "topicsSummary": [
@@ -316,11 +316,11 @@
       "count": 22
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 12
+      "topic": "Capital Requirements",
+      "count": 11
     },
     {
-      "topic": "Capital Requirements",
+      "topic": "Payments / Open Finance",
       "count": 11
     },
     {
@@ -360,22 +360,22 @@
       "count": 4
     },
     {
-      "topic": "Consumer Protection",
+      "topic": "Market Risk",
       "count": 3
     },
     {
-      "topic": "Market Risk",
-      "count": 3
+      "topic": "Consumer Protection",
+      "count": 2
     }
   ],
   "keywordCloud": [
     {
-      "keyword": "board",
+      "keyword": "supervision",
       "count": 39
     },
     {
-      "keyword": "supervision",
-      "count": 39
+      "keyword": "board",
+      "count": 38
     },
     {
       "keyword": "its",
@@ -431,11 +431,15 @@
     },
     {
       "keyword": "payment",
-      "count": 6
+      "count": 5
+    },
+    {
+      "keyword": "fraud",
+      "count": 4
     },
     {
       "keyword": "payments",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "resolution",
@@ -443,14 +447,6 @@
     },
     {
       "keyword": "crr",
-      "count": 3
-    },
-    {
-      "keyword": "financial crime",
-      "count": 3
-    },
-    {
-      "keyword": "fraud",
       "count": 3
     },
     {
@@ -494,10 +490,6 @@
       "count": 2
     },
     {
-      "keyword": "consumer protection",
-      "count": 2
-    },
-    {
       "keyword": "crd",
       "count": 2
     },
@@ -511,6 +503,10 @@
     },
     {
       "keyword": "emissions",
+      "count": 2
+    },
+    {
+      "keyword": "financial crime",
       "count": 2
     },
     {
@@ -575,6 +571,10 @@
     },
     {
       "keyword": "complaints",
+      "count": 1
+    },
+    {
+      "keyword": "consumer protection",
       "count": 1
     },
     {
@@ -10354,6 +10354,50 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
+      "id": "a1d1b3757cd114bc",
+      "title": "FCA decides to ban father and son following fraud and misuse of client money",
+      "summary": "The FCA has decided to ban a father and son from UK financial services after the High Court found that they had engaged in fraud and misused client money.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-ban-father-son-fraud-misuse-client-money",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "fraud",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "fraud"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-ban-father-son-fraud-misuse-client-money",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "a25308038c66f089",
       "title": "FCA publishes landmark review into impact of AI on retail financial services",
       "summary": "The review sets out how AI could reshape retail financial services for consumers, firms, markets and regulators by 2030 and beyond. Led by FCA executive director Sheldon Mills and commissioned by the Board, The Mills Review is the first work of its kind initiated by a regulator globally. Drawing on views from across the financial services landscape, the report identifies 4 major AI‑driven shifts likely to impact retail financial services: the transformation of firm operations; the evolution of consumer journeys; the reshaping of competition and market power; and the amplification of fraud and cyber risks.",
@@ -10587,72 +10631,6 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "823185d9e71d02ff",
-      "title": "Payments Vision Delivery Committee update on future retail payments infrastructure",
-      "summary": "The Retail Payments Infrastructure Board (RPIB), led by the Bank of England, recently published a consultation on the future retail payments infrastructure. To support the consultation, the Payment Vision Delivery Committee (PVDC) which comprises representatives of HM Treasury, the FCA, Bank of England and the PSR, has published further context to support stakeholders' reading of the consultation. It covers issues such as how the commercial model for the infrastructure should work and how the new infrastructure can support consumer protection and the fight against financial crime.",
-      "url": "https://www.fca.org.uk/news/statements/payments-vision-delivery-committee-update-future-retail-payments-infrastructure",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime",
-        "Consumer Protection",
-        "Governance",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "financial crime",
-        "consumer protection",
-        "board",
-        "conduct",
-        "payment",
-        "payments"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "financial crime"
-          ]
-        },
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "consumer protection"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board",
-            "conduct"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payment",
-            "payments"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/statements/payments-vision-delivery-committee-update-future-retail-payments-infrastructure",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "2e86242915a8b7ba",
@@ -10917,7 +10895,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-22T19:19:06.679Z",
+      "publishedAt": "2026-07-23T08:30:07.915Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10941,7 +10919,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-22T19:19:06.679Z",
+      "publishedAt": "2026-07-23T08:30:07.915Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10965,7 +10943,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-22T19:19:06.679Z",
+      "publishedAt": "2026-07-23T08:30:07.915Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10982,7 +10960,7 @@
     },
     {
       "updateType": "News",
-      "count": 71
+      "count": 72
     },
     {
       "updateType": "Publications / Reports",
@@ -10990,7 +10968,7 @@
     },
     {
       "updateType": "Consultations",
-      "count": 20
+      "count": 19
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
