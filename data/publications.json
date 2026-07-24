@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T08:27:39.212Z",
+  "generatedAt": "2026-07-24T19:25:26.119Z",
   "totalPublications": 277,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,11 +231,11 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 119
+      "count": 118
     },
     {
       "topic": "Governance",
-      "count": 61
+      "count": 60
     },
     {
       "topic": "Basel / BCBS",
@@ -243,14 +243,14 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 21
+      "count": 22
     },
     {
       "topic": "Capital Requirements",
-      "count": 11
+      "count": 12
     },
     {
-      "topic": "Payments / Open Finance",
+      "topic": "Climate / ESG",
       "count": 10
     },
     {
@@ -258,19 +258,15 @@
       "count": 9
     },
     {
-      "topic": "Climate / ESG",
-      "count": 8
+      "topic": "Payments / Open Finance",
+      "count": 9
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 7
-    },
-    {
-      "topic": "DORA / Operational Resilience",
       "count": 6
     },
     {
-      "topic": "Recovery / Resolution",
+      "topic": "DORA / Operational Resilience",
       "count": 6
     },
     {
@@ -278,8 +274,8 @@
       "count": 5
     },
     {
-      "topic": "AI",
-      "count": 4
+      "topic": "Recovery / Resolution",
+      "count": 5
     },
     {
       "topic": "Model Risk",
@@ -288,6 +284,10 @@
     {
       "topic": "Stress Testing",
       "count": 4
+    },
+    {
+      "topic": "AI",
+      "count": 3
     },
     {
       "topic": "Market Risk",
@@ -301,11 +301,11 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 119
+      "count": 118
     },
     {
       "topic": "Governance",
-      "count": 61
+      "count": 60
     },
     {
       "topic": "Basel / BCBS",
@@ -313,14 +313,14 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 21
+      "count": 22
     },
     {
       "topic": "Capital Requirements",
-      "count": 11
+      "count": 12
     },
     {
-      "topic": "Payments / Open Finance",
+      "topic": "Climate / ESG",
       "count": 10
     },
     {
@@ -328,19 +328,15 @@
       "count": 9
     },
     {
-      "topic": "Climate / ESG",
-      "count": 8
+      "topic": "Payments / Open Finance",
+      "count": 9
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 7
-    },
-    {
-      "topic": "DORA / Operational Resilience",
       "count": 6
     },
     {
-      "topic": "Recovery / Resolution",
+      "topic": "DORA / Operational Resilience",
       "count": 6
     },
     {
@@ -348,8 +344,8 @@
       "count": 5
     },
     {
-      "topic": "AI",
-      "count": 4
+      "topic": "Recovery / Resolution",
+      "count": 5
     },
     {
       "topic": "Model Risk",
@@ -358,6 +354,10 @@
     {
       "topic": "Stress Testing",
       "count": 4
+    },
+    {
+      "topic": "AI",
+      "count": 3
     },
     {
       "topic": "Market Risk",
@@ -370,16 +370,16 @@
   ],
   "keywordCloud": [
     {
-      "keyword": "supervision",
-      "count": 39
-    },
-    {
       "keyword": "board",
       "count": 38
     },
     {
+      "keyword": "supervision",
+      "count": 38
+    },
+    {
       "keyword": "its",
-      "count": 35
+      "count": 34
     },
     {
       "keyword": "banking supervision",
@@ -387,11 +387,11 @@
     },
     {
       "keyword": "conduct",
-      "count": 24
+      "count": 23
     },
     {
       "keyword": "supervisory",
-      "count": 20
+      "count": 19
     },
     {
       "keyword": "enforcement",
@@ -402,19 +402,19 @@
       "count": 17
     },
     {
+      "keyword": "reporting",
+      "count": 14
+    },
+    {
       "keyword": "consultation paper",
       "count": 12
     },
     {
-      "keyword": "reporting",
-      "count": 12
+      "keyword": "climate",
+      "count": 8
     },
     {
       "keyword": "capital requirements",
-      "count": 7
-    },
-    {
-      "keyword": "climate",
       "count": 7
     },
     {
@@ -430,20 +430,12 @@
       "count": 5
     },
     {
-      "keyword": "payment",
-      "count": 5
-    },
-    {
       "keyword": "fraud",
       "count": 4
     },
     {
-      "keyword": "resolution",
+      "keyword": "payment",
       "count": 4
-    },
-    {
-      "keyword": "crr",
-      "count": 3
     },
     {
       "keyword": "implementing technical standards",
@@ -459,6 +451,10 @@
     },
     {
       "keyword": "payments",
+      "count": 3
+    },
+    {
+      "keyword": "resolution",
       "count": 3
     },
     {
@@ -490,15 +486,19 @@
       "count": 2
     },
     {
+      "keyword": "capital buffer",
+      "count": 2
+    },
+    {
       "keyword": "crd",
       "count": 2
     },
     {
-      "keyword": "data standards",
+      "keyword": "crr",
       "count": 2
     },
     {
-      "keyword": "digital euro",
+      "keyword": "data standards",
       "count": 2
     },
     {
@@ -507,10 +507,6 @@
     },
     {
       "keyword": "financial crime",
-      "count": 2
-    },
-    {
-      "keyword": "large language models",
       "count": 2
     },
     {
@@ -590,7 +586,15 @@
       "count": 1
     },
     {
+      "keyword": "digital euro",
+      "count": 1
+    },
+    {
       "keyword": "digital operational resilience",
+      "count": 1
+    },
+    {
+      "keyword": "esg",
       "count": 1
     },
     {
@@ -618,19 +622,11 @@
       "count": 1
     },
     {
-      "keyword": "large language model",
+      "keyword": "large language models",
       "count": 1
     },
     {
       "keyword": "leverage ratio",
-      "count": 1
-    },
-    {
-      "keyword": "llm",
-      "count": 1
-    },
-    {
-      "keyword": "llms",
       "count": 1
     },
     {
@@ -687,6 +683,10 @@
     },
     {
       "keyword": "sanctions",
+      "count": 1
+    },
+    {
+      "keyword": "securitisation",
       "count": 1
     }
   ],
@@ -771,6 +771,394 @@
     }
   ],
   "publications": [
+    {
+      "id": "916732f903b46d95",
+      "title": "Philip R. Lane: Outlook for the euro area economy",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-24T15:30:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "23adf6fe5fdd58fa",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-24T13:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/legal/ecb.leg_gui_2026_17.en.pdf",
+        "https://www.ecb.europa.eu/press/govcstatement/pdf/ecb.govcstatement202607~332019a7e2.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisory_guides202607_icaap.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.ICAAP_ILAAP_clarification_202607.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "84f98b84be7bc7cf",
+      "title": "The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital buffer using a parsimonious agent-based framework",
+      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+      "url": "https://www.bankofengland.co.uk/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-24T13:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects.pdf"
+      ],
+      "topics": [
+        "Capital Requirements"
+      ],
+      "matchedKeywords": [
+        "capital buffer"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital buffer"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "b531926385ee89b3",
+      "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-24T10:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG"
+      ],
+      "matchedKeywords": [
+        "climate"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "83146f818efe5ac7",
+      "title": "The EBA seeks feedback on the 4.4 draft technical package of its reporting and disclosure framework",
+      "summary": "The European Banking Authority (EBA) today published a draft technical package for version 4.4 of its reporting and disclosure framework, covering IFRS 18 reporting, Pillar 3 ESG disclosures and other technical amendments.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-seeks-feedback-44-draft-technical-package-its-reporting-and-disclosure-framework",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-24T09:08:23.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Climate / ESG",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "pillar 3",
+        "esg",
+        "reporting",
+        "disclosure",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "pillar 3"
+          ]
+        },
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "esg"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting",
+            "disclosure",
+            "pillar 3"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-seeks-feedback-44-draft-technical-package-its-reporting-and-disclosure-framework",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "3e5ef8f0940f1f0c",
+      "title": "Import tariff transmission in a production network",
+      "summary": "We find that whether US import tariffs have supply-side effects or demand-side effects on US manufacturing sectors depends on where the affected sectors are located in the US production network. Using local projections in a panel of US manufacturing sectors, we find that US import tariffs —including the 2018-19 tariff hikes— led to sectoral output contractions via two different channels: (1) Tariff increases act as negative supply shifters for sectors that use goods from tariff-facing sectors as input in production and thus face rising input costs.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3258~46133509d4.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-24T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3258~46133509d4.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3258~46133509d4.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "912e8daab4b4b829",
+      "title": "Results of the June 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_3~c0b45e246f.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-24T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/other/SESFOD_2026_Q2_summary.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/other/SESFOD_2021Q1_survey_guidelines~e9dc120dfc.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_3~c0b45e246f.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "3bc9e3e102714c21",
+      "title": "Survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD) – September 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//pub/pdf/other/SESFOD_2026_Q2_summary.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-24T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/other/SESFOD_2026_Q2_summary.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/other/SESFOD_2026_Q2_summary.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "ab9128e69b683259",
+      "title": "The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital buffer using a parsimonious agent-based framework",
+      "summary": "This paper develops an agent-based framework (DeTail) to assess the state-contingent tail effects of releasable macroprudential capital buffers. The model features heterogeneous firms, households, and banks, and a single central bank, all interacting in a fully integrated, stock-flow consistent framework which generates endogenous credit cycles. Using this approach, we evaluate how time-varying capital requirements affect the time-varying distributions of credit growth, firm and household default rates, and bank losses along the credit cycle.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3257~92e2d05000.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-24T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3257~92e2d05000.en.pdf"
+      ],
+      "topics": [
+        "Capital Requirements"
+      ],
+      "matchedKeywords": [
+        "capital requirements",
+        "capital buffer"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital requirements",
+            "capital buffer"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3257~92e2d05000.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "8e47f5569f68c4b7",
+      "title": "Agents' summary of business conditions - July 2026",
+      "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+      "url": "https://www.bankofengland.co.uk/agents-summary/2026/july-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-24T08:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "reporting"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/agents-summary/2026/july-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "db68866528b398cc",
+      "title": "ECB to start implementing enhanced repo facility for central banks",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_2~d7d475d2f0.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-24T08:30:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/legal/ecb.leg_gui_2026_17.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_2~d7d475d2f0.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "e9474a5ac373de91",
+      "title": "Monthly Decision Maker Panel data - July 2026",
+      "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+      "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/july-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-24T08:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/july-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "2f2aed4f2a9e1d2b",
       "title": "ECB Consumer Expectations Survey results – June 2026",
@@ -1208,6 +1596,7 @@
         "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.blssurvey2026q2~baa6b60429.en.pdf",
         "https://www.ecb.europa.eu/stats/pdf/bls_user_guide_202604.en.pdf",
         "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.bls_questionnaire.en.pdf",
+        "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.bls_annex2026q1.en.pdf",
         "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.bls_annex2026q2.en.pdf"
       ],
       "topics": [],
@@ -2215,52 +2604,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "750e7069467c5a71",
-      "title": "ECB selects 36 payment service providers to join digital euro pilot",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260714~8cd07d9d45.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-14T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.dep260305_call_for_expression_of_interest.en.pdf"
-      ],
-      "topics": [
-        "Crypto / Digital Assets",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "digital euro",
-        "payment"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "digital euro"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payment"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260714~8cd07d9d45.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "25c93fc57f18ea41",
       "title": "Tariffs, production networks, and spillovers: the case of a US-China trade war",
       "summary": "We study the short-run macroeconomic transmission of a US–China tariff war in an open economy multi-sector New Keynesian model with input–output linkages, sectoral nominal rigidities, and heterogeneous currency invoicing. A reciprocal 10 percentage-point tariff increase generates asymmetric incidence: the tariff-imposing country bears more of the inflationary burden, while the targeted country experiences the larger output contraction. Production networks amplify this contraction by propagating the shock beyond the directly tariffed bilateral margin. Currency invoicing further shapes transmission.",
@@ -2321,54 +2664,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "e60b3de5a8574c2c",
-      "title": "Piero Cipollone: Interview with Jornal de Negocios",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260713~d928475792.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-13T17:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260713~d928475792.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "40eecd2d4cabadf6",
-      "title": "Isabel Schnabel: How to foster growth and resilience in Europe",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260713~e78632b27a.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-13T16:45:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260713~e78632b27a.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260713~e78632b27a.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "ef2c3d33084b8ef9",
@@ -2802,29 +3097,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "26307cdb806f5de9",
-      "title": "Meeting of 10-11 June 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260709~0e7f8241c9.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-09T11:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260709~0e7f8241c9.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "e00293048ccf1471",
       "title": "A theory of bank liquidity requirements",
       "summary": "We develop a general equilibrium theory of financial intermediation and its implications for liquidity regulation. The model is built around an agency problem arising from leveraged intermediation: banks finance loan origination with deposits and face moral hazard in risk management, while holding cash mitigates these incentives at the cost of foregone investment returns. Liquidity demand therefore emerges endogenously from incentive considerations rather than from exposure to exogenous funding shocks. In equilibrium, financial experts choose between allocating equity to the banking sector relative to the non-bank financial sector that can provide ex-post liquidity by buying bank assets.",
@@ -3105,43 +3377,6 @@
       "sourceFeedUrl": "https://www.bis.org/doclist/rss_all_categories.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "8bedcd47d44c35e1",
-      "title": "How do economies with open labour markets work? The role of temporary migration in the European Union",
-      "summary": "This paper studies how temporary migration affects macroeconomic fluctuations and the conduct of stabilisation policies using a two-country DSGE model with search-and-matching frictions and endogenous cross-border labour mobility. The analysis shows that migration responds endogenously to both labour market conditions and exchange rate movements, making it an important channel of cross-country adjustment. Labour mobility alters the transmission of shocks in three main ways. First, it redistributes adjustment to productivity shocks across regions, smoothing output fluctuations in receiving economies while producing more nuanced effects in sending economies.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3251~6ae71665ab.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-08T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3251~6ae71665ab.en.pdf"
-      ],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3251~6ae71665ab.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "0884d39314dc2234",
@@ -3589,83 +3824,6 @@
       "updateTypeDetail": "Event / conference"
     },
     {
-      "id": "138c22ac64ee4050",
-      "title": "Barriers to a European Banking Union",
-      "summary": "We quantify barriers to cross-border bank lending to firms within the euro area and their consequences for credit allocation and output. Using loan-level data from the European credit registry (AnaCredit) and group structures (RIAD),we estimate barriers to relationship formation, loan pricing, and banks’ branching decisions at the country-pair level. We find that barriers to cross-border relationships between banks and firms and cross-border bank entry are large while wedges on interest rates and loan quantities are comparatively small. The estimated wedges are strongly associated with differences in national banking regulations, measured using a novel dataset on regulatory distances.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3249~d8b9cf2aed.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-07T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3249~d8b9cf2aed.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3249~d8b9cf2aed.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
-    },
-    {
-      "id": "d3cd959799e9c353",
-      "title": "Measuring geoeconomic tension: a large-language-model approach for the euro area",
-      "summary": "We construct an index of geopolitical and geoeconomic tension for the euro area using Large-Language Models (LLMs) that prompt a large dataset of European, local-language newspaper articles. The resulting LLM Geoeconomic and Geopolitical Tension (LGPT) index and its subindices seek to provide an accurate narrative of tensions and their sources over the past quarter century. The multilingual LLM approach allows for a separation between geopolitical and geoeconomic tensions and for granularity in the identification of the source of such tensions including trade, energy and finance.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3250~d58748cc6f.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-07T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3250~d58748cc6f.en.pdf"
-      ],
-      "topics": [
-        "AI",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "large language model",
-        "large language models",
-        "llm",
-        "llms",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "ai",
-          "label": "AI",
-          "keywords": [
-            "large language model",
-            "large language models",
-            "llm",
-            "llms"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3250~d58748cc6f.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "d464233410461963",
       "title": "The ESAs support ESRB warning on systemic cyber risks from frontier AI models",
       "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) welcome and su",
@@ -3729,35 +3887,6 @@
       "topicMatches": [],
       "link": "https://www.sec.gov/newsroom/press-releases/2026-62-sec-names-paul-knight-chief-operating-officer",
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "18ca3afa0476a011",
-      "title": "Philip R. Lane: AI and monetary policy",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-06T18:30:00.000Z",
-      "pdfLinks": [
-        "https://www.chicagofed.org/-/media/publications/speeches/2026/5-8-26-hoover.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2200.en.pdf",
-        "https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025081-print-pdf.pdf",
-        "https://pages.stern.nyu.edu/~slenzu/Papers/Lenzu_AI_and_MP.pdf",
-        "https://economics.mit.edu/sites/default/files/2026-02/speculative_growth_AI_public%20feb%2024.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
     },
@@ -3917,86 +4046,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "5ba2f7478e0b4945",
-      "title": "Targeted EBA peer review finds high compliance on Pillar 3 disclosures but calls for greater consistency",
-      "summary": "The European Banking Authority (EBA) today published the results of its targeted Peer Review on the supervision of compliance with the Capital Requirements Regulation (CRR) and the Bank Recovery and Resolution Directive (BRRD) provisions aiming to facilitate market discipline through bank disclosure (“Pillar 3”). The Review found that the competent authorities under review have fully or largely embedded Pillar 3 requirements into their supervisory frameworks and that their practices are efficient overall. Consistency across jurisdictions could, however, improve.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/targeted-eba-peer-review-finds-high-compliance-pillar-3-disclosures-calls-greater-consistency",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-02T10:26:46.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/749ee07d-9405-42ce-8a1d-bafe9858b547/Peer%20review%20on%20Pillar%203%20Disclosures%20June%202026.pdf"
-      ],
-      "topics": [
-        "Basel / BCBS",
-        "Capital Requirements",
-        "Reporting / Disclosure",
-        "Supervision / Enforcement",
-        "Recovery / Resolution"
-      ],
-      "matchedKeywords": [
-        "pillar 3",
-        "capital requirements",
-        "crr",
-        "disclosure",
-        "supervision",
-        "supervisory",
-        "its",
-        "resolution"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "pillar 3"
-          ]
-        },
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital requirements",
-            "crr"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "disclosure",
-            "pillar 3"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "supervisory",
-            "its"
-          ]
-        },
-        {
-          "id": "resolution-recovery",
-          "label": "Recovery / Resolution",
-          "keywords": [
-            "resolution"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/targeted-eba-peer-review-finds-high-compliance-pillar-3-disclosures-calls-greater-consistency",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "79282a48dbbed1e9",
       "title": "Frank Elderson: The green transition – benefits and barriers",
       "summary": "",
@@ -4116,14 +4165,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-02T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0159_EN.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/other/ecb.simplification_supervisory_reporting_framework202512.en.pdf",
-        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.other_publications_banking_sector_framework.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2292~77deb8b18f.en.pdf",
-        "https://www.imf.org/external/pubs/ft/spn/2010/spn1008.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Supervision / Enforcement"
@@ -7386,52 +7428,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "86e71b9bab7d6c1b",
-      "title": "Are the effects of quantitative easing and tightening state contingent?",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/are-the-effects-of-qe-and-tightening-state-contingent",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-29T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/are-the-effects-of-qe-and-tightening-state-contingent",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "622e7f007126b7f6",
-      "title": "Bank of England Weekly Report 27 May 2026",
-      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2026/27-may-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-28T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/27-may-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "1e01f4a9e4f08cfd",
       "title": "PS15/26 – Pillar 2A review – Phase 1",
       "summary": "Policy statement 15/26",
@@ -7576,29 +7572,6 @@
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "updateType": "Other",
       "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "62a04de628978f28",
-      "title": "Digital renaissance amidst crisis: impact of digitalisation on firm performance during the pandemic",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/digital-renaissance-amidst-crisis-impact-of-digitalisation-on-firm-performance-during-the-pandemic",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-22T13:02:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/digital-renaissance-amidst-crisis-impact-of-digitalisation-on-firm-performance-during-the-pandemic",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "7d84e5c7b831547e",
@@ -10845,7 +10818,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-24T08:27:39.212Z",
+      "publishedAt": "2026-07-24T19:25:26.119Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10869,7 +10842,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-24T08:27:39.212Z",
+      "publishedAt": "2026-07-24T19:25:26.119Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10893,7 +10866,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-24T08:27:39.212Z",
+      "publishedAt": "2026-07-24T19:25:26.119Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10914,7 +10887,7 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 68
+      "count": 70
     },
     {
       "updateType": "Consultations",
@@ -10922,11 +10895,11 @@
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 14
+      "count": 13
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 14
+      "count": 13
     },
     {
       "updateType": "Other",
