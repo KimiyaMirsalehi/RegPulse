@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T19:17:20.824Z",
+  "generatedAt": "2026-07-24T08:27:39.212Z",
   "totalPublications": 277,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 120
+      "count": 119
     },
     {
       "topic": "Governance",
@@ -251,7 +251,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "AML / Financial Crime",
@@ -301,7 +301,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 120
+      "count": 119
     },
     {
       "topic": "Governance",
@@ -321,7 +321,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "AML / Financial Crime",
@@ -379,7 +379,7 @@
     },
     {
       "keyword": "its",
-      "count": 36
+      "count": 35
     },
     {
       "keyword": "banking supervision",
@@ -438,10 +438,6 @@
       "count": 4
     },
     {
-      "keyword": "payments",
-      "count": 4
-    },
-    {
       "keyword": "resolution",
       "count": 4
     },
@@ -459,6 +455,10 @@
     },
     {
       "keyword": "money laundering",
+      "count": 3
+    },
+    {
+      "keyword": "payments",
       "count": 3
     },
     {
@@ -771,6 +771,103 @@
     }
   ],
   "publications": [
+    {
+      "id": "2f2aed4f2a9e1d2b",
+      "title": "ECB Consumer Expectations Survey results – June 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-24T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/shared/pdf/CES_aggregate_statistics_guide.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op287~ea7eebc23f.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "1cdc327dc0100ef6",
+      "title": "Main findings from the ECB’s recent contacts with non-financial companies",
+      "summary": "This box summarises the main findings from recent contacts between ECB staff and representatives of 76 leading non-financial companies operating in the euro area. According to these exchanges, which mainly took place between 22 June and 1 July 2026, activity continued to grow moderately in the second quarter with similar momentum expected for the third quarter. While the war in the Middle East was weighing on consumer spending somewhat, the overall impact on activity seemed limited as some firms benefited from less competition and precautionary stockbuilding. Employment dynamics were rather subdued, with many firms in cost-cutting mode.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_05~8c25c55b38.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-24T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_05~8c25c55b38.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "75c071cc807d5a83",
+      "title": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-24T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "2df5d1b200bfb538",
+      "title": "The ECB Survey of Professional Forecasters - Third quarter of 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//stats/ecb_surveys/survey_of_professional_forecasters/html/ecb.spf2026q3.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-24T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/ecb_surveys/survey_of_professional_forecasters/pdf/ecb.spf2026q3.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//stats/ecb_surveys/survey_of_professional_forecasters/html/ecb.spf2026q3.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "6e7b37dd375be086",
       "title": "SEC Announces Roundtable on Preparations for 24-Hour Trading",
@@ -3726,68 +3823,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "953c22bff106ef0b",
-      "title": "Monetary policy transmission and structural changes",
-      "summary": "This paper surveys research from the ESCB ChaMP Research Network on how ongoing structural change is affecting monetary policy transmission in the euro area. It shows that transmission is state-dependent and varies systematically with changesin the sectoral composition of the economy, in its international integration, in financial conditions and in inflation regimes. More service-intensive economies exhibit weaker real responses to monetary tightening, while high-inflation environments areassociated with faster and stronger price pass-through, helping explain why the recent disinflation episode entailed relatively low output costs.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op393.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-06T07:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op393.en.pdf"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op393.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "3b0aca79f3d7cc04",
-      "title": "The propagation of shocks across the production network and implications for monetary policy",
-      "summary": "The repeated occurrence of supply-chain disruptions since the COVID-19 pandemic reveals the need to complement traditional macroeconomic frameworks with approaches that better capture the complexity of modern economic productionstructures. This paper synthesises the findings of the ChaMP Research Network, highlighting how production network models and heterogeneity across firms, sectors and countries enrich our understanding of monetary policy transmission.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op392.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-06T07:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op392.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op392.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "70399c84e7f26a3c",
       "title": "Monthly Decision Maker Panel data - June 2026",
       "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
@@ -3809,66 +3844,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "d27df611f68b07fc",
-      "title": "Christine Lagarde: Interview with Les Échos",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-02T21:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "a961c3255c02217b",
-      "title": "Piero Cipollone: The digital transformation of money, payments and finance",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702_1~c58dcd8150.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-02T17:55:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702_1~c58dcd8150.en.pdf"
-      ],
-      "topics": [
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "payments"
-      ],
-      "topicMatches": [
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payments"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702_1~c58dcd8150.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "b56bc1afd4ae66d3",
@@ -10870,7 +10845,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-23T19:17:20.824Z",
+      "publishedAt": "2026-07-24T08:27:39.212Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10894,7 +10869,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-23T19:17:20.824Z",
+      "publishedAt": "2026-07-24T08:27:39.212Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10918,7 +10893,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-23T19:17:20.824Z",
+      "publishedAt": "2026-07-24T08:27:39.212Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10931,15 +10906,15 @@
   "updateTypeSummary": [
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 74
+      "count": 73
     },
     {
       "updateType": "News",
-      "count": 71
+      "count": 72
     },
     {
       "updateType": "Publications / Reports",
-      "count": 67
+      "count": 68
     },
     {
       "updateType": "Consultations",
@@ -10947,7 +10922,7 @@
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 15
+      "count": 14
     },
     {
       "updateType": "Working Papers / Research",
