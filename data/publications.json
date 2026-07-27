@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T09:52:13.270Z",
+  "generatedAt": "2026-07-27T19:26:56.462Z",
   "totalPublications": 277,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 116
+      "count": 115
     },
     {
       "topic": "Governance",
@@ -243,7 +243,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 22
+      "count": 23
     },
     {
       "topic": "Capital Requirements",
@@ -286,22 +286,22 @@
       "count": 4
     },
     {
-      "topic": "AI",
-      "count": 3
-    },
-    {
       "topic": "Consumer Protection",
       "count": 3
     },
     {
       "topic": "Market Risk",
       "count": 3
+    },
+    {
+      "topic": "AI",
+      "count": 2
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 116
+      "count": 115
     },
     {
       "topic": "Governance",
@@ -313,7 +313,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 22
+      "count": 23
     },
     {
       "topic": "Capital Requirements",
@@ -356,16 +356,16 @@
       "count": 4
     },
     {
-      "topic": "AI",
-      "count": 3
-    },
-    {
       "topic": "Consumer Protection",
       "count": 3
     },
     {
       "topic": "Market Risk",
       "count": 3
+    },
+    {
+      "topic": "AI",
+      "count": 2
     }
   ],
   "keywordCloud": [
@@ -378,11 +378,11 @@
       "count": 37
     },
     {
-      "keyword": "its",
-      "count": 32
+      "keyword": "banking supervision",
+      "count": 31
     },
     {
-      "keyword": "banking supervision",
+      "keyword": "its",
       "count": 31
     },
     {
@@ -391,7 +391,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 19
+      "count": 18
     },
     {
       "keyword": "enforcement",
@@ -403,7 +403,7 @@
     },
     {
       "keyword": "reporting",
-      "count": 14
+      "count": 15
     },
     {
       "keyword": "consultation paper",
@@ -428,6 +428,10 @@
     {
       "keyword": "liquidity",
       "count": 4
+    },
+    {
+      "keyword": "authorisation",
+      "count": 3
     },
     {
       "keyword": "fraud",
@@ -470,19 +474,11 @@
       "count": 3
     },
     {
-      "keyword": "ai models",
-      "count": 2
-    },
-    {
       "keyword": "anti money laundering",
       "count": 2
     },
     {
       "keyword": "anti-money laundering",
-      "count": 2
-    },
-    {
-      "keyword": "authorisation",
       "count": 2
     },
     {
@@ -531,6 +527,10 @@
     },
     {
       "keyword": "accountability",
+      "count": 1
+    },
+    {
+      "keyword": "ai models",
       "count": 1
     },
     {
@@ -820,6 +820,31 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "ba52388a655f5eef",
+      "title": "ESMA authorises EuroCTP as the Consolidated Tape Provider for shares and exchange-traded funds",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-authorises-euroctp-consolidated-tape-provider-shares-and-exchange-traded",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA71-545613100-2975_ESMA_authorises_EuroCTP_as_the_Consolidated_Tape_Provider_for_shares_and_exchange-traded_funds_-_Press_release.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-authorises-euroctp-consolidated-tape-provider-shares-and-exchange-traded",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "916732f903b46d95",
@@ -3787,50 +3812,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Events",
       "updateTypeDetail": "Event / conference"
-    },
-    {
-      "id": "d464233410461963",
-      "title": "The ESAs support ESRB warning on systemic cyber risks from frontier AI models",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) welcome and su",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esas-support-esrb-warning-systemic-cyber-risks-frontier-ai-models",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-07T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "AI",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "ai models",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "ai",
-          "label": "AI",
-          "keywords": [
-            "ai models"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esas-support-esrb-warning-systemic-cyber-risks-frontier-ai-models",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "17c3f4a037529cc7",
@@ -9994,41 +9975,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "62b3136743438476",
-      "title": "Banks told to improve access to basic accounts",
-      "summary": "People struggling should find it easier to access basic bank accounts, after nine banks committed to improving widespread poor practice identified by the FCA. Nine of the biggest UK banks and building societies are legally mandated to offer basic bank accounts. They exist to serve people who may not otherwise be able to access standard current accounts - providing access to essential services with no fees and no overdraft. A mystery shopping exercise by the FCA found a third of experiences with basic bank accounts rated as poor or very poor. The mystery shop revealed that the bank account providers were not consistently offering these accounts to customers who could benefit from them.",
-      "url": "https://www.fca.org.uk/news/press-releases/banks-told-improve-access-basic-accounts",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/banks-told-improve-access-basic-accounts",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "5bdfb3f67a8deb41",
       "title": "Customers of Anthony Jones (UK) Limited urged to check their insurance policy",
       "summary": "The insurance broker has agreed to stop carrying out any regulated activity. This means it can't provide any services on behalf of an insurer. From 9 July 2026, the insurance broker Anthony Jones (UK) Limited (AJL) agreed to stop carrying out any regulated activity. This means that AJL cannot provide any services on behalf of an insurer, including selling new insurance policies, offering renewals, or providing any advice to new or existing consumers. If you purchased an insurance policy through AJL, please contact the underwriter or insurer directly to check whether your policy is valid and your cover remains in place.",
@@ -10064,10 +10010,10 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "bafdc898b38891f1",
-      "title": "Eldens Finance Limited enters administration",
-      "summary": "On Monday 6 July 2026, Eldens Finance Limited (Eldens) was placed into administration. Antony Batty and Hugh Jesseman of Antony Batty & Company Ltd were appointed as Joint Administrators. Eldens provided pawnbroking loans, primarily secured against high-value and luxury assets. The Joint Administrators are responsible for winding down the firm in an orderly way in the interests of its creditors. On 19 June 2026, Eldens agreed to enter into a voluntary requirement to restrict its ability to deal and dispose of assets and its permissions to carry out regulatory activities. More information about these requirements can be found on the FS Register.",
-      "url": "https://www.fca.org.uk/news/news-stories/eldens-finance-limited-enters-administration",
+      "id": "df14606082a4a3bc",
+      "title": "FCA and Bank appoint members to their Transaction and Post-trade Reporting Harmonisation Taskforce",
+      "summary": "The FCA and Bank of England (Bank) have appointed members to their Transaction and Post-trade Reporting Harmonisation Taskforce. The taskforce will inform our long-term approach to harmonising transaction and post-trade reporting requirements across UK Markets in Financial Instruments Regulation (UK MiFIR), UK European Market Infrastructure Regulation (UK EMIR) and UK Securities Financing Transactions Regulation (UK SFTR). The taskforce comprises 3 separate working groups: a main Policy working group, supported by a Strategy working group and an Architecture working group. The objectives of the working groups were set out in the terms of reference.",
+      "url": "https://www.fca.org.uk/news/news-stories/fca-bank-appoint-members-their-transaction-post-trade-reporting-harmonisation-taskforce",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -10080,11 +10026,11 @@
       "pdfLinks": [],
       "topics": [
         "Governance",
-        "Supervision / Enforcement"
+        "Reporting / Disclosure"
       ],
       "matchedKeywords": [
         "conduct",
-        "its"
+        "reporting"
       ],
       "topicMatches": [
         {
@@ -10095,17 +10041,17 @@
           ]
         },
         {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
           "keywords": [
-            "its"
+            "reporting"
           ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/news-stories/eldens-finance-limited-enters-administration",
+      "link": "https://www.fca.org.uk/news/news-stories/fca-bank-appoint-members-their-transaction-post-trade-reporting-harmonisation-taskforce",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "1c4444a51933e34f",
@@ -10290,6 +10236,50 @@
         }
       ],
       "link": "https://www.fca.org.uk/news/press-releases/fca-ban-father-son-fraud-misuse-client-money",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "776e80dbb4985dbb",
+      "title": "FCA secures majority of victims’ money back from convicted fraudster",
+      "summary": "Victims of convicted fraudster John Burford are set to recover the majority of the money they invested after the FCA obtained a confiscation order against him. In September 2025 Mr Burford, 86, was sentenced to 2 years in prison for defrauding over 100 investors out of £1m. He offered trade alerts and investment opportunities in managed 'funds', despite lacking FCA authorisation. The FCA found he repeatedly misled investors about fund performance, concealed losses and used their money for personal gain, including buying a property. At a hearing at Southwark Crown Court on 27 July 2026, Mr Burford was ordered to pay £655,951.40.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-secures-majority-victims-money-back-convicted-fraudster",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "authorisation"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "authorisation"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-secures-majority-victims-money-back-convicted-fraudster",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -10772,7 +10762,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-27T09:52:13.270Z",
+      "publishedAt": "2026-07-27T19:26:56.462Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10796,7 +10786,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-27T09:52:13.270Z",
+      "publishedAt": "2026-07-27T19:26:56.462Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10820,7 +10810,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-27T09:52:13.270Z",
+      "publishedAt": "2026-07-27T19:26:56.462Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10833,7 +10823,7 @@
   "updateTypeSummary": [
     {
       "updateType": "News",
-      "count": 72
+      "count": 74
     },
     {
       "updateType": "Publications / Reports",
@@ -10841,7 +10831,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 71
+      "count": 69
     },
     {
       "updateType": "Consultations",
