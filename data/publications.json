@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T19:10:19.985Z",
+  "generatedAt": "2026-07-27T09:52:13.270Z",
   "totalPublications": 277,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 118
+      "count": 116
     },
     {
       "topic": "Governance",
@@ -255,11 +255,11 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -270,12 +270,12 @@
       "count": 6
     },
     {
-      "topic": "Liquidity",
+      "topic": "Recovery / Resolution",
       "count": 5
     },
     {
-      "topic": "Recovery / Resolution",
-      "count": 5
+      "topic": "Liquidity",
+      "count": 4
     },
     {
       "topic": "Model Risk",
@@ -290,18 +290,18 @@
       "count": 3
     },
     {
-      "topic": "Market Risk",
+      "topic": "Consumer Protection",
       "count": 3
     },
     {
-      "topic": "Consumer Protection",
-      "count": 2
+      "topic": "Market Risk",
+      "count": 3
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 118
+      "count": 116
     },
     {
       "topic": "Governance",
@@ -325,11 +325,11 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -340,12 +340,12 @@
       "count": 6
     },
     {
-      "topic": "Liquidity",
+      "topic": "Recovery / Resolution",
       "count": 5
     },
     {
-      "topic": "Recovery / Resolution",
-      "count": 5
+      "topic": "Liquidity",
+      "count": 4
     },
     {
       "topic": "Model Risk",
@@ -360,26 +360,26 @@
       "count": 3
     },
     {
-      "topic": "Market Risk",
+      "topic": "Consumer Protection",
       "count": 3
     },
     {
-      "topic": "Consumer Protection",
-      "count": 2
+      "topic": "Market Risk",
+      "count": 3
     }
   ],
   "keywordCloud": [
-    {
-      "keyword": "board",
-      "count": 38
-    },
     {
       "keyword": "supervision",
       "count": 38
     },
     {
+      "keyword": "board",
+      "count": 37
+    },
+    {
       "keyword": "its",
-      "count": 34
+      "count": 32
     },
     {
       "keyword": "banking supervision",
@@ -427,15 +427,11 @@
     },
     {
       "keyword": "liquidity",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "fraud",
-      "count": 4
-    },
-    {
-      "keyword": "payment",
-      "count": 4
+      "count": 3
     },
     {
       "keyword": "implementing technical standards",
@@ -447,6 +443,10 @@
     },
     {
       "keyword": "money laundering",
+      "count": 3
+    },
+    {
+      "keyword": "payment",
       "count": 3
     },
     {
@@ -570,6 +570,10 @@
       "count": 1
     },
     {
+      "keyword": "consumer duty",
+      "count": 1
+    },
+    {
       "keyword": "consumer protection",
       "count": 1
     },
@@ -651,10 +655,6 @@
     },
     {
       "keyword": "own funds",
-      "count": 1
-    },
-    {
-      "keyword": "payment services",
       "count": 1
     },
     {
@@ -771,6 +771,56 @@
     }
   ],
   "publications": [
+    {
+      "id": "591853a4a8733819",
+      "title": "Central banks, debt managers, and specialness in the Bund repo market",
+      "summary": "Elevated repo rate specialness for German government bonds in 2016–17, and particularly in 2022-23, has often been linked to the absorption of these securities by the ECB’s asset purchase programmes. We provide the first evidence on how the debt management office mitigates these effects by jointly analyzing daily secondary-market trades and repo operations of the Deutsche Finanzagentur (DFA) alongside Eurosystem transactions in Bunds from 2015–2024. We find two points: first, that Eurosystem purchases depress repo rates about four times more than DFA purchases (0.4 bp vs 0.1 bp per 1% of free float), while DFA repo lending raises repo rates by roughly 0.2 bp per 1% of outstanding volume.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3259~ca31e19d1b.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-27T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3259~ca31e19d1b.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3259~ca31e19d1b.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "a4c62239d9dcce3f",
+      "title": "The effects of a large energy price shock on bank credit",
+      "summary": "This study investigates the effect of the large shock to energy prices following the Russian invasion of Ukraine on bank credit to firms. To isolate the causal effect of the shock, it compares bank lending to high-energy-intensive firms to that of similar low-energy-intensive firms. Following the shock, bank credit to high-energy-intensive firms persistently declined, while their interest rates on new loans rose and other loan terms tightened. Across the distribution, safer firms reduced outstanding credit lines and paid unchanged interest rates on new bank loans, while riskier firms borrowed at higher interest rates.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3260~7f05446cac.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-27T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3260~7f05446cac.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3260~7f05446cac.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
     {
       "id": "916732f903b46d95",
       "title": "Philip R. Lane: Outlook for the euro area economy",
@@ -2705,45 +2755,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "b02bf5f686e54cb3",
-      "title": "Neo-conglomerates and EU regulatory perimeter challenges – state of play and evaluation of policy options",
-      "summary": "This paper examines the implications of the provision, in the European Union, of bank-like services, including payment services, by large non‑bank groups (i.e. groups that do not comprise entities with a banking licence), and evaluates policy options to address the emergence of so-called neo-conglomerates by recalibrating the regulatory perimeter.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op394.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-13T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op394.en.pdf"
-      ],
-      "topics": [
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "payment",
-        "payment services"
-      ],
-      "topicMatches": [
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payment",
-            "payment services"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op394.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "c1c5f046bca3bdd3",
       "title": "SEC Office of Municipal Securities Updates FAQs for Registration of Municipal Advisors",
       "summary": "The Securities and Exchange Commission’s Office of Municipal Securities today announced it has updated its Registration of Municipal Advisors FAQs webpage to offer more clarity on municipal advisor registration and recordkeeping requirements. The…",
@@ -3093,52 +3104,6 @@
       ],
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-releases-final-technical-package-its-43-reporting-framework-support-third-country-branches",
       "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "e00293048ccf1471",
-      "title": "A theory of bank liquidity requirements",
-      "summary": "We develop a general equilibrium theory of financial intermediation and its implications for liquidity regulation. The model is built around an agency problem arising from leveraged intermediation: banks finance loan origination with deposits and face moral hazard in risk management, while holding cash mitigates these incentives at the cost of foregone investment returns. Liquidity demand therefore emerges endogenously from incentive considerations rather than from exposure to exogenous funding shocks. In equilibrium, financial experts choose between allocating equity to the banking sector relative to the non-bank financial sector that can provide ex-post liquidity by buying bank assets.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3252~91761af52b.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-09T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3252~91761af52b.en.pdf"
-      ],
-      "topics": [
-        "Liquidity",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "liquidity",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3252~91761af52b.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
     },
@@ -10330,61 +10295,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "a25308038c66f089",
-      "title": "FCA publishes landmark review into impact of AI on retail financial services",
-      "summary": "The review sets out how AI could reshape retail financial services for consumers, firms, markets and regulators by 2030 and beyond. Led by FCA executive director Sheldon Mills and commissioned by the Board, The Mills Review is the first work of its kind initiated by a regulator globally. Drawing on views from across the financial services landscape, the report identifies 4 major AI‑driven shifts likely to impact retail financial services: the transformation of firm operations; the evolution of consumer journeys; the reshaping of competition and market power; and the amplification of fraud and cyber risks.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-publishes-landmark-review-impact-ai-retail-financial-services",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "fraud",
-        "board",
-        "conduct",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "fraud"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board",
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-publishes-landmark-review-impact-ai-retail-financial-services",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "3974ea7e0b953c58",
       "title": "Joint taskforce continues crack down on misleading car finance claims adverts",
       "summary": "The FCA, Advertising Standards Authority, Solicitors Regulation Authority and Information Commissioner's Office are tackling the poor handling of motor finance claims by some claims companies and law firms. As part of the joint taskforce's continued crackdown, in June the FCA had 170 misleading car finance claims adverts removed or amended by claims management companies (CMCs), bringing the total up to 1,200 since January 2024. Some of the misleading adverts seen by the FCA:Were disguised as a consumer posting on social media recommending a website to look up agreements. However, the advert failed to make clear it was a financial promotion for a CMC that was recommending its own website.",
@@ -10556,10 +10466,10 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "2e86242915a8b7ba",
-      "title": "Pension firms must do more for customers in older pensions and fund savings",
-      "summary": "The FCA has found that peopleholding legacy pension products,now closed to newsavers, could be receiving poorer value than those in newer ones. The regulatoridentifiedsome good practices,butcomplexcharging structures,older product design andweakness infirms'datameantsome pension savers are not getting as much value as they could. What good looks likeSomeunit-linked non-workplace pension providers are working tosimplifyor rationalise their legacyproductsandfunds,orhaveplans to do so. There was evidence of firmscappingor reducingchargesfor customers in legacy products. Some were also comparing outcomes acrossdifferentcustomergroups andproducts, andmovingcustomers to better-value alternatives.",
-      "url": "https://www.fca.org.uk/news/press-releases/pension-firms-must-do-more-customers-older-pensions-fund-savings",
+      "id": "557d13b907d8d2f3",
+      "title": "Outcomes monitoring: why understanding the consumer experience matters and where firms should focus",
+      "summary": "The Consumer Duty was designed to ensure firms were focussed on the outcomes that matter to their customers. Understanding the actual experiences of people and identifying potential harm are essential to delivering these improvements. So outcomes monitoring is at the heart of helping consumers to better navigate their financial lives. Understanding these outcomes is about more than collecting data or producing reports. It helps firms identify where customers may be struggling, spot emerging risks and take action before harm occurs. Doing this well helps build consumer trust in the firms and products that they engage with.",
+      "url": "https://www.fca.org.uk/news/blogs/outcomes-monitoring-why-understanding-consumer-experience-matters",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -10571,12 +10481,21 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
+        "Consumer Protection",
         "Governance"
       ],
       "matchedKeywords": [
+        "consumer duty",
         "conduct"
       ],
       "topicMatches": [
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "consumer duty"
+          ]
+        },
         {
           "id": "governance",
           "label": "Governance",
@@ -10585,10 +10504,10 @@
           ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/press-releases/pension-firms-must-do-more-customers-older-pensions-fund-savings",
+      "link": "https://www.fca.org.uk/news/blogs/outcomes-monitoring-why-understanding-consumer-experience-matters",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "857135ee16cce7a9",
@@ -10804,6 +10723,41 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
+      "id": "bbd28f53b8668b8c",
+      "title": "You don't need to pay to claim: FCA launches nationwide car finance campaign",
+      "summary": "Millions of car finance customers who may be owed compensation can get help making a complaint for free, as the FCA launches a national advertising campaign. Research by the FCA found that 27% of car finance customers lack confidence to make a complaint without using a claims management company (CMC) or law firm, despite free tools from the FCA being available. Sheree Howard, executive director at the FCA, said: 'Many people who may be owed compensation aren’t sure where to start or don’t realise they don’t have to pay someone to make a complaint. Our free tools are there to help people feel claim confident – so they can get any money owed back without it costing them a penny.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-launches-nationwide-car-finance-campaign",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-launches-nationwide-car-finance-campaign",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "9c359a56d14a88be",
       "title": "Central Bank of Cyprus Announcements: official source page",
       "summary": "Open the official Central Bank of Cyprus Announcements source page for the latest publications, announcements and regulatory updates.",
@@ -10818,7 +10772,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-26T19:10:19.985Z",
+      "publishedAt": "2026-07-27T09:52:13.270Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10842,7 +10796,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-26T19:10:19.985Z",
+      "publishedAt": "2026-07-27T09:52:13.270Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10866,7 +10820,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-26T19:10:19.985Z",
+      "publishedAt": "2026-07-27T09:52:13.270Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10878,16 +10832,16 @@
   ],
   "updateTypeSummary": [
     {
-      "updateType": "Rules / Standards / Guidance",
-      "count": 73
-    },
-    {
       "updateType": "News",
       "count": 72
     },
     {
       "updateType": "Publications / Reports",
-      "count": 70
+      "count": 71
+    },
+    {
+      "updateType": "Rules / Standards / Guidance",
+      "count": 71
     },
     {
       "updateType": "Consultations",
@@ -10907,7 +10861,7 @@
     },
     {
       "updateType": "Statistics / Data",
-      "count": 6
+      "count": 7
     },
     {
       "updateType": "Source Pages",
