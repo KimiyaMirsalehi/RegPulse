@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T19:26:56.462Z",
-  "totalPublications": 277,
+  "generatedAt": "2026-07-28T08:33:37.072Z",
+  "totalPublications": 278,
   "sourceCount": 17,
   "successfulSources": 17,
   "warningSources": 0,
@@ -182,7 +182,7 @@
       "region": "US",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 19,
+      "itemCount": 20,
       "url": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
       "sourcePageUrl": "https://www.consumerfinance.gov/about-us/newsroom/",
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 115
+      "count": 114
     },
     {
       "topic": "Governance",
@@ -251,7 +251,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 10
+      "count": 9
     },
     {
       "topic": "AML / Financial Crime",
@@ -301,7 +301,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 115
+      "count": 114
     },
     {
       "topic": "Governance",
@@ -321,7 +321,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 10
+      "count": 9
     },
     {
       "topic": "AML / Financial Crime",
@@ -383,7 +383,7 @@
     },
     {
       "keyword": "its",
-      "count": 31
+      "count": 30
     },
     {
       "keyword": "conduct",
@@ -394,12 +394,12 @@
       "count": 18
     },
     {
-      "keyword": "enforcement",
+      "keyword": "policy statement",
       "count": 17
     },
     {
-      "keyword": "policy statement",
-      "count": 17
+      "keyword": "enforcement",
+      "count": 16
     },
     {
       "keyword": "reporting",
@@ -410,11 +410,11 @@
       "count": 12
     },
     {
-      "keyword": "climate",
-      "count": 8
+      "keyword": "capital requirements",
+      "count": 7
     },
     {
-      "keyword": "capital requirements",
+      "keyword": "climate",
       "count": 7
     },
     {
@@ -678,15 +678,15 @@
       "count": 1
     },
     {
-      "keyword": "sanction",
-      "count": 1
-    },
-    {
       "keyword": "sanctions",
       "count": 1
     },
     {
       "keyword": "securitisation",
+      "count": 1
+    },
+    {
+      "keyword": "standardised approach",
       "count": 1
     }
   ],
@@ -701,7 +701,7 @@
     },
     {
       "region": "US",
-      "count": 73
+      "count": 74
     },
     {
       "region": "Global",
@@ -738,12 +738,12 @@
       "count": 25
     },
     {
-      "institution": "Financial Conduct Authority",
+      "institution": "Consumer Financial Protection Bureau",
       "count": 20
     },
     {
-      "institution": "Consumer Financial Protection Bureau",
-      "count": 19
+      "institution": "Financial Conduct Authority",
+      "count": 20
     },
     {
       "institution": "European Banking Authority",
@@ -771,6 +771,73 @@
     }
   ],
   "publications": [
+    {
+      "id": "65d3703b810e8774",
+      "title": "Sharon Donnery: Interview with Liberal.gr",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260728~574c738cea.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-28T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260728~574c738cea.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "5fbc25db4839ad34",
+      "title": "Small Business Forum’s Report to Congress Highlights Recommendations to Improve Capital-Raising Policy",
+      "summary": "The Securities and Exchange Commission released a report to Congress today highlighting policy recommendations from the SEC’s 45th Annual Government-Business Forum on Small Business Capital Formation. The report provides a summary of the forum…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-70-small-business-forums-report-congress-highlights-recommendations-improve-capital-raising-policy",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-27T19:59:17.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-70-small-business-forums-report-congress-highlights-recommendations-improve-capital-raising-policy",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "591853a4a8733819",
       "title": "Central banks, debt managers, and specialness in the Bund repo market",
@@ -820,6 +887,31 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "249924a27b3a6f46",
+      "title": "Deputy Director Mark Paoletta’s Remarks to the Financial Literacy and Education Commission",
+      "summary": "Deputy Director Mark Paoletta provided remarks to the Financial Literacy and Education Commission.",
+      "url": "https://www.consumerfinance.gov/about-us/newsroom/deputy-director-mark-paolettas-remarks-to-the-financial-literacy-and-education-commission/",
+      "sourcePageUrl": "https://www.consumerfinance.gov/about-us/newsroom/",
+      "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
+      "sourceId": "cfpb-newsroom",
+      "sourceName": "CFPB Newsroom",
+      "institution": "Consumer Financial Protection Bureau",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-27T04:00:00.000Z",
+      "pdfLinks": [
+        "https://files.consumerfinance.gov/f/documents/cfpb_flar-2025-report_2026-05.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.consumerfinance.gov/about-us/newsroom/deputy-director-mark-paolettas-remarks-to-the-financial-literacy-and-education-commission/",
+      "sourceFeedUrl": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "ba52388a655f5eef",
@@ -4005,23 +4097,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-02T10:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3116~86b1c681b9.en.pdf",
-        "https://www.ngfs.net/system/files/2026-05/NGFS_Extreme%20weather%20events.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3203~063779fe18.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op380.en.pdf?94694a07f4e73bcbed5f59b75f9b8733",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op333~1b97e436be.en.pdf?90e7aaae4ef927f887a787587a22adba",
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.202011finalguideonclimate-relatedandenvironmentalrisks~58213f6564.en.pdf",
-        "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/24/T3/Files/be2403-art09e.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op281~05a7735b1c.en.pdf",
-        "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/24/Files/dt2425e.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op371.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op367~16f0cba571.en.pdf",
-        "https://www.fachagentur-wind-solar.de/fileadmin/Veroeffentlichungen/Wind/Analysen/FA_Wind_Solar_Status_of_Onshore_Wind_Energy_Development_in_Germany_Year_2025.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3185~74a163e02b.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2969~0f4c56a156.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op388.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Supervision / Enforcement"
@@ -7520,61 +7596,6 @@
       "updateTypeDetail": "Other update"
     },
     {
-      "id": "7d84e5c7b831547e",
-      "title": "Frank Elderson: A central banker’s perspective on climate change and nature degradation",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260521~799a75d8d9.en.pdf",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-21T15:30:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260521~799a75d8d9.en.pdf"
-      ],
-      "topics": [
-        "Basel / BCBS",
-        "Climate / ESG",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "climate",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260521~799a75d8d9.en.pdf",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "2a8255c931170681",
       "title": "SEC and NFA Announce Memorandum of Understanding to Further Harmonize Regulatory Coordination",
       "summary": "The Securities and Exchange Commission and National Futures Association (NFA) today announced that they have entered into a Memorandum of Understanding (MOU) to enhance their cooperation, coordination, and information sharing in areas of common…",
@@ -7681,45 +7702,6 @@
         }
       ],
       "link": "https://www.sec.gov/newsroom/press-releases/2026-46-sec-proposes-transformative-reforms-help-public-companies-conduct-registered-offerings-simplify",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "d0d2692b9d0a856c",
-      "title": "SEC Rescinds Policy Regarding Denials of Settlements in Enforcement Actions",
-      "summary": "The Securities and Exchange Commission today rescinded a policy, codified in Rule 202.5(e) of its informal rules of procedures, stating that when it chooses to settle an enforcement action in which a sanction is imposed, it will not settle unless the…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-45-sec-rescinds-policy-regarding-denials-settlements-enforcement-actions",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-18T16:33:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "enforcement",
-        "sanction",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "enforcement",
-            "sanction",
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-45-sec-rescinds-policy-regarding-denials-settlements-enforcement-actions",
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
@@ -10762,7 +10744,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-27T19:26:56.462Z",
+      "publishedAt": "2026-07-28T08:33:37.072Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10786,7 +10768,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-27T19:26:56.462Z",
+      "publishedAt": "2026-07-28T08:33:37.072Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10810,7 +10792,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-27T19:26:56.462Z",
+      "publishedAt": "2026-07-28T08:33:37.072Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10827,11 +10809,11 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 71
+      "count": 72
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 69
+      "count": 68
     },
     {
       "updateType": "Consultations",
@@ -10839,7 +10821,7 @@
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 13
+      "count": 14
     },
     {
       "updateType": "Working Papers / Research",
