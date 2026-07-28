@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T08:33:37.072Z",
+  "generatedAt": "2026-07-28T19:23:17.581Z",
   "totalPublications": 278,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -25,12 +25,12 @@
       "institution": "European Central Bank",
       "region": "EU",
       "status": "success",
-      "parserMode": "fallback-parser",
+      "parserMode": "rss-parser",
       "itemCount": 15,
       "url": "https://www.ecb.europa.eu/rss/pub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "message": "Parsed successfully using fallback parser."
+      "message": "Parsed successfully."
     },
     {
       "id": "ecb-supervision-press",
@@ -231,11 +231,11 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 114
+      "count": 113
     },
     {
       "topic": "Governance",
-      "count": 60
+      "count": 61
     },
     {
       "topic": "Basel / BCBS",
@@ -254,12 +254,12 @@
       "count": 9
     },
     {
-      "topic": "AML / Financial Crime",
-      "count": 8
+      "topic": "Payments / Open Finance",
+      "count": 9
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 8
+      "topic": "AML / Financial Crime",
+      "count": 7
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -286,26 +286,26 @@
       "count": 4
     },
     {
+      "topic": "AI",
+      "count": 3
+    },
+    {
       "topic": "Consumer Protection",
       "count": 3
     },
     {
       "topic": "Market Risk",
       "count": 3
-    },
-    {
-      "topic": "AI",
-      "count": 2
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 114
+      "count": 113
     },
     {
       "topic": "Governance",
-      "count": 60
+      "count": 61
     },
     {
       "topic": "Basel / BCBS",
@@ -324,12 +324,12 @@
       "count": 9
     },
     {
-      "topic": "AML / Financial Crime",
-      "count": 8
+      "topic": "Payments / Open Finance",
+      "count": 9
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 8
+      "topic": "AML / Financial Crime",
+      "count": 7
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -356,16 +356,16 @@
       "count": 4
     },
     {
+      "topic": "AI",
+      "count": 3
+    },
+    {
       "topic": "Consumer Protection",
       "count": 3
     },
     {
       "topic": "Market Risk",
       "count": 3
-    },
-    {
-      "topic": "AI",
-      "count": 2
     }
   ],
   "keywordCloud": [
@@ -383,7 +383,7 @@
     },
     {
       "keyword": "its",
-      "count": 30
+      "count": 29
     },
     {
       "keyword": "conduct",
@@ -430,6 +430,10 @@
       "count": 4
     },
     {
+      "keyword": "payment",
+      "count": 4
+    },
+    {
       "keyword": "authorisation",
       "count": 3
     },
@@ -447,10 +451,6 @@
     },
     {
       "keyword": "money laundering",
-      "count": 3
-    },
-    {
-      "keyword": "payment",
       "count": 3
     },
     {
@@ -502,7 +502,7 @@
       "count": 2
     },
     {
-      "keyword": "financial crime",
+      "keyword": "governance",
       "count": 2
     },
     {
@@ -535,6 +535,10 @@
     },
     {
       "keyword": "aml",
+      "count": 1
+    },
+    {
+      "keyword": "artificial intelligence",
       "count": 1
     },
     {
@@ -602,11 +606,11 @@
       "count": 1
     },
     {
-      "keyword": "financial disclosure",
+      "keyword": "financial crime",
       "count": 1
     },
     {
-      "keyword": "governance",
+      "keyword": "financial disclosure",
       "count": 1
     },
     {
@@ -683,10 +687,6 @@
     },
     {
       "keyword": "securitisation",
-      "count": 1
-    },
-    {
-      "keyword": "standardised approach",
       "count": 1
     }
   ],
@@ -771,6 +771,91 @@
     }
   ],
   "publications": [
+    {
+      "id": "ca28f338c1bb5f9f",
+      "title": "Adoption and investment in AI across the euro area. Insights from harmonised firm-level data",
+      "summary": "This paper explores the adoption of artificial intelligence (AI) technologies among euro area firms, using harmonised firm-level data from two dedicated modules of the Survey on the Access to Finance of Enterprises (SAFE) conducted in June and December 2025. Based on responses from around 6,000 firms across 12 euro area countries, the study examines AI adoption rates, drivers, barriers and economic implications. The findings suggest that AI diffusion among euro area firms is progressing rapidly but unevenly, with significant variation across countries and firm characteristics. Approximately 70% of firms report some level of AI use, but only 7% classify their adoption as significant.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op395.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-28T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op395.en.pdf"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "artificial intelligence"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op395.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "c25450e59678d2e1",
+      "title": "The Paris Agreement ten years later: Navigating climate uncertainty and tipping points",
+      "summary": "The climate crisis is an urgent, human-driven systemic challenge whose impacts are unfolding through increasingly frequent and severe extreme events. Although the 2015 Paris Agreement advanced global climate governance, implementation remains insufficient to limit warming to well below 2 °C and pursue 1.5 °C. Accelerating risks, interacting crises and potential tipping points suggest that climate change could become unmanageable if current GHGs emissions trajectories persist. This paper makes three contributions. First, it examines why we are failing to act decisively, highlighting a persistent awareness gap, competing priorities and weak political incentives for ambitious climate action.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3261~cc4bd5eabc.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-28T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3261~cc4bd5eabc.en.pdf"
+      ],
+      "topics": [
+        "Climate / ESG",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "emissions",
+        "governance"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate",
+            "emissions"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3261~cc4bd5eabc.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "65d3703b810e8774",
       "title": "Sharon Donnery: Interview with Liberal.gr",
@@ -2791,82 +2876,6 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3254~34fda3bdcc.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "3749104f48e9f89d",
-      "title": "Geoeconomics and trade",
-      "summary": "We study the role of geoeconomics in shaping globalisation and trade policy. We first review the evolution of world trade since the end of World War II, highlighting the drivers of globalisation and its economic consequences. We then synthesise recent research on geoeconomics, which analyses how countries use trade policy as a tool to pursue geopolitical objectives. Against this background, we argue that the gradual shift in geoeconomic power from the United States toward China since the 2000s has been driving a fragmentation in world trade along geopolitical lines.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp31~0e62e3849a.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-13T22:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp31~0e62e3849a.en.pdf"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp31~0e62e3849a.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "ef2c3d33084b8ef9",
-      "title": "Climate regulation, firm emissions, and green takeovers",
-      "summary": "We show that an unexpected tightening of the EU Emissions Trading System led high-emission-intensity firms to cut emissions relative to low-intensity peers within the same industry, without reducing output, thereby improving emission efficiency. Effects are stronger for power producers than for manufacturing firms. Examining mergers and acquisitions (M&As), we find that high-intensity manufacturing firms acquire more green targets after the tightening than low-intensity firms, with no change in the overall number of acquisitions, indicating a shift in focus rather than activity. Finally, we show that these green M&As contributed to the observed emission reductions over the study period.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3253~e9db09cc25.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-13T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3253~e9db09cc25.en.pdf"
-      ],
-      "topics": [
-        "Climate / ESG"
-      ],
-      "matchedKeywords": [
-        "climate",
-        "emissions"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate",
-            "emissions"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3253~e9db09cc25.en.pdf",
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
@@ -10528,50 +10537,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "271bc7d3ada65d15",
-      "title": "Showing our workings: solving for growth, risk and trust",
-      "summary": "Speech by Sarah Pritchard, deputy chief executive, at a Breakfast Briefing at The Whitehall & Industry Group. As everyone who has wrestled with a problem knows, getting to the right answer is about more than just understanding the question. It’s about having a firm grasp on your constants. We’re working with 2. And they are, admittedly, significant. The first is our vision: deepening trust, rebalancing risk, supporting growth and improving lives. We want to see a fair, thriving financial services market that works for consumers and the wider economy. The second is our priorities: supporting growth, fighting financial crime, helping consumers and being a smarter regulator.",
-      "url": "https://www.fca.org.uk/news/speeches/showing-our-workings-solving-growth-risk-and-trust",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime",
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "financial crime",
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "financial crime"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/speeches/showing-our-workings-solving-growth-risk-and-trust",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "d9f5552f3caf454d",
       "title": "Streamlined rulebook to save asset managers £128m a year",
       "summary": "The FCA has proposed a package of reforms that would tailor requirements proportionately for asset managers, cut costs for firms and give better data to supervise the sector more effectively. A large share of the £128m-a-year savings are expected to come from simpler Fund Reporting for Asset Management Entities (FRAME) requirements. These would be tailored to the specific circumstances of UK industry, delivering better data to make regulation more efficient. The package would also modernise and simplify Alternative Investment Fund Managers Directive (AIFMD)-related rules dating from 2013.",
@@ -10614,6 +10579,50 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "d4b1b750c55a9631",
+      "title": "Strengthening resilience across an increasingly interconnected financial system",
+      "summary": "Think of the last time you made a payment, transferred money, used a banking app or logged on to online financial services. Did you give much thought to the infrastructure that makes those essential everyday transactions possible? Let’s be honest, you probably didn’t. Most people don’t – until something goes wrong. Financial services rely on a network of providers working behind the scenes – including technology, data and operational service providers. These are so important to the resilience of the financial system that the government granted us powers to implement a new oversight regime, and has now designated the first critical third parties (CTPs).",
+      "url": "https://www.fca.org.uk/news/blogs/strengthening-resilience-across-increasingly-interconnected-financial-system",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "payment"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/blogs/strengthening-resilience-across-increasingly-interconnected-financial-system",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "de5545f64bb0d420",
@@ -10744,7 +10753,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-28T08:33:37.072Z",
+      "publishedAt": "2026-07-28T19:23:17.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10768,7 +10777,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-28T08:33:37.072Z",
+      "publishedAt": "2026-07-28T19:23:17.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10792,7 +10801,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-28T08:33:37.072Z",
+      "publishedAt": "2026-07-28T19:23:17.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10805,15 +10814,15 @@
   "updateTypeSummary": [
     {
       "updateType": "News",
-      "count": 74
+      "count": 75
     },
     {
       "updateType": "Publications / Reports",
-      "count": 72
+      "count": 73
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 68
+      "count": 67
     },
     {
       "updateType": "Consultations",
@@ -10821,7 +10830,7 @@
     },
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 14
+      "count": 13
     },
     {
       "updateType": "Working Papers / Research",
