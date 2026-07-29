@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T19:23:17.581Z",
+  "generatedAt": "2026-07-29T08:40:21.893Z",
   "totalPublications": 278,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -771,6 +771,29 @@
     }
   ],
   "publications": [
+    {
+      "id": "3012f0f07b672875",
+      "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-29T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "ca28f338c1bb5f9f",
       "title": "Adoption and investment in AI across the euro area. Insights from harmonised firm-level data",
@@ -2670,29 +2693,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
-    },
-    {
-      "id": "b32069758c848f57",
-      "title": "Piero Cipollone: Interview with Ouest-France",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260715~ab95a43007.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-15T06:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260715~ab95a43007.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "98573cb5aa50b1ef",
@@ -10753,7 +10753,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-28T19:23:17.581Z",
+      "publishedAt": "2026-07-29T08:40:21.893Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10777,7 +10777,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-28T19:23:17.581Z",
+      "publishedAt": "2026-07-29T08:40:21.893Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10801,7 +10801,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-28T19:23:17.581Z",
+      "publishedAt": "2026-07-29T08:40:21.893Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10814,7 +10814,7 @@
   "updateTypeSummary": [
     {
       "updateType": "News",
-      "count": 75
+      "count": 76
     },
     {
       "updateType": "Publications / Reports",
@@ -10829,12 +10829,12 @@
       "count": 19
     },
     {
-      "updateType": "Speeches / Interviews / Blogs",
+      "updateType": "Working Papers / Research",
       "count": 13
     },
     {
-      "updateType": "Working Papers / Research",
-      "count": 13
+      "updateType": "Speeches / Interviews / Blogs",
+      "count": 12
     },
     {
       "updateType": "Other",
