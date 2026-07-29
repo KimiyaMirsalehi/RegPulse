@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T08:40:21.893Z",
-  "totalPublications": 278,
+  "generatedAt": "2026-07-29T19:15:33.073Z",
+  "totalPublications": 279,
   "sourceCount": 17,
   "successfulSources": 17,
   "warningSources": 0,
@@ -156,7 +156,7 @@
       "region": "US",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 9,
+      "itemCount": 10,
       "url": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
@@ -231,23 +231,23 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 113
+      "count": 112
     },
     {
       "topic": "Governance",
-      "count": 61
+      "count": 62
     },
     {
       "topic": "Basel / BCBS",
-      "count": 38
+      "count": 37
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 23
+      "count": 24
     },
     {
       "topic": "Capital Requirements",
-      "count": 12
+      "count": 13
     },
     {
       "topic": "Climate / ESG",
@@ -274,7 +274,15 @@
       "count": 5
     },
     {
+      "topic": "AI",
+      "count": 4
+    },
+    {
       "topic": "Liquidity",
+      "count": 4
+    },
+    {
+      "topic": "Market Risk",
       "count": 4
     },
     {
@@ -286,38 +294,30 @@
       "count": 4
     },
     {
-      "topic": "AI",
-      "count": 3
-    },
-    {
       "topic": "Consumer Protection",
-      "count": 3
-    },
-    {
-      "topic": "Market Risk",
       "count": 3
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 113
+      "count": 112
     },
     {
       "topic": "Governance",
-      "count": 61
+      "count": 62
     },
     {
       "topic": "Basel / BCBS",
-      "count": 38
+      "count": 37
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 23
+      "count": 24
     },
     {
       "topic": "Capital Requirements",
-      "count": 12
+      "count": 13
     },
     {
       "topic": "Climate / ESG",
@@ -344,7 +344,15 @@
       "count": 5
     },
     {
+      "topic": "AI",
+      "count": 4
+    },
+    {
       "topic": "Liquidity",
+      "count": 4
+    },
+    {
+      "topic": "Market Risk",
       "count": 4
     },
     {
@@ -356,26 +364,18 @@
       "count": 4
     },
     {
-      "topic": "AI",
-      "count": 3
-    },
-    {
       "topic": "Consumer Protection",
-      "count": 3
-    },
-    {
-      "topic": "Market Risk",
       "count": 3
     }
   ],
   "keywordCloud": [
     {
-      "keyword": "supervision",
+      "keyword": "board",
       "count": 38
     },
     {
-      "keyword": "board",
-      "count": 37
+      "keyword": "supervision",
+      "count": 38
     },
     {
       "keyword": "banking supervision",
@@ -390,12 +390,12 @@
       "count": 23
     },
     {
-      "keyword": "supervisory",
+      "keyword": "policy statement",
       "count": 18
     },
     {
-      "keyword": "policy statement",
-      "count": 17
+      "keyword": "supervisory",
+      "count": 18
     },
     {
       "keyword": "enforcement",
@@ -403,11 +403,11 @@
     },
     {
       "keyword": "reporting",
-      "count": 15
+      "count": 16
     },
     {
       "keyword": "consultation paper",
-      "count": 12
+      "count": 10
     },
     {
       "keyword": "capital requirements",
@@ -418,12 +418,12 @@
       "count": 7
     },
     {
-      "keyword": "operational resilience",
+      "keyword": "disclosure",
       "count": 6
     },
     {
-      "keyword": "disclosure",
-      "count": 5
+      "keyword": "operational resilience",
+      "count": 6
     },
     {
       "keyword": "liquidity",
@@ -506,7 +506,15 @@
       "count": 2
     },
     {
+      "keyword": "large language models",
+      "count": 2
+    },
+    {
       "keyword": "market risk",
+      "count": 2
+    },
+    {
+      "keyword": "own funds",
       "count": 2
     },
     {
@@ -523,6 +531,10 @@
     },
     {
       "keyword": "supervisory reporting",
+      "count": 2
+    },
+    {
+      "keyword": "var",
       "count": 2
     },
     {
@@ -630,10 +642,6 @@
       "count": 1
     },
     {
-      "keyword": "large language models",
-      "count": 1
-    },
-    {
       "keyword": "leverage ratio",
       "count": 1
     },
@@ -655,10 +663,6 @@
     },
     {
       "keyword": "net zero",
-      "count": 1
-    },
-    {
-      "keyword": "own funds",
       "count": 1
     },
     {
@@ -684,10 +688,6 @@
     {
       "keyword": "sanctions",
       "count": 1
-    },
-    {
-      "keyword": "securitisation",
-      "count": 1
     }
   ],
   "regionSummary": [
@@ -701,7 +701,7 @@
     },
     {
       "region": "US",
-      "count": 74
+      "count": 75
     },
     {
       "region": "Global",
@@ -731,7 +731,7 @@
     },
     {
       "institution": "Federal Reserve Board",
-      "count": 29
+      "count": 30
     },
     {
       "institution": "U.S. Securities and Exchange Commission",
@@ -771,6 +771,230 @@
     }
   ],
   "publications": [
+    {
+      "id": "577a18f317d7149f",
+      "title": "Federal Reserve issues FOMC statement",
+      "summary": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-29T18:00:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/monetarypolicy/files/monetary20260729a1.pdf"
+      ],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "a5bba187a73fe3bf",
+      "title": "A SPOT in the dark: using AI to assess financial stability risks",
+      "summary": "Financial stability risks consist of two distinct components: vulnerabilities and possible trigger events. While there has been considerable progress regarding the measurement of vulnerabilities, the assessment of possible trigger events remains largely qualitative. To fill this gap, we employ Large Language Models to extract information about the Severity and Probability Of potential Trigger events (SPOT) from a large dataset of financial news articles over the period2005 – 2026. The SPOT indicator increases ahead of major historical trigger events, correctly identifies trigger sources, and helps to improve forward looking model estimates of downside risks to the economy.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3262~7169a94638.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-29T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3262~7169a94638.en.pdf"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "matchedKeywords": [
+        "large language models"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "large language models"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3262~7169a94638.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "6953dd509cd679f9",
+      "title": "LIAC02/26 – Low Impact Amendments Consultation July 2026",
+      "summary": "Low Impact Amendments Consultation July 2026",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/low-impact-amendments-consultation-july-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-29T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/memoranda-of-understanding/pra-supervision-of-managing-agents.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2026/july/liac0226app1.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2026/july/liac0226app2.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2026/july/liac0226-appendicies--im03--internal-model-outputs-nonlife.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2026/july/liac0226app4.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2026/july/liac0226-appendicies---draft-amendments-to-ss24_15.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/low-impact-amendments-consultation-july-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
+    {
+      "id": "aeb0aa29cdcbb65b",
+      "title": "LIAF02/26 – Low Impact Amendments Finalisation July 2026",
+      "summary": "Low Impact Amendments Finalisation July 2026",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/low-impact-amendments-finalisation-july-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-29T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/low-impact-amendments-finalisation-july-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "f3080c7dc31740df",
+      "title": "PS18/26 – Solvency UK: Post-implementation reporting and disclosure amendments and Own Funds permissions update",
+      "summary": "Policy statement 18/26",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/solvency-uk-policy-statement",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-29T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/july/ps1826app1.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/july/ps1826app2.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/july/ps1826app3.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/july/ps1826app4.pdf"
+      ],
+      "topics": [
+        "Capital Requirements",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "own funds",
+        "reporting",
+        "disclosure",
+        "policy statement"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "own funds"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting",
+            "disclosure"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/solvency-uk-policy-statement",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "29a72208bb0ed8b8",
+      "title": "Threshold endogeneity in vector autoregressions: reassessing monetary state dependence",
+      "summary": "We develop an endogenous threshold VAR that addresses contemporaneous dependence between the threshold variable and reduced-form innovations— a pervasive issue when regime indicators are jointly determined with system dynamics. A regime-specific copula-based control function removes this dependence instrument-free, without parametric assumptions on the threshold’s marginal distribution, while preserving the linear regime-wise least-squares structure.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-29T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf"
+      ],
+      "topics": [
+        "Market Risk"
+      ],
+      "matchedKeywords": [
+        "var"
+      ],
+      "topicMatches": [
+        {
+          "id": "market-risk",
+          "label": "Market Risk",
+          "keywords": [
+            "var"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "3012f0f07b672875",
       "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
@@ -2543,31 +2767,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "42e762518bef0c08",
-      "title": "Bank deposit pricing in the euro area",
-      "summary": "We investigate the supply and demand drivers of bank deposit pricing in the Euro area during the period 2007–2024. We document that the pass-through of policy rates to sight deposit rates is low, asymmetric, varies across the monetary policy regimes, and decreases over time. We build and estimate an equilibrium model of bank deposit markets, and find that the price sensitivity of depositors exhibits large heterogeneity between households and firms, across countries, and over time.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3255~7622aab746.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-15T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3255~7622aab746.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3255~7622aab746.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "c2f49e789eb504a9",
       "title": "ECB clarification on ICAAPs and ILAAPs and respective package submissions",
       "summary": "",
@@ -2854,31 +3053,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "25c93fc57f18ea41",
-      "title": "Tariffs, production networks, and spillovers: the case of a US-China trade war",
-      "summary": "We study the short-run macroeconomic transmission of a US–China tariff war in an open economy multi-sector New Keynesian model with input–output linkages, sectoral nominal rigidities, and heterogeneous currency invoicing. A reciprocal 10 percentage-point tariff increase generates asymmetric incidence: the tariff-imposing country bears more of the inflationary burden, while the targeted country experiences the larger output contraction. Production networks amplify this contraction by propagating the shock beyond the directly tariffed bilateral margin. Currency invoicing further shapes transmission.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3254~34fda3bdcc.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-14T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3254~34fda3bdcc.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3254~34fda3bdcc.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "c1c5f046bca3bdd3",
@@ -3951,9 +4125,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-06T12:22:58.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/d763c7b1-e7f2-4e0a-bdae-93fd1db81a75/Immovable%20property%20loss%20-%20Q4%202025.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements",
         "Reporting / Disclosure",
@@ -4035,11 +4207,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-07-02T15:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20170717a1.pdf",
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20260416a1.pdf",
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20260702a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance",
         "Supervision / Enforcement"
@@ -6705,14 +6873,14 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "b9f7a69751a17f21",
+      "id": "c1ed9e506cdcdd6e",
       "title": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
       "summary": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-press",
-      "sourceName": "Federal Reserve Press Releases",
+      "sourceId": "federal-reserve-banking-reg",
+      "sourceName": "Federal Reserve Banking and Consumer Regulatory Policy",
       "institution": "Federal Reserve Board",
       "region": "US",
       "jurisdiction": "US",
@@ -6744,7 +6912,7 @@
         }
       ],
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
     },
@@ -9326,85 +9494,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "6c926bfa2bbfa46a",
-      "title": "CP3/26 – PRA rule changes to accommodate HM Treasury’s Overseas Prudential Requirements Regime",
-      "summary": "Consultation paper 3/26",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/february/pra-rule-changes-to-accommodate-hmt-oprr-consultation-paper",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-02-19T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "consultation paper"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "consultation paper"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/february/pra-rule-changes-to-accommodate-hmt-oprr-consultation-paper",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "6c9614d301bc544e",
-      "title": "CP2/26 – Reforms to securitisation requirements",
-      "summary": "Consultation paper 2/26",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/february/reforms-to-securitisation-requirements-consultation-paper",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-02-17T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "securitisation",
-        "consultation paper"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "securitisation"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "consultation paper"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/february/reforms-to-securitisation-requirements-consultation-paper",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
       "id": "1172d3f8504ec1a4",
       "title": "Estimating the Cost of the Consumer Financial Protection Bureau to Consumers",
       "summary": "",
@@ -9426,29 +9515,6 @@
       "sourceFeedUrl": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "2d298e4c0c454d09",
-      "title": "DP1/26 – Future banking data",
-      "summary": "Discussion paper 1/26",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/february/future-banking-data-discussion-paper",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-02-04T15:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/february/future-banking-data-discussion-paper",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "eabf29b463b0a7b9",
@@ -10753,7 +10819,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-29T08:40:21.893Z",
+      "publishedAt": "2026-07-29T19:15:33.073Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10777,7 +10843,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-29T08:40:21.893Z",
+      "publishedAt": "2026-07-29T19:15:33.073Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10801,7 +10867,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-29T08:40:21.893Z",
+      "publishedAt": "2026-07-29T19:15:33.073Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10814,7 +10880,7 @@
   "updateTypeSummary": [
     {
       "updateType": "News",
-      "count": 76
+      "count": 77
     },
     {
       "updateType": "Publications / Reports",
@@ -10822,11 +10888,11 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 67
+      "count": 68
     },
     {
       "updateType": "Consultations",
-      "count": 19
+      "count": 17
     },
     {
       "updateType": "Working Papers / Research",
@@ -10837,11 +10903,11 @@
       "count": 12
     },
     {
-      "updateType": "Other",
-      "count": 7
+      "updateType": "Statistics / Data",
+      "count": 8
     },
     {
-      "updateType": "Statistics / Data",
+      "updateType": "Other",
       "count": 7
     },
     {
