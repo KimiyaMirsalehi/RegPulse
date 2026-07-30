@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T19:15:33.073Z",
+  "generatedAt": "2026-07-30T08:26:18.354Z",
   "totalPublications": 279,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -771,6 +771,44 @@
     }
   ],
   "publications": [
+    {
+      "id": "146f997e04e06860",
+      "title": "Digital euro app to incorporate highest accessibility standards",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-07-30T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.dep260730_Item_1_ECB_Presentation_Accessibility_App.en.pdf",
+        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep251030_digital_euro_fit_payment_ecosystem_report.en.pdf"
+      ],
+      "topics": [
+        "Crypto / Digital Assets"
+      ],
+      "matchedKeywords": [
+        "digital euro"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "digital euro"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "577a18f317d7149f",
       "title": "Federal Reserve issues FOMC statement",
@@ -2434,44 +2472,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "c19fdee3f885ca79",
-      "title": "Piero Cipollone: The cooperative spirit at the heart of the digital euro",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260717~b6a156dc40.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-17T10:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep251010_technical_annex_financial_stability_impact_digital_euro.en.pdf?f55d1581c257d73d86ad560edce18c17",
-        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep251010_a_view_on_recent_assessments_of_digital_euro_investment_costs_for_the_euro_area_banking_sector.en.pdf"
-      ],
-      "topics": [
-        "Crypto / Digital Assets"
-      ],
-      "matchedKeywords": [
-        "digital euro"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "digital euro"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260717~b6a156dc40.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "f37c5069706cd003",
@@ -10819,7 +10819,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-29T19:15:33.073Z",
+      "publishedAt": "2026-07-30T08:26:18.354Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10843,7 +10843,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-29T19:15:33.073Z",
+      "publishedAt": "2026-07-30T08:26:18.354Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10867,7 +10867,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-29T19:15:33.073Z",
+      "publishedAt": "2026-07-30T08:26:18.354Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10880,7 +10880,7 @@
   "updateTypeSummary": [
     {
       "updateType": "News",
-      "count": 77
+      "count": 76
     },
     {
       "updateType": "Publications / Reports",
@@ -10888,7 +10888,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 68
+      "count": 69
     },
     {
       "updateType": "Consultations",
