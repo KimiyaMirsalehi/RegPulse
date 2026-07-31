@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T19:26:02.653Z",
+  "generatedAt": "2026-07-31T08:49:14.762Z",
   "totalPublications": 279,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -267,7 +267,7 @@
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 6
+      "count": 5
     },
     {
       "topic": "Recovery / Resolution",
@@ -337,7 +337,7 @@
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 6
+      "count": 5
     },
     {
       "topic": "Recovery / Resolution",
@@ -383,7 +383,7 @@
     },
     {
       "keyword": "its",
-      "count": 28
+      "count": 29
     },
     {
       "keyword": "conduct",
@@ -399,7 +399,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 18
+      "count": 17
     },
     {
       "keyword": "reporting",
@@ -423,7 +423,7 @@
     },
     {
       "keyword": "operational resilience",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "liquidity",
@@ -606,10 +606,6 @@
       "count": 1
     },
     {
-      "keyword": "digital operational resilience",
-      "count": 1
-    },
-    {
       "keyword": "esg",
       "count": 1
     },
@@ -771,6 +767,44 @@
     }
   ],
   "publications": [
+    {
+      "id": "091e08e9f38150c1",
+      "title": "ESMA publishes latest edition of its newsletter",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-44",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-31T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-07/Newsletter_June_and_July_2026.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2026-06/ESMA75-113276571-1710_Public_Statement_MiCA_transitional_period_ends.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-44",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "972eadf1dee6803d",
       "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
@@ -3887,52 +3921,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "466600976687ea74",
-      "title": "ESMA launches Common Supervisory Action on CASPs’ digital operational resilience for custody",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU regulator and supervisor, is",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-launches-common-supervisory-action-casps-digital-operational-resilience",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-08T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "DORA / Operational Resilience",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "digital operational resilience",
-        "operational resilience",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "dora-operational-resilience",
-          "label": "DORA / Operational Resilience",
-          "keywords": [
-            "digital operational resilience",
-            "operational resilience"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-launches-common-supervisory-action-casps-digital-operational-resilience",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "20a2abc7a8cd9756",
@@ -10776,7 +10764,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-30T19:26:02.653Z",
+      "publishedAt": "2026-07-31T08:49:14.762Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10800,7 +10788,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-30T19:26:02.653Z",
+      "publishedAt": "2026-07-31T08:49:14.762Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10824,7 +10812,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-07-30T19:26:02.653Z",
+      "publishedAt": "2026-07-31T08:49:14.762Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10837,7 +10825,7 @@
   "updateTypeSummary": [
     {
       "updateType": "News",
-      "count": 78
+      "count": 77
     },
     {
       "updateType": "Publications / Reports",
@@ -10845,7 +10833,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 67
+      "count": 68
     },
     {
       "updateType": "Consultations",
