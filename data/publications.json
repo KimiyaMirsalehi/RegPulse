@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T09:43:59.972Z",
+  "generatedAt": "2026-08-03T19:36:52.043Z",
   "totalPublications": 278,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -243,7 +243,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 25
+      "count": 24
     },
     {
       "topic": "Capital Requirements",
@@ -278,16 +278,16 @@
       "count": 5
     },
     {
-      "topic": "Recovery / Resolution",
+      "topic": "Liquidity",
       "count": 5
     },
     {
-      "topic": "Liquidity",
-      "count": 4
+      "topic": "Market Risk",
+      "count": 5
     },
     {
-      "topic": "Market Risk",
-      "count": 4
+      "topic": "Recovery / Resolution",
+      "count": 5
     },
     {
       "topic": "Model Risk",
@@ -313,7 +313,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 25
+      "count": 24
     },
     {
       "topic": "Capital Requirements",
@@ -348,16 +348,16 @@
       "count": 5
     },
     {
-      "topic": "Recovery / Resolution",
+      "topic": "Liquidity",
       "count": 5
     },
     {
-      "topic": "Liquidity",
-      "count": 4
+      "topic": "Market Risk",
+      "count": 5
     },
     {
-      "topic": "Market Risk",
-      "count": 4
+      "topic": "Recovery / Resolution",
+      "count": 5
     },
     {
       "topic": "Model Risk",
@@ -383,7 +383,7 @@
     },
     {
       "keyword": "its",
-      "count": 27
+      "count": 26
     },
     {
       "keyword": "conduct",
@@ -403,7 +403,7 @@
     },
     {
       "keyword": "reporting",
-      "count": 17
+      "count": 16
     },
     {
       "keyword": "consultation paper",
@@ -418,7 +418,7 @@
       "count": 6
     },
     {
-      "keyword": "capital requirements",
+      "keyword": "liquidity",
       "count": 5
     },
     {
@@ -426,11 +426,11 @@
       "count": 5
     },
     {
-      "keyword": "governance",
+      "keyword": "capital requirements",
       "count": 4
     },
     {
-      "keyword": "liquidity",
+      "keyword": "governance",
       "count": 4
     },
     {
@@ -446,15 +446,7 @@
       "count": 4
     },
     {
-      "keyword": "authorisation",
-      "count": 3
-    },
-    {
       "keyword": "fraud",
-      "count": 3
-    },
-    {
-      "keyword": "implementing technical standards",
       "count": 3
     },
     {
@@ -462,7 +454,15 @@
       "count": 3
     },
     {
+      "keyword": "market risk",
+      "count": 3
+    },
+    {
       "keyword": "money laundering",
+      "count": 3
+    },
+    {
+      "keyword": "own funds",
       "count": 3
     },
     {
@@ -490,6 +490,10 @@
       "count": 2
     },
     {
+      "keyword": "authorisation",
+      "count": 2
+    },
+    {
       "keyword": "capital buffer",
       "count": 2
     },
@@ -510,15 +514,11 @@
       "count": 2
     },
     {
+      "keyword": "implementing technical standards",
+      "count": 2
+    },
+    {
       "keyword": "large language models",
-      "count": 2
-    },
-    {
-      "keyword": "market risk",
-      "count": 2
-    },
-    {
-      "keyword": "own funds",
       "count": 2
     },
     {
@@ -526,7 +526,15 @@
       "count": 2
     },
     {
+      "keyword": "regulatory technical standards",
+      "count": 2
+    },
+    {
       "keyword": "reverse stress",
+      "count": 2
+    },
+    {
+      "keyword": "rts",
       "count": 2
     },
     {
@@ -535,10 +543,6 @@
     },
     {
       "keyword": "stablecoin",
-      "count": 2
-    },
-    {
-      "keyword": "supervisory reporting",
       "count": 2
     },
     {
@@ -602,6 +606,10 @@
       "count": 1
     },
     {
+      "keyword": "final report",
+      "count": 1
+    },
+    {
       "keyword": "financial disclosure",
       "count": 1
     },
@@ -610,7 +618,11 @@
       "count": 1
     },
     {
-      "keyword": "guidelines",
+      "keyword": "frtb",
+      "count": 1
+    },
+    {
+      "keyword": "fundamental review of the trading book",
       "count": 1
     },
     {
@@ -654,19 +666,11 @@
       "count": 1
     },
     {
-      "keyword": "regulatory technical standards",
-      "count": 1
-    },
-    {
       "keyword": "resolution planning",
       "count": 1
     },
     {
       "keyword": "resolvability",
-      "count": 1
-    },
-    {
-      "keyword": "rts",
       "count": 1
     },
     {
@@ -679,6 +683,10 @@
     },
     {
       "keyword": "stress testing",
+      "count": 1
+    },
+    {
+      "keyword": "supervisory reporting",
       "count": 1
     }
   ],
@@ -763,6 +771,146 @@
     }
   ],
   "publications": [
+    {
+      "id": "46c9d255e86f9859",
+      "title": "​The EBA publishes a no-action letter and technical considerations to support the implementation of the market risk framework for EU banks",
+      "summary": "​The European Banking Authority (EBA) today published a no-action letter on the boundary between the banking book and the trading book and shared technical clarifications on issues linked to the European Commission’s Delegated Act modifying the calculation of own funds requirements for market risk based on the Fundamental Review of the Trading Book (FRTB) framework. The measures support a consistent and harmonised implementation of the revised framework across the EU.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-03T12:17:25.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-08/ca1f1829-aff0-4d8a-b1de-d0549a5cfe40/No%20Action%20Letter%20on%20the%20boundary%20in%20the%20context%20of%20the%203rd%20FRTB%20DA.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf"
+      ],
+      "topics": [
+        "Capital Requirements",
+        "Market Risk"
+      ],
+      "matchedKeywords": [
+        "own funds",
+        "market risk",
+        "trading book",
+        "frtb",
+        "fundamental review of the trading book"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "own funds"
+          ]
+        },
+        {
+          "id": "market-risk",
+          "label": "Market Risk",
+          "keywords": [
+            "market risk",
+            "trading book",
+            "frtb",
+            "fundamental review of the trading book"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "db615a5ea0255153",
+      "title": "Feeling the heat unevenly: energy prices and household consumption",
+      "summary": "This box examines the mechanisms behind the aggregate and distributional effects of energy price shocks on euro area households, taking its cue from the recent surge in energy prices following the outbreak of the war in the Middle East. Drawing on a quantitative heterogeneous agent New Keynesian model calibrated to the euro area, it shows that energy price shocks reduce aggregate consumption through real income losses. This burden falls disproportionately on liquidity-constrained households, which spend a larger share of their household budget on energy and have fewer resources to absorb such price shocks.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_03~2626ace009.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-03T12:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Liquidity",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "liquidity",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "liquidity",
+          "label": "Liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_03~2626ace009.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "96d8788998ad4cce",
+      "title": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
+      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-03T09:15:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-08/7282c1d4-20d2-4fa4-b1e4-b08536e15039/ESA%202026%2007%20-%20Final%20Report%20on%20amending%20RTS%20on%20uncleared%20OTC%20derivatives.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervisory",
+        "final report",
+        "regulatory technical standards",
+        "rts"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "final report",
+            "regulatory technical standards",
+            "rts"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "2ade9d9479668c39",
       "title": "PRA Regulatory Digest – July 2026",
@@ -2544,31 +2692,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "2df5d1b200bfb538",
-      "title": "The ECB Survey of Professional Forecasters - Third quarter of 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//stats/ecb_surveys/survey_of_professional_forecasters/html/ecb.spf2026q3.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-24T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/stats/ecb_surveys/survey_of_professional_forecasters/pdf/ecb.spf2026q3.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//stats/ecb_surveys/survey_of_professional_forecasters/html/ecb.spf2026q3.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "6e7b37dd375be086",
       "title": "SEC Announces Roundtable on Preparations for 24-Hour Trading",
       "summary": "The Securities and Exchange Commission announced today that it will host a roundtable on Sept. 17, 2026, to discuss moving towards 24-hour trading in the U. S. equity markets, including preparations to support overnight trading, operations and resiliency…",
@@ -4158,59 +4281,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "61b5490da380acc2",
-      "title": "​The EBA issues Opinion on the implementation of IFRS 18 in supervisory financial reporting to support consistency with IFRS requirements",
-      "summary": "​The European Banking Authority (EBA) has published today an Opinion providing guidance on how institutions can report profit or loss information during the interim period between the first application date of IFRS 18 and the first application date of the amending Implementing Technical Standards (ITS) on supervisory financial reporting (FINREP), which are currently under consultation. The Opinion aims to support institutions by avoiding the operational burden of maintaining two different profit or loss formats during the transition period. It is also consistent with the EBA’s broader efforts to simplify and streamline the EU supervisory reporting framework.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-opinion-implementation-ifrs-18-supervisory-financial-reporting-support-consistency-ifrs",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-08T12:41:03.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/5ebd21e8-52f4-4b99-acbc-f7d725c3694e/Opinion%20Finrep%20IFRS%2018%20-%20interim%20period.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/ad6fd07d-c637-42d3-a4a7-4a4802a8ff26/Annex%201%20%28Final%20Report%20-%20Finrep%20IFRS%2018%29.pdf"
-      ],
-      "topics": [
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "reporting",
-        "supervisory reporting",
-        "supervisory",
-        "implementing technical standards",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting",
-            "supervisory reporting"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory",
-            "implementing technical standards",
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-opinion-implementation-ifrs-18-supervisory-financial-reporting-support-consistency-ifrs",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
       "id": "0884d39314dc2234",
       "title": "PS17/26 – Regulated fees and levies: Rates proposals 2026/27",
       "summary": "Policy statement 17/26",
@@ -4224,9 +4294,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-07-08T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/july/ps1726app1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -4384,54 +4452,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "05e209c3c007051d",
-      "title": "​The EBA publishes final Guidelines on the authorisation of third-country branches under the Capital Requirements Directive",
-      "summary": "​The European Banking Authority (EBA) today published its final Guidelines on authorisation of third-country credit institutions to set-up a third-country branch (TCB) in a Member State. These Guidelines were mandated by the Capital Requirements Directive (CRD6) which introduced a new regime for TCBs and contribute to the harmonised access to the EU market for banking services.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-final-guidelines-authorisation-third-country-branches-under-capital-requirements",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-07T13:41:26.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Capital Requirements",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "capital requirements",
-        "authorisation",
-        "guidelines",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital requirements"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "authorisation",
-            "guidelines",
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-final-guidelines-authorisation-third-country-branches-under-capital-requirements",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "cf99daba970494f7",
@@ -10712,7 +10732,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-03T09:43:59.972Z",
+      "publishedAt": "2026-08-03T19:36:52.043Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10736,7 +10756,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-03T09:43:59.972Z",
+      "publishedAt": "2026-08-03T19:36:52.043Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10760,7 +10780,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-03T09:43:59.972Z",
+      "publishedAt": "2026-08-03T19:36:52.043Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10784,7 +10804,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-03T09:43:59.972Z",
+      "publishedAt": "2026-08-03T19:36:52.043Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10805,11 +10825,11 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 65
+      "count": 66
     },
     {
       "updateType": "Consultations",
-      "count": 19
+      "count": 18
     },
     {
       "updateType": "Working Papers / Research",
