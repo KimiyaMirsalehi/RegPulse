@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T08:35:45.798Z",
+  "generatedAt": "2026-08-04T19:37:28.552Z",
   "totalPublications": 278,
   "sourceCount": 17,
   "successfulSources": 17,
@@ -231,7 +231,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 111
+      "count": 114
     },
     {
       "topic": "Governance",
@@ -239,22 +239,22 @@
     },
     {
       "topic": "Basel / BCBS",
-      "count": 36
+      "count": 37
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 24
+      "count": 25
     },
     {
       "topic": "Capital Requirements",
       "count": 11
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 9
+      "topic": "Climate / ESG",
+      "count": 8
     },
     {
-      "topic": "Climate / ESG",
+      "topic": "Payments / Open Finance",
       "count": 8
     },
     {
@@ -286,12 +286,12 @@
       "count": 5
     },
     {
-      "topic": "Recovery / Resolution",
+      "topic": "Model Risk",
       "count": 5
     },
     {
-      "topic": "Model Risk",
-      "count": 4
+      "topic": "Recovery / Resolution",
+      "count": 5
     },
     {
       "topic": "Consumer Protection",
@@ -301,7 +301,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 111
+      "count": 114
     },
     {
       "topic": "Governance",
@@ -309,22 +309,22 @@
     },
     {
       "topic": "Basel / BCBS",
-      "count": 36
+      "count": 37
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 24
+      "count": 25
     },
     {
       "topic": "Capital Requirements",
       "count": 11
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 9
+      "topic": "Climate / ESG",
+      "count": 8
     },
     {
-      "topic": "Climate / ESG",
+      "topic": "Payments / Open Finance",
       "count": 8
     },
     {
@@ -356,12 +356,12 @@
       "count": 5
     },
     {
-      "topic": "Recovery / Resolution",
+      "topic": "Model Risk",
       "count": 5
     },
     {
-      "topic": "Model Risk",
-      "count": 4
+      "topic": "Recovery / Resolution",
+      "count": 5
     },
     {
       "topic": "Consumer Protection",
@@ -383,7 +383,7 @@
     },
     {
       "keyword": "its",
-      "count": 26
+      "count": 28
     },
     {
       "keyword": "conduct",
@@ -391,7 +391,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 18
+      "count": 19
     },
     {
       "keyword": "enforcement",
@@ -426,11 +426,19 @@
       "count": 5
     },
     {
+      "keyword": "transparency",
+      "count": 5
+    },
+    {
       "keyword": "capital requirements",
       "count": 4
     },
     {
       "keyword": "governance",
+      "count": 4
+    },
+    {
+      "keyword": "internal models",
       "count": 4
     },
     {
@@ -442,15 +450,7 @@
       "count": 4
     },
     {
-      "keyword": "transparency",
-      "count": 4
-    },
-    {
       "keyword": "fraud",
-      "count": 3
-    },
-    {
-      "keyword": "internal models",
       "count": 3
     },
     {
@@ -463,10 +463,6 @@
     },
     {
       "keyword": "own funds",
-      "count": 3
-    },
-    {
-      "keyword": "payments",
       "count": 3
     },
     {
@@ -494,10 +490,6 @@
       "count": 2
     },
     {
-      "keyword": "capital buffer",
-      "count": 2
-    },
-    {
       "keyword": "crd",
       "count": 2
     },
@@ -519,6 +511,10 @@
     },
     {
       "keyword": "large language models",
+      "count": 2
+    },
+    {
+      "keyword": "payments",
       "count": 2
     },
     {
@@ -571,6 +567,10 @@
     },
     {
       "keyword": "capital adequacy",
+      "count": 1
+    },
+    {
+      "keyword": "capital buffer",
       "count": 1
     },
     {
@@ -634,6 +634,10 @@
       "count": 1
     },
     {
+      "keyword": "internal ratings-based",
+      "count": 1
+    },
+    {
       "keyword": "investigation",
       "count": 1
     },
@@ -643,6 +647,10 @@
     },
     {
       "keyword": "market abuse",
+      "count": 1
+    },
+    {
+      "keyword": "model risk",
       "count": 1
     },
     {
@@ -674,19 +682,11 @@
       "count": 1
     },
     {
+      "keyword": "rwa",
+      "count": 1
+    },
+    {
       "keyword": "sanctions",
-      "count": 1
-    },
-    {
-      "keyword": "standardised approach",
-      "count": 1
-    },
-    {
-      "keyword": "stress testing",
-      "count": 1
-    },
-    {
-      "keyword": "supervisory reporting",
       "count": 1
     }
   ],
@@ -771,6 +771,189 @@
     }
   ],
   "publications": [
+    {
+      "id": "6c315c40401a5d5e",
+      "title": "Europe’s venture capital gap and the financing of high-growth firms",
+      "summary": "This box examines EU venture capital market developments and the implications for firm financing and growth. Venture capital in the EU remains limited in scale and fragmented across national markets, with gaps particularly evident at later stages of financing where they are partially filled by non-EU investors. Although venture capital from outside the EU can help firms expand, a strong reliance on external investors may reduce Europe’s ability to retain the economic gains generated by its entrepreneurial ecosystem. At the same time, venture capital in Europe appears broadly well targeted towards high-performing firms, suggesting significant potential to support growth.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_01~4453cc2a34.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-04T12:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op373.en.pdf",
+        "https://www.bundesfinanzministerium.de/Content/EN/Downloads/Europe/report-five-taskforce.pdf?__blob=publicationFile&amp;v=4"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_01~4453cc2a34.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "c44399a4ce33db46",
+      "title": "Asset Purchase Facility Quarterly Report - 2026 Q2",
+      "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
+      "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-04T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/weekly-report/2019/23-january-2019.pdf?la=en&amp;hash=6AE3283070DD922C1B2A76CB080DC7596583F561",
+        "http://www.bankofengland.co.uk/-/media/BoE/Files/letter/2009/governor-letter-050309.pdf",
+        "https://webarchive.nationalarchives.gov.uk/ukgwa/+/http:/www.hm-treasury.gov.uk/d/chxletter_boe050309.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/markets/asset-purchase-facility/joint-bank-dmo-statement-on-gilt-lending.pdf"
+      ],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "transparency"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "transparency"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "8eeb3cbd67ccc314",
+      "title": "On-the-job search in Europe and the U. S.: precautionary vs. job ladder motives",
+      "summary": "While employer-to-employer (E2E) transitions are by now well-documented, these data alone cannot reveal what drives mobility: who searches, why, and how search translates into transitions. Using novel panel data from the ECB and NY Fed consumer expectations surveys, we provide the first systematic cross-country analysis of on-the job search (OJS) and E2E transitions across eleven euro area countries and the U. S. Our data uniquely include direct measures of OJS and its motives (job loss expectations for precautionary, pay satisfaction for job ladder) for all workers, not just searchers.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3267~db61249945.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-04T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3267~db61249945.en.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3267~db61249945.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "301dcb68803a0f2b",
+      "title": "Severity over quantity. Drivers of supervisory capital add-ons in internal ratings-based models",
+      "summary": "Banks use their internal models to estimate capital requirements in a risk-sensitive way, subject to a set of rules laid down in banking regulation. However, these models are not flawless as the usage of models suffers from imperfections, such as oversimplifications or wrong assumptions. As a result, risks may be underestimated. This is particularly troublesome, where models are used to assess risks to banks’ solvency. In this paper we address an important gap in the literature with regard to such model risk. We find that a small set of high severity deficiencies in models is responsible for the majority of the counterfactual RWA burden imposed by supervisory capital add-ons.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3268~2149ee18e6.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-04T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3268~2149ee18e6.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Capital Requirements",
+        "Model Risk",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "internal ratings-based",
+        "capital requirements",
+        "rwa",
+        "model risk",
+        "internal models",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "internal ratings-based"
+          ]
+        },
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital requirements",
+            "rwa"
+          ]
+        },
+        {
+          "id": "model-risk",
+          "label": "Model Risk",
+          "keywords": [
+            "model risk",
+            "internal models"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3268~2149ee18e6.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "46c9d255e86f9859",
       "title": "​The EBA publishes a no-action letter and technical considerations to support the implementation of the market risk framework for EU banks",
@@ -2445,31 +2628,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "3e5ef8f0940f1f0c",
-      "title": "Import tariff transmission in a production network",
-      "summary": "We find that whether US import tariffs have supply-side effects or demand-side effects on US manufacturing sectors depends on where the affected sectors are located in the US production network. Using local projections in a panel of US manufacturing sectors, we find that US import tariffs —including the 2018-19 tariff hikes— led to sectoral output contractions via two different channels: (1) Tariff increases act as negative supply shifters for sectors that use goods from tariff-facing sectors as input in production and thus face rising input costs.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3258~46133509d4.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-24T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3258~46133509d4.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3258~46133509d4.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "912e8daab4b4b829",
       "title": "Results of the June 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
       "summary": "",
@@ -2494,70 +2652,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "3bc9e3e102714c21",
-      "title": "Survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD) – September 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//pub/pdf/other/SESFOD_2026_Q2_summary.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-24T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/other/SESFOD_2026_Q2_summary.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/other/SESFOD_2026_Q2_summary.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "ab9128e69b683259",
-      "title": "The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital buffer using a parsimonious agent-based framework",
-      "summary": "This paper develops an agent-based framework (DeTail) to assess the state-contingent tail effects of releasable macroprudential capital buffers. The model features heterogeneous firms, households, and banks, and a single central bank, all interacting in a fully integrated, stock-flow consistent framework which generates endogenous credit cycles. Using this approach, we evaluate how time-varying capital requirements affect the time-varying distributions of credit growth, firm and household default rates, and bank losses along the credit cycle.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3257~92e2d05000.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-24T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3257~92e2d05000.en.pdf"
-      ],
-      "topics": [
-        "Capital Requirements"
-      ],
-      "matchedKeywords": [
-        "capital requirements",
-        "capital buffer"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital requirements",
-            "capital buffer"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3257~92e2d05000.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "8e47f5569f68c4b7",
@@ -7493,29 +7587,6 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "53ef66af1b948000",
-      "title": "Staying afloat: the impact of flooding on UK firms",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/staying-afloat-the-impact-of-flooding-on-uk-firms",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-05T13:01:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/staying-afloat-the-impact-of-flooding-on-uk-firms",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
       "id": "06e2a107dc60b0cb",
       "title": "Anneli Tuominen: Navigating risk, cutting complexity: financial conglomerates in the current environment",
       "summary": "",
@@ -10343,50 +10414,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "01a8dc5c83d6cde5",
-      "title": "Logbook Lending Limited enters administration",
-      "summary": "On 1 July 2026, Logbook Lending Limited (trading as AFPremier.co.uk, pawnmy.co.uk, LBL Asset Finance, Log Book Loans 247) entered administration. Paul Appleton, Adam Shama and Robert Ferne of BTG Begbies Traynor (London) LLP were appointed as Joint Administrators. Logbook Lending Limited provided lending secured on vehicles (known as logbook loans or bill of sale agreements), as well as pawnbroking. The firm is no longer lending. However, all existing loan agreements remain in place, and customers should continue to make payments as usual. The Joint Administrators will update customers as soon as possible.",
-      "url": "https://www.fca.org.uk/news/news-stories/logbook-lending-limited-enters-administration",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "payments"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payments"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/news-stories/logbook-lending-limited-enters-administration",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "1337252e340ee2fb",
       "title": "Managing conflicts of interest in insurance",
       "summary": "Having just joined as the FCA’s new insurance director, it’s been great getting to know the team and see the variety of work they’re doing – whether that’s working with the industry to improve claims experiences for customers, consulting on simplifying our rules or supporting growth with a new regime for captive insurers. One item that has crossed my desk is vertically integrated business models, which we’re publishing information for firms on today. When a consumer buys insurance, they need to trust that the firm they're dealing with is genuinely working toward the best outcome for them – and that they’re not losing out due to conflicts of interest.",
@@ -10683,6 +10710,41 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "11856ea04de1e8bc",
+      "title": "Tribunal upholds FCA ban on pair involved in pension transfer advice and reduces fines",
+      "summary": "The Upper Tribunal upheld the FCA's decision to ban Richard Fenech and Heather Dunne from working in financial services. The Tribunal agreed that both acted dishonestly by providing a backdated appointed representative agreement to the FCA. The Tribunal found that Ms Dunne falsely claimed she had given advice to some pension schemes before she had done so. Also, that she had failed to take proper care when giving pension transfer advice. Meanwhile Mr Fenech failed to properly oversee her work. Ms Dunne advised about 92% of her clients to move out of defined benefit pension schemes between April 2015 and June 2017.",
+      "url": "https://www.fca.org.uk/news/press-releases/tribunal-upholds-fca-ban-pair-pensions-advice",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/tribunal-upholds-fca-ban-pair-pensions-advice",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "bbd28f53b8668b8c",
       "title": "You don't need to pay to claim: FCA launches nationwide car finance campaign",
       "summary": "Millions of car finance customers who may be owed compensation can get help making a complaint for free, as the FCA launches a national advertising campaign. Research by the FCA found that 27% of car finance customers lack confidence to make a complaint without using a claims management company (CMC) or law firm, despite free tools from the FCA being available. Sheree Howard, executive director at the FCA, said: 'Many people who may be owed compensation aren’t sure where to start or don’t realise they don’t have to pay someone to make a complaint. Our free tools are there to help people feel claim confident – so they can get any money owed back without it costing them a penny.",
@@ -10732,7 +10794,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-04T08:35:45.798Z",
+      "publishedAt": "2026-08-04T19:37:28.552Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10756,7 +10818,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-04T08:35:45.798Z",
+      "publishedAt": "2026-08-04T19:37:28.552Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10780,7 +10842,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-04T08:35:45.798Z",
+      "publishedAt": "2026-08-04T19:37:28.552Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10804,7 +10866,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-04T08:35:45.798Z",
+      "publishedAt": "2026-08-04T19:37:28.552Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -10817,26 +10879,26 @@
   "updateTypeSummary": [
     {
       "updateType": "News",
-      "count": 77
+      "count": 76
     },
     {
       "updateType": "Publications / Reports",
-      "count": 73
+      "count": 71
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 66
+      "count": 70
     },
     {
       "updateType": "Consultations",
       "count": 18
     },
     {
-      "updateType": "Working Papers / Research",
-      "count": 12
+      "updateType": "Speeches / Interviews / Blogs",
+      "count": 11
     },
     {
-      "updateType": "Speeches / Interviews / Blogs",
+      "updateType": "Working Papers / Research",
       "count": 11
     },
     {
