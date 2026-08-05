@@ -348,39 +348,6 @@
     "notes": "Official ECB RSS feed for working papers."
   },
   {
-    "id": "ecb-market-operations",
-    "name": "ECB Market Operations",
-    "institution": "European Central Bank",
-    "region": "EU",
-    "jurisdiction": "EU",
-    "type": "rss",
-    "url": "https://www.ecb.europa.eu/rss/operations.html",
-    "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-    "notes": "Official ECB RSS feed for recent open market operations and ad hoc ECB communications."
-  },
-  {
-    "id": "ecb-procurements",
-    "name": "ECB Procurements",
-    "institution": "European Central Bank",
-    "region": "EU",
-    "jurisdiction": "EU",
-    "type": "rss",
-    "url": "https://www.ecb.europa.eu/rss/procurements.html",
-    "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-    "notes": "Official ECB RSS feed for open procurements, award notices and supplier lists."
-  },
-  {
-    "id": "ecb-yield-curves",
-    "name": "ECB Yield Curves",
-    "institution": "European Central Bank",
-    "region": "EU",
-    "jurisdiction": "EU",
-    "type": "rss",
-    "url": "https://www.ecb.europa.eu/rss/yc.html",
-    "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-    "notes": "Official ECB RSS feed for yield curve updates."
-  },
-  {
     "id": "ecb-research-bulletin",
     "name": "ECB Research Bulletin",
     "institution": "European Central Bank",
@@ -390,17 +357,6 @@
     "url": "https://www.ecb.europa.eu/rss/rbu.html",
     "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
     "notes": "Official ECB RSS feed for research bulletin updates."
-  },
-  {
-    "id": "ecb-tips-meeting-documents",
-    "name": "ECB TIPS Meeting Documents",
-    "institution": "European Central Bank",
-    "region": "EU",
-    "jurisdiction": "EU",
-    "type": "rss",
-    "url": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
-    "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-    "notes": "Official ECB RSS feed for TIPS meeting documents."
   },
   {
     "id": "fca-publications",

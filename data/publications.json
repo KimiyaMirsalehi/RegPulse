@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T12:32:33.844Z",
-  "totalPublications": 540,
-  "sourceCount": 38,
-  "successfulSources": 38,
+  "generatedAt": "2026-08-05T12:39:24.270Z",
+  "totalPublications": 483,
+  "sourceCount": 34,
+  "successfulSources": 34,
   "warningSources": 0,
   "failedSources": 0,
   "sourceStatus": [
@@ -345,45 +345,6 @@
       "message": "Parsed successfully."
     },
     {
-      "id": "ecb-market-operations",
-      "name": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "status": "success",
-      "parserMode": "rss-parser",
-      "itemCount": 32,
-      "url": "https://www.ecb.europa.eu/rss/operations.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "message": "Parsed successfully."
-    },
-    {
-      "id": "ecb-procurements",
-      "name": "ECB Procurements",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "status": "success",
-      "parserMode": "rss-parser",
-      "itemCount": 7,
-      "url": "https://www.ecb.europa.eu/rss/procurements.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "message": "Parsed successfully."
-    },
-    {
-      "id": "ecb-yield-curves",
-      "name": "ECB Yield Curves",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "status": "success",
-      "parserMode": "rss-parser",
-      "itemCount": 3,
-      "url": "https://www.ecb.europa.eu/rss/yc.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "message": "Parsed successfully."
-    },
-    {
       "id": "ecb-research-bulletin",
       "name": "ECB Research Bulletin",
       "institution": "European Central Bank",
@@ -392,19 +353,6 @@
       "parserMode": "rss-parser",
       "itemCount": 15,
       "url": "https://www.ecb.europa.eu/rss/rbu.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "message": "Parsed successfully."
-    },
-    {
-      "id": "ecb-tips-meeting-documents",
-      "name": "ECB TIPS Meeting Documents",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "status": "success",
-      "parserMode": "rss-parser",
-      "itemCount": 15,
-      "url": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "message": "Parsed successfully."
@@ -519,12 +467,8 @@
       "count": 59
     },
     {
-      "topic": "Liquidity",
-      "count": 46
-    },
-    {
       "topic": "Climate / ESG",
-      "count": 39
+      "count": 38
     },
     {
       "topic": "AML / Financial Crime",
@@ -536,7 +480,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 22
+      "count": 21
     },
     {
       "topic": "Recovery / Resolution",
@@ -557,6 +501,10 @@
     {
       "topic": "DORA / Operational Resilience",
       "count": 17
+    },
+    {
+      "topic": "Liquidity",
+      "count": 15
     },
     {
       "topic": "Market Risk",
@@ -593,12 +541,8 @@
       "count": 59
     },
     {
-      "topic": "Liquidity",
-      "count": 46
-    },
-    {
       "topic": "Climate / ESG",
-      "count": 39
+      "count": 38
     },
     {
       "topic": "AML / Financial Crime",
@@ -610,7 +554,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 22
+      "count": 21
     },
     {
       "topic": "Recovery / Resolution",
@@ -631,6 +575,10 @@
     {
       "topic": "DORA / Operational Resilience",
       "count": 17
+    },
+    {
+      "topic": "Liquidity",
+      "count": 15
     },
     {
       "topic": "Market Risk",
@@ -669,10 +617,6 @@
     {
       "keyword": "its",
       "count": 92
-    },
-    {
-      "keyword": "liquidity",
-      "count": 46
     },
     {
       "keyword": "reporting",
@@ -719,8 +663,12 @@
       "count": 16
     },
     {
-      "keyword": "payments",
+      "keyword": "liquidity",
       "count": 15
+    },
+    {
+      "keyword": "payments",
+      "count": 14
     },
     {
       "keyword": "transparency",
@@ -847,10 +795,6 @@
       "count": 4
     },
     {
-      "keyword": "emissions",
-      "count": 4
-    },
-    {
       "keyword": "esg",
       "count": 4
     },
@@ -892,6 +836,10 @@
     },
     {
       "keyword": "dora",
+      "count": 3
+    },
+    {
+      "keyword": "emissions",
       "count": 3
     },
     {
@@ -974,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 332
+      "count": 275
     },
     {
       "region": "UK",
@@ -995,12 +943,12 @@
   ],
   "institutionSummary": [
     {
-      "institution": "European Central Bank",
-      "count": 138
-    },
-    {
       "institution": "ECB Banking Supervision",
       "count": 120
+    },
+    {
+      "institution": "European Central Bank",
+      "count": 81
     },
     {
       "institution": "European Banking Authority",
@@ -1084,1114 +1032,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "acd3ae503ebefcc7",
-      "title": "20260039 (MRO,liquidity providing):12935.50 mn EUR alloted (fixed 2.150000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260039.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260039.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "5f524611553cc114",
-      "title": "20260040 (OT,liquidity providing):21.00 mn USD alloted (fixed 3.890000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260040.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260040.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "79d390ad621cbcfd",
-      "title": "20260041 (MRO,liquidity providing):13167.50 mn EUR alloted (fixed 2.150000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260041.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260041.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "4d7a45a8c0cebed7",
-      "title": "20260042 (OT,liquidity providing):16.00 mn USD alloted (fixed 3.880000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260042.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260042.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "455cdbe005cb3834",
-      "title": "20260043 (MRO,liquidity providing):13809.50 mn EUR alloted (fixed 2.150000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260043.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260043.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "2bb823a82d8b951d",
-      "title": "20260044 (OT,liquidity providing):43.00 mn USD alloted (fixed 3.870000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260044.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260044.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "a3742d5edeea2cb8",
-      "title": "20260045 (MRO,liquidity providing):14936.30 mn EUR alloted (fixed 2.150000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260045.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260045.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "13a34bd4fd8e8439",
-      "title": "20260046 (LTRO,liquidity providing):3201.01 mn EUR alloted ( 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260046.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260046.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "cb7736a9c490790a",
-      "title": "20260047 (OT,liquidity providing):116.00 mn USD alloted (fixed 3.870000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260047.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260047.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "843a5fd5e5699832",
-      "title": "20260048 (MRO,liquidity providing):11822.90 mn EUR alloted (fixed 2.150000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260048.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260048.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "0441babbdcf34a29",
-      "title": "20260049 (OT,liquidity providing):28.00 mn USD alloted (fixed 3.870000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260049.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260049.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "2d25a060de6b1678",
-      "title": "20260050 (MRO,liquidity providing):12909.50 mn EUR alloted (fixed 2.150000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260050.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260050.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "9ca557610ad473d7",
-      "title": "20260051 (OT,liquidity providing):48.00 mn USD alloted (fixed 3.870000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260051.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260051.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "d2d2df77140b1b2e",
-      "title": "20260052 (MRO,liquidity providing):15726.50 mn EUR alloted (fixed 2.400000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260052.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260052.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "6e4ec84503f7bb96",
-      "title": "20260053 (OT,liquidity providing):34.00 mn USD alloted (fixed 3.880000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260053.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260053.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "3c94145912298950",
-      "title": "20260054 (MRO,liquidity providing):18182.50 mn EUR alloted (fixed 2.400000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260054.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260054.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "f56db988101b2557",
-      "title": "20260055 (OT,liquidity providing):235.00 mn USD alloted (fixed 3.880000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260055.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260055.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "ddd35b687e2a29f3",
-      "title": "20260056 (MRO,liquidity providing):11824.50 mn EUR alloted (fixed 2.400000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260056.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260056.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "22b60f8137766607",
-      "title": "20260057 (LTRO,liquidity providing):7011.01 mn EUR alloted ( 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260057.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260057.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "703448bc01041b5a",
-      "title": "20260058 (OT,liquidity providing):170.00 mn USD alloted (fixed 3.880000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260058.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260058.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "746d4a34e8f8ffb0",
-      "title": "20260059 (MRO,liquidity providing):12498.90 mn EUR alloted (fixed 2.400000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260059.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260059.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "faa37df2c3f561e2",
-      "title": "20260060 (OT,liquidity providing):128.00 mn USD alloted (fixed 3.880000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260060.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "beb187f72f3339e6",
-      "title": "20260061 (MRO,liquidity providing):12655.30 mn EUR alloted (fixed 2.400000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260061.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260061.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "f33f8eb29559dc23",
-      "title": "20260062 (OT,liquidity providing):378.00 mn USD alloted (fixed 3.880000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260062.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260062.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "58833349b575f017",
-      "title": "20260063 (MRO,liquidity providing):17355.00 mn EUR alloted (fixed 2.400000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260063.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260063.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "8ea0ef7f9a518e07",
-      "title": "20260064 (OT,liquidity providing):130.00 mn USD alloted (fixed 3.880000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260064.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260064.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "d8a40eb97e25b75e",
-      "title": "20260065 (MRO,liquidity providing):21938.50 mn EUR alloted (fixed 2.400000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260065.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260065.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "d29d19528cf14f4e",
-      "title": "20260066 (LTRO,liquidity providing):4018.12 mn EUR alloted ( 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260066.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260066.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "35e5cfe94019964c",
-      "title": "20260067 (OT,liquidity providing):140.00 mn USD alloted (fixed 3.960000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260067.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260067.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "c691fbcfcf6298e4",
-      "title": "20260068 (MRO,liquidity providing):15861.50 mn EUR alloted (fixed 2.400000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260068.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260068.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "cdfaf5eb66040c4e",
-      "title": "20260069 (OT,liquidity providing):132.00 mn USD alloted (fixed 3.880000%, 100.000000% allotment at margin)",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260069.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260069.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "a0e652c3994a7aa9",
-      "title": "Announcing 20100084 (,), for days deadline",
-      "summary": "",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20100084.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-market-operations",
-      "sourceName": "ECB Market Operations",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:50:20.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "http://www.ecb.europa.eu/mopo/implement/omo/html/20100084.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/operations.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
     },
     {
       "id": "11b51e98dbcdfd24",
@@ -2642,31 +1482,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "24bdd3cf533ef676",
-      "title": "Contract Award Notice: ECB - Provision of Mobile Apps Development and Maintenance (537324-2026)",
-      "summary": "Procurement:Contract Award Notice: ECB - Provision of Mobile Apps Development and Maintenance (537324-2026). Issue date: 04/08/2026. Closing date: 04/08/2026.",
-      "url": "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurContractAwardNotice-537324-2026.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-procurements",
-      "sourceName": "ECB Procurements",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-03T22:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurContractAwardNotice-537324-2026.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurContractAwardNotice-537324-2026.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/procurements.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
     },
     {
       "id": "46c9d255e86f9859",
@@ -4113,31 +2928,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "674c22b4429979a2",
-      "title": "Contract Notice: ECB - Relocation services (522723-2026)",
-      "summary": "Procurement:Contract Notice: ECB - Relocation services (522723-2026). Issue date: 29/07/2026. Closing date: 04/08/2026.",
-      "url": "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurContracNotice-2026-OJS144-00522723.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-procurements",
-      "sourceName": "ECB Procurements",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-28T22:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurContracNotice-2026-OJS144-00522723.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurContracNotice-2026-OJS144-00522723.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/procurements.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
       "id": "c25450e59678d2e1",
       "title": "The Paris Agreement ten years later: Navigating climate uncertainty and tipping points",
       "summary": "The climate crisis is an urgent, human-driven systemic challenge whose impacts are unfolding through increasingly frequent and severe extreme events. Although the 2015 Paris Agreement advanced global climate governance, implementation remains insufficient to limit warming to well below 2 °C and pursue 1.5 °C. Accelerating risks, interacting crises and potential tipping points suggest that climate change could become unmanageable if current GHGs emissions trajectories persist. This paper makes three contributions. First, it examines why we are failing to act decisively, highlighting a persistent awareness gap, competing priorities and weak political incentives for ambitious climate action.",
@@ -4428,7 +3218,9 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-07-27T04:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://files.consumerfinance.gov/f/documents/cfpb_flar-2025-report_2026-05.pdf"
+      ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4451,7 +3243,9 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-07-27T00:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA71-545613100-2975_ESMA_authorises_EuroCTP_as_the_Consolidated_Tape_Provider_for_shares_and_exchange-traded_funds_-_Press_release.pdf"
+      ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4499,7 +3293,12 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-24T13:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/legal/ecb.leg_gui_2026_17.en.pdf",
+        "https://www.ecb.europa.eu/press/govcstatement/pdf/ecb.govcstatement202607~332019a7e2.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisory_guides202607_icaap.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.ICAAP_ILAAP_clarification_202607.en.pdf"
+      ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4522,7 +3321,9 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-07-24T13:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects.pdf"
+      ],
       "topics": [
         "Capital Requirements"
       ],
@@ -4592,7 +3393,12 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-24T10:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.kansascityfed.org/documents/364/2016-The%20Lasting%20Damage%20from%20the%20Financial%20Crisis%20to%20U.S.%20Productivity.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2720~e6f3686548.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2951~e55e828e44.en.pdf?1ee9dfcf059901a6982d61fb3e3965db",
+        "https://www.bis.org/publ/work534.pdf"
+      ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4640,7 +3446,10 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-24T09:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/other/SESFOD_2026_Q2_summary.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/other/SESFOD_2021Q1_survey_guidelines~e9dc120dfc.en.pdf"
+      ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4737,7 +3546,9 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-24T08:30:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/legal/ecb.leg_gui_2026_17.en.pdf"
+      ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4783,7 +3594,10 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-24T08:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/shared/pdf/CES_aggregate_statistics_guide.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op287~ea7eebc23f.en.pdf"
+      ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4890,81 +3704,6 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "d4e1ea44f1534426",
-      "title": "Contract Award Notice: ECB - Executive Search Services (505495-2026)",
-      "summary": "Procurement:Contract Award Notice: ECB - Executive Search Services (505495-2026). Issue date: 24/07/2026. Closing date: 04/08/2026.",
-      "url": "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurContractAwardNotice-505495-2026.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-procurements",
-      "sourceName": "ECB Procurements",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-23T22:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurContractAwardNotice-505495-2026.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurContractAwardNotice-505495-2026.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/procurements.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "2474fba155ba52c3",
-      "title": "Contract Notice: ECB - Provision of Cleaning Services all buildings (512256-2026)",
-      "summary": "Procurement:Contract Notice: ECB - Provision of Cleaning Services all buildings (512256-2026). Issue date: 24/07/2026. Closing date: 04/08/2026.",
-      "url": "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurContractNotice-ContractNoticeECBProvisionofCleaningServices512256-2026.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-procurements",
-      "sourceName": "ECB Procurements",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-23T22:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurContractNotice-ContractNoticeECBProvisionofCleaningServices512256-2026.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurContractNotice-ContractNoticeECBProvisionofCleaningServices512256-2026.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/procurements.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "e391cbca3bdc29ed",
-      "title": "Market Survey for Translation Services - Estonian (ET)",
-      "summary": "Procurement:Market Survey for Translation Services - Estonian (ET). Issue date: 24/07/2026. Closing date: 04/08/2026.",
-      "url": "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurMarketSurveye-2026-en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-procurements",
-      "sourceName": "ECB Procurements",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-23T22:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurMarketSurveye-2026-en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurMarketSurveye-2026-en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/procurements.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
       "id": "6e7b37dd375be086",
       "title": "SEC Announces Roundtable on Preparations for 24-Hour Trading",
       "summary": "The Securities and Exchange Commission announced today that it will host a roundtable on Sept. 17, 2026, to discuss moving towards 24-hour trading in the U. S. equity markets, including preparations to support overnight trading, operations and resiliency…",
@@ -5001,7 +3740,9 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-23T14:15:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/shared/pdf/ecb.design_contest_jury_members.en.pdf"
+      ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -5047,7 +3788,9 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-23T13:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds260723~ef801dc812.en.pdf"
+      ],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -5082,7 +3825,9 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-23T12:15:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds260723~ef801dc812.en.pdf"
+      ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -5105,7 +3850,12 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-23T08:30:15.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-07/f3a7bf66-d0ac-4c87-88f1-6e3de76ba5a5/Consultation%20Paper%20on%20RTS%20on%20client%20funds.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/c7de6689-b8cf-4377-b801-e50028404482/Consultation%20Paper%20on%20ITS%20on%20information%20exchange.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/b81e293d-fb94-4715-b393-c81662999b35/Consultation%20Paper%20on%20ITS%20on%20depositor%20information.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/d60e0fc5-805d-4e76-9821-2c14b51ea155/Consultation%20paper%20on%20Guidelines%20on%20investment%20of%20available%20financial%20means.pdf"
+      ],
       "topics": [
         "Recovery / Resolution"
       ],
@@ -5175,7 +3925,9 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-07-22T09:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2026/cp1226app1.pdf"
+      ],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -5210,7 +3962,9 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-22T08:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/pdf/pis/ecb.pis2025h2_annex~db1a0e95c6.en.pdf"
+      ],
       "topics": [
         "Payments / Open Finance"
       ],
@@ -5245,7 +3999,9 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-21T14:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/ecb/pdf/orga/ecb.ECB_managers.en.pdf"
+      ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -5268,7 +4024,10 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-21T08:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.bls_questionnaire.en.pdf",
+        "https://www.ecb.europa.eu/stats/pdf/bls_user_guide_202604.en.pdf"
+      ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -5291,7 +4050,10 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-20T08:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/accesstofinancesofenterprises/pdf/questionnaire/ecb.safeq202607.en.pdf",
+        "https://www.ecb.europa.eu/stats/pdf/surveys/sme/ecb.safemi.en.pdf"
+      ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -5314,7 +4076,9 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-07-20T00:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA74-2119945926-3773_T_1_statement.pdf"
+      ],
       "topics": [
         "Payments / Open Finance"
       ],
@@ -5349,7 +4113,10 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-07-20T00:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA42-2004696504-8471_Follow-up_report_to_peer_review_on_cross_border_activities_of_investment_firms.pdf",
+        "https://www.esma.europa.eu/sites/default/files/library/esma42-111-5534_report_peer_review_cross_border_activities_investment_firms.pdf"
+      ],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -5384,7 +4151,9 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T13:01:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/a-flexible-deviation-from-fire-in-the-sequence-space.pdf"
+      ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -5407,7 +4176,9 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T13:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/anchors-aweigh-the-effect-of-communicating-forecast-uncertainty.pdf"
+      ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -5430,7 +4201,9 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T13:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/macro-technical-paper/2026/inflation-thresholds-and-oil-shock-transmission-in-the-uk.pdf"
+      ],
       "topics": [
         "Market Risk"
       ],
@@ -5465,7 +4238,9 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T12:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-07/cfd37e71-4ca4-483a-ab85-090ac8010535/Final%20Report%20on%20RTS%20and%20ITS%20material%20acquisitions%20mat%20transfers%20mergers%20divisions.pdf"
+      ],
       "topics": [
         "Capital Requirements",
         "Supervision / Enforcement"
@@ -5576,7 +4351,9 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T08:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/stats/bop/2026/html/ecb.bp260717_annex~1b12b90da0.en.pdf"
+      ],
       "topics": [
         "Payments / Open Finance"
       ],
@@ -6599,31 +5376,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
-    },
-    {
-      "id": "e898122e4866eb88",
-      "title": "Contract Notice: ECB - C7100 - Construction project management support services (474786-2026)",
-      "summary": "Procurement:Contract Notice: ECB - C7100 - Construction project management support services (474786-2026). Issue date: 09/07/2026. Closing date: 04/08/2026.",
-      "url": "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurContracNotice-2026-OJS130-00474786-en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-procurements",
-      "sourceName": "ECB Procurements",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-08T22:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurContracNotice-2026-OJS130-00474786-en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/ecb.procurContracNotice-2026-OJS130-00474786-en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/procurements.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
     },
     {
       "id": "070715f901e095c3",
@@ -11382,393 +10134,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "fb619e19e185c978",
-      "title": "TIPS-CG Meeting - 2026-06-10 - CAMT.052 possible inclusion of the element _FromToDate’",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2F.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-tips-meeting-documents",
-      "sourceName": "ECB TIPS Meeting Documents",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2F.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2F.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "1c7067f03c20dac9",
-      "title": "TIPS-CG Meeting - 2026-06-10 - CAMT.053 – possible inclusion of timestamp transaction",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2D.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-tips-meeting-documents",
-      "sourceName": "ECB TIPS Meeting Documents",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2D.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2D.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "067b9a27cc31177f",
-      "title": "TIPS-CG Meeting - 2026-06-10 - Change Request Proposal for the display of Internal Reason Codes in the TIPS GUI and UHB",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2E.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-tips-meeting-documents",
-      "sourceName": "ECB TIPS Meeting Documents",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2E.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2E.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "03cb1c346d89a19d",
-      "title": "TIPS-CG Meeting - 2026-06-10 - Follow-up on FA timeline for TIPS CRs Initiatives for 2026 and 2027 releases",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2C.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-tips-meeting-documents",
-      "sourceName": "ECB TIPS Meeting Documents",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2C.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2C.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "c8d9e2742d4716b2",
-      "title": "TIPS-CG Meeting - 2026-06-10 - Incidents impacting TIPS",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.1B.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-tips-meeting-documents",
-      "sourceName": "ECB TIPS Meeting Documents",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.1B.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.1B.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "326a753812fffaf9",
-      "title": "TIPS-CG Meeting - 2026-06-10 - Preparation for end-to-end volume test",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.1.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-tips-meeting-documents",
-      "sourceName": "ECB TIPS Meeting Documents",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.1.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.1.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "15c6941a7fdc9487",
-      "title": "TIPS-CG Meeting - 2026-06-10 - R2026. JUN - TARGET Services release deployment schedule - communication",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.1D.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-tips-meeting-documents",
-      "sourceName": "ECB TIPS Meeting Documents",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.1D.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.1D.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "c090227981eb4e2e",
-      "title": "TIPS-CG Meeting - 2026-06-10 - Status update on cross-border payments in TIPS",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.3.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-tips-meeting-documents",
-      "sourceName": "ECB TIPS Meeting Documents",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.3.en.pdf"
-      ],
-      "topics": [
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "payments"
-      ],
-      "topicMatches": [
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payments"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.3.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "3e3d933271ff8a91",
-      "title": "TIPS-CG Meeting - 2026-06-10 - TIPS Non-EUR onboardings",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.4.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-tips-meeting-documents",
-      "sourceName": "ECB TIPS Meeting Documents",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.4.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.4.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "431d1809d87307c6",
-      "title": "TIPS-CG Meeting - 2026-06-10 - TIPS R2026. JUN Deployment Strategy for TIPS-0072 - Alignment of TIPS Messages with ISO MR 2020-2024 reminder on upcoming deployment in PROD environment",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.1C.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-tips-meeting-documents",
-      "sourceName": "ECB TIPS Meeting Documents",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.1C.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.1C.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "6c4dd7ae7c1d825a",
-      "title": "TIPS-CG Meeting - 2026-06-10 - TIPS R2026. NOV Update regarding the unstructured address for SCT Inst scheme and NCT Inst schemes",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2A.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-tips-meeting-documents",
-      "sourceName": "ECB TIPS Meeting Documents",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2A.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2A.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "9f7291217d6c60b1",
-      "title": "TIPS-CG Meeting - 2026-06-10 - TIPS traffic developments",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.2A.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-tips-meeting-documents",
-      "sourceName": "ECB TIPS Meeting Documents",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.2A.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.2A.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "07594ab4a0cd62ae",
-      "title": "TIPS-CG Meeting - 2026-06-10 - TIPS traffic indicators",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.2B.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-tips-meeting-documents",
-      "sourceName": "ECB TIPS Meeting Documents",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.2B.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.2B.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "c6b9090c0fb8a9ae",
-      "title": "TIPS-CG Meeting - 2026-06-10 - Update on TIPS operations",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.1A.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-tips-meeting-documents",
-      "sourceName": "ECB TIPS Meeting Documents",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.1A.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_4.1A.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "931dd18f263683cb",
-      "title": "TIPS-CG Meeting -2026-06-10 - Scope of TIPS R2027. JUN_Revisions to preliminary scope",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2B.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-tips-meeting-documents",
-      "sourceName": "ECB TIPS Meeting Documents",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2B.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//paym/target/target-professional-use-documents-links/tips/shared/pdf/tipsmeetdoc/ecb.tipsmeetdoc260610_TIPS-CG_5.2B.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
     },
     {
       "id": "6efdb2ce85148003",
@@ -19576,43 +17941,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "d96a9ff4f1584743",
-      "title": "Contract change notice: ECB - Dynamic Purchasing System for the Offsetting of the ECB's Greenhouse Gas Emissions (2022/S 177-499693)",
-      "summary": "Procurement:Contract change notice: ECB - Dynamic Purchasing System for the Offsetting of the ECB's Greenhouse Gas Emissions (2022/S 177-499693). Issue date: 14/09/2022. Closing date: 04/08/2026.",
-      "url": "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/2025-ojs040-00127485-en-ts.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-procurements",
-      "sourceName": "ECB Procurements",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2022-09-13T22:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/2025-ojs040-00127485-en-ts.pdf"
-      ],
-      "topics": [
-        "Climate / ESG"
-      ],
-      "matchedKeywords": [
-        "emissions"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "emissions"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//ecb/jobsproc/proc/pdf/2025-ojs040-00127485-en-ts.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/procurements.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
       "id": "7187a768ce586ca0",
       "title": "A catalyst for greening the financial system The ECB is reducing the carbon footprint in its portfolio and pushing banks to better manage climate risks. Within our mandate, we incorporate climate change considerations into our monetary policy and banking supervision, say Frank Elderson and Isabel Schnabel.",
       "summary": "English OTHER LANGUAGES (16) + Select your language Български BG Deutsch DE Eλληνικά EL Español ES Eesti keel ET Suomi FI Français FR Hrvatski HR Italiano IT",
@@ -22095,75 +20423,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "43161f0d92bc67af",
-      "title": "Historical euro area government bond yield curve",
-      "summary": "The historical euro area government bond yield curve contains the spot rate, instantaneous forward and par yield curves for both AAA-rated euro-denominated bonds issued by euro area central governments and all euro area central government bonds. The maturity spectrum covers three months up to 30 years. Data are available from 29 December 2006 to 06 January 2017.",
-      "url": "http://www.ecb.europa.eu/stats/money/yc/data/fmd/download/yc_historical.zip?",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-yield-curves",
-      "sourceName": "ECB Yield Curves",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2017-01-09T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "http://www.ecb.europa.eu/stats/money/yc/data/fmd/download/yc_historical.zip?",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/yc.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "2d61474d0c5c6257",
-      "title": "Interactive web page",
-      "summary": "Every working day via an interactive webpage, the ECB releases a set of nominal yield curves based on AAA-rated euro-denominated bonds issued by euro area central governments, covering the maturity spectrum from three months up to 30 years. In addition, euro area yield curves covering all euro area central government bonds and the spreads between both curves are released. The spot, instantaneous forward and par yield curves, both past and present, can be easily displayed using the webpage's charting facility.",
-      "url": "http://www.ecb.europa.eu/stats/money/yc/html/index.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-yield-curves",
-      "sourceName": "ECB Yield Curves",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2017-01-09T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "http://www.ecb.europa.eu/stats/money/yc/html/index.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/yc.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "29f5ad90da6efd66",
-      "title": "Latest (06 January 2017) euro area government bond yield curves",
-      "summary": "The latest data (from 06 January 2017) for the euro area yield curves are available! Download the latest spot, instantaneous forward and par yield curves based on the AAA-rated euro-denominated bonds issued by euro area central governments as well as the curves covering all euro area central government bonds. The maturity spectrum covers three months up to 30 years.",
-      "url": "http://www.ecb.europa.eu/stats/money/yc/data/fmd/download/yc_latest.zip?",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-yield-curves",
-      "sourceName": "ECB Yield Curves",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2017-01-09T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "http://www.ecb.europa.eu/stats/money/yc/data/fmd/download/yc_latest.zip?",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/yc.html",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
-    },
-    {
       "id": "c3fe663cf19fe222",
       "title": "Anthropic to support FCA’s Supercharged Sandbox",
       "summary": "Anthropic will support the second group of firms in the FCA's Supercharged Sandbox. The Sandbox is a controlled environment where firms can safely experiment with advanced AI. Anthropic will provide access to Claude for participants – including Claude Code and Claude Cowork – to help speed up their development work. The second group of firms in the Supercharged Sandbox will explore a range of AI use cases.",
@@ -23327,7 +21586,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "publishedAt": "2026-08-05T12:39:24.270Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23351,7 +21610,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "publishedAt": "2026-08-05T12:39:24.270Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23375,7 +21634,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "publishedAt": "2026-08-05T12:39:24.270Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23399,7 +21658,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "publishedAt": "2026-08-05T12:39:24.270Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23423,7 +21682,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "publishedAt": "2026-08-05T12:39:24.270Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23447,7 +21706,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "publishedAt": "2026-08-05T12:39:24.270Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23471,7 +21730,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "publishedAt": "2026-08-05T12:39:24.270Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23495,7 +21754,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "publishedAt": "2026-08-05T12:39:24.270Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23519,7 +21778,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "publishedAt": "2026-08-05T12:39:24.270Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23543,7 +21802,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "publishedAt": "2026-08-05T12:39:24.270Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23567,7 +21826,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "publishedAt": "2026-08-05T12:39:24.270Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23591,7 +21850,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "publishedAt": "2026-08-05T12:39:24.270Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23615,7 +21874,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "publishedAt": "2026-08-05T12:39:24.270Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23643,10 +21902,6 @@
       "count": 77
     },
     {
-      "updateType": "Other",
-      "count": 65
-    },
-    {
       "updateType": "Consultations",
       "count": 37
     },
@@ -23661,6 +21916,10 @@
     {
       "updateType": "Source Pages",
       "count": 13
+    },
+    {
+      "updateType": "Other",
+      "count": 8
     },
     {
       "updateType": "Events",
