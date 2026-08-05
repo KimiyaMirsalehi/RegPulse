@@ -22,6 +22,23 @@
     "notes": "Official ECB RSS feed for publications."
   },
   {
+    "id": "ecb-governing-council-statements",
+    "name": "ECB Governing Council Statements",
+    "institution": "European Central Bank",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "html-list",
+    "url": "https://www.ecb.europa.eu/press/govcstatement/html/index.en.html",
+    "officialSourcePage": "https://www.ecb.europa.eu/press/govcstatement/html/index.en.html",
+    "itemUrlContains": [
+      "/press/govcstatement/html/",
+      "/press/govcstatement/pdf/"
+    ],
+    "allowEmpty": true,
+    "extraParser": true,
+    "notes": "Official ECB Governing Council statements page, including statement pages and PDFs."
+  },
+  {
     "id": "ecb-supervision-press",
     "name": "ECB Banking Supervision Press",
     "institution": "ECB Banking Supervision",
@@ -44,6 +61,22 @@
     "notes": "Official ECB Banking Supervision RSS feed for publications."
   },
   {
+    "id": "ecb-supervision-blog",
+    "name": "ECB Banking Supervision Blog",
+    "institution": "ECB Banking Supervision",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "html-list",
+    "url": "https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html",
+    "officialSourcePage": "https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html",
+    "itemUrlContains": [
+      "/press/blog/"
+    ],
+    "allowEmpty": true,
+    "extraParser": true,
+    "notes": "Official ECB Banking Supervision Blog page."
+  },
+  {
     "id": "eba-news",
     "name": "EBA News & Press",
     "institution": "European Banking Authority",
@@ -53,6 +86,50 @@
     "url": "https://www.eba.europa.eu/news-press/news/rss.xml",
     "officialSourcePage": "https://www.eba.europa.eu/news-press",
     "notes": "Official EBA News & Press RSS feed."
+  },
+  {
+    "id": "eba-press-releases",
+    "name": "EBA Press Releases",
+    "institution": "European Banking Authority",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "html-list",
+    "url": "https://www.eba.europa.eu/publications-and-media/press-releases",
+    "pageUrls": [
+      "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "https://www.eba.europa.eu/publications-and-media/press-releases?page=1",
+      "https://www.eba.europa.eu/publications-and-media/press-releases?page=2",
+      "https://www.eba.europa.eu/publications-and-media/press-releases?page=3"
+    ],
+    "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+    "itemUrlContains": [
+      "/publications-and-media/press-releases/"
+    ],
+    "allowEmpty": true,
+    "extraParser": true,
+    "notes": "Official EBA press releases page, including paginated press releases."
+  },
+  {
+    "id": "eba-publications",
+    "name": "EBA Publications",
+    "institution": "European Banking Authority",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "html-list",
+    "url": "https://www.eba.europa.eu/publications-and-media/publications",
+    "pageUrls": [
+      "https://www.eba.europa.eu/publications-and-media/publications",
+      "https://www.eba.europa.eu/publications-and-media/publications?page=1",
+      "https://www.eba.europa.eu/publications-and-media/publications?page=2",
+      "https://www.eba.europa.eu/publications-and-media/publications?page=3"
+    ],
+    "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
+    "itemUrlContains": [
+      "/publications-and-media/publications/"
+    ],
+    "allowEmpty": true,
+    "extraParser": true,
+    "notes": "Official EBA publications page, including paginated publications."
   },
   {
     "id": "esma-news",
@@ -78,6 +155,23 @@
     "notes": "Official FCA RSS feed for news and warnings."
   },
   {
+    "id": "fca-regulatory-priorities",
+    "name": "FCA Regulatory Priorities",
+    "institution": "Financial Conduct Authority",
+    "region": "UK",
+    "jurisdiction": "UK",
+    "type": "html-list",
+    "url": "https://www.fca.org.uk/publications/regulatory-priorities",
+    "officialSourcePage": "https://www.fca.org.uk/publications/regulatory-priorities",
+    "itemUrlContains": [
+      "/publication/regulatory-priorities/",
+      "/publications/regulatory-priorities/"
+    ],
+    "allowEmpty": true,
+    "extraParser": true,
+    "notes": "Official FCA regulatory priorities page and related PDF publications."
+  },
+  {
     "id": "boe-prudential-publications",
     "name": "BoE Prudential Regulation Publications",
     "institution": "Bank of England / Prudential Regulation Authority",
@@ -98,6 +192,25 @@
     "url": "https://www.bankofengland.co.uk/rss/publications",
     "officialSourcePage": "https://www.bankofengland.co.uk/rss",
     "notes": "Official Bank of England RSS feed for publications."
+  },
+  {
+    "id": "boe-financial-stability",
+    "name": "BoE Financial Stability",
+    "institution": "Bank of England",
+    "region": "UK",
+    "jurisdiction": "UK",
+    "type": "html-list",
+    "url": "https://www.bankofengland.co.uk/financial-stability",
+    "officialSourcePage": "https://www.bankofengland.co.uk/financial-stability",
+    "itemUrlContains": [
+      "/financial-stability-in-focus/",
+      "/financial-stability-report/",
+      "/financial-policy-summary-and-record/",
+      "/financial-policy-committee/"
+    ],
+    "allowEmpty": true,
+    "extraParser": true,
+    "notes": "Official Bank of England financial stability page, including Financial Stability in Focus and FPC publications."
   },
   {
     "id": "central-bank-cyprus-announcements",
@@ -200,5 +313,93 @@
     ],
     "allowEmpty": true,
     "notes": "Official BIS RSS feed filtered to Basel Committee / BCBS items."
+  },
+  {
+    "id": "ecb-blog",
+    "name": "ECB Blog",
+    "institution": "European Central Bank",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "rss",
+    "url": "https://www.ecb.europa.eu/rss/blog.html",
+    "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+    "notes": "Official ECB RSS feed for blog posts."
+  },
+  {
+    "id": "ecb-statistical-press-releases",
+    "name": "ECB Statistical Press Releases",
+    "institution": "European Central Bank",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "rss",
+    "url": "https://www.ecb.europa.eu/rss/statpress.html",
+    "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+    "notes": "Official ECB RSS feed for statistical press releases."
+  },
+  {
+    "id": "ecb-working-papers",
+    "name": "ECB Working Papers",
+    "institution": "European Central Bank",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "rss",
+    "url": "https://www.ecb.europa.eu/rss/wppub.html",
+    "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+    "notes": "Official ECB RSS feed for working papers."
+  },
+  {
+    "id": "ecb-market-operations",
+    "name": "ECB Market Operations",
+    "institution": "European Central Bank",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "rss",
+    "url": "https://www.ecb.europa.eu/rss/operations.html",
+    "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+    "notes": "Official ECB RSS feed for recent open market operations and ad hoc ECB communications."
+  },
+  {
+    "id": "ecb-procurements",
+    "name": "ECB Procurements",
+    "institution": "European Central Bank",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "rss",
+    "url": "https://www.ecb.europa.eu/rss/procurements.html",
+    "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+    "notes": "Official ECB RSS feed for open procurements, award notices and supplier lists."
+  },
+  {
+    "id": "ecb-yield-curves",
+    "name": "ECB Yield Curves",
+    "institution": "European Central Bank",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "rss",
+    "url": "https://www.ecb.europa.eu/rss/yc.html",
+    "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+    "notes": "Official ECB RSS feed for yield curve updates."
+  },
+  {
+    "id": "ecb-research-bulletin",
+    "name": "ECB Research Bulletin",
+    "institution": "European Central Bank",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "rss",
+    "url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+    "notes": "Official ECB RSS feed for research bulletin updates."
+  },
+  {
+    "id": "ecb-tips-meeting-documents",
+    "name": "ECB TIPS Meeting Documents",
+    "institution": "European Central Bank",
+    "region": "EU",
+    "jurisdiction": "EU",
+    "type": "rss",
+    "url": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
+    "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+    "notes": "Official ECB RSS feed for TIPS meeting documents."
   }
 ]
