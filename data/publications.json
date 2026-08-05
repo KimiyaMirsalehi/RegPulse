@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T12:39:24.270Z",
-  "totalPublications": 483,
+  "generatedAt": "2026-08-05T19:30:29.854Z",
+  "totalPublications": 480,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -91,7 +91,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 7,
+      "itemCount": 6,
       "url": "https://www.eba.europa.eu/news-press/news/rss.xml",
       "sourcePageUrl": "https://www.eba.europa.eu/news-press",
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
@@ -104,7 +104,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "extra-html-list-parser",
-      "itemCount": 56,
+      "itemCount": 54,
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
       "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 253
+      "count": 252
     },
     {
       "topic": "Basel / BCBS",
@@ -472,11 +472,11 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 36
+      "count": 37
     },
     {
       "topic": "Capital Requirements",
-      "count": 36
+      "count": 35
     },
     {
       "topic": "Payments / Open Finance",
@@ -508,7 +508,7 @@
     },
     {
       "topic": "Market Risk",
-      "count": 13
+      "count": 12
     },
     {
       "topic": "Model Risk",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 253
+      "count": 252
     },
     {
       "topic": "Basel / BCBS",
@@ -546,11 +546,11 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 36
+      "count": 37
     },
     {
       "topic": "Capital Requirements",
-      "count": 36
+      "count": 35
     },
     {
       "topic": "Payments / Open Finance",
@@ -582,7 +582,7 @@
     },
     {
       "topic": "Market Risk",
-      "count": 13
+      "count": 12
     },
     {
       "topic": "Model Risk",
@@ -608,7 +608,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 112
+      "count": 110
     },
     {
       "keyword": "board",
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 92
+      "count": 91
     },
     {
       "keyword": "reporting",
@@ -655,12 +655,12 @@
       "count": 18
     },
     {
-      "keyword": "policy statement",
+      "keyword": "enforcement",
       "count": 17
     },
     {
-      "keyword": "enforcement",
-      "count": 16
+      "keyword": "policy statement",
+      "count": 17
     },
     {
       "keyword": "liquidity",
@@ -695,35 +695,23 @@
       "count": 9
     },
     {
-      "keyword": "disclosure",
-      "count": 9
-    },
-    {
       "keyword": "guidelines",
       "count": 9
     },
     {
-      "keyword": "supervisory reporting",
-      "count": 9
+      "keyword": "disclosure",
+      "count": 8
     },
     {
       "keyword": "stress testing",
       "count": 8
     },
     {
+      "keyword": "supervisory reporting",
+      "count": 8
+    },
+    {
       "keyword": "crr",
-      "count": 7
-    },
-    {
-      "keyword": "own funds",
-      "count": 7
-    },
-    {
-      "keyword": "regulatory technical standards",
-      "count": 7
-    },
-    {
-      "keyword": "rts",
       "count": 7
     },
     {
@@ -747,7 +735,19 @@
       "count": 6
     },
     {
+      "keyword": "own funds",
+      "count": 6
+    },
+    {
+      "keyword": "regulatory technical standards",
+      "count": 6
+    },
+    {
       "keyword": "risk culture",
+      "count": 6
+    },
+    {
+      "keyword": "rts",
       "count": 6
     },
     {
@@ -799,11 +799,11 @@
       "count": 4
     },
     {
-      "keyword": "ict risks",
+      "keyword": "fraud",
       "count": 4
     },
     {
-      "keyword": "market risk",
+      "keyword": "ict risks",
       "count": 4
     },
     {
@@ -843,23 +843,15 @@
       "count": 3
     },
     {
-      "keyword": "final report",
-      "count": 3
-    },
-    {
-      "keyword": "fraud",
-      "count": 3
-    },
-    {
-      "keyword": "frtb",
-      "count": 3
-    },
-    {
       "keyword": "internal ratings-based",
       "count": 3
     },
     {
       "keyword": "large language models",
+      "count": 3
+    },
+    {
+      "keyword": "market risk",
       "count": 3
     },
     {
@@ -903,7 +895,11 @@
       "count": 2
     },
     {
-      "keyword": "fundamental review of the trading book",
+      "keyword": "final report",
+      "count": 2
+    },
+    {
+      "keyword": "frtb",
       "count": 2
     },
     {
@@ -917,12 +913,16 @@
     {
       "keyword": "irb",
       "count": 2
+    },
+    {
+      "keyword": "irb model",
+      "count": 2
     }
   ],
   "regionSummary": [
     {
       "region": "EU",
-      "count": 275
+      "count": 272
     },
     {
       "region": "UK",
@@ -952,7 +952,7 @@
     },
     {
       "institution": "European Banking Authority",
-      "count": 64
+      "count": 61
     },
     {
       "institution": "Bank of England",
@@ -1000,6 +1000,59 @@
     }
   ],
   "publications": [
+    {
+      "id": "f0da6afe38cd211a",
+      "title": "SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division",
+      "summary": "The Securities and Exchange Commission today announced it is establishing a new specialized unit within the Division of Enforcement to provide the dedicated expertise, focus, and capacity to pursue accounting and financial reporting fraud cases as well…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-05T18:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "fraud",
+        "reporting",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "fraud"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "2983050549a6d0df",
       "title": "The cost of not knowing: how uncertainty weighs on the euro area economy",
@@ -1581,49 +1634,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "96d8788998ad4cce",
-      "title": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-03T09:15:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-08/7282c1d4-20d2-4fa4-b1e4-b08536e15039/ESA%202026%2007%20-%20Final%20Report%20on%20amending%20RTS%20on%20uncleared%20OTC%20derivatives.pdf"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervisory",
-        "final report",
-        "regulatory technical standards",
-        "rts"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory",
-            "final report",
-            "regulatory technical standards",
-            "rts"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "2ade9d9479668c39",
       "title": "PRA Regulatory Digest – July 2026",
       "summary": "The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.",
@@ -1775,48 +1785,11 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "1f10107dc49abd06",
-      "title": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-08/ESA_2026_07_Final_Report_on_amending_RTS_on_uncleared_OTC_derivatives.pdf"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "e8cc4b7c708511ec",
+      "id": "02ac4a670639ba2a",
       "title": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
       "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251. 31 JULY 2026 EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a statement calling for a cross-sectoral, risk-based and consistent supervisory approach to mitigate the ICT risks stemming from frontier AI models.",
-      "url": "https://www.eba.europa.eu/index.php/publications-and-media/press-releases/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
-      "link": "https://www.eba.europa.eu/index.php/publications-and-media/press-releases/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
       "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
       "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -1884,6 +1857,43 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
+      "id": "1f10107dc49abd06",
+      "title": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
+      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-08/ESA_2026_07_Final_Report_on_amending_RTS_on_uncleared_OTC_derivatives.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "66530666797da3db",
       "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
       "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
@@ -1898,7 +1908,6 @@
       "sourceType": "rss",
       "publishedAt": "2026-07-31T14:00:00.000Z",
       "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260731b2.pdf",
         "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260731b1.pdf"
       ],
       "topics": [
@@ -1945,7 +1954,6 @@
       "sourceType": "rss",
       "publishedAt": "2026-07-31T14:00:00.000Z",
       "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260731a2.pdf",
         "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260731a1.pdf"
       ],
       "topics": [
@@ -2308,60 +2316,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "dbd9c3f9e5e1fb94",
-      "title": "The EBA-ECB-EIOPA “Data Point Model Alliance” consults on improvements to their data dictionary metamodel to better support statistical and supervisory reporting",
-      "summary": "The Data Point Model Alliance, a joint initiative of the EBA, ECB and EIOPA, is committed to making financial sector statistical and supervisory reporting across the EU simpler, smarter and more proportionate. To facilitate the integration of reporting, they launched today a public consultation on enhancements to their DPM metamodel for two months. They also published naming conventions for a consistent approach to metadata. 24 JULY 2026 The EBA seeks feedback on the 4.4 draft technical package of its reporting and disclosure framework The European Banking Authority (EBA) today published a draft technical package for version 4.",
-      "url": "https://www.eba.europa.eu/index.php/publications-and-media/press-releases/eba-ecb-eiopa-data-point-model-alliance-consults-improvements-their-data-dictionary-metamodel-better",
-      "link": "https://www.eba.europa.eu/index.php/publications-and-media/press-releases/eba-ecb-eiopa-data-point-model-alliance-consults-improvements-their-data-dictionary-metamodel-better",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-31T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/3512a5c8-4b76-4f5a-887d-676f812827d5/Factsheet%20on%20DPM%20standard%202.1%20%286%29.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2025-10/b8e0ef8e-2d49-43fc-b917-dbca3423588c/Report%20on%20the%20efficiency%20of%20the%20regulatory%20and%20supervisory%20framework.pdf#page=10",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/7745bc7c-6796-45c5-90a0-9047049197d8/2026-07-30%20-%20Naming%20conventions.pdf"
-      ],
-      "topics": [
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "reporting",
-        "disclosure",
-        "supervisory reporting",
-        "supervisory",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting",
-            "disclosure",
-            "supervisory reporting"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory",
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
       "id": "972eadf1dee6803d",
       "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
       "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
@@ -2517,7 +2471,8 @@
       "pdfLinks": [
         "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/july/monetary-policy-report-july-2026.pdf",
         "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/july/opening-remarks-july-2026.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/july/mpr-july-2026-press-conference-slides.pdf"
+        "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/july/mpr-july-2026-press-conference-slides.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/july/mpr-press-conference-transcript-july-2026.pdf"
       ],
       "topics": [
         "Supervision / Enforcement"
@@ -4388,7 +4343,13 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T07:46:09.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-07/989e5315-9c23-42c6-a02a-ade75288ad3b/Consultation%20Paper%20on%20amending%20ITS%20the%202027%20market%20risk%20benchmarking%20exercise.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/b9cbdd06-11b5-49ef-88ed-0bb2f9656302/Annex%201%20%28Booking%20instructions%29.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/200a7953-649c-4e32-9271-cacc3cc3bfbf/Annex%202%20%28MR%20Relevant%20dates%20of%20the%20exercise%29.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/6259536a-d466-4f02-87ec-3d6ebc2bad08/Annex%203%20%28MR%20Instruments%20and%20portfolios%29-TC.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/d48d72fc-89fd-4102-9e70-576930e925c7/Annex%205%20%28MR%20Templates%20Instructions%29.pdf"
+      ],
       "topics": [
         "Basel / BCBS",
         "Market Risk",
@@ -4454,7 +4415,9 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-07-16T18:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260716a1.pdf"
+      ],
       "topics": [
         "Governance"
       ],
@@ -11017,29 +10980,6 @@
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "updateType": "Other",
       "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "2a8255c931170681",
-      "title": "SEC and NFA Announce Memorandum of Understanding to Further Harmonize Regulatory Coordination",
-      "summary": "The Securities and Exchange Commission and National Futures Association (NFA) today announced that they have entered into a Memorandum of Understanding (MOU) to enhance their cooperation, coordination, and information sharing in areas of common…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-47-sec-nfa-announce-memorandum-understanding-further-harmonize-regulatory-coordination",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-21T12:51:10.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-47-sec-nfa-announce-memorandum-understanding-further-harmonize-regulatory-coordination",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "b99a4b9fa8588a25",
@@ -21412,61 +21352,6 @@
       "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
     },
     {
-      "id": "e8cdb07ad3838fdb",
-      "title": "​The EBA publishes a no-action letter and technical considerations to support the implementation of the market risk framework for EU banks",
-      "summary": "​The European Banking Authority (EBA) today published a no-action letter on the boundary between the banking book and the trading book and shared technical clarifications on issues linked to the European Commission’s Delegated Act modifying the calculation of own funds requirements for market risk based on the Fundamental Review of the Trading Book (FRTB) framework. The measures support a consistent and harmonised implementation of the revised framework across the EU.",
-      "url": "https://www.eba.europa.eu/index.php/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk",
-      "link": "https://www.eba.europa.eu/index.php/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": null,
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-08/ca1f1829-aff0-4d8a-b1de-d0549a5cfe40/No%20Action%20Letter%20on%20the%20boundary%20in%20the%20context%20of%20the%203rd%20FRTB%20DA.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf"
-      ],
-      "topics": [
-        "Capital Requirements",
-        "Market Risk"
-      ],
-      "matchedKeywords": [
-        "own funds",
-        "market risk",
-        "trading book",
-        "frtb",
-        "fundamental review of the trading book"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "own funds"
-          ]
-        },
-        {
-          "id": "market-risk",
-          "label": "Market Risk",
-          "keywords": [
-            "market risk",
-            "trading book",
-            "frtb",
-            "fundamental review of the trading book"
-          ]
-        }
-      ],
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report",
-      "originalPublishedAt": "2026-11-02T00:00:00.000Z",
-      "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
-    },
-    {
       "id": "0669e79472a354cc",
       "title": "Trial date set for individual charged with illegal promotions",
       "summary": "On 30 July 2026, Lucy Beck attended Southwark Crown Court for a hearing in relation to unauthorised promotions on social media. Ms Beck entered a not guilty plea and the date of her trial has been set as 12 June 2028. It is alleged that Ms Beck promoted buying and selling Foreign Exchange Contracts for Difference through social media accounts and websites, without being authorised to do so, contrary to sections 21 and 25 of the Financial Services and Markets Act 2000. Notes to editorsLucy Beck’s date of birth is 30/04/1994. Anyone who believes they may have suffered loss in relation to this matter is encouraged to contact the FCA consumer contact centre on 0800 111 6768.",
@@ -21586,7 +21471,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-05T12:39:24.270Z",
+      "publishedAt": "2026-08-05T19:30:29.854Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21610,7 +21495,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:39:24.270Z",
+      "publishedAt": "2026-08-05T19:30:29.854Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21634,7 +21519,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:39:24.270Z",
+      "publishedAt": "2026-08-05T19:30:29.854Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21658,7 +21543,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:39:24.270Z",
+      "publishedAt": "2026-08-05T19:30:29.854Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21682,7 +21567,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:39:24.270Z",
+      "publishedAt": "2026-08-05T19:30:29.854Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21706,7 +21591,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:39:24.270Z",
+      "publishedAt": "2026-08-05T19:30:29.854Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21730,7 +21615,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:39:24.270Z",
+      "publishedAt": "2026-08-05T19:30:29.854Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21754,7 +21639,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:39:24.270Z",
+      "publishedAt": "2026-08-05T19:30:29.854Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21778,7 +21663,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:39:24.270Z",
+      "publishedAt": "2026-08-05T19:30:29.854Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21802,7 +21687,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:39:24.270Z",
+      "publishedAt": "2026-08-05T19:30:29.854Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21826,7 +21711,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:39:24.270Z",
+      "publishedAt": "2026-08-05T19:30:29.854Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21850,7 +21735,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:39:24.270Z",
+      "publishedAt": "2026-08-05T19:30:29.854Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21874,7 +21759,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:39:24.270Z",
+      "publishedAt": "2026-08-05T19:30:29.854Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21891,19 +21776,19 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 103
-    },
-    {
-      "updateType": "Publications / Reports",
-      "count": 78
+      "count": 102
     },
     {
       "updateType": "News",
       "count": 77
     },
     {
+      "updateType": "Publications / Reports",
+      "count": 77
+    },
+    {
       "updateType": "Consultations",
-      "count": 37
+      "count": 36
     },
     {
       "updateType": "Working Papers / Research",
