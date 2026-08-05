@@ -401,5 +401,126 @@
     "url": "https://www.ecb.europa.eu/rss/tipsmeetdocs.rss",
     "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
     "notes": "Official ECB RSS feed for TIPS meeting documents."
+  },
+  {
+    "id": "fca-publications",
+    "name": "FCA Publications",
+    "institution": "Financial Conduct Authority",
+    "region": "UK",
+    "jurisdiction": "UK",
+    "type": "html-list",
+    "url": "https://www.fca.org.uk/publications",
+    "officialSourcePage": "https://www.fca.org.uk/publications",
+    "itemUrlContains": [
+      "/publications/",
+      "/publication/"
+    ],
+    "allowEmpty": true,
+    "extraParser": true,
+    "notes": "Official FCA publications landing page."
+  },
+  {
+    "id": "fca-consultation-papers",
+    "name": "FCA Consultation Papers",
+    "institution": "Financial Conduct Authority",
+    "region": "UK",
+    "jurisdiction": "UK",
+    "type": "html-list",
+    "url": "https://www.fca.org.uk/publications/consultation-papers",
+    "officialSourcePage": "https://www.fca.org.uk/publications/consultation-papers",
+    "itemUrlContains": [
+      "/publications/consultation-papers/",
+      "/publication/consultation/"
+    ],
+    "allowEmpty": true,
+    "extraParser": true,
+    "notes": "Official FCA consultation papers page."
+  },
+  {
+    "id": "fca-policy-statements",
+    "name": "FCA Policy Statements",
+    "institution": "Financial Conduct Authority",
+    "region": "UK",
+    "jurisdiction": "UK",
+    "type": "html-list",
+    "url": "https://www.fca.org.uk/publications/policy-statements",
+    "officialSourcePage": "https://www.fca.org.uk/publications/policy-statements",
+    "itemUrlContains": [
+      "/publications/policy-statements/",
+      "/publication/policy/"
+    ],
+    "allowEmpty": true,
+    "extraParser": true,
+    "notes": "Official FCA policy statements page."
+  },
+  {
+    "id": "fca-finalised-guidance",
+    "name": "FCA Finalised Guidance",
+    "institution": "Financial Conduct Authority",
+    "region": "UK",
+    "jurisdiction": "UK",
+    "type": "html-list",
+    "url": "https://www.fca.org.uk/publications/finalised-guidance",
+    "officialSourcePage": "https://www.fca.org.uk/publications/finalised-guidance",
+    "itemUrlContains": [
+      "/publications/finalised-guidance/",
+      "/publication/finalised-guidance/"
+    ],
+    "allowEmpty": true,
+    "extraParser": true,
+    "notes": "Official FCA finalised guidance page."
+  },
+  {
+    "id": "fca-research-data",
+    "name": "FCA Research and Data",
+    "institution": "Financial Conduct Authority",
+    "region": "UK",
+    "jurisdiction": "UK",
+    "type": "html-list",
+    "url": "https://www.fca.org.uk/publications/research",
+    "officialSourcePage": "https://www.fca.org.uk/publications/research",
+    "itemUrlContains": [
+      "/publications/research/",
+      "/publication/research/"
+    ],
+    "allowEmpty": true,
+    "extraParser": true,
+    "notes": "Official FCA research and data publications page."
+  },
+  {
+    "id": "fca-corporate-documents",
+    "name": "FCA Corporate Documents",
+    "institution": "Financial Conduct Authority",
+    "region": "UK",
+    "jurisdiction": "UK",
+    "type": "html-list",
+    "url": "https://www.fca.org.uk/publications/corporate-documents",
+    "officialSourcePage": "https://www.fca.org.uk/publications/corporate-documents",
+    "itemUrlContains": [
+      "/publications/corporate-documents/",
+      "/publication/corporate/"
+    ],
+    "allowEmpty": true,
+    "extraParser": true,
+    "notes": "Official FCA corporate documents page."
+  },
+  {
+    "id": "fca-notices-decisions",
+    "name": "FCA Notices and Decisions",
+    "institution": "Financial Conduct Authority",
+    "region": "UK",
+    "jurisdiction": "UK",
+    "type": "html-list",
+    "url": "https://www.fca.org.uk/publications/notices-decisions",
+    "officialSourcePage": "https://www.fca.org.uk/publications/notices-decisions",
+    "itemUrlContains": [
+      "/publications/final-notices/",
+      "/publications/decision-notices/",
+      "/publication/final-notices/",
+      "/publication/decision-notices/"
+    ],
+    "allowEmpty": true,
+    "extraParser": true,
+    "notes": "Official FCA notices and decisions page."
   }
 ]

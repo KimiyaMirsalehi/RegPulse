@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T12:07:56.894Z",
-  "totalPublications": 533,
-  "sourceCount": 31,
-  "successfulSources": 31,
+  "generatedAt": "2026-08-05T12:32:33.844Z",
+  "totalPublications": 540,
+  "sourceCount": 38,
+  "successfulSources": 38,
   "warningSources": 0,
   "failedSources": 0,
   "sourceStatus": [
@@ -408,6 +408,97 @@
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "message": "Parsed successfully."
+    },
+    {
+      "id": "fca-publications",
+      "name": "FCA Publications",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "status": "success",
+      "parserMode": "html-list-empty",
+      "itemCount": 0,
+      "url": "https://www.fca.org.uk/publications",
+      "sourcePageUrl": "https://www.fca.org.uk/publications",
+      "officialSourcePage": "https://www.fca.org.uk/publications",
+      "message": "Official source page is available. No clean dated items were extracted today, so the source page is shown as a direct link."
+    },
+    {
+      "id": "fca-consultation-papers",
+      "name": "FCA Consultation Papers",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "status": "success",
+      "parserMode": "source-empty-or-unavailable",
+      "itemCount": 0,
+      "url": "https://www.fca.org.uk/publications/consultation-papers",
+      "sourcePageUrl": "https://www.fca.org.uk/publications/consultation-papers",
+      "officialSourcePage": "https://www.fca.org.uk/publications/consultation-papers",
+      "message": "Official source page is available. No clean dated items were extracted today, so the source page is shown as a direct link."
+    },
+    {
+      "id": "fca-policy-statements",
+      "name": "FCA Policy Statements",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "status": "success",
+      "parserMode": "source-empty-or-unavailable",
+      "itemCount": 0,
+      "url": "https://www.fca.org.uk/publications/policy-statements",
+      "sourcePageUrl": "https://www.fca.org.uk/publications/policy-statements",
+      "officialSourcePage": "https://www.fca.org.uk/publications/policy-statements",
+      "message": "Official source page is available. No clean dated items were extracted today, so the source page is shown as a direct link."
+    },
+    {
+      "id": "fca-finalised-guidance",
+      "name": "FCA Finalised Guidance",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "status": "success",
+      "parserMode": "source-empty-or-unavailable",
+      "itemCount": 0,
+      "url": "https://www.fca.org.uk/publications/finalised-guidance",
+      "sourcePageUrl": "https://www.fca.org.uk/publications/finalised-guidance",
+      "officialSourcePage": "https://www.fca.org.uk/publications/finalised-guidance",
+      "message": "Official source page is available. No clean dated items were extracted today, so the source page is shown as a direct link."
+    },
+    {
+      "id": "fca-research-data",
+      "name": "FCA Research and Data",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "status": "success",
+      "parserMode": "source-empty-or-unavailable",
+      "itemCount": 0,
+      "url": "https://www.fca.org.uk/publications/research",
+      "sourcePageUrl": "https://www.fca.org.uk/publications/research",
+      "officialSourcePage": "https://www.fca.org.uk/publications/research",
+      "message": "Official source page is available. No clean dated items were extracted today, so the source page is shown as a direct link."
+    },
+    {
+      "id": "fca-corporate-documents",
+      "name": "FCA Corporate Documents",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "status": "success",
+      "parserMode": "source-empty-or-unavailable",
+      "itemCount": 0,
+      "url": "https://www.fca.org.uk/publications/corporate-documents",
+      "sourcePageUrl": "https://www.fca.org.uk/publications/corporate-documents",
+      "officialSourcePage": "https://www.fca.org.uk/publications/corporate-documents",
+      "message": "Official source page is available. No clean dated items were extracted today, so the source page is shown as a direct link."
+    },
+    {
+      "id": "fca-notices-decisions",
+      "name": "FCA Notices and Decisions",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "status": "success",
+      "parserMode": "source-empty-or-unavailable",
+      "itemCount": 0,
+      "url": "https://www.fca.org.uk/publications/notices-decisions",
+      "sourcePageUrl": "https://www.fca.org.uk/publications/notices-decisions",
+      "officialSourcePage": "https://www.fca.org.uk/publications/notices-decisions",
+      "message": "Official source page is available. No clean dated items were extracted today, so the source page is shown as a direct link."
     }
   ],
   "topicSummary": [
@@ -887,7 +978,7 @@
     },
     {
       "region": "UK",
-      "count": 122
+      "count": 129
     },
     {
       "region": "US",
@@ -928,12 +1019,12 @@
       "count": 30
     },
     {
-      "institution": "U.S. Securities and Exchange Commission",
-      "count": 25
+      "institution": "Financial Conduct Authority",
+      "count": 28
     },
     {
-      "institution": "Financial Conduct Authority",
-      "count": 21
+      "institution": "U.S. Securities and Exchange Commission",
+      "count": 25
     },
     {
       "institution": "Consumer Financial Protection Bureau",
@@ -961,300 +1052,6 @@
     }
   ],
   "publications": [
-    {
-      "id": "b06a0099fbbc51e6",
-      "title": "EBA consideration on the application of the FRTB from",
-      "summary": "",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
-      "sourceId": "eba-publications",
-      "sourceName": "EBA Publications",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2027-01-01T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf"
-      ],
-      "topics": [
-        "Market Risk"
-      ],
-      "matchedKeywords": [
-        "frtb"
-      ],
-      "topicMatches": [
-        {
-          "id": "market-risk",
-          "label": "Market Risk",
-          "keywords": [
-            "frtb"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "e8cdb07ad3838fdb",
-      "title": "​The EBA publishes a no-action letter and technical considerations to support the implementation of the market risk framework for EU banks",
-      "summary": "​The European Banking Authority (EBA) today published a no-action letter on the boundary between the banking book and the trading book and shared technical clarifications on issues linked to the European Commission’s Delegated Act modifying the calculation of own funds requirements for market risk based on the Fundamental Review of the Trading Book (FRTB) framework. The measures support a consistent and harmonised implementation of the revised framework across the EU.",
-      "url": "https://www.eba.europa.eu/index.php/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk",
-      "link": "https://www.eba.europa.eu/index.php/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-11-02T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-08/ca1f1829-aff0-4d8a-b1de-d0549a5cfe40/No%20Action%20Letter%20on%20the%20boundary%20in%20the%20context%20of%20the%203rd%20FRTB%20DA.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf"
-      ],
-      "topics": [
-        "Capital Requirements",
-        "Market Risk"
-      ],
-      "matchedKeywords": [
-        "own funds",
-        "market risk",
-        "trading book",
-        "frtb",
-        "fundamental review of the trading book"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "own funds"
-          ]
-        },
-        {
-          "id": "market-risk",
-          "label": "Market Risk",
-          "keywords": [
-            "market risk",
-            "trading book",
-            "frtb",
-            "fundamental review of the trading book"
-          ]
-        }
-      ],
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "93a9223339d76280",
-      "title": "​Joint Board of Appeal dismisses appeal against the EBA",
-      "summary": "​The Joint Board of Appeal of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) has issued a decision stating that an appeal brought by an individual against the European Banking Authority (EBA) is inadmissible. 9 JULY 2026 ​The EBA releases the final technical package for its 4.3 reporting framework to support Third-Country Branches reporting and AML Authority risk assessment data collection ​The European Banking Authority (EBA) today published the final technical package for version 4.3 of its reporting framework.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-board-appeal-dismisses-appeal-against-eba",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-board-appeal-dismisses-appeal-against-eba",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/10158b52-0c16-4dd8-bf45-f34c25ba03d1/D%20v%20EBA_Final%20decision.pdf"
-      ],
-      "topics": [
-        "AML / Financial Crime",
-        "Governance",
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "aml",
-        "board",
-        "reporting",
-        "supervisory",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "aml"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory",
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "9d31e627bbbe642e",
-      "title": "The EBA clarifies its Product Oversight and Governance Guidelines which address greenwashing risks in ESG products",
-      "summary": "The European Banking Authority (EBA) today published revised Guidelines on product oversight and governance (POG) for retail banking products. They clarify requirements for products with environmental, social and governance (ESG) features whenever offered and sold to consumers and address greenwashing risks. The Guidelines aim to ensure that financial institutions apply robust standards when designing and distributing ESG-related retail products, with a view to reducing the risk of consumers being misled or sold products that do not meet their needs.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-08-12T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2024-05/a12e5087-8fd2-451f-8005-6d45dc838ffd/Report%20on%20greenwashing%20monitoring%20and%20supervision.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-06/d4b262c5-d8b7-45fa-a772-89a3719b61cd/EBA%20amending%20GLs%20on%20POG%20GLs%20-%20Final%20report.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-06/8f6eeb6c-371d-4a96-ad85-f6c6d07142cc/Consolidated%20version%20of%20EBA-GL-2015-18%20on%20product%20oversight%20and%20governance%20.pdf"
-      ],
-      "topics": [
-        "Climate / ESG",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "esg",
-        "greenwashing",
-        "governance",
-        "guidelines",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "esg",
-            "greenwashing"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "governance"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "guidelines",
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "36d18ab90394383f",
-      "title": "The EBA amends Guidelines on the definition of default",
-      "summary": "The European Banking Authority (EBA) published today its final Report amending the Guidelines on the application of the definition of default. The Report introduces targeted amendments to better reflect specific aspects of non recourse factoring. It also confirms that the 1% threshold applied to reductions in net present value loss (NPV threshold) in debt restructuring remains appropriate for prudential default recognition. 29 APRIL 2026 The EBA publishes its final Guidelines on supervisory independence The European Banking Authority (EBA) today published its final Guidelines on Supervisory Independence under the Capital Requirements Directive (CRD).",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-05/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20Guidelines%20on%20definition%20of%20default.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_BG.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_CS.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_DA.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_DE.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_EL.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_ES.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_ET.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_FI.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_FR.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_GA.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_HR.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_HU.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_IT.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_LT.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_LV.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_MT.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_NL.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_PL.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_PT.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_RO.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_SK.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_SL.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_SV.pdf"
-      ],
-      "topics": [
-        "Capital Requirements",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "capital requirements",
-        "crd",
-        "supervisory",
-        "final report",
-        "guidelines",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital requirements",
-            "crd"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory",
-            "final report",
-            "guidelines",
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
     {
       "id": "2983050549a6d0df",
       "title": "The cost of not knowing: how uncertainty weighs on the euro area economy",
@@ -22527,6 +22324,45 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "b06a0099fbbc51e6",
+      "title": "EBA consideration on the application of the FRTB from",
+      "summary": "",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
+      "sourceId": "eba-publications",
+      "sourceName": "EBA Publications",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf"
+      ],
+      "topics": [
+        "Market Risk"
+      ],
+      "matchedKeywords": [
+        "frtb"
+      ],
+      "topicMatches": [
+        {
+          "id": "market-risk",
+          "label": "Market Risk",
+          "keywords": [
+            "frtb"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report",
+      "originalPublishedAt": "2027-01-01T00:00:00.000Z",
+      "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
+    },
+    {
       "id": "582f678ef8bba519",
       "title": "FCA advances package of equity market transparency reforms",
       "summary": "The FCA has published a package of reforms designed to improve transparency, strengthen access to market-wide information and support confidence in UK equity markets. The package confirms the framework for a future equity consolidated tape, consults on targeted market structure reforms and introduces an interim market activity reporting tool for shares. UK equity markets offer investors a wide choice of trading options. The FCA's assessment is that competition and innovation have delivered significant benefits for market users, helping create liquid and resilient markets. However, greater choice has also increased fragmentation.",
@@ -22846,6 +22682,74 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
+      "id": "93a9223339d76280",
+      "title": "​Joint Board of Appeal dismisses appeal against the EBA",
+      "summary": "​The Joint Board of Appeal of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) has issued a decision stating that an appeal brought by an individual against the European Banking Authority (EBA) is inadmissible. 9 JULY 2026 ​The EBA releases the final technical package for its 4.3 reporting framework to support Third-Country Branches reporting and AML Authority risk assessment data collection ​The European Banking Authority (EBA) today published the final technical package for version 4.3 of its reporting framework.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-board-appeal-dismisses-appeal-against-eba",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-board-appeal-dismisses-appeal-against-eba",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-07/10158b52-0c16-4dd8-bf45-f34c25ba03d1/D%20v%20EBA_Final%20decision.pdf"
+      ],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "aml",
+        "board",
+        "reporting",
+        "supervisory",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "aml"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance",
+      "originalPublishedAt": "2026-09-03T00:00:00.000Z",
+      "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
+    },
+    {
       "id": "3974ea7e0b953c58",
       "title": "Joint taskforce continues crack down on misleading car finance claims adverts",
       "summary": "The FCA, Advertising Standards Authority, Solicitors Regulation Authority and Information Commissioner's Office are tackling the poor handling of motor finance claims by some claims companies and law firms. As part of the joint taskforce's continued crackdown, in June the FCA had 170 misleading car finance claims adverts removed or amended by claims management companies (CMCs), bringing the total up to 1,200 since January 2024. Some of the misleading adverts seen by the FCA:Were disguised as a consumer posting on social media recommending a website to look up agreements. However, the advert failed to make clear it was a financial promotion for a CMC that was recommending its own website.",
@@ -23107,6 +23011,203 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "36d18ab90394383f",
+      "title": "The EBA amends Guidelines on the definition of default",
+      "summary": "The European Banking Authority (EBA) published today its final Report amending the Guidelines on the application of the definition of default. The Report introduces targeted amendments to better reflect specific aspects of non recourse factoring. It also confirms that the 1% threshold applied to reductions in net present value loss (NPV threshold) in debt restructuring remains appropriate for prudential default recognition. 29 APRIL 2026 The EBA publishes its final Guidelines on supervisory independence The European Banking Authority (EBA) today published its final Guidelines on Supervisory Independence under the Capital Requirements Directive (CRD).",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-05/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20Guidelines%20on%20definition%20of%20default.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_BG.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_CS.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_DA.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_DE.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_EL.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_ES.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_ET.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_FI.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_FR.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_GA.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_HR.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_HU.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_IT.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_LT.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_LV.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_MT.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_NL.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_PL.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_PT.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_RO.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_SK.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_SL.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_SV.pdf"
+      ],
+      "topics": [
+        "Capital Requirements",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "capital requirements",
+        "crd",
+        "supervisory",
+        "final report",
+        "guidelines",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital requirements",
+            "crd"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "final report",
+            "guidelines",
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance",
+      "originalPublishedAt": "2026-08-07T00:00:00.000Z",
+      "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
+    },
+    {
+      "id": "9d31e627bbbe642e",
+      "title": "The EBA clarifies its Product Oversight and Governance Guidelines which address greenwashing risks in ESG products",
+      "summary": "The European Banking Authority (EBA) today published revised Guidelines on product oversight and governance (POG) for retail banking products. They clarify requirements for products with environmental, social and governance (ESG) features whenever offered and sold to consumers and address greenwashing risks. The Guidelines aim to ensure that financial institutions apply robust standards when designing and distributing ESG-related retail products, with a view to reducing the risk of consumers being misled or sold products that do not meet their needs.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2024-05/a12e5087-8fd2-451f-8005-6d45dc838ffd/Report%20on%20greenwashing%20monitoring%20and%20supervision.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-06/d4b262c5-d8b7-45fa-a772-89a3719b61cd/EBA%20amending%20GLs%20on%20POG%20GLs%20-%20Final%20report.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-06/8f6eeb6c-371d-4a96-ad85-f6c6d07142cc/Consolidated%20version%20of%20EBA-GL-2015-18%20on%20product%20oversight%20and%20governance%20.pdf"
+      ],
+      "topics": [
+        "Climate / ESG",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "esg",
+        "greenwashing",
+        "governance",
+        "guidelines",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "esg",
+            "greenwashing"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "guidelines",
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance",
+      "originalPublishedAt": "2026-08-12T00:00:00.000Z",
+      "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
+    },
+    {
+      "id": "e8cdb07ad3838fdb",
+      "title": "​The EBA publishes a no-action letter and technical considerations to support the implementation of the market risk framework for EU banks",
+      "summary": "​The European Banking Authority (EBA) today published a no-action letter on the boundary between the banking book and the trading book and shared technical clarifications on issues linked to the European Commission’s Delegated Act modifying the calculation of own funds requirements for market risk based on the Fundamental Review of the Trading Book (FRTB) framework. The measures support a consistent and harmonised implementation of the revised framework across the EU.",
+      "url": "https://www.eba.europa.eu/index.php/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk",
+      "link": "https://www.eba.europa.eu/index.php/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-08/ca1f1829-aff0-4d8a-b1de-d0549a5cfe40/No%20Action%20Letter%20on%20the%20boundary%20in%20the%20context%20of%20the%203rd%20FRTB%20DA.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf"
+      ],
+      "topics": [
+        "Capital Requirements",
+        "Market Risk"
+      ],
+      "matchedKeywords": [
+        "own funds",
+        "market risk",
+        "trading book",
+        "frtb",
+        "fundamental review of the trading book"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "own funds"
+          ]
+        },
+        {
+          "id": "market-risk",
+          "label": "Market Risk",
+          "keywords": [
+            "market risk",
+            "trading book",
+            "frtb",
+            "fundamental review of the trading book"
+          ]
+        }
+      ],
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report",
+      "originalPublishedAt": "2026-11-02T00:00:00.000Z",
+      "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
+    },
+    {
       "id": "0669e79472a354cc",
       "title": "Trial date set for individual charged with illegal promotions",
       "summary": "On 30 July 2026, Lucy Beck attended Southwark Crown Court for a hearing in relation to unauthorised promotions on social media. Ms Beck entered a not guilty plea and the date of her trial has been set as 12 June 2028. It is alleged that Ms Beck promoted buying and selling Foreign Exchange Contracts for Difference through social media accounts and websites, without being authorised to do so, contrary to sections 21 and 25 of the Financial Services and Markets Act 2000. Notes to editorsLucy Beck’s date of birth is 30/04/1994. Anyone who believes they may have suffered loss in relation to this matter is encouraged to contact the FCA consumer contact centre on 0800 111 6768.",
@@ -23226,7 +23327,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-05T12:07:56.894Z",
+      "publishedAt": "2026-08-05T12:32:33.844Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23250,7 +23351,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:07:56.894Z",
+      "publishedAt": "2026-08-05T12:32:33.844Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23274,7 +23375,151 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:07:56.894Z",
+      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "isSourceLandingCard": true,
+      "updateType": "Source Pages",
+      "updateTypeDetail": "Official source page"
+    },
+    {
+      "id": "b5e6c2fa69c56934",
+      "title": "FCA Consultation Papers: official source page",
+      "summary": "Open the official FCA Consultation Papers source page for the latest publications, announcements and regulatory updates.",
+      "url": "https://www.fca.org.uk/publications/consultation-papers",
+      "link": "https://www.fca.org.uk/publications/consultation-papers",
+      "sourcePageUrl": "https://www.fca.org.uk/publications/consultation-papers",
+      "officialSourcePage": "https://www.fca.org.uk/publications/consultation-papers",
+      "sourceFeedUrl": "https://www.fca.org.uk/publications/consultation-papers",
+      "sourceId": "fca-consultation-papers",
+      "sourceName": "FCA Consultation Papers",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "html-list",
+      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "isSourceLandingCard": true,
+      "updateType": "Source Pages",
+      "updateTypeDetail": "Official source page"
+    },
+    {
+      "id": "26f5a1649a901339",
+      "title": "FCA Corporate Documents: official source page",
+      "summary": "Open the official FCA Corporate Documents source page for the latest publications, announcements and regulatory updates.",
+      "url": "https://www.fca.org.uk/publications/corporate-documents",
+      "link": "https://www.fca.org.uk/publications/corporate-documents",
+      "sourcePageUrl": "https://www.fca.org.uk/publications/corporate-documents",
+      "officialSourcePage": "https://www.fca.org.uk/publications/corporate-documents",
+      "sourceFeedUrl": "https://www.fca.org.uk/publications/corporate-documents",
+      "sourceId": "fca-corporate-documents",
+      "sourceName": "FCA Corporate Documents",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "html-list",
+      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "isSourceLandingCard": true,
+      "updateType": "Source Pages",
+      "updateTypeDetail": "Official source page"
+    },
+    {
+      "id": "773b591a6d1ecd42",
+      "title": "FCA Finalised Guidance: official source page",
+      "summary": "Open the official FCA Finalised Guidance source page for the latest publications, announcements and regulatory updates.",
+      "url": "https://www.fca.org.uk/publications/finalised-guidance",
+      "link": "https://www.fca.org.uk/publications/finalised-guidance",
+      "sourcePageUrl": "https://www.fca.org.uk/publications/finalised-guidance",
+      "officialSourcePage": "https://www.fca.org.uk/publications/finalised-guidance",
+      "sourceFeedUrl": "https://www.fca.org.uk/publications/finalised-guidance",
+      "sourceId": "fca-finalised-guidance",
+      "sourceName": "FCA Finalised Guidance",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "html-list",
+      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "isSourceLandingCard": true,
+      "updateType": "Source Pages",
+      "updateTypeDetail": "Official source page"
+    },
+    {
+      "id": "15c7febb19a5d3f8",
+      "title": "FCA Notices and Decisions: official source page",
+      "summary": "Open the official FCA Notices and Decisions source page for the latest publications, announcements and regulatory updates.",
+      "url": "https://www.fca.org.uk/publications/notices-decisions",
+      "link": "https://www.fca.org.uk/publications/notices-decisions",
+      "sourcePageUrl": "https://www.fca.org.uk/publications/notices-decisions",
+      "officialSourcePage": "https://www.fca.org.uk/publications/notices-decisions",
+      "sourceFeedUrl": "https://www.fca.org.uk/publications/notices-decisions",
+      "sourceId": "fca-notices-decisions",
+      "sourceName": "FCA Notices and Decisions",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "html-list",
+      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "isSourceLandingCard": true,
+      "updateType": "Source Pages",
+      "updateTypeDetail": "Official source page"
+    },
+    {
+      "id": "0651ab6988e910d1",
+      "title": "FCA Policy Statements: official source page",
+      "summary": "Open the official FCA Policy Statements source page for the latest publications, announcements and regulatory updates.",
+      "url": "https://www.fca.org.uk/publications/policy-statements",
+      "link": "https://www.fca.org.uk/publications/policy-statements",
+      "sourcePageUrl": "https://www.fca.org.uk/publications/policy-statements",
+      "officialSourcePage": "https://www.fca.org.uk/publications/policy-statements",
+      "sourceFeedUrl": "https://www.fca.org.uk/publications/policy-statements",
+      "sourceId": "fca-policy-statements",
+      "sourceName": "FCA Policy Statements",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "html-list",
+      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "isSourceLandingCard": true,
+      "updateType": "Source Pages",
+      "updateTypeDetail": "Official source page"
+    },
+    {
+      "id": "ade7e024bbf43401",
+      "title": "FCA Publications: official source page",
+      "summary": "Open the official FCA Publications source page for the latest publications, announcements and regulatory updates.",
+      "url": "https://www.fca.org.uk/publications",
+      "link": "https://www.fca.org.uk/publications",
+      "sourcePageUrl": "https://www.fca.org.uk/publications",
+      "officialSourcePage": "https://www.fca.org.uk/publications",
+      "sourceFeedUrl": "https://www.fca.org.uk/publications",
+      "sourceId": "fca-publications",
+      "sourceName": "FCA Publications",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "html-list",
+      "publishedAt": "2026-08-05T12:32:33.844Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23298,7 +23543,31 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:07:56.894Z",
+      "publishedAt": "2026-08-05T12:32:33.844Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "isSourceLandingCard": true,
+      "updateType": "Source Pages",
+      "updateTypeDetail": "Official source page"
+    },
+    {
+      "id": "9f242df1725fe6d0",
+      "title": "FCA Research and Data: official source page",
+      "summary": "Open the official FCA Research and Data source page for the latest publications, announcements and regulatory updates.",
+      "url": "https://www.fca.org.uk/publications/research",
+      "link": "https://www.fca.org.uk/publications/research",
+      "sourcePageUrl": "https://www.fca.org.uk/publications/research",
+      "officialSourcePage": "https://www.fca.org.uk/publications/research",
+      "sourceFeedUrl": "https://www.fca.org.uk/publications/research",
+      "sourceId": "fca-research-data",
+      "sourceName": "FCA Research and Data",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "html-list",
+      "publishedAt": "2026-08-05T12:32:33.844Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23322,7 +23591,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:07:56.894Z",
+      "publishedAt": "2026-08-05T12:32:33.844Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23346,7 +23615,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T12:07:56.894Z",
+      "publishedAt": "2026-08-05T12:32:33.844Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -23391,7 +23660,7 @@
     },
     {
       "updateType": "Source Pages",
-      "count": 6
+      "count": 13
     },
     {
       "updateType": "Events",
