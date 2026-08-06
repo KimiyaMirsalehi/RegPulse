@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T19:30:29.854Z",
-  "totalPublications": 480,
+  "generatedAt": "2026-08-06T08:35:44.889Z",
+  "totalPublications": 484,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 5,
+      "itemCount": 9,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 272
+      "count": 276
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 81
+      "count": 85
     },
     {
       "institution": "European Banking Authority",
@@ -1000,6 +1000,214 @@
     }
   ],
   "publications": [
+    {
+      "id": "36d18ab90394383f",
+      "title": "The EBA amends Guidelines on the definition of default",
+      "summary": "The European Banking Authority (EBA) published today its final Report amending the Guidelines on the application of the definition of default. The Report introduces targeted amendments to better reflect specific aspects of non recourse factoring. It also confirms that the 1% threshold applied to reductions in net present value loss (NPV threshold) in debt restructuring remains appropriate for prudential default recognition. 29 APRIL 2026 The EBA publishes its final Guidelines on supervisory independence The European Banking Authority (EBA) today published its final Guidelines on Supervisory Independence under the Capital Requirements Directive (CRD).",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-08-07T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-05/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20Guidelines%20on%20definition%20of%20default.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_BG.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_CS.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_DA.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_DE.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_EL.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_ES.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_ET.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_FI.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_FR.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_GA.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_HR.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_HU.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_IT.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_LT.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_LV.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_MT.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_NL.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_PL.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_PT.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_RO.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_SK.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_SL.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_SV.pdf"
+      ],
+      "topics": [
+        "Capital Requirements",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "capital requirements",
+        "crd",
+        "supervisory",
+        "final report",
+        "guidelines",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital requirements",
+            "crd"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "final report",
+            "guidelines",
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "a7401dd88132e6b8",
+      "title": "Assessing the scope for compensatory fiscal measures in response to the recent energy shock",
+      "summary": "This box assesses the scope for euro area governments to adopt compensatory fiscal measures against the backdrop of the recent energy shock. It examines the available fiscal space, reviews the discretionary fiscal support provided so far, and assesses whether the current inflation environment has generated additional revenues that could partially finance current and future measures. The box concludes that, since fiscal space is more constrained than it was during the 2022 energy crisis and there is only modest scope for self-financing through inflation-driven revenues, it is all the more important for fiscal support to be temporary, targeted and tailored.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_08~381440ea4e.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-06T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op332~2dde0481fe.en.pdf",
+        "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/24/T1/Files/be2401-art06e.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op371.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_08~381440ea4e.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "7b7525d6e60e7c35",
+      "title": "Capturing inflation expectations (de-)anchoring and what survey-based metrics are telling us",
+      "summary": "This box assesses the anchoring of longer-term inflation expectations following the recent energy price shock using level, higher-moment and shock-sensitivity measures from surveys of consumers, firms and professional forecasters. A holistic approach reflecting the structurally different expectation patterns, uncertainty levels and biases of these different agents yields three main findings. First, level anchoring broadly holds, as the longer-term expectations of professional forecasters remain at 2%, while firms and consumers have revised their expectations upwards only modestly and still largely view the recent increase in inflation as temporary.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_06~06d555dcf1.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-06T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bancaditalia.it/pubblicazioni/qef/2022-0712/QEF_712_22.pdf",
+        "https://www.brookings.edu/wp-content/uploads/2021/09/Losing-the-Inflation-Anchor_Conf-Draft.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op264~c8a3ee35b5.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op371.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_06~06d555dcf1.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "6a9238ba3ce46e61",
+      "title": "Economic Bulletin Issue 5, 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/html/eb202605.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-06T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/ecbu/eb202605.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/ecbu/ecb.eb_annex202605~eb96358d07.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/html/eb202605.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "66723b231ebe9a15",
+      "title": "The ECB-BIG index: tracking credit conditions in the euro area",
+      "summary": "This box introduces the European Central Bank Broad Intermediation Gauge (ECB-BIG) index, a new indicator designed to provide a timely assessment of intermediation conditions in the euro area. The ECB-BIG index summarises information from a large set of variables covering bank and non-bank credit conditions, and complements indicators of more narrowly defined financial conditions. It also provides insights into the transmission of monetary policy to the real economy by measuring the impact of credit shocks on investment. Currently, the index is signalling a moderate tightening of credit conditions after the start of the war in the Middle East.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_07~fae8aa9fb9.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-06T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3193~9db57822d4.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_07~fae8aa9fb9.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "d3a1ed3ade2d5b0c",
+      "title": "Youth employment amidst cooling labour demand",
+      "summary": "Have labour market prospects deteriorated more for young workers than for the aggregate labour market? This box analyses labour market developments across age and skill groups in relation to economic activity. It shows that in recent quarters young workers have indeed faced a more difficult job market. However, taking the relation with developments in real GDP into account, Okun's law residuals suggest that this weakness remains broadly in line with normal cyclical dynamics, also reflecting the higher sensitivity of young workers to the economic cycle and strong employment growth during the post-pandemic recovery.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_04~faa9ef5955.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-06T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op275~e76a79539d.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_04~faa9ef5955.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "f0da6afe38cd211a",
       "title": "SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division",
@@ -2495,31 +2703,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "97238a9fdbc99d64",
-      "title": "Government finance statistics guide",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//pub/pdf/other/ecb.governmentfinancestatisticsguide2607.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-30T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/other/ecb.governmentfinancestatisticsguide2607.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/other/ecb.governmentfinancestatisticsguide2607.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
-    },
-    {
       "id": "a30344d509084493",
       "title": "Let the tree decide: FABART. A non-parametric factor model for nonlinear oil shock transmission",
       "summary": "The question of how oil supply news shocks transmit to real activity, financial conditions, and regional labor markets is back at the center of the macroeconomic research agenda. To answer this question, we introduce the Factor Bayesian Additive Regression Tree (FABART) model, a nonlinear factor-augmented vector autoregression model, and apply it to a large U. S. macro-financial dataset with externally identified oil supply news shocks. The framework combines a large macro-financial information set with a flexible nonparametric measurement equation, allowing nonlinear transmission to emerge from the data rather than being imposed through a pre-specified functional form.",
@@ -2545,14 +2728,14 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "fb17ca46c053b463",
+      "id": "21016c3692d706aa",
       "title": "Subjective earnings and employment dynamics",
       "summary": "We develop a new approach to estimating earnings, job, and employment dynamics using subjective expectations data from the NY Fed Survey of Consumer Expectations. These data provide beliefs about future earnings offers and acceptance probabilities, offering direct information on counterfactual outcomes and enabling identification under weaker assumptions. Our framework avoids biases from selection and unobserved heterogeneity that affect models using realized outcomes. First-step fixed-effects regressions identify risk, persistence, and transition effects; second-step GMM recovers the covariance structure of unobserved heterogeneities such as ability, mobility, and match quality.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3264~bcba0c01e5.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2565,9 +2748,9 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3264~bcba0c01e5.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "146f997e04e06860",
@@ -2645,14 +2828,14 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "a5bba187a73fe3bf",
+      "id": "ca8c4d23dcd2e96f",
       "title": "A SPOT in the dark: using AI to assess financial stability risks",
       "summary": "Financial stability risks consist of two distinct components: vulnerabilities and possible trigger events. While there has been considerable progress regarding the measurement of vulnerabilities, the assessment of possible trigger events remains largely qualitative. To fill this gap, we employ Large Language Models to extract information about the Severity and Probability Of potential Trigger events (SPOT) from a large dataset of financial news articles over the period2005 – 2026. The SPOT indicator increases ahead of major historical trigger events, correctly identifies trigger sources, and helps to improve forward looking model estimates of downside risks to the economy.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3262~7169a94638.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2677,9 +2860,9 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3262~7169a94638.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "b8882e80acc057ea",
@@ -2823,14 +3006,14 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "29a72208bb0ed8b8",
+      "id": "01faba4ab2659d39",
       "title": "Threshold endogeneity in vector autoregressions: reassessing monetary state dependence",
       "summary": "We develop an endogenous threshold VAR that addresses contemporaneous dependence between the threshold variable and reduced-form innovations— a pervasive issue when regime indicators are jointly determined with system dynamics. A regime-specific copula-based control function removes this dependence instrument-free, without parametric assumptions on the threshold’s marginal distribution, while preserving the linear regime-wise least-squares structure.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2855,9 +3038,9 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "3012f0f07b672875",
@@ -2883,14 +3066,14 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "c25450e59678d2e1",
+      "id": "5762bf8e96829507",
       "title": "The Paris Agreement ten years later: Navigating climate uncertainty and tipping points",
       "summary": "The climate crisis is an urgent, human-driven systemic challenge whose impacts are unfolding through increasingly frequent and severe extreme events. Although the 2015 Paris Agreement advanced global climate governance, implementation remains insufficient to limit warming to well below 2 °C and pursue 1.5 °C. Accelerating risks, interacting crises and potential tipping points suggest that climate change could become unmanageable if current GHGs emissions trajectories persist. This paper makes three contributions. First, it examines why we are failing to act decisively, highlighting a persistent awareness gap, competing priorities and weak political incentives for ambitious climate action.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3261~cc4bd5eabc.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2926,9 +3109,9 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3261~cc4bd5eabc.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "65d3703b810e8774",
@@ -4156,9 +4339,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T13:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/macro-technical-paper/2026/inflation-thresholds-and-oil-shock-transmission-in-the-uk.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Market Risk"
       ],
@@ -4193,9 +4374,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T12:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/cfd37e71-4ca4-483a-ab85-090ac8010535/Final%20Report%20on%20RTS%20and%20ITS%20material%20acquisitions%20mat%20transfers%20mergers%20divisions.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements",
         "Supervision / Enforcement"
@@ -4306,9 +4485,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/stats/bop/2026/html/ecb.bp260717_annex~1b12b90da0.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Payments / Open Finance"
       ],
@@ -4343,13 +4520,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T07:46:09.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/989e5315-9c23-42c6-a02a-ade75288ad3b/Consultation%20Paper%20on%20amending%20ITS%20the%202027%20market%20risk%20benchmarking%20exercise.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/b9cbdd06-11b5-49ef-88ed-0bb2f9656302/Annex%201%20%28Booking%20instructions%29.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/200a7953-649c-4e32-9271-cacc3cc3bfbf/Annex%202%20%28MR%20Relevant%20dates%20of%20the%20exercise%29.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/6259536a-d466-4f02-87ec-3d6ebc2bad08/Annex%203%20%28MR%20Instruments%20and%20portfolios%29-TC.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/d48d72fc-89fd-4102-9e70-576930e925c7/Annex%205%20%28MR%20Templates%20Instructions%29.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Market Risk",
@@ -4415,9 +4586,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-07-16T18:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260716a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -21210,85 +21379,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "36d18ab90394383f",
-      "title": "The EBA amends Guidelines on the definition of default",
-      "summary": "The European Banking Authority (EBA) published today its final Report amending the Guidelines on the application of the definition of default. The Report introduces targeted amendments to better reflect specific aspects of non recourse factoring. It also confirms that the 1% threshold applied to reductions in net present value loss (NPV threshold) in debt restructuring remains appropriate for prudential default recognition. 29 APRIL 2026 The EBA publishes its final Guidelines on supervisory independence The European Banking Authority (EBA) today published its final Guidelines on Supervisory Independence under the Capital Requirements Directive (CRD).",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": null,
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-05/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20Guidelines%20on%20definition%20of%20default.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_BG.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_CS.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_DA.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_DE.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_EL.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_ES.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_ET.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_FI.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_FR.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_GA.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_HR.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_HU.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_IT.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_LT.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_LV.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_MT.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_NL.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_PL.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_PT.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_RO.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_SK.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_SL.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_SV.pdf"
-      ],
-      "topics": [
-        "Capital Requirements",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "capital requirements",
-        "crd",
-        "supervisory",
-        "final report",
-        "guidelines",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital requirements",
-            "crd"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory",
-            "final report",
-            "guidelines",
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance",
-      "originalPublishedAt": "2026-08-07T00:00:00.000Z",
-      "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
-    },
-    {
       "id": "9d31e627bbbe642e",
       "title": "The EBA clarifies its Product Oversight and Governance Guidelines which address greenwashing risks in ESG products",
       "summary": "The European Banking Authority (EBA) today published revised Guidelines on product oversight and governance (POG) for retail banking products. They clarify requirements for products with environmental, social and governance (ESG) features whenever offered and sold to consumers and address greenwashing risks. The Guidelines aim to ensure that financial institutions apply robust standards when designing and distributing ESG-related retail products, with a view to reducing the risk of consumers being misled or sold products that do not meet their needs.",
@@ -21471,7 +21561,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-05T19:30:29.854Z",
+      "publishedAt": "2026-08-06T08:35:44.889Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21495,7 +21585,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T19:30:29.854Z",
+      "publishedAt": "2026-08-06T08:35:44.889Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21519,7 +21609,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T19:30:29.854Z",
+      "publishedAt": "2026-08-06T08:35:44.889Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21543,7 +21633,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T19:30:29.854Z",
+      "publishedAt": "2026-08-06T08:35:44.889Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21567,7 +21657,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T19:30:29.854Z",
+      "publishedAt": "2026-08-06T08:35:44.889Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21591,7 +21681,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T19:30:29.854Z",
+      "publishedAt": "2026-08-06T08:35:44.889Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21615,7 +21705,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T19:30:29.854Z",
+      "publishedAt": "2026-08-06T08:35:44.889Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21639,7 +21729,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T19:30:29.854Z",
+      "publishedAt": "2026-08-06T08:35:44.889Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21663,7 +21753,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T19:30:29.854Z",
+      "publishedAt": "2026-08-06T08:35:44.889Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21687,7 +21777,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T19:30:29.854Z",
+      "publishedAt": "2026-08-06T08:35:44.889Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21711,7 +21801,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T19:30:29.854Z",
+      "publishedAt": "2026-08-06T08:35:44.889Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21735,7 +21825,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T19:30:29.854Z",
+      "publishedAt": "2026-08-06T08:35:44.889Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21759,7 +21849,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-05T19:30:29.854Z",
+      "publishedAt": "2026-08-06T08:35:44.889Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21779,11 +21869,11 @@
       "count": 102
     },
     {
-      "updateType": "News",
-      "count": 77
+      "updateType": "Publications / Reports",
+      "count": 78
     },
     {
-      "updateType": "Publications / Reports",
+      "updateType": "News",
       "count": 77
     },
     {
@@ -21792,11 +21882,11 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 31
+      "count": 36
     },
     {
       "updateType": "Statistics / Data",
-      "count": 24
+      "count": 22
     },
     {
       "updateType": "Source Pages",
