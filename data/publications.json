@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T07:17:03.390Z",
-  "totalPublications": 484,
+  "generatedAt": "2026-08-07T18:58:13.990Z",
+  "totalPublications": 485,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 9,
+      "itemCount": 10,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 250
+      "count": 249
     },
     {
       "topic": "Basel / BCBS",
@@ -472,11 +472,15 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 37
+      "count": 38
     },
     {
       "topic": "Capital Requirements",
       "count": 32
+    },
+    {
+      "topic": "Crypto / Digital Assets",
+      "count": 21
     },
     {
       "topic": "Payments / Open Finance",
@@ -488,10 +492,6 @@
     },
     {
       "topic": "Credit Risk",
-      "count": 20
-    },
-    {
-      "topic": "Crypto / Digital Assets",
       "count": 20
     },
     {
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 250
+      "count": 249
     },
     {
       "topic": "Basel / BCBS",
@@ -546,11 +546,15 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 37
+      "count": 38
     },
     {
       "topic": "Capital Requirements",
       "count": 32
+    },
+    {
+      "topic": "Crypto / Digital Assets",
+      "count": 21
     },
     {
       "topic": "Payments / Open Finance",
@@ -562,10 +566,6 @@
     },
     {
       "topic": "Credit Risk",
-      "count": 20
-    },
-    {
-      "topic": "Crypto / Digital Assets",
       "count": 20
     },
     {
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 89
+      "count": 88
     },
     {
       "keyword": "reporting",
@@ -632,15 +632,15 @@
     },
     {
       "keyword": "money laundering",
-      "count": 27
+      "count": 28
     },
     {
       "keyword": "anti money laundering",
-      "count": 24
+      "count": 25
     },
     {
       "keyword": "anti-money laundering",
-      "count": 24
+      "count": 25
     },
     {
       "keyword": "conduct",
@@ -692,7 +692,7 @@
     },
     {
       "keyword": "digital euro",
-      "count": 9
+      "count": 10
     },
     {
       "keyword": "guidelines",
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 276
+      "count": 277
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 85
+      "count": 86
     },
     {
       "institution": "European Banking Authority",
@@ -1000,6 +1000,89 @@
     }
   ],
   "publications": [
+    {
+      "id": "1dfc29dc65278791",
+      "title": "Letter from the ECB President to Mr Gerald Hauser, MEP, on digital euro",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260807_Hauser~184853fae9.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-07T14:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260807_Hauser~184853fae9.en.pdf"
+      ],
+      "topics": [
+        "Crypto / Digital Assets"
+      ],
+      "matchedKeywords": [
+        "digital euro"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "digital euro"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260807_Hauser~184853fae9.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "eb9cad94ac778204",
+      "title": "From oil to electrons: lessons from the 1970s energy crises",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260807~b7ab24866e.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-blog",
+      "sourceName": "ECB Blog",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-07T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260807~b7ab24866e.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "1b783324287beb4e",
+      "title": "ECB publishes consolidated banking data for end-March 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-07T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "36d18ab90394383f",
       "title": "The EBA amends Guidelines on the definition of default",
@@ -2018,14 +2101,14 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "b4fdb3cbe64855ee",
+      "id": "f1bd9cf96d4e5ee5",
       "title": "The transmission of shocks across sectors and the dynamics of sectoral prices",
       "summary": "This paper studies the dynamics of U. S. sectoral producer prices in a large Bayesian Vector Auto Regression (BVAR) model where the Input-Output (IO) matrix is used to structure their long-run relationships. The model provides evidence of a sectoral spillover channel in driving headline inflation without imposing such a mechanism in the model’s structure. Forecasts of headline inflation have accuracy comparable to the Survey of Professional Forecasters’ and greater than those generated by a standard BVAR with the Minnesota prior, confirming that the IO matrix long-run prior conveys relevant information about the data.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3266~e62e35205b.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2038,9 +2121,9 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3266~e62e35205b.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "d5c7c99d268fd00f",
@@ -4302,32 +4385,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "5ef82de729011cee",
-      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-20T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/stats/accesstofinancesofenterprises/pdf/questionnaire/ecb.safeq202607.en.pdf",
-        "https://www.ecb.europa.eu/stats/pdf/surveys/sme/ecb.safemi.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "aceb4f081e1861e0",
       "title": "ESMA calls on firms to finalise preparations ahead of T+1 settlement deadlines",
       "summary": "The European Securities and Markets Authority (ESMA), the EU regulator and supervisor, has published a",
@@ -4378,10 +4435,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-07-20T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA42-2004696504-8471_Follow-up_report_to_peer_review_on_cross_border_activities_of_investment_firms.pdf",
-        "https://www.esma.europa.eu/sites/default/files/library/esma42-111-5534_report_peer_review_cross_border_activities_investment_firms.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -11132,29 +11186,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "2cf9df30e84fa54d",
-      "title": "How the war in the Middle East is reshaping euro area firms’ expectations",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260526~dffcc782a2.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-blog",
-      "sourceName": "ECB Blog",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-26T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260526~dffcc782a2.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "b3123f400964b0c0",
@@ -20792,6 +20823,56 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "c9f6b8f3d7ae8958",
+      "title": "FCA applying increased scrutiny to Annex 1 firms",
+      "summary": "We are concerned about a number of risks among unregulated lenders, safe custody providers, money brokers and financial leasing companies (Annex 1 firms). Firms including unregulated lenders, safe custody providers, money brokers and financial leasing companies, need to be registered with us for anti-money laundering purposes. If you’re carrying out these activities without being registered, you should submit an application for registration. We are concerned about a number of risks we’ve identified among Annex 1 firms, in particular the potential for them to facilitate financial crime. We have seen firms rely too heavily on the financial crime controls of their parent company.",
+      "url": "https://www.fca.org.uk/news/statements/fca-applying-increased-scrutiny-annex-1-firms",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "anti-money laundering",
+        "anti money laundering",
+        "money laundering",
+        "financial crime",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "anti-money laundering",
+            "anti money laundering",
+            "money laundering",
+            "financial crime"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/statements/fca-applying-increased-scrutiny-annex-1-firms",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "269563d850575cf3",
       "title": "FCA censures Equity for Growth (Securities) Limited",
       "summary": "The FCA has censured Equity for Growth (Securities) Limited (EFG) for approving financial promotions relating to minibonds that were unfair, unclear and misleading. EFG approved financial promotions which failed to disclose very high commission fees charged by its appointed representatives and other introducers for marketing the minibonds to investors. Appointed representatives carry out regulated activities under the responsibility of an authorised firm, known as ‘the principal’. The promotions also failed to state that these fees would be deducted from investors’ money. This meant they could not make a fully informed decision before investing.",
@@ -21087,50 +21168,6 @@
       "updateTypeDetail": "Rule / standard / guidance",
       "originalPublishedAt": "2026-09-03T00:00:00.000Z",
       "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
-    },
-    {
-      "id": "3974ea7e0b953c58",
-      "title": "Joint taskforce continues crack down on misleading car finance claims adverts",
-      "summary": "The FCA, Advertising Standards Authority, Solicitors Regulation Authority and Information Commissioner's Office are tackling the poor handling of motor finance claims by some claims companies and law firms. As part of the joint taskforce's continued crackdown, in June the FCA had 170 misleading car finance claims adverts removed or amended by claims management companies (CMCs), bringing the total up to 1,200 since January 2024. Some of the misleading adverts seen by the FCA:Were disguised as a consumer posting on social media recommending a website to look up agreements. However, the advert failed to make clear it was a financial promotion for a CMC that was recommending its own website.",
-      "url": "https://www.fca.org.uk/news/press-releases/joint-taskforce-continues-crack-down-misleading-car-finance-claims-adverts",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/joint-taskforce-continues-crack-down-misleading-car-finance-claims-adverts",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "7776cc4b10a69526",
@@ -21519,7 +21556,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-07T07:17:03.390Z",
+      "publishedAt": "2026-08-07T18:58:13.990Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21543,7 +21580,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T07:17:03.390Z",
+      "publishedAt": "2026-08-07T18:58:13.990Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21567,7 +21604,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T07:17:03.390Z",
+      "publishedAt": "2026-08-07T18:58:13.990Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21591,7 +21628,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T07:17:03.390Z",
+      "publishedAt": "2026-08-07T18:58:13.990Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21615,7 +21652,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T07:17:03.390Z",
+      "publishedAt": "2026-08-07T18:58:13.990Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21639,7 +21676,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T07:17:03.390Z",
+      "publishedAt": "2026-08-07T18:58:13.990Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21663,7 +21700,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T07:17:03.390Z",
+      "publishedAt": "2026-08-07T18:58:13.990Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21687,7 +21724,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T07:17:03.390Z",
+      "publishedAt": "2026-08-07T18:58:13.990Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21711,7 +21748,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T07:17:03.390Z",
+      "publishedAt": "2026-08-07T18:58:13.990Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21735,7 +21772,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T07:17:03.390Z",
+      "publishedAt": "2026-08-07T18:58:13.990Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21759,7 +21796,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T07:17:03.390Z",
+      "publishedAt": "2026-08-07T18:58:13.990Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21783,7 +21820,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T07:17:03.390Z",
+      "publishedAt": "2026-08-07T18:58:13.990Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21807,7 +21844,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T07:17:03.390Z",
+      "publishedAt": "2026-08-07T18:58:13.990Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21824,15 +21861,15 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 101
+      "count": 99
     },
     {
       "updateType": "Publications / Reports",
-      "count": 81
+      "count": 82
     },
     {
       "updateType": "News",
-      "count": 77
+      "count": 78
     },
     {
       "updateType": "Consultations",
@@ -21840,7 +21877,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 35
+      "count": 36
     },
     {
       "updateType": "Statistics / Data",
