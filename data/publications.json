@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T08:35:44.889Z",
+  "generatedAt": "2026-08-07T00:00:21.574Z",
   "totalPublications": 484,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 252
+      "count": 250
     },
     {
       "topic": "Basel / BCBS",
@@ -460,7 +460,7 @@
     },
     {
       "topic": "Governance",
-      "count": 134
+      "count": 135
     },
     {
       "topic": "Reporting / Disclosure",
@@ -468,7 +468,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 38
+      "count": 39
     },
     {
       "topic": "AML / Financial Crime",
@@ -476,7 +476,7 @@
     },
     {
       "topic": "Capital Requirements",
-      "count": 35
+      "count": 32
     },
     {
       "topic": "Payments / Open Finance",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 252
+      "count": 250
     },
     {
       "topic": "Basel / BCBS",
@@ -534,7 +534,7 @@
     },
     {
       "topic": "Governance",
-      "count": 134
+      "count": 135
     },
     {
       "topic": "Reporting / Disclosure",
@@ -542,7 +542,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 38
+      "count": 39
     },
     {
       "topic": "AML / Financial Crime",
@@ -550,7 +550,7 @@
     },
     {
       "topic": "Capital Requirements",
-      "count": 35
+      "count": 32
     },
     {
       "topic": "Payments / Open Finance",
@@ -612,11 +612,11 @@
     },
     {
       "keyword": "board",
-      "count": 94
+      "count": 93
     },
     {
       "keyword": "its",
-      "count": 91
+      "count": 89
     },
     {
       "keyword": "reporting",
@@ -624,11 +624,11 @@
     },
     {
       "keyword": "governance",
-      "count": 33
+      "count": 34
     },
     {
       "keyword": "climate",
-      "count": 32
+      "count": 33
     },
     {
       "keyword": "money laundering",
@@ -648,19 +648,19 @@
     },
     {
       "keyword": "capital requirements",
-      "count": 22
+      "count": 20
     },
     {
       "keyword": "credit risk",
       "count": 18
     },
     {
-      "keyword": "enforcement",
+      "keyword": "policy statement",
       "count": 17
     },
     {
-      "keyword": "policy statement",
-      "count": 17
+      "keyword": "enforcement",
+      "count": 16
     },
     {
       "keyword": "liquidity",
@@ -683,12 +683,12 @@
       "count": 12
     },
     {
-      "keyword": "consultation paper",
+      "keyword": "resolution",
       "count": 11
     },
     {
-      "keyword": "resolution",
-      "count": 11
+      "keyword": "consultation paper",
+      "count": 10
     },
     {
       "keyword": "digital euro",
@@ -712,7 +712,7 @@
     },
     {
       "keyword": "crr",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "crypto",
@@ -732,10 +732,6 @@
     },
     {
       "keyword": "nature-related",
-      "count": 6
-    },
-    {
-      "keyword": "own funds",
       "count": 6
     },
     {
@@ -760,6 +756,14 @@
     },
     {
       "keyword": "benchmarking",
+      "count": 5
+    },
+    {
+      "keyword": "esg",
+      "count": 5
+    },
+    {
+      "keyword": "own funds",
       "count": 5
     },
     {
@@ -792,10 +796,6 @@
     },
     {
       "keyword": "deposit guarantee",
-      "count": 4
-    },
-    {
-      "keyword": "esg",
       "count": 4
     },
     {
@@ -887,6 +887,10 @@
       "count": 2
     },
     {
+      "keyword": "climate risk",
+      "count": 2
+    },
+    {
       "keyword": "core principles for effective banking supervision",
       "count": 2
     },
@@ -912,10 +916,6 @@
     },
     {
       "keyword": "irb",
-      "count": 2
-    },
-    {
-      "keyword": "irb model",
       "count": 2
     }
   ],
@@ -1078,6 +1078,102 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
+      "id": "0c49bad352348220",
+      "title": "Bank of England Weekly Report 5 August 2026",
+      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+      "url": "https://www.bankofengland.co.uk/weekly-report/2026/5-august-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-06T14:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/5-august-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "cce56b96082e5711",
+      "title": "Financial frictions across the production network and the transmission of monetary policy",
+      "summary": "We show that monetary policy transmission is shaped not only by a sector’s own financial frictions but also by those prevailing in the broader production network. The latter, indirect frictions amplify the output and price effects of monetary policy and empirically dominate the direct ones. The amplification results from a downstream demand channel, as customers respond to tighter policy by purchasing fewer inputs. This is partly offset by an upstream cost channel, reflecting that suppliers raise prices to protect margins when financing costs rise. We inspect the mechanism in a multi-sector general equilibrium model with input-output linkages and working-capital constraints.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3271~99b37f6d9a.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-06T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3271~99b37f6d9a.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3271~99b37f6d9a.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "0ed99322f5b98ac4",
+      "title": "Macro-at-Risk in the euro area Expert Group on Macro-at-Risk Time-Series Workstream",
+      "summary": "This paper introduces reduced-form macroeconometric tools, emphasising quantile regression models, to identify key risk drivers for the euro area economy and assess risks around the baseline ECB/Eurosystem staff macroeconomic projections for the euro area inflation and growth. The analysis uses a large number of risk factors, going beyond the usual financial factors, employing a sequential selection approach with robustness checks. To support the analysis a MATLAB toolbox (M@RX) was developed, incorporating several quantile regression-based model classes with a novel parametric tilting methodology and a copula approach for transforming predictive densities across frequencies.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op396.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-06T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op396.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op396.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "284c3eeb27c6b9ea",
+      "title": "The PRA will hold a captive insurance industry roundtable",
+      "summary": "On 17 September 2026, the PRA will host a roundtable in relation to CP11/26 – A tailored regime for captive insurance.",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/august/pra-holds-captive-insurance-industry-roundtable",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-06T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/august/pra-holds-captive-insurance-industry-roundtable",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
+    {
       "id": "a7401dd88132e6b8",
       "title": "Assessing the scope for compensatory fiscal measures in response to the recent energy shock",
       "summary": "This box assesses the scope for euro area governments to adopt compensatory fiscal measures against the backdrop of the recent energy shock. It examines the available fiscal space, reviews the discretionary fiscal support provided so far, and assesses whether the current inflation environment has generated additional revenues that could partially finance current and future measures. The box concludes that, since fiscal space is more constrained than it was during the 2022 energy crisis and there is only modest scope for self-financing through inflation-driven revenues, it is all the more important for fiscal support to be temporary, targeted and tailored.",
@@ -1207,6 +1303,63 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "aca48a76b41421da",
+      "title": "EBA ESG risk dashboard shows stable climate risk exposures and continued improvements in data quality",
+      "summary": "The European Banking Authority (EBA) today published its latest Environmental, Social and Governance (ESG) risk dashboard, showing continued stability in banks’ transition and physical climate risk indicators across the EU/EEA in second half of 2025. The results also indicate gradual improvements in the availability and quality of climate-related data, particularly for energy efficiency assessments of mortgage portfolios, supporting more robust climate risk monitoring in the banking sector.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-esg-risk-dashboard-shows-stable-climate-risk-exposures-and-continued-improvements-data-quality",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-esg-risk-dashboard-shows-stable-climate-risk-exposures-and-continued-improvements-data-quality",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-08-06T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "climate risk",
+        "esg",
+        "governance",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate",
+            "climate risk",
+            "esg"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "f0da6afe38cd211a",
@@ -1888,32 +2041,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "03b0e2fc97e647d9",
-      "title": "Tracing the ripple effects of the Middle East war on euro area consumption",
-      "summary": "The onset of the war in the Middle East triggered a sharp deterioration in consumer confidence across the euro area, comparable in magnitude to that observed after Russia’s invasion of Ukraine. This box examines the extent to which the decline in confidence is associated with actual consumption behaviour using microdata from the ECB Consumer Expectations Survey. The analysis reveals that nominal consumption growth softened materially in April 2026, driven mainly by reduced discretionary spending, particularly among higher-income households. Looking ahead, the consumption outlook could face additional downside risks if households were to expect lasting losses in real income.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_02~0100593e6a.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-03T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/sintra/ecb.forumcentbankpub2025_Surico_paper.en.pdf",
-        "https://economy-finance.ec.europa.eu/document/download/1a616dee-7540-4178-acce-3d9a3282e395_en?filename=bcs_2026_06_en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_02~0100593e6a.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "d5c7c99d268fd00f",
@@ -2703,14 +2830,14 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "a30344d509084493",
+      "id": "27c8b1435e14414a",
       "title": "Let the tree decide: FABART. A non-parametric factor model for nonlinear oil shock transmission",
       "summary": "The question of how oil supply news shocks transmit to real activity, financial conditions, and regional labor markets is back at the center of the macroeconomic research agenda. To answer this question, we introduce the Factor Bayesian Additive Regression Tree (FABART) model, a nonlinear factor-augmented vector autoregression model, and apply it to a large U. S. macro-financial dataset with externally identified oil supply news shocks. The framework combines a large macro-financial information set with a flexible nonparametric measurement equation, allowing nonlinear transmission to emerge from the data rather than being imposed through a pre-specified functional form.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3265~cde079e4dc.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2723,9 +2850,9 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3265~cde079e4dc.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "21016c3692d706aa",
@@ -4289,9 +4416,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T13:01:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/a-flexible-deviation-from-fire-in-the-sequence-space.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4314,9 +4439,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T13:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/anchors-aweigh-the-effect-of-communicating-forecast-uncertainty.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4935,31 +5058,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "023bbceea413935b",
-      "title": "The changing geography of banking in CESEE. Branch closures outpace openings",
-      "summary": "We study the evolution of bank branch networks in ten CESEE countries between 2013 and 2021. Using a manually compiled dataset of all branches and their geocoordinates, we document a decline exceeding 30%, with substantial heterogeneity across and within countries. We show that banking market consolidation is a key driver of closures, while profitability and local economic growth mitigate them. Branches in highly urban or very rural areas close more often. Competitive effects are nonlinear: moderate clustering lowers closure risk, but intense competition increases it. These patterns differ markedly across CESEE banking systems during the entire period we analyze.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3256~2bf448ead2.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-15T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3256~2bf448ead2.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3256~2bf448ead2.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "98573cb5aa50b1ef",
@@ -5950,65 +6048,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "6c4b7ff3e5b9a1c2",
-      "title": "​The EBA publishes 2025 loss data for immovable property markets under Article 430a of the Capital Requirements Regulation",
-      "summary": "​The European Banking Authority (EBA) today published its annual dataset on losses and exposures for residential and commercial immovable property across the European Union and European Economic Area for 2025, in line with Article 430a(3) of the Capital Requirements Regulation (CRR). The publication provides a centralised and harmonised source of data on losses and exposures relating to residential and commercial immovable property across the EU/EEA. The data are drawn from supervisory reporting submitted by institutions and are presented by national immovable property market. Pagination Current page 1 Page 2 Page 3 Page 4 Page 5",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-2025-loss-data-immovable-property-markets-under-article-430a-capital-requirements",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-2025-loss-data-immovable-property-markets-under-article-430a-capital-requirements",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-07T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Capital Requirements",
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "capital requirements",
-        "crr",
-        "reporting",
-        "supervisory reporting",
-        "supervisory",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital requirements",
-            "crr"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting",
-            "supervisory reporting"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory",
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "2e7108e3b97869e9",
       "title": "​The EBA publishes final Guidelines on the authorisation of third-country branches under the Capital Requirements Directive",
       "summary": "​The European Banking Authority (EBA) today published its final Guidelines on authorisation of third-country credit institutions to set-up a third-country branch (TCB) in a Member State. These Guidelines were mandated by the Capital Requirements Directive (CRD6) which introduced a new regime for TCBs and contribute to the harmonised access to the EU market for banking services. 7 JULY 2026 The ESAs support ESRB warning on systemic cyber risks from frontier AI models The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) welcome and support today’s warning from European Systemic Risk Board (ESRB) on the systemic cyber risks posed by frontier AI models.",
@@ -6079,7 +6118,7 @@
     {
       "id": "69f963ebdd11ab5f",
       "title": "The ESAs support ESRB warning on systemic cyber risks from frontier AI models",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) welcome and support today’s warning from European Systemic Risk Board (ESRB) on the systemic cyber risks posed by frontier AI models. 6 JULY 2026 ​The EBA publishes 2025 loss data for immovable property markets under Article 430a of the Capital Requirements Regulation ​The European Banking Authority (EBA) today published its annual dataset on losses and exposures for residential and commercial immovable property across the European Union and European Economic Area for 2025, in line with Article 430a(3) of the Capital Requirements Regulation (CRR).",
+      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) welcome and support today’s warning from European Systemic Risk Board (ESRB) on the systemic cyber risks posed by frontier AI models. Pagination Current page 1 Page 2 Page 3 Page 4 Page 5 Page 6 Page 7 <span class=\"visually-hid",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-support-esrb-warning-systemic-cyber-risks-frontier-ai-models",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-support-esrb-warning-systemic-cyber-risks-frontier-ai-models",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -6095,17 +6134,13 @@
       "pdfLinks": [],
       "topics": [
         "AI",
-        "Capital Requirements",
         "Governance",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
         "ai models",
-        "capital requirements",
-        "crr",
         "board",
-        "supervisory",
-        "its"
+        "supervisory"
       ],
       "topicMatches": [
         {
@@ -6113,14 +6148,6 @@
           "label": "AI",
           "keywords": [
             "ai models"
-          ]
-        },
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital requirements",
-            "crr"
           ]
         },
         {
@@ -6134,13 +6161,12 @@
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
           "keywords": [
-            "supervisory",
-            "its"
+            "supervisory"
           ]
         }
       ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "17c3f4a037529cc7",
@@ -6300,6 +6326,65 @@
       ],
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "3c8810b7a5dd1af7",
+      "title": "​The EBA publishes 2025 loss data for immovable property markets under Article 430a of the Capital Requirements Regulation",
+      "summary": "​The European Banking Authority (EBA) today published its annual dataset on losses and exposures for residential and commercial immovable property across the European Union and European Economic Area for 2025, in line with Article 430a(3) of the Capital Requirements Regulation (CRR). The publication provides a centralised and harmonised source of data on losses and exposures relating to residential and commercial immovable property across the EU/EEA. The data are drawn from supervisory reporting submitted by institutions and are presented by national immovable property market.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-2025-loss-data-immovable-property-markets-under-article-430a-capital-requirements",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-2025-loss-data-immovable-property-markets-under-article-430a-capital-requirements",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-06T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Capital Requirements",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "capital requirements",
+        "crr",
+        "reporting",
+        "supervisory reporting",
+        "supervisory",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital requirements",
+            "crr"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting",
+            "supervisory reporting"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "51c5ca047b1a9038",
@@ -9654,7 +9739,7 @@
     {
       "id": "12d1f2fa5716e274",
       "title": "The EBA proposes simplifications to the EU bank capital framework in a holistic manner to strengthen its efficiency",
-      "summary": "The European Banking Authority (EBA) continues to execute on its simplification and efficiency programme. After proposals in April to reduce the reporting burden for banks and for a simpler stress-test in 2027, it publishes today a comprehensive review of the EU bank microprudential, macroprudential and resolution capital framework, including proposals to simplify it. The proposals aim to reduce complexity while preserving banks’ resilience and resolvability as well as authorities’ tools, and to ensure the framework remains focused on emerging and materially evolving risks. Pagination First page Previous page Page 1 Current page",
+      "summary": "The European Banking Authority (EBA) continues to execute on its simplification and efficiency programme. After proposals in April to reduce the reporting burden for banks and for a simpler stress-test in 2027, it publishes today a comprehensive review of the EU bank microprudential, macroprudential and resolution capital framework, including proposals to simplify it. The proposals aim to reduce complexity while preserving banks’ resilience and resolvability as well as authorities’ tools, and to ensure the framework remains focused on emerging and materially evolving risks.",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-proposes-simplifications-eu-bank-capital-framework-holistic-manner-strengthen-its-efficiency",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-proposes-simplifications-eu-bank-capital-framework-holistic-manner-strengthen-its-efficiency",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -9718,7 +9803,7 @@
     {
       "id": "76fd8f3a5105a2b1",
       "title": "The EBA publishes its 2025 Annual Report outlining key achievements",
-      "summary": "The European Banking Authority (EBA) today published its 2025 Annual Report, outlining its main achievements and activities in delivering on its mandates under its Work Programme. In 2025, the EBA focused on streamlining and improving the efficiency of the EU regulatory framework while expanding its supervisory role, particularly under the Digital Operational Resilience Act (DORA) and Markets in Crypto-Assets Regulation (MiCA). 16 JUNE 2026 The EBA proposes simplifications to the EU bank capital framework in a holistic manner to strengthen its efficiency The European Banking Authority (EBA) continues to execute on its simplification and efficiency programme.",
+      "summary": "The European Banking Authority (EBA) today published its 2025 Annual Report, outlining its main achievements and activities in delivering on its mandates under its Work Programme. In 2025, the EBA focused on streamlining and improving the efficiency of the EU regulatory framework while expanding its supervisory role, particularly under the Digital Operational Resilience Act (DORA) and Markets in Crypto-Assets Regulation (MiCA). Pagination First page Previous page Page 1 Current page 2 Page",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2025-annual-report-outlining-key-achievements",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2025-annual-report-outlining-key-achievements",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -10399,41 +10484,6 @@
       ],
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "8e30fc99f5ee06d9",
-      "title": "Capital requirements and process innovation",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/capital-requirements-and-process-innovation",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-05T13:02:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Capital Requirements"
-      ],
-      "matchedKeywords": [
-        "capital requirements"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital requirements"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/capital-requirements-and-process-innovation",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "06e2a107dc60b0cb",
@@ -12678,7 +12728,7 @@
     {
       "id": "e43a637b29c84dce",
       "title": "The EBA responds to the Commission’s proposed changes to its draft technical standards on operational risk",
-      "summary": "The European Banking Authority (EBA) has today published an Opinion on the European Commission’s proposed amendments to the final draft Regulatory Technical Standards (RTS)[1],[2] specifying operational risk requirements under the Capital Requirements Regulation (CRR). It considers that two amendments proposed by the Commission could affect the consistency, transparency and supervisory effectiveness of capital requirements for operational risk.",
+      "summary": "The European Banking Authority (EBA) has today published an Opinion on the European Commission’s proposed amendments to the final draft Regulatory Technical Standards (RTS)[1],[2] specifying operational risk requirements under the Capital Requirements Regulation (CRR). It considers that two amendments proposed by the Commission could affect the consistency, transparency and supervisory effectiveness of capital requirements for operational risk. Pagination First page Previous page Page 1 Page 2 <li class=\"pager__item pager__item--active pager__item--nu",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-commissions-proposed-changes-its-draft-technical-standards-operational-risk",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-commissions-proposed-changes-its-draft-technical-standards-operational-risk",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -12966,41 +13016,6 @@
       ],
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "714642f328a6cf6e",
-      "title": "The EBA responds to the European Commission’s consultation on EU banking sector competitiveness",
-      "summary": "The European Banking Authority (EBA) has today published its response to the European Commission’s consultation on strengthening the competitiveness of the EU banking sector. In its response, the EBA underlines the importance of completing the Single Market for financial services, as a key driver of banking competitiveness. Drawing on its robust analytical work, the EBA provides evidence-based insights on banking competitiveness, the Single Market and the Banking Union, as well as on the complexity and effectiveness of the regulatory framework. These insights aim to support the European Commission’s report on the EU banking competitiveness.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-european-commissions-consultation-eu-banking-sector-competitiveness",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-european-commissions-consultation-eu-banking-sector-competitiveness",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-04-17T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "097962bfa3301c90",
@@ -14100,44 +14115,9 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "6114de2b82213c6c",
-      "title": "​The EBA launches call for papers for its 2026 Policy Research Workshop",
-      "summary": "​The European Banking Authority (EBA) today launched a call for papers for its 15th Policy Research Workshop, which will take place in Paris on 18-19 November 2026 and will focus on ‘Efficient and Proportionate Regulation for a Competitive Financial Sector’. The deadline for submitting papers is 19 June 2026. Pagination First page Previous page Page 1 Page 2 Page 3 <li class=\"pager__item p",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-call-papers-its-2026-policy-research-workshop",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-call-papers-its-2026-policy-research-workshop",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-03-24T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "198eef35404ae5cf",
       "title": "The EBA publishes its second MREL impact assessment Report",
-      "summary": "The European Banking Authority (EBA) today published its second Impact Assessment Report on the minimum requirement for own funds and eligible liabilities (MREL), assessing the effects of the framework on EU institutions, markets and funding structures. The Report shows that EU banks have continued to build up MREL resources, developing market access with limited impact on their business models. However, structural challenges remain for smaller banks.",
+      "summary": "The European Banking Authority (EBA) today published its second Impact Assessment Report on the minimum requirement for own funds and eligible liabilities (MREL), assessing the effects of the framework on EU institutions, markets and funding structures. The Report shows that EU banks have continued to build up MREL resources, developing market access with limited impact on their business models. However, structural challenges remain for smaller banks. Pagination First page Previous page Page 1 Page 2 <span class=\"visually-hidden",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-second-mrel-impact-assessment-report",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-second-mrel-impact-assessment-report",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -14530,50 +14510,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "4962ffb8ab8ccca7",
-      "title": "CP4/26 – UK Solvency II Own Funds: Updates and fixes to rules and expectations",
-      "summary": "Consultation paper 4/26",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/february/uk-solvency-ii-own-funds-updates-and-fixes-to-rules-and-expectations",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-02-25T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Capital Requirements",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "own funds",
-        "consultation paper"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "own funds"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "consultation paper"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/february/uk-solvency-ii-own-funds-updates-and-fixes-to-rules-and-expectations",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "4e93b3039d9f6704",
@@ -16387,6 +16323,41 @@
       ],
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "689aa03576d40323",
+      "title": "The EBA responds to the European Commission’s consultation on EU banking sector competitiveness",
+      "summary": "The European Banking Authority (EBA) has today published its response to the European Commission’s consultation on strengthening the competitiveness of the EU banking sector. In its response, the EBA underlines the importance of completing the Single Market for financial services, as a key driver of banking competitiveness. Drawing on its robust analytical work, the EBA provides evidence-based insights on banking competitiveness, the Single Market and the Banking Union, as well as on the complexity and effectiveness of the regulatory framework. These insights aim to support the European Commission’s report on the EU banking competitiveness.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-european-commissions-consultation-eu-banking-sector-competitiveness",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-european-commissions-consultation-eu-banking-sector-competitiveness",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2024-12-31T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "3658b16c35e8bcfc",
@@ -21162,6 +21133,41 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
+      "id": "7776cc4b10a69526",
+      "title": "Making compliance simpler: opening up the FCA Handbook through our new API",
+      "summary": "Firms tell us that complying with our requirements can be a burden. They have to keep up with changes, understand what we expect and embed new practices across multiple systems and teams. All of this takes time and resources. Of course, firms must meet their regulatory responsibilities – but we want to make it as simple as possible. That's why we're launching the FCA Handbook Application Programming Interface (API), so software systems can talk to each other and share information. With the Handbook available in a structured, machine-readable format, firms can access, understand and use our rules more easily. It’s another practical step in being a smarter regulator in a digital world.",
+      "url": "https://www.fca.org.uk/news/blogs/making-compliance-simpler-opening-fca-handbook-new-api",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/blogs/making-compliance-simpler-opening-fca-handbook-new-api",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "1337252e340ee2fb",
       "title": "Managing conflicts of interest in insurance",
       "summary": "Having just joined as the FCA’s new insurance director, it’s been great getting to know the team and see the variety of work they’re doing – whether that’s working with the industry to improve claims experiences for customers, consulting on simplifying our rules or supporting growth with a new regime for captive insurers. One item that has crossed my desk is vertically integrated business models, which we’re publishing information for firms on today. When a consumer buys insurance, they need to trust that the firm they're dealing with is genuinely working toward the best outcome for them – and that they’re not losing out due to conflicts of interest.",
@@ -21192,54 +21198,6 @@
         }
       ],
       "link": "https://www.fca.org.uk/news/blogs/managing-conflicts-interest-insurance",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "b65736a0a0f43e5f",
-      "title": "New member appointed to the Regulatory Decisions Committee",
-      "summary": "The FCA Board has appointed Dan Lavender as a new member of its Regulatory Decisions Committee (RDC). The RDC is responsible for taking certain regulatory decisions on behalf of the FCA relating to contested enforcement action. Committee members bring a broad range of professional experience to support fair, independent and evidence-based decision-making. Alison Potter, the Chair of the RDC, said: ‘I am delighted to welcome Dan to the committee. Dan has significant legal and leadership experience in relation to contentious financial services matters, so his skill set will complement existing committee members and enhance the overall capability and effectiveness of the RDC.",
-      "url": "https://www.fca.org.uk/news/press-releases/new-member-regulatory-decisions-committee",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "board",
-        "conduct",
-        "enforcement",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board",
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "enforcement",
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/new-member-regulatory-decisions-committee",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
@@ -21561,7 +21519,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-06T08:35:44.889Z",
+      "publishedAt": "2026-08-07T00:00:21.574Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21585,7 +21543,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-06T08:35:44.889Z",
+      "publishedAt": "2026-08-07T00:00:21.574Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21609,7 +21567,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-06T08:35:44.889Z",
+      "publishedAt": "2026-08-07T00:00:21.574Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21633,7 +21591,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-06T08:35:44.889Z",
+      "publishedAt": "2026-08-07T00:00:21.574Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21657,7 +21615,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-06T08:35:44.889Z",
+      "publishedAt": "2026-08-07T00:00:21.574Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21681,7 +21639,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-06T08:35:44.889Z",
+      "publishedAt": "2026-08-07T00:00:21.574Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21705,7 +21663,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-06T08:35:44.889Z",
+      "publishedAt": "2026-08-07T00:00:21.574Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21729,7 +21687,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-06T08:35:44.889Z",
+      "publishedAt": "2026-08-07T00:00:21.574Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21753,7 +21711,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-06T08:35:44.889Z",
+      "publishedAt": "2026-08-07T00:00:21.574Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21777,7 +21735,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-06T08:35:44.889Z",
+      "publishedAt": "2026-08-07T00:00:21.574Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21801,7 +21759,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-06T08:35:44.889Z",
+      "publishedAt": "2026-08-07T00:00:21.574Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21825,7 +21783,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-06T08:35:44.889Z",
+      "publishedAt": "2026-08-07T00:00:21.574Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21849,7 +21807,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-06T08:35:44.889Z",
+      "publishedAt": "2026-08-07T00:00:21.574Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21866,11 +21824,11 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 102
+      "count": 101
     },
     {
       "updateType": "Publications / Reports",
-      "count": 78
+      "count": 81
     },
     {
       "updateType": "News",
@@ -21882,11 +21840,11 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 36
+      "count": 35
     },
     {
       "updateType": "Statistics / Data",
-      "count": 22
+      "count": 21
     },
     {
       "updateType": "Source Pages",
