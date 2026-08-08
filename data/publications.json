@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T18:58:13.990Z",
-  "totalPublications": 485,
+  "generatedAt": "2026-08-08T06:56:46.924Z",
+  "totalPublications": 476,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -129,12 +129,12 @@
       "institution": "European Securities and Markets Authority",
       "region": "EU",
       "status": "success",
-      "parserMode": "html-list-parser",
-      "itemCount": 10,
+      "parserMode": "source-empty-or-unavailable",
+      "itemCount": 0,
       "url": "https://www.esma.europa.eu/press-news/esma-news",
       "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
       "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "message": "Parsed successfully from official HTML list page."
+      "message": "Official source page is available. No clean dated items were extracted today, so the source page is shown as a direct link."
     },
     {
       "id": "fca-news",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 249
+      "count": 244
     },
     {
       "topic": "Basel / BCBS",
@@ -460,7 +460,7 @@
     },
     {
       "topic": "Governance",
-      "count": 135
+      "count": 133
     },
     {
       "topic": "Reporting / Disclosure",
@@ -483,10 +483,6 @@
       "count": 21
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 21
-    },
-    {
       "topic": "Recovery / Resolution",
       "count": 21
     },
@@ -495,12 +491,16 @@
       "count": 20
     },
     {
+      "topic": "Payments / Open Finance",
+      "count": 20
+    },
+    {
       "topic": "Stress Testing",
       "count": 20
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 17
+      "count": 16
     },
     {
       "topic": "Liquidity",
@@ -516,7 +516,7 @@
     },
     {
       "topic": "AI",
-      "count": 8
+      "count": 7
     },
     {
       "topic": "Consumer Protection",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 249
+      "count": 244
     },
     {
       "topic": "Basel / BCBS",
@@ -534,7 +534,7 @@
     },
     {
       "topic": "Governance",
-      "count": 135
+      "count": 133
     },
     {
       "topic": "Reporting / Disclosure",
@@ -557,10 +557,6 @@
       "count": 21
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 21
-    },
-    {
       "topic": "Recovery / Resolution",
       "count": 21
     },
@@ -569,12 +565,16 @@
       "count": 20
     },
     {
+      "topic": "Payments / Open Finance",
+      "count": 20
+    },
+    {
       "topic": "Stress Testing",
       "count": 20
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 17
+      "count": 16
     },
     {
       "topic": "Liquidity",
@@ -590,7 +590,7 @@
     },
     {
       "topic": "AI",
-      "count": 8
+      "count": 7
     },
     {
       "topic": "Consumer Protection",
@@ -600,7 +600,7 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 133
+      "count": 131
     },
     {
       "keyword": "banking supervision",
@@ -608,26 +608,26 @@
     },
     {
       "keyword": "supervisory",
-      "count": 110
+      "count": 107
     },
     {
       "keyword": "board",
-      "count": 93
+      "count": 92
     },
     {
       "keyword": "its",
-      "count": 88
+      "count": 87
     },
     {
       "keyword": "reporting",
       "count": 41
     },
     {
-      "keyword": "governance",
-      "count": 34
+      "keyword": "climate",
+      "count": 33
     },
     {
-      "keyword": "climate",
+      "keyword": "governance",
       "count": 33
     },
     {
@@ -751,10 +751,6 @@
       "count": 6
     },
     {
-      "keyword": "ai models",
-      "count": 5
-    },
-    {
       "keyword": "benchmarking",
       "count": 5
     },
@@ -779,6 +775,10 @@
       "count": 5
     },
     {
+      "keyword": "ai models",
+      "count": 4
+    },
+    {
       "keyword": "aml",
       "count": 4
     },
@@ -800,10 +800,6 @@
     },
     {
       "keyword": "fraud",
-      "count": 4
-    },
-    {
-      "keyword": "ict risks",
       "count": 4
     },
     {
@@ -840,6 +836,10 @@
     },
     {
       "keyword": "emissions",
+      "count": 3
+    },
+    {
+      "keyword": "ict risks",
       "count": 3
     },
     {
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 277
+      "count": 268
     },
     {
       "region": "UK",
@@ -979,15 +979,15 @@
       "count": 20
     },
     {
-      "institution": "European Securities and Markets Authority",
-      "count": 10
-    },
-    {
       "institution": "Basel Committee on Banking Supervision",
       "count": 1
     },
     {
       "institution": "Central Bank of Cyprus",
+      "count": 1
+    },
+    {
+      "institution": "European Securities and Markets Authority",
       "count": 1
     },
     {
@@ -2275,43 +2275,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "1f10107dc49abd06",
-      "title": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-08/ESA_2026_07_Final_Report_on_amending_RTS_on_uncleared_OTC_derivatives.pdf"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "66530666797da3db",
       "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
       "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
@@ -2628,110 +2591,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
-    },
-    {
-      "id": "f96f84fcb0bb56f5",
-      "title": "EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today publishe",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-31T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-07/JC_2026_25_ESA_statement_on_frontier_AI_models.pdf"
-      ],
-      "topics": [
-        "AI",
-        "DORA / Operational Resilience",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "ai models",
-        "ict risks",
-        "governance",
-        "supervision",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "ai",
-          "label": "AI",
-          "keywords": [
-            "ai models"
-          ]
-        },
-        {
-          "id": "dora-operational-resilience",
-          "label": "DORA / Operational Resilience",
-          "keywords": [
-            "ict risks"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "governance"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "091e08e9f38150c1",
-      "title": "ESMA publishes latest edition of its newsletter",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-44",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-31T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-07/Newsletter_June_and_July_2026.pdf",
-        "https://www.esma.europa.eu/sites/default/files/2026-06/ESMA75-113276571-1710_Public_Statement_MiCA_transitional_period_ends.pdf"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-44",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "972eadf1dee6803d",
@@ -3578,31 +3437,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "ba52388a655f5eef",
-      "title": "ESMA authorises EuroCTP as the Consolidated Tape Provider for shares and exchange-traded funds",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-authorises-euroctp-consolidated-tape-provider-shares-and-exchange-traded",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-27T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA71-545613100-2975_ESMA_authorises_EuroCTP_as_the_Consolidated_Tape_Provider_for_shares_and_exchange-traded_funds_-_Press_release.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-authorises-euroctp-consolidated-tape-provider-shares-and-exchange-traded",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "916732f903b46d95",
       "title": "Philip R. Lane: Outlook for the euro area economy",
       "summary": "",
@@ -4385,78 +4219,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "aceb4f081e1861e0",
-      "title": "ESMA calls on firms to finalise preparations ahead of T+1 settlement deadlines",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU regulator and supervisor, has published a",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-calls-firms-finalise-preparations-ahead-t1-settlement-deadlines",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-20T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA74-2119945926-3773_T_1_statement.pdf"
-      ],
-      "topics": [
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "settlement"
-      ],
-      "topicMatches": [
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "settlement"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-calls-firms-finalise-preparations-ahead-t1-settlement-deadlines",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "31b4fffa4588dcec",
-      "title": "ESMA publishes report on cross-border investment services supervision",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-report-cross-border-investment-services-supervision",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-20T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-report-cross-border-investment-services-supervision",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "ccd2465e55fd6140",
       "title": "A flexible deviation from FIRE in the sequence space",
       "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
@@ -4470,7 +4232,9 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T13:01:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/a-flexible-deviation-from-fire-in-the-sequence-space.pdf"
+      ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4493,7 +4257,9 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T13:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/anchors-aweigh-the-effect-of-communicating-forecast-uncertainty.pdf"
+      ],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4516,7 +4282,9 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T13:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/macro-technical-paper/2026/inflation-thresholds-and-oil-shock-transmission-in-the-uk.pdf"
+      ],
       "topics": [
         "Market Risk"
       ],
@@ -4551,7 +4319,9 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T12:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-07/cfd37e71-4ca4-483a-ab85-090ac8010535/Final%20Report%20on%20RTS%20and%20ITS%20material%20acquisitions%20mat%20transfers%20mergers%20divisions.pdf"
+      ],
       "topics": [
         "Capital Requirements",
         "Supervision / Enforcement"
@@ -4662,7 +4432,9 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-17T08:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/stats/bop/2026/html/ecb.bp260717_annex~1b12b90da0.en.pdf"
+      ],
       "topics": [
         "Payments / Open Finance"
       ],
@@ -4873,50 +4645,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "695e4c8ebe3be455",
-      "title": "Joint Board of Appeal dismisses appeal against the EBA",
-      "summary": "The Joint Board of Appeal of the European Supervisory Authorities (EBA, EIOPA and ES",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/joint-board-appeal-dismisses-appeal-against-eba",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-16T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "board",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/joint-board-appeal-dismisses-appeal-against-eba",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "bb1ea4e0d9131d11",
@@ -5391,75 +5119,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "0203ed112685745b",
-      "title": "ESMA launches data collection under the first phase of ESAP",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU regulator and supervisor, has",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-launches-data-collection-under-first-phase-esap",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-10T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-launches-data-collection-under-first-phase-esap",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "608e1113d3b3df84",
-      "title": "ESMA publishes first market capitalisation data for EU Member States",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-first-market-capitalisation-data-eu-member-states",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-10T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-first-market-capitalisation-data-eu-member-states",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "7b197c44c7be578a",
-      "title": "New Q&As available",
-      "summary": "",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/new-qas-available-July-2026",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-10T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/new-qas-available-July-2026",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "2d693931b9e5ebaf",
@@ -21556,7 +21215,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-07T18:58:13.990Z",
+      "publishedAt": "2026-08-08T06:56:46.924Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21580,7 +21239,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T18:58:13.990Z",
+      "publishedAt": "2026-08-08T06:56:46.924Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21604,7 +21263,31 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T18:58:13.990Z",
+      "publishedAt": "2026-08-08T06:56:46.924Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "isSourceLandingCard": true,
+      "updateType": "Source Pages",
+      "updateTypeDetail": "Official source page"
+    },
+    {
+      "id": "e36cf7383f5e09ca",
+      "title": "ESMA News: official source page",
+      "summary": "Open the official ESMA News source page for the latest publications, announcements and regulatory updates.",
+      "url": "https://www.esma.europa.eu/press-news/esma-news",
+      "link": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-08-08T06:56:46.924Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21628,7 +21311,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T18:58:13.990Z",
+      "publishedAt": "2026-08-08T06:56:46.924Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21652,7 +21335,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T18:58:13.990Z",
+      "publishedAt": "2026-08-08T06:56:46.924Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21676,7 +21359,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T18:58:13.990Z",
+      "publishedAt": "2026-08-08T06:56:46.924Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21700,7 +21383,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T18:58:13.990Z",
+      "publishedAt": "2026-08-08T06:56:46.924Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21724,7 +21407,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T18:58:13.990Z",
+      "publishedAt": "2026-08-08T06:56:46.924Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21748,7 +21431,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T18:58:13.990Z",
+      "publishedAt": "2026-08-08T06:56:46.924Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21772,7 +21455,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T18:58:13.990Z",
+      "publishedAt": "2026-08-08T06:56:46.924Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21796,7 +21479,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T18:58:13.990Z",
+      "publishedAt": "2026-08-08T06:56:46.924Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21820,7 +21503,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T18:58:13.990Z",
+      "publishedAt": "2026-08-08T06:56:46.924Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21844,7 +21527,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-07T18:58:13.990Z",
+      "publishedAt": "2026-08-08T06:56:46.924Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21861,15 +21544,15 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 99
+      "count": 97
     },
     {
       "updateType": "Publications / Reports",
-      "count": 82
+      "count": 81
     },
     {
       "updateType": "News",
-      "count": 78
+      "count": 71
     },
     {
       "updateType": "Consultations",
@@ -21885,7 +21568,7 @@
     },
     {
       "updateType": "Source Pages",
-      "count": 13
+      "count": 14
     },
     {
       "updateType": "Other",
