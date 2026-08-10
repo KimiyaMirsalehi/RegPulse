@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-10T07:42:30.932Z",
-  "totalPublications": 485,
+  "generatedAt": "2026-08-10T18:58:07.498Z",
+  "totalPublications": 486,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -117,7 +117,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "html-list-parser",
-      "itemCount": 1,
+      "itemCount": 2,
       "url": "https://www.eba.europa.eu/publications-and-media/publications",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
       "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 249
+      "count": 248
     },
     {
       "topic": "Basel / BCBS",
@@ -464,7 +464,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 59
+      "count": 60
     },
     {
       "topic": "Climate / ESG",
@@ -476,14 +476,14 @@
     },
     {
       "topic": "Capital Requirements",
-      "count": 32
-    },
-    {
-      "topic": "Crypto / Digital Assets",
-      "count": 21
+      "count": 31
     },
     {
       "topic": "Payments / Open Finance",
+      "count": 22
+    },
+    {
+      "topic": "Crypto / Digital Assets",
       "count": 21
     },
     {
@@ -504,7 +504,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 15
+      "count": 14
     },
     {
       "topic": "Market Risk",
@@ -520,13 +520,13 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 3
+      "count": 4
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 249
+      "count": 248
     },
     {
       "topic": "Basel / BCBS",
@@ -538,7 +538,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 59
+      "count": 60
     },
     {
       "topic": "Climate / ESG",
@@ -550,14 +550,14 @@
     },
     {
       "topic": "Capital Requirements",
-      "count": 32
-    },
-    {
-      "topic": "Crypto / Digital Assets",
-      "count": 21
+      "count": 31
     },
     {
       "topic": "Payments / Open Finance",
+      "count": 22
+    },
+    {
+      "topic": "Crypto / Digital Assets",
       "count": 21
     },
     {
@@ -578,7 +578,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 15
+      "count": 14
     },
     {
       "topic": "Market Risk",
@@ -594,7 +594,7 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 3
+      "count": 4
     }
   ],
   "keywordCloud": [
@@ -616,11 +616,11 @@
     },
     {
       "keyword": "its",
-      "count": 88
+      "count": 87
     },
     {
       "keyword": "reporting",
-      "count": 41
+      "count": 42
     },
     {
       "keyword": "governance",
@@ -648,7 +648,7 @@
     },
     {
       "keyword": "capital requirements",
-      "count": 20
+      "count": 19
     },
     {
       "keyword": "credit risk",
@@ -663,11 +663,11 @@
       "count": 16
     },
     {
-      "keyword": "liquidity",
+      "keyword": "payments",
       "count": 15
     },
     {
-      "keyword": "payments",
+      "keyword": "liquidity",
       "count": 14
     },
     {
@@ -883,10 +883,6 @@
       "count": 2
     },
     {
-      "keyword": "capital buffer",
-      "count": 2
-    },
-    {
       "keyword": "climate risk",
       "count": 2
     },
@@ -917,12 +913,16 @@
     {
       "keyword": "irb",
       "count": 2
+    },
+    {
+      "keyword": "irb model",
+      "count": 2
     }
   ],
   "regionSummary": [
     {
       "region": "EU",
-      "count": 277
+      "count": 278
     },
     {
       "region": "UK",
@@ -952,7 +952,7 @@
     },
     {
       "institution": "European Banking Authority",
-      "count": 61
+      "count": 62
     },
     {
       "institution": "Bank of England",
@@ -1000,6 +1000,93 @@
     }
   ],
   "publications": [
+    {
+      "id": "d724e906552cbe2c",
+      "title": "Monetary policy and the rigidity of firm employment expectations",
+      "summary": "This paper examines how monetary policy announcements affect firms’ employment expectations. Using German survey data, we combine high-frequency monetary policy surprises with survey response dates to identify the immediate and dynamic effects of monetary policy on firm-level expectations and subsequent employment. Contractionary shocks lead firms to revise employment plans downward immediately and persistently, eventually reducing employment growth. Initially, hiring plans are reduced, while layoffs increase later. Production expectations adjust twice as often but revert faster, consistent with greater labour market rigidity.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "06d97ce6d5572f72",
+      "title": "Prohibition of monetary financing: an economic perspective",
+      "summary": "This paper analyses the European prohibition of monetary financing from an economic perspective. The prohibition seeks to safeguard central bank independence in setting monetary policy to maintain price stability, and to preserve fiscal discipline, thereby preventing monetary policy from becoming constrained or hindered by fiscal policies. Imposing a prohibition on financing public deficits helps to ensure a clear separation of responsibilities between monetary policy and fiscal policy and is consistent with a range of macroeconomic theories, including monetarism and the fiscal theory of the price level.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op397.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op397.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op397.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "216c1c13d674d6a9",
+      "title": "Vision for the Integrated Reporting System (",
+      "summary": "",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-08/f2b02c01-74b3-4f9a-bdee-71f7102eec49/Vision%20for%20the%20Integrated%20Reporting%20System%20%2810%20August%202026%29.pdf",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
+      "sourceId": "eba-publications",
+      "sourceName": "EBA Publications",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-08/f2b02c01-74b3-4f9a-bdee-71f7102eec49/Vision%20for%20the%20Integrated%20Reporting%20System%20%2810%20August%202026%29.pdf"
+      ],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "reporting"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/sites/default/files/2026-08/f2b02c01-74b3-4f9a-bdee-71f7102eec49/Vision%20for%20the%20Integrated%20Reporting%20System%20%2810%20August%202026%29.pdf",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "1dfc29dc65278791",
       "title": "Letter from the ECB President to Mr Gerald Hauser, MEP, on digital euro",
@@ -1876,14 +1963,14 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "8eeb3cbd67ccc314",
+      "id": "041e363504adc04b",
       "title": "On-the-job search in Europe and the U. S.: precautionary vs. job ladder motives",
       "summary": "While employer-to-employer (E2E) transitions are by now well-documented, these data alone cannot reveal what drives mobility: who searches, why, and how search translates into transitions. Using novel panel data from the ECB and NY Fed consumer expectations surveys, we provide the first systematic cross-country analysis of on-the job search (OJS) and E2E transitions across eleven euro area countries and the U. S. Our data uniquely include direct measures of OJS and its motives (job loss expectations for precautionary, pay satisfaction for job ladder) for all workers, not just searchers.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3267~db61249945.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -1908,9 +1995,9 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3267~db61249945.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "301dcb68803a0f2b",
@@ -2032,50 +2119,6 @@
       "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "db615a5ea0255153",
-      "title": "Feeling the heat unevenly: energy prices and household consumption",
-      "summary": "This box examines the mechanisms behind the aggregate and distributional effects of energy price shocks on euro area households, taking its cue from the recent surge in energy prices following the outbreak of the war in the Middle East. Drawing on a quantitative heterogeneous agent New Keynesian model calibrated to the euro area, it shows that energy price shocks reduce aggregate consumption through real income losses. This burden falls disproportionately on liquidity-constrained households, which spend a larger share of their household budget on energy and have fewer resources to absorb such price shocks.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_03~2626ace009.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-03T12:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "liquidity",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_03~2626ace009.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "2ade9d9479668c39",
@@ -3807,45 +3850,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "1afbc3307644b533",
-      "title": "The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital buffer using a parsimonious agent-based framework",
-      "summary": "This paper develops an agent-based framework (DeTail) to assess the state-contingent tail effects of releasable macroprudential capital buffers. The model features heterogeneous firms, households, and banks, and a single central bank, all interacting in a fully integrated, stock-flow consistent framework which generates endogenous credit cycles. Using this approach, we evaluate how time-varying capital requirements affect the time-varying distributions of credit growth, firm and household default rates, and bank losses along the credit cycle.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3257~92e2d05000.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-24T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3257~92e2d05000.en.pdf"
-      ],
-      "topics": [
-        "Capital Requirements"
-      ],
-      "matchedKeywords": [
-        "capital requirements",
-        "capital buffer"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital requirements",
-            "capital buffer"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3257~92e2d05000.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
       "id": "8e47f5569f68c4b7",
       "title": "Agents' summary of business conditions - July 2026",
       "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
@@ -4435,7 +4439,10 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-07-20T00:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA42-2004696504-8471_Follow-up_report_to_peer_review_on_cross_border_activities_of_investment_firms.pdf",
+        "https://www.esma.europa.eu/sites/default/files/library/esma42-111-5534_report_peer_review_cross_border_activities_investment_firms.pdf"
+      ],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -20659,41 +20666,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "5bdfb3f67a8deb41",
-      "title": "Customers of Anthony Jones (UK) Limited urged to check their insurance policy",
-      "summary": "The insurance broker has agreed to stop carrying out any regulated activity. This means it can't provide any services on behalf of an insurer. From 9 July 2026, the insurance broker Anthony Jones (UK) Limited (AJL) agreed to stop carrying out any regulated activity. This means that AJL cannot provide any services on behalf of an insurer, including selling new insurance policies, offering renewals, or providing any advice to new or existing consumers. If you purchased an insurance policy through AJL, please contact the underwriter or insurer directly to check whether your policy is valid and your cover remains in place.",
-      "url": "https://www.fca.org.uk/news/news-stories/customers-anthony-jones-uk-limited-urged-check-insurance-policy",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/news-stories/customers-anthony-jones-uk-limited-urged-check-insurance-policy",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "b06a0099fbbc51e6",
       "title": "EBA consideration on the application of the FRTB from",
       "summary": "",
@@ -20868,6 +20840,59 @@
         }
       ],
       "link": "https://www.fca.org.uk/news/statements/fca-applying-increased-scrutiny-annex-1-firms",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "b682658937a6270e",
+      "title": "FCA boosts support for innovative firms as they scale and grow",
+      "summary": "Five fast-growing firms have joined the FCA’s Scale-up Unit, receiving tailored support to help them innovate, navigate regulation and grow sustainably. ClearScore, Modulr, Teya, Urban Jungle and Zilch, spanning payments, consumer finance, credit information and insurtech, are the first firms regulated solely by the FCA to take part. The Scale-up Unit gives firms tailored regulatory support as they develop new products, respond to policy changes and manage the challenges of rapid growth.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-boosts-support-innovative-firms-scale-grow",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Consumer Protection",
+        "Governance",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "consumer finance",
+        "conduct",
+        "payments"
+      ],
+      "topicMatches": [
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "consumer finance"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payments"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-boosts-support-innovative-firms-scale-grow",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -21556,7 +21581,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-10T07:42:30.932Z",
+      "publishedAt": "2026-08-10T18:58:07.498Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21580,7 +21605,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T07:42:30.932Z",
+      "publishedAt": "2026-08-10T18:58:07.498Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21604,7 +21629,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T07:42:30.932Z",
+      "publishedAt": "2026-08-10T18:58:07.498Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21628,7 +21653,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T07:42:30.932Z",
+      "publishedAt": "2026-08-10T18:58:07.498Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21652,7 +21677,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T07:42:30.932Z",
+      "publishedAt": "2026-08-10T18:58:07.498Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21676,7 +21701,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T07:42:30.932Z",
+      "publishedAt": "2026-08-10T18:58:07.498Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21700,7 +21725,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T07:42:30.932Z",
+      "publishedAt": "2026-08-10T18:58:07.498Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21724,7 +21749,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T07:42:30.932Z",
+      "publishedAt": "2026-08-10T18:58:07.498Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21748,7 +21773,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T07:42:30.932Z",
+      "publishedAt": "2026-08-10T18:58:07.498Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21772,7 +21797,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T07:42:30.932Z",
+      "publishedAt": "2026-08-10T18:58:07.498Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21796,7 +21821,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T07:42:30.932Z",
+      "publishedAt": "2026-08-10T18:58:07.498Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21820,7 +21845,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T07:42:30.932Z",
+      "publishedAt": "2026-08-10T18:58:07.498Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21844,7 +21869,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T07:42:30.932Z",
+      "publishedAt": "2026-08-10T18:58:07.498Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21861,11 +21886,11 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 99
+      "count": 97
     },
     {
       "updateType": "Publications / Reports",
-      "count": 82
+      "count": 85
     },
     {
       "updateType": "News",
