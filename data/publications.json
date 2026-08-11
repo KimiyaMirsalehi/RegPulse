@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T18:58:07.498Z",
+  "generatedAt": "2026-08-11T07:07:09.319Z",
   "totalPublications": 486,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 248
+      "count": 249
     },
     {
       "topic": "Basel / BCBS",
@@ -467,12 +467,12 @@
       "count": 60
     },
     {
-      "topic": "Climate / ESG",
+      "topic": "AML / Financial Crime",
       "count": 39
     },
     {
-      "topic": "AML / Financial Crime",
-      "count": 38
+      "topic": "Climate / ESG",
+      "count": 39
     },
     {
       "topic": "Capital Requirements",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 248
+      "count": 249
     },
     {
       "topic": "Basel / BCBS",
@@ -541,12 +541,12 @@
       "count": 60
     },
     {
-      "topic": "Climate / ESG",
+      "topic": "AML / Financial Crime",
       "count": 39
     },
     {
-      "topic": "AML / Financial Crime",
-      "count": 38
+      "topic": "Climate / ESG",
+      "count": 39
     },
     {
       "topic": "Capital Requirements",
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 87
+      "count": 88
     },
     {
       "keyword": "reporting",
@@ -763,6 +763,10 @@
       "count": 5
     },
     {
+      "keyword": "fraud",
+      "count": 5
+    },
+    {
       "keyword": "own funds",
       "count": 5
     },
@@ -796,10 +800,6 @@
     },
     {
       "keyword": "deposit guarantee",
-      "count": 4
-    },
-    {
-      "keyword": "fraud",
       "count": 4
     },
     {
@@ -1000,6 +1000,111 @@
     }
   ],
   "publications": [
+    {
+      "id": "9d31e627bbbe642e",
+      "title": "The EBA clarifies its Product Oversight and Governance Guidelines which address greenwashing risks in ESG products",
+      "summary": "The European Banking Authority (EBA) today published revised Guidelines on product oversight and governance (POG) for retail banking products. They clarify requirements for products with environmental, social and governance (ESG) features whenever offered and sold to consumers and address greenwashing risks. The Guidelines aim to ensure that financial institutions apply robust standards when designing and distributing ESG-related retail products, with a view to reducing the risk of consumers being misled or sold products that do not meet their needs.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-08-12T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2024-05/a12e5087-8fd2-451f-8005-6d45dc838ffd/Report%20on%20greenwashing%20monitoring%20and%20supervision.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-06/d4b262c5-d8b7-45fa-a772-89a3719b61cd/EBA%20amending%20GLs%20on%20POG%20GLs%20-%20Final%20report.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-06/8f6eeb6c-371d-4a96-ad85-f6c6d07142cc/Consolidated%20version%20of%20EBA-GL-2015-18%20on%20product%20oversight%20and%20governance%20.pdf"
+      ],
+      "topics": [
+        "Climate / ESG",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "esg",
+        "greenwashing",
+        "governance",
+        "guidelines",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "esg",
+            "greenwashing"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "guidelines",
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "c281a5173014d62e",
+      "title": "SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO and Affiliated General Partners in Alleged Fraud",
+      "summary": "The Securities and Exchange Commission today charged New York-based investment adviser Adit Ventures Management LLC, its CEO Eric Munson, and three affiliated general partners, Adit Ventures LLC; Adit Ventures II LLC; and Adit Ventures III LLC (the…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-73-sec-charges-private-fund-adviser-adit-ventures-management-its-ceo-affiliated-general-partners",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-10T18:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "fraud",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "fraud"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-73-sec-charges-private-fund-adviser-adit-ventures-management-its-ceo-affiliated-general-partners",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "d724e906552cbe2c",
       "title": "Monetary policy and the rigidity of firm employment expectations",
@@ -4439,10 +4544,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-07-20T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA42-2004696504-8471_Follow-up_report_to_peer_review_on_cross_border_activities_of_investment_firms.pdf",
-        "https://www.esma.europa.eu/sites/default/files/library/esma42-111-5534_report_peer_review_cross_border_activities_investment_firms.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -11126,29 +11228,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "d72a9a2fb98b3522",
-      "title": "SEC Investor Advisory Committee to Host June 4 Meeting",
-      "summary": "The Securities and Exchange Commission’s Investor Advisory Committee will hold a public meeting at the SEC Headquarters in Washington D. C. on June 4 at 10 a.m. ET to discuss private markets, passive index funds, and recommendations regarding fund…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-48-sec-investor-advisory-committee-host-june-4-meeting",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-27T14:59:13.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-48-sec-investor-advisory-committee-host-june-4-meeting",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "26bf689bbc3d1722",
@@ -21399,69 +21478,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "9d31e627bbbe642e",
-      "title": "The EBA clarifies its Product Oversight and Governance Guidelines which address greenwashing risks in ESG products",
-      "summary": "The European Banking Authority (EBA) today published revised Guidelines on product oversight and governance (POG) for retail banking products. They clarify requirements for products with environmental, social and governance (ESG) features whenever offered and sold to consumers and address greenwashing risks. The Guidelines aim to ensure that financial institutions apply robust standards when designing and distributing ESG-related retail products, with a view to reducing the risk of consumers being misled or sold products that do not meet their needs.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": null,
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2024-05/a12e5087-8fd2-451f-8005-6d45dc838ffd/Report%20on%20greenwashing%20monitoring%20and%20supervision.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-06/d4b262c5-d8b7-45fa-a772-89a3719b61cd/EBA%20amending%20GLs%20on%20POG%20GLs%20-%20Final%20report.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-06/8f6eeb6c-371d-4a96-ad85-f6c6d07142cc/Consolidated%20version%20of%20EBA-GL-2015-18%20on%20product%20oversight%20and%20governance%20.pdf"
-      ],
-      "topics": [
-        "Climate / ESG",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "esg",
-        "greenwashing",
-        "governance",
-        "guidelines",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "esg",
-            "greenwashing"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "governance"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "guidelines",
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance",
-      "originalPublishedAt": "2026-08-12T00:00:00.000Z",
-      "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
-    },
-    {
       "id": "0669e79472a354cc",
       "title": "Trial date set for individual charged with illegal promotions",
       "summary": "On 30 July 2026, Lucy Beck attended Southwark Crown Court for a hearing in relation to unauthorised promotions on social media. Ms Beck entered a not guilty plea and the date of her trial has been set as 12 June 2028. It is alleged that Ms Beck promoted buying and selling Foreign Exchange Contracts for Difference through social media accounts and websites, without being authorised to do so, contrary to sections 21 and 25 of the Financial Services and Markets Act 2000. Notes to editorsLucy Beck’s date of birth is 30/04/1994. Anyone who believes they may have suffered loss in relation to this matter is encouraged to contact the FCA consumer contact centre on 0800 111 6768.",
@@ -21581,7 +21597,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-10T18:58:07.498Z",
+      "publishedAt": "2026-08-11T07:07:09.319Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21605,7 +21621,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T18:58:07.498Z",
+      "publishedAt": "2026-08-11T07:07:09.319Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21629,7 +21645,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T18:58:07.498Z",
+      "publishedAt": "2026-08-11T07:07:09.319Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21653,7 +21669,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T18:58:07.498Z",
+      "publishedAt": "2026-08-11T07:07:09.319Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21677,7 +21693,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T18:58:07.498Z",
+      "publishedAt": "2026-08-11T07:07:09.319Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21701,7 +21717,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T18:58:07.498Z",
+      "publishedAt": "2026-08-11T07:07:09.319Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21725,7 +21741,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T18:58:07.498Z",
+      "publishedAt": "2026-08-11T07:07:09.319Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21749,7 +21765,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T18:58:07.498Z",
+      "publishedAt": "2026-08-11T07:07:09.319Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21773,7 +21789,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T18:58:07.498Z",
+      "publishedAt": "2026-08-11T07:07:09.319Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21797,7 +21813,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T18:58:07.498Z",
+      "publishedAt": "2026-08-11T07:07:09.319Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21821,7 +21837,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T18:58:07.498Z",
+      "publishedAt": "2026-08-11T07:07:09.319Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21845,7 +21861,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T18:58:07.498Z",
+      "publishedAt": "2026-08-11T07:07:09.319Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21869,7 +21885,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-10T18:58:07.498Z",
+      "publishedAt": "2026-08-11T07:07:09.319Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21886,7 +21902,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 97
+      "count": 98
     },
     {
       "updateType": "Publications / Reports",
@@ -21894,7 +21910,7 @@
     },
     {
       "updateType": "News",
-      "count": 78
+      "count": 77
     },
     {
       "updateType": "Consultations",
