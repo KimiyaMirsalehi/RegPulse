@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T07:25:55.210Z",
+  "generatedAt": "2026-08-12T19:03:29.387Z",
   "totalPublications": 486,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -460,7 +460,7 @@
     },
     {
       "topic": "Governance",
-      "count": 135
+      "count": 134
     },
     {
       "topic": "Reporting / Disclosure",
@@ -534,7 +534,7 @@
     },
     {
       "topic": "Governance",
-      "count": 135
+      "count": 134
     },
     {
       "topic": "Reporting / Disclosure",
@@ -608,11 +608,11 @@
     },
     {
       "keyword": "supervisory",
-      "count": 110
+      "count": 109
     },
     {
       "keyword": "board",
-      "count": 93
+      "count": 92
     },
     {
       "keyword": "its",
@@ -1058,6 +1058,181 @@
           ]
         }
       ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "4dbefb4938cac6db",
+      "title": "Legal Framework for Banking Supervision Volume I",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.Legal_Framework_for_Banking_Supervision_Volume_1.en.pdf",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-publications",
+      "sourceName": "ECB Banking Supervision Publications",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-11T22:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.Legal_Framework_for_Banking_Supervision_Volume_1.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.Legal_Framework_for_Banking_Supervision_Volume_1.en.pdf",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "99409e71ca08a069",
+      "title": "Legal Framework for Banking Supervision Volume II",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.Legal_Framework_for_Banking_Supervision_Volume_2.en.pdf",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-publications",
+      "sourceName": "ECB Banking Supervision Publications",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-11T22:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.Legal_Framework_for_Banking_Supervision_Volume_2.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.Legal_Framework_for_Banking_Supervision_Volume_2.en.pdf",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "75c88dc134d88430",
+      "title": "Legal Framework for Banking Supervision Volume III",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.Legal_Framework_for_Banking_Supervision_Volume_3.en.pdf",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-publications",
+      "sourceName": "ECB Banking Supervision Publications",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-11T22:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.Legal_Framework_for_Banking_Supervision_Volume_3.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.Legal_Framework_for_Banking_Supervision_Volume_3.en.pdf",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "c57b8a35b93ce239",
+      "title": "The use of the Eurosystem’s monetary policy instruments and its monetary policy implementation framework in 2024 and 2025",
+      "summary": "The Eurosystem implements its monetary policy through a set of monetary policy instruments (MPIs). This report reviews the main changes in the use of MPIs and the associated developments in the Eurosystem’s monetary policy implementation framework over 2024-25. Inflation returned to the ECB’s medium-term target of 2%, supported by the smooth transmission of monetary policy. After completing the hiking cycle of 2022 and 2023, the ECB began reducing its key interest rates in June 2024. This easing phase occurred alongside further balance sheet normalisation.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op398.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-11T22:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op398.en.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op398.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
     },
@@ -2036,44 +2211,6 @@
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "6c315c40401a5d5e",
-      "title": "Europe’s venture capital gap and the financing of high-growth firms",
-      "summary": "This box examines EU venture capital market developments and the implications for firm financing and growth. Venture capital in the EU remains limited in scale and fragmented across national markets, with gaps particularly evident at later stages of financing where they are partially filled by non-EU investors. Although venture capital from outside the EU can help firms expand, a strong reliance on external investors may reduce Europe’s ability to retain the economic gains generated by its entrepreneurial ecosystem. At the same time, venture capital in Europe appears broadly well targeted towards high-performing firms, suggesting significant potential to support growth.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_01~4453cc2a34.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-04T12:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op373.en.pdf",
-        "https://www.bundesfinanzministerium.de/Content/EN/Downloads/Europe/report-five-taskforce.pdf?__blob=publicationFile&amp;v=4"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_01~4453cc2a34.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "c44399a4ce33db46",
@@ -4541,7 +4678,10 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-07-20T00:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA42-2004696504-8471_Follow-up_report_to_peer_review_on_cross_border_activities_of_investment_firms.pdf",
+        "https://www.esma.europa.eu/sites/default/files/library/esma42-111-5534_report_peer_review_cross_border_activities_investment_firms.pdf"
+      ],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -11900,63 +12040,6 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "90f5f1aec7bb0d83",
-      "title": "Written overview for the exchange of views of the Chair of the Supervisory Board of the ECB with the Eurogroup on 4 May 2026",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.written_overview260504.en.pdf",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-publications",
-      "sourceName": "ECB Banking Supervision Publications",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-04T14:45:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.written_overview260504.en.pdf"
-      ],
-      "topics": [
-        "Basel / BCBS",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "board",
-        "supervision",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.written_overview260504.en.pdf",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "a08241171247d5ee",
       "title": "Agencies issue host state loan-to-deposit ratios",
       "summary": "Agencies issue host state loan-to-deposit ratios",
@@ -12532,52 +12615,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "3580f6245b0122e2",
-      "title": "Understanding the banking sector capital framework in the European Union",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.other_publications_banking_sector_framework.en.pdf",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-publications",
-      "sourceName": "ECB Banking Supervision Publications",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-27T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.other_publications_banking_sector_framework.en.pdf"
-      ],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.other_publications_banking_sector_framework.en.pdf",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "88f146b0695ab430",
       "title": "The ESA’s Joint Committee highlights digitalisation, cyber resilience and sustainable finance as key priorities of 2025",
       "summary": "The Joint Committee of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published its Annual Report for 2025, setting out the main priorities and achievements of its cross-sectoral work over the past year. In 2025, the Joint Committee focused on protecting consumers in increasingly digital financial markets, strengthening operational and cyber resilience through the implementation of the Digital Operational Resilience Act (DORA), improving the effectiveness of sustainable finance disclosures, and enhancing cross-sectoral risk monitoring.",
@@ -12735,52 +12772,6 @@
       "topicMatches": [],
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/low-impact-amendments-finalisation-april-2026",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "14bdfb7308f95f15",
-      "title": "List of supervised entities - Cut-off date 1 March 2026",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202604.en.pdf",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-publications",
-      "sourceName": "ECB Banking Supervision Publications",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-23T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202604.en.pdf"
-      ],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202604.en.pdf",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
     },
@@ -21594,7 +21585,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-12T07:25:55.210Z",
+      "publishedAt": "2026-08-12T19:03:29.387Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21618,7 +21609,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-12T07:25:55.210Z",
+      "publishedAt": "2026-08-12T19:03:29.387Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21642,7 +21633,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-12T07:25:55.210Z",
+      "publishedAt": "2026-08-12T19:03:29.387Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21666,7 +21657,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-12T07:25:55.210Z",
+      "publishedAt": "2026-08-12T19:03:29.387Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21690,7 +21681,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-12T07:25:55.210Z",
+      "publishedAt": "2026-08-12T19:03:29.387Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21714,7 +21705,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-12T07:25:55.210Z",
+      "publishedAt": "2026-08-12T19:03:29.387Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21738,7 +21729,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-12T07:25:55.210Z",
+      "publishedAt": "2026-08-12T19:03:29.387Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21762,7 +21753,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-12T07:25:55.210Z",
+      "publishedAt": "2026-08-12T19:03:29.387Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21786,7 +21777,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-12T07:25:55.210Z",
+      "publishedAt": "2026-08-12T19:03:29.387Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21810,7 +21801,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-12T07:25:55.210Z",
+      "publishedAt": "2026-08-12T19:03:29.387Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21834,7 +21825,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-12T07:25:55.210Z",
+      "publishedAt": "2026-08-12T19:03:29.387Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21858,7 +21849,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-12T07:25:55.210Z",
+      "publishedAt": "2026-08-12T19:03:29.387Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21882,7 +21873,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-12T07:25:55.210Z",
+      "publishedAt": "2026-08-12T19:03:29.387Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
