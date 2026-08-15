@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T18:54:06.396Z",
+  "generatedAt": "2026-08-15T06:37:44.453Z",
   "totalPublications": 487,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 247
+      "count": 246
     },
     {
       "topic": "Basel / BCBS",
@@ -468,7 +468,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 39
+      "count": 40
     },
     {
       "topic": "Climate / ESG",
@@ -520,13 +520,13 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 4
+      "count": 5
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 247
+      "count": 246
     },
     {
       "topic": "Basel / BCBS",
@@ -542,7 +542,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 39
+      "count": 40
     },
     {
       "topic": "Climate / ESG",
@@ -594,7 +594,7 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 4
+      "count": 5
     }
   ],
   "keywordCloud": [
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 87
+      "count": 86
     },
     {
       "keyword": "reporting",
@@ -719,6 +719,10 @@
       "count": 6
     },
     {
+      "keyword": "fraud",
+      "count": 6
+    },
+    {
       "keyword": "implementing technical standards",
       "count": 6
     },
@@ -764,10 +768,6 @@
     },
     {
       "keyword": "esg",
-      "count": 5
-    },
-    {
-      "keyword": "fraud",
       "count": 5
     },
     {
@@ -1000,6 +1000,50 @@
     }
   ],
   "publications": [
+    {
+      "id": "2696a11449aff716",
+      "title": "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
+      "summary": "The Securities and Exchange Commission today charged New York resident Andrew Spaventa and three entities he owned and controlled with fraud and other violations in connection with unregistered securities offerings of private funds that purportedly…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-14T20:16:34.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Consumer Protection"
+      ],
+      "matchedKeywords": [
+        "fraud",
+        "retail investors"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "fraud"
+          ]
+        },
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "retail investors"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "10d526b7e3ff0580",
       "title": "Outsourcing and competition in the banking sector: the rise of Cloud Service Providers",
@@ -4668,9 +4712,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-23T13:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds260723~ef801dc812.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -11268,41 +11310,6 @@
       ],
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "39322a4f2db23107",
-      "title": "SEC Announces Four New Members of Investor Advisory Committee",
-      "summary": "The Securities and Exchange Commission today announced four new members to fill vacancies on its Investor Advisory Committee. Three of the four new members will serve four-year terms, while the fourth new member will serve as the…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-50-sec-announces-four-new-members-investor-advisory-committee",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-01T16:39:44.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-50-sec-announces-four-new-members-investor-advisory-committee",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "ab4fcb5fa6e362eb",
@@ -21605,7 +21612,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-14T18:54:06.396Z",
+      "publishedAt": "2026-08-15T06:37:44.453Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21629,7 +21636,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-14T18:54:06.396Z",
+      "publishedAt": "2026-08-15T06:37:44.453Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21653,7 +21660,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-14T18:54:06.396Z",
+      "publishedAt": "2026-08-15T06:37:44.453Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21677,7 +21684,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-14T18:54:06.396Z",
+      "publishedAt": "2026-08-15T06:37:44.453Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21701,7 +21708,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-14T18:54:06.396Z",
+      "publishedAt": "2026-08-15T06:37:44.453Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21725,7 +21732,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-14T18:54:06.396Z",
+      "publishedAt": "2026-08-15T06:37:44.453Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21749,7 +21756,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-14T18:54:06.396Z",
+      "publishedAt": "2026-08-15T06:37:44.453Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21773,7 +21780,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-14T18:54:06.396Z",
+      "publishedAt": "2026-08-15T06:37:44.453Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21797,7 +21804,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-14T18:54:06.396Z",
+      "publishedAt": "2026-08-15T06:37:44.453Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21821,7 +21828,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-14T18:54:06.396Z",
+      "publishedAt": "2026-08-15T06:37:44.453Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21845,7 +21852,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-14T18:54:06.396Z",
+      "publishedAt": "2026-08-15T06:37:44.453Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21869,7 +21876,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-14T18:54:06.396Z",
+      "publishedAt": "2026-08-15T06:37:44.453Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21893,7 +21900,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-14T18:54:06.396Z",
+      "publishedAt": "2026-08-15T06:37:44.453Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21910,7 +21917,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 96
+      "count": 95
     },
     {
       "updateType": "Publications / Reports",
@@ -21918,7 +21925,7 @@
     },
     {
       "updateType": "News",
-      "count": 79
+      "count": 80
     },
     {
       "updateType": "Working Papers / Research",
