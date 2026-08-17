@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T06:56:11.123Z",
+  "generatedAt": "2026-08-17T18:40:13.763Z",
   "totalPublications": 487,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 246
+      "count": 245
     },
     {
       "topic": "Basel / BCBS",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 246
+      "count": 245
     },
     {
       "topic": "Basel / BCBS",
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 86
+      "count": 85
     },
     {
       "keyword": "reporting",
@@ -1000,6 +1000,56 @@
     }
   ],
   "publications": [
+    {
+      "id": "bc02ce89a95ea5c7",
+      "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-17T09:30:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "dc2362c2330d8654",
+      "title": "The AI boom: rational enthusiasm or the next dot-com bubble?",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-blog",
+      "sourceName": "ECB Blog",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-17T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op395.en.pdf?f272e880cc2eaae242024691f2fab1ff"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
     {
       "id": "2696a11449aff716",
       "title": "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
@@ -4732,29 +4782,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "11b8765e42ee69c9",
-      "title": "Monetary policy decisions",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-23T12:15:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "13419124a01f589e",
@@ -11169,41 +11196,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "f4ec621602cee472",
-      "title": "Piero Cipollone: Europe needs to act to strengthen the role of its currency",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260602~65ca6b0d68.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-blog",
-      "sourceName": "ECB Blog",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-02T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260602~65ca6b0d68.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "87096b9f6acbc596",
@@ -21612,7 +21604,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-17T06:56:11.123Z",
+      "publishedAt": "2026-08-17T18:40:13.763Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21636,7 +21628,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-17T06:56:11.123Z",
+      "publishedAt": "2026-08-17T18:40:13.763Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21660,7 +21652,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-17T06:56:11.123Z",
+      "publishedAt": "2026-08-17T18:40:13.763Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21684,7 +21676,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-17T06:56:11.123Z",
+      "publishedAt": "2026-08-17T18:40:13.763Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21708,7 +21700,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-17T06:56:11.123Z",
+      "publishedAt": "2026-08-17T18:40:13.763Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21732,7 +21724,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-17T06:56:11.123Z",
+      "publishedAt": "2026-08-17T18:40:13.763Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21756,7 +21748,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-17T06:56:11.123Z",
+      "publishedAt": "2026-08-17T18:40:13.763Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21780,7 +21772,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-17T06:56:11.123Z",
+      "publishedAt": "2026-08-17T18:40:13.763Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21804,7 +21796,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-17T06:56:11.123Z",
+      "publishedAt": "2026-08-17T18:40:13.763Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21828,7 +21820,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-17T06:56:11.123Z",
+      "publishedAt": "2026-08-17T18:40:13.763Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21852,7 +21844,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-17T06:56:11.123Z",
+      "publishedAt": "2026-08-17T18:40:13.763Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21876,7 +21868,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-17T06:56:11.123Z",
+      "publishedAt": "2026-08-17T18:40:13.763Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21900,7 +21892,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-17T06:56:11.123Z",
+      "publishedAt": "2026-08-17T18:40:13.763Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
