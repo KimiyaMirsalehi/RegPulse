@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T18:28:50.342Z",
+  "generatedAt": "2026-08-17T06:56:11.123Z",
   "totalPublications": 487,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -20657,41 +20657,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "c3fe663cf19fe222",
-      "title": "Anthropic to support FCA’s Supercharged Sandbox",
-      "summary": "Anthropic will support the second group of firms in the FCA's Supercharged Sandbox. The Sandbox is a controlled environment where firms can safely experiment with advanced AI. Anthropic will provide access to Claude for participants – including Claude Code and Claude Cowork – to help speed up their development work. The second group of firms in the Supercharged Sandbox will explore a range of AI use cases.",
-      "url": "https://www.fca.org.uk/news/press-releases/anthropic-supercharged-sandbox",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/anthropic-supercharged-sandbox",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "5d5029e5f64b3ec4",
       "title": "Blue Motor Finance Limited enters administration",
       "summary": "On 30 July 2026, Blue Motor Finance Limited (BMFL) was placed into administration. Simon Edel, Richard Barker and Alan Michael Hudson of Ernst & Young LLP were appointed as joint administrators. BMFL (firm reference number 737682) operated as a motor finance lender. The firm had been running at a loss for a number of years and faced significant compensation liabilities it could not meet. Simon Edel, Richard Barker and Alan Michael Hudson have been appointed as joint administrators. They are now responsible for BMFL while it is in administration. They will contact all affected customers. BMFL in administration is no longer lending.",
@@ -21086,6 +21051,41 @@
         }
       ],
       "link": "https://www.fca.org.uk/news/press-releases/fca-ban-father-son-fraud-misuse-client-money",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "5d08776b6d907cdb",
+      "title": "FCA expands global presence with new attachés in India and UAE",
+      "summary": "The FCA has announced Sabina Saini and Darine Obeid as the financial services attachés for India and the UAE. Sabina will be based at the British Deputy High Commission in Mumbai and Darine will be based at the British Embassy in Abu Dhabi. These appointments expand the FCA's global presence, joining a global network that includes the FCA's existing attachés in Washington DC, Brussels and Singapore, as well as the Asia-Pacific, supporting international co-operation, exports and investment into the UK.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-expands-global-presence-new-attaches-india-uae",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-expands-global-presence-new-attaches-india-uae",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -21612,7 +21612,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-16T18:28:50.342Z",
+      "publishedAt": "2026-08-17T06:56:11.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21636,7 +21636,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-16T18:28:50.342Z",
+      "publishedAt": "2026-08-17T06:56:11.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21660,7 +21660,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-16T18:28:50.342Z",
+      "publishedAt": "2026-08-17T06:56:11.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21684,7 +21684,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-16T18:28:50.342Z",
+      "publishedAt": "2026-08-17T06:56:11.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21708,7 +21708,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-16T18:28:50.342Z",
+      "publishedAt": "2026-08-17T06:56:11.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21732,7 +21732,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-16T18:28:50.342Z",
+      "publishedAt": "2026-08-17T06:56:11.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21756,7 +21756,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-16T18:28:50.342Z",
+      "publishedAt": "2026-08-17T06:56:11.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21780,7 +21780,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-16T18:28:50.342Z",
+      "publishedAt": "2026-08-17T06:56:11.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21804,7 +21804,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-16T18:28:50.342Z",
+      "publishedAt": "2026-08-17T06:56:11.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21828,7 +21828,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-16T18:28:50.342Z",
+      "publishedAt": "2026-08-17T06:56:11.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21852,7 +21852,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-16T18:28:50.342Z",
+      "publishedAt": "2026-08-17T06:56:11.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21876,7 +21876,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-16T18:28:50.342Z",
+      "publishedAt": "2026-08-17T06:56:11.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21900,7 +21900,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-16T18:28:50.342Z",
+      "publishedAt": "2026-08-17T06:56:11.123Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
