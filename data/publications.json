@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T06:43:29.672Z",
+  "generatedAt": "2026-08-18T18:38:04.230Z",
   "totalPublications": 487,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -464,11 +464,11 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 60
+      "count": 61
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 40
+      "count": 39
     },
     {
       "topic": "Climate / ESG",
@@ -480,11 +480,11 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 24
+      "count": 25
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 21
+      "count": 22
     },
     {
       "topic": "Recovery / Resolution",
@@ -538,11 +538,11 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 60
+      "count": 61
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 40
+      "count": 39
     },
     {
       "topic": "Climate / ESG",
@@ -554,11 +554,11 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 24
+      "count": 25
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 21
+      "count": 22
     },
     {
       "topic": "Recovery / Resolution",
@@ -620,7 +620,7 @@
     },
     {
       "keyword": "reporting",
-      "count": 43
+      "count": 44
     },
     {
       "keyword": "governance",
@@ -707,19 +707,15 @@
       "count": 8
     },
     {
+      "keyword": "crypto",
+      "count": 7
+    },
+    {
       "keyword": "disclosure",
       "count": 7
     },
     {
       "keyword": "crr",
-      "count": 6
-    },
-    {
-      "keyword": "crypto",
-      "count": 6
-    },
-    {
-      "keyword": "fraud",
       "count": 6
     },
     {
@@ -768,6 +764,10 @@
     },
     {
       "keyword": "esg",
+      "count": 5
+    },
+    {
+      "keyword": "fraud",
       "count": 5
     },
     {
@@ -1000,6 +1000,87 @@
     }
   ],
   "publications": [
+    {
+      "id": "90187d3a505a4416",
+      "title": "SEC Proposes New Regulation Crypto Assets",
+      "summary": "The Securities and Exchange Commission today announced that it proposed new rules, titled “Regulation Crypto Assets,” that would create a clear and fit-for-purpose framework for certain investment contracts involving crypto assets. This proposal follows…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-18T17:15:48.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Crypto / Digital Assets"
+      ],
+      "matchedKeywords": [
+        "crypto"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "crypto"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "4b5a31d05e6d371c",
+      "title": "ESMA consults on reporting framework for clearing activity at recognised third-country CCPs",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU's financial markets regulator",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-consults-reporting-framework-clearing-activity-recognised-third-country",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-08/ESMA12-2121844265-6008_-_Consultation_Paper_on_EMIR_Article_7d.pdf"
+      ],
+      "topics": [
+        "Reporting / Disclosure",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "reporting",
+        "clearing"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "clearing"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-consults-reporting-framework-clearing-activity-recognised-third-country",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
     {
       "id": "bc02ce89a95ea5c7",
       "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
@@ -4714,9 +4795,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-23T14:15:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/shared/pdf/ecb.design_contest_jury_members.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -5951,29 +6030,6 @@
       "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "7b197c44c7be578a",
-      "title": "New Q&As available",
-      "summary": "",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/new-qas-available-July-2026",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-10T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/new-qas-available-July-2026",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "2d693931b9e5ebaf",
@@ -11173,29 +11229,6 @@
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "updateType": "Other",
       "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "8dc09701f8a21244",
-      "title": "SEC Publishes Draft Strategic Plan for Public Comment",
-      "summary": "The Securities and Exchange Commission today published a Draft Strategic Plan that focuses on returning the agency to the core mission set by Congress more than 90 years ago: protecting investors; maintaining fair, orderly, and efficient…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-51-sec-publishes-draft-strategic-plan-public-comment",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-02T14:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-51-sec-publishes-draft-strategic-plan-public-comment",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "87096b9f6acbc596",
@@ -20898,6 +20931,41 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "a2f7f570ea368cd7",
+      "title": "FCA bans senior manager for lack of honesty and integrity",
+      "summary": "The FCA has banned Howard Roland Duckett from working in financial services due to a serious lack of honesty and integrity. Mr Duckett was a senior manager at Beauforce Corporation Limited, a debt management firm. The High Court has disqualified Mr Duckett from acting as a company director for 10 years. It found that he had failed to maintain adequate records while director of an unrelated company. The Court also found that Mr Duckett repeatedly lied and attempted to rely on fabricated evidence to distance himself from the company and deny that he was a director. This included falsely claiming that a fictitious individual was responsible for running the business.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-bans-senior-manager-lack-honesty-integrity",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-bans-senior-manager-lack-honesty-integrity",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "b682658937a6270e",
       "title": "FCA boosts support for innovative firms as they scale and grow",
       "summary": "Five fast-growing firms have joined the FCA’s Scale-up Unit, receiving tailored support to help them innovate, navigate regulation and grow sustainably. ClearScore, Modulr, Teya, Urban Jungle and Zilch, spanning payments, consumer finance, credit information and insurtech, are the first firms regulated solely by the FCA to take part. The Scale-up Unit gives firms tailored regulatory support as they develop new products, respond to policy changes and manage the challenges of rapid growth.",
@@ -21002,50 +21070,6 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "a1d1b3757cd114bc",
-      "title": "FCA decides to ban father and son following fraud and misuse of client money",
-      "summary": "The FCA has decided to ban a father and son from UK financial services after the High Court found that they had engaged in fraud and misused client money.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-ban-father-son-fraud-misuse-client-money",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime",
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "fraud",
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "fraud"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-ban-father-son-fraud-misuse-client-money",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "5d08776b6d907cdb",
@@ -21604,7 +21628,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-18T06:43:29.672Z",
+      "publishedAt": "2026-08-18T18:38:04.230Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21628,7 +21652,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-18T06:43:29.672Z",
+      "publishedAt": "2026-08-18T18:38:04.230Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21652,7 +21676,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-18T06:43:29.672Z",
+      "publishedAt": "2026-08-18T18:38:04.230Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21676,7 +21700,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-18T06:43:29.672Z",
+      "publishedAt": "2026-08-18T18:38:04.230Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21700,7 +21724,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-18T06:43:29.672Z",
+      "publishedAt": "2026-08-18T18:38:04.230Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21724,7 +21748,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-18T06:43:29.672Z",
+      "publishedAt": "2026-08-18T18:38:04.230Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21748,7 +21772,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-18T06:43:29.672Z",
+      "publishedAt": "2026-08-18T18:38:04.230Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21772,7 +21796,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-18T06:43:29.672Z",
+      "publishedAt": "2026-08-18T18:38:04.230Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21796,7 +21820,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-18T06:43:29.672Z",
+      "publishedAt": "2026-08-18T18:38:04.230Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21820,7 +21844,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-18T06:43:29.672Z",
+      "publishedAt": "2026-08-18T18:38:04.230Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21844,7 +21868,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-18T06:43:29.672Z",
+      "publishedAt": "2026-08-18T18:38:04.230Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21868,7 +21892,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-18T06:43:29.672Z",
+      "publishedAt": "2026-08-18T18:38:04.230Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21892,7 +21916,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-18T06:43:29.672Z",
+      "publishedAt": "2026-08-18T18:38:04.230Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21917,15 +21941,15 @@
     },
     {
       "updateType": "News",
-      "count": 80
+      "count": 79
+    },
+    {
+      "updateType": "Consultations",
+      "count": 37
     },
     {
       "updateType": "Working Papers / Research",
       "count": 37
-    },
-    {
-      "updateType": "Consultations",
-      "count": 36
     },
     {
       "updateType": "Statistics / Data",
