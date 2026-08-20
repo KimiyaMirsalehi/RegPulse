@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T06:44:17.708Z",
-  "totalPublications": 487,
+  "generatedAt": "2026-08-20T18:38:12.283Z",
+  "totalPublications": 488,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -234,7 +234,7 @@
       "region": "US",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 10,
+      "itemCount": 11,
       "url": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 245
     },
     {
       "topic": "Basel / BCBS",
@@ -460,11 +460,11 @@
     },
     {
       "topic": "Governance",
-      "count": 134
+      "count": 135
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 61
+      "count": 60
     },
     {
       "topic": "AML / Financial Crime",
@@ -480,7 +480,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 26
+      "count": 25
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -520,13 +520,13 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 5
+      "count": 6
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 245
     },
     {
       "topic": "Basel / BCBS",
@@ -534,11 +534,11 @@
     },
     {
       "topic": "Governance",
-      "count": 134
+      "count": 135
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 61
+      "count": 60
     },
     {
       "topic": "AML / Financial Crime",
@@ -554,7 +554,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 26
+      "count": 25
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -594,7 +594,7 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 5
+      "count": 6
     }
   ],
   "keywordCloud": [
@@ -612,15 +612,15 @@
     },
     {
       "keyword": "board",
-      "count": 92
+      "count": 93
     },
     {
       "keyword": "its",
-      "count": 86
+      "count": 85
     },
     {
       "keyword": "reporting",
-      "count": 44
+      "count": 43
     },
     {
       "keyword": "governance",
@@ -655,15 +655,15 @@
       "count": 18
     },
     {
-      "keyword": "payments",
-      "count": 16
+      "keyword": "enforcement",
+      "count": 17
     },
     {
       "keyword": "policy statement",
       "count": 16
     },
     {
-      "keyword": "enforcement",
+      "keyword": "payments",
       "count": 15
     },
     {
@@ -859,6 +859,10 @@
       "count": 3
     },
     {
+      "keyword": "retail investors",
+      "count": 3
+    },
+    {
       "keyword": "settlement",
       "count": 3
     },
@@ -913,10 +917,6 @@
     {
       "keyword": "ifrs 9",
       "count": 2
-    },
-    {
-      "keyword": "irb",
-      "count": 2
     }
   ],
   "regionSummary": [
@@ -930,7 +930,7 @@
     },
     {
       "region": "US",
-      "count": 76
+      "count": 77
     },
     {
       "region": "Global",
@@ -964,7 +964,7 @@
     },
     {
       "institution": "Federal Reserve Board",
-      "count": 30
+      "count": 31
     },
     {
       "institution": "Financial Conduct Authority",
@@ -1000,6 +1000,198 @@
     }
   ],
   "publications": [
+    {
+      "id": "75e817f565798cd2",
+      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "summary": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-20T15:00:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20170420a1.pdf",
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20260820b1.pdf"
+      ],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "1e95b84a5c2c11af",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-20T15:00:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20260820a1.pdf",
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20260820a2.pdf"
+      ],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "82df8c9436f27621",
+      "title": "Bank of England Weekly Report 19 August 2026",
+      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+      "url": "https://www.bankofengland.co.uk/weekly-report/2026/19-august-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-20T14:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/19-august-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "5f03279e20f4dd38",
+      "title": "Banks’ funding structures and pass-through in the euro area",
+      "summary": "This paper investigates the interest rate pass-through of monetary policy in the euro area by focusing on the role of banks’ funding structures. We estimate the interest rate pass-through for loans to non-financial corporations using bank-level balance sheet data. In doing so, we interact the response of lending rates with characteristics of the funding structure, and show that banks that rely more on bond issuance than on the money market tend to be less responsive to policy changes.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3274~c747d7b2d0.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-20T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3274~c747d7b2d0.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3274~c747d7b2d0.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "058c113d2af02fde",
+      "title": "Hidden in the aggregate: the cyclicality of EU labour force participation",
+      "summary": "We estimate the cyclical response of labour force participation to growth shocks across EU regions. We use a shift-share instrumental variable approach and local projections on EU Labour Force Survey microdata covering 15 countries and 114 regions over 2000–2020. The aggregate labour force participation rate is remarkably resilient, a clear contrast to the highly cyclical participation rate documented for the U. S. However, this resilience masks pronounced demographic heterogeneity. Men’s participation declines significantly while women’s remains stable, reflecting sectoral segregation and the added worker effect.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3275~9c3ff58aae.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-20T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3275~9c3ff58aae.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3275~9c3ff58aae.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "b069b72fa84b7615",
+      "title": "Domestic and cyclical inflation in the euro area",
+      "summary": "The ECB’s inflation target is formulated in terms of headline inflation. However, domestically determined inflation features prominently in the monetary policy transmission mechanism and in gauging underlying inflation, making it important to assess it regularly. The ECB monitors various proxies for domestically determined inflation, including: (i) “domestic inflation”, which aggregates inflation items with a low import share; and (ii) “Supercore” inflation, which aggregates inflation items found to be sensitive to the aggregate business cycle. This paper provides a detailed overview of the methodologies used to derive both these indicators and updates the relevant input data.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpsps/ecb.sps54~7507337776.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-20T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpsps/ecb.sps54~7507337776.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpsps/ecb.sps54~7507337776.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "cc249754c45eb43b",
       "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
@@ -2487,39 +2679,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "2983050549a6d0df",
-      "title": "The cost of not knowing: how uncertainty weighs on the euro area economy",
-      "summary": "Economic uncertainty – the extent to which households, firms, investors and policymakers find it difficult to assess the economic outlook – has increased markedly in recent years with successive geopolitical and trade policy shocks. This article reviews recent developments in various proxies for uncertainty and shows that metrics capturing geopolitical and trade policy uncertainty have remained persistently elevated. The adverse impact of uncertainty shocks on business investment is typically larger and more persistent than the effect on private consumption.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202605_01~712f201ac1.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T12:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/sintra/ecb.forumcentbankpub2025_Surico_paper.en.pdf",
-        "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/26/Files/dt2614e.pdf",
-        "https://link.springer.com/content/pdf/10.1057/s41308-023-00216-9.pdf",
-        "https://www.nber.org/system/files/working_papers/w3748/w3748.pdf",
-        "https://www.matteoiacoviello.com/research_files/JME2020.pdf",
-        "https://msuweb.montclair.edu/~lebelp/DixitPindyck1994.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1426.pdf",
-        "https://fraser.stlouisfed.org/files/docs/publications/books/risk/riskuncertaintyprofit.pdf",
-        "https://www.princeton.edu/~mwatson/papers/Stock_et_al-2018-The_Economic_Journal.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202605_01~712f201ac1.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "11b51e98dbcdfd24",
       "title": "Building resilience: how energy prices boost home efficiency",
       "summary": "",
@@ -2545,14 +2704,14 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "6bfbdcf51921eb3b",
+      "id": "507bb6b6e77d1bee",
       "title": "Forecasting the euro area job vacancy rate with earnings calls data",
       "summary": "We analyse whether textual information extracted from firms’ earnings calls can improve forecasts of the euro area job vacancy rate. Using transcripts from euro area headquartered firms, we construct a monthly indicator of labour demand based on keywords related to labour market pressures and include it into a mixed frequency Bayesian VAR alongside standard hard and soft indicators. A pseudo–real-time evaluation shows that earnings calls provide timely and valuable signals for tracking vacancy dynamics.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3269~2e2e110338.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2577,19 +2736,19 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3269~2e2e110338.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "c68d923e874b90d3",
+      "id": "9c91c740febe80fe",
       "title": "MuSE: a multiple macro-financial scenario simulation engine for stress testing",
       "summary": "We design an econometric framework to simulate multiple adverse macro-financial scenarios that can be used in top-down stress tests. First, we create a financial stress index informed by shocks generated via a non-parametric copula estimated on a large dataset of daily financial indicators. Second, we simulate the joint dynamics of macroeconomic indicators conditional on the copula-based financial shocks in a large multi-country Bayesian VAR model.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3270~4eb87cfa17.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2625,9 +2784,9 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3270~4eb87cfa17.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "36abf35e44689010",
@@ -4359,31 +4518,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "f4b2bf5ac01e0fc1",
-      "title": "Central banks, debt managers, and specialness in the Bund repo market",
-      "summary": "Elevated repo rate specialness for German government bonds in 2016–17, and particularly in 2022-23, has often been linked to the absorption of these securities by the ECB’s asset purchase programmes. We provide the first evidence on how the debt management office mitigates these effects by jointly analyzing daily secondary-market trades and repo operations of the Deutsche Finanzagentur (DFA) alongside Eurosystem transactions in Bunds from 2015–2024. We find two points: first, that Eurosystem purchases depress repo rates about four times more than DFA purchases (0.4 bp vs 0.1 bp per 1% of free float), while DFA repo lending raises repo rates by roughly 0.2 bp per 1% of outstanding volume.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3259~ca31e19d1b.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-27T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3259~ca31e19d1b.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3259~ca31e19d1b.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
       "id": "f1c71abc3582f6db",
       "title": "Euro area economic and financial developments by institutional sector: first quarter of 2026",
       "summary": "",
@@ -4408,31 +4542,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
-    },
-    {
-      "id": "9b571528f99e9743",
-      "title": "The effects of a large energy price shock on bank credit",
-      "summary": "This study investigates the effect of the large shock to energy prices following the Russian invasion of Ukraine on bank credit to firms. To isolate the causal effect of the shock, it compares bank lending to high-energy-intensive firms to that of similar low-energy-intensive firms. Following the shock, bank credit to high-energy-intensive firms persistently declined, while their interest rates on new loans rose and other loan terms tightened. Across the distribution, safer firms reduced outstanding credit lines and paid unchanged interest rates on new bank loans, while riskier firms borrowed at higher interest rates.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3260~7f05446cac.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-27T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3260~7f05446cac.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3260~7f05446cac.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "002255b6b2b4d233",
@@ -4737,9 +4846,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-24T08:30:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/legal/ecb.leg_gui_2026_17.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -7515,59 +7622,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "76efcf1845f850f5",
-      "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
-      "summary": "Federal Reserve issues initial findings from its 2025 triennial payments study",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
-      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-press",
-      "sourceName": "Federal Reserve Press Releases",
-      "institution": "Federal Reserve Board",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-01T18:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "board",
-        "its",
-        "payments"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payments"
-          ]
-        }
-      ],
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "83cdb453ee6d71a8",
       "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
       "summary": "The Securities and Exchange Commission’s Division of Economic and Risk Analysis (DERA) published updated statistics and data visualizations covering key segments of the U. S. capital markets, including three new asset-backed securities (ABS) issuance data…",
@@ -7731,14 +7785,14 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "8ebc7b46d97007c0",
+      "id": "d9df567a6af9babd",
       "title": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
       "summary": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-press",
-      "sourceName": "Federal Reserve Press Releases",
+      "sourceId": "federal-reserve-banking-reg",
+      "sourceName": "Federal Reserve Banking and Consumer Regulatory Policy",
       "institution": "Federal Reserve Board",
       "region": "US",
       "jurisdiction": "US",
@@ -7761,9 +7815,9 @@
         }
       ],
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
+      "updateType": "Other",
+      "updateTypeDetail": "Other update"
     },
     {
       "id": "e376f7c4b2426394",
@@ -10627,41 +10681,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "cdec0a3f8cd8c7f2",
-      "title": "Agents' summary of business conditions - June 2026",
-      "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
-      "url": "https://www.bankofengland.co.uk/agents-summary/2026/june-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-12T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "reporting"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/agents-summary/2026/june-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "c1ed9e506cdcdd6e",
@@ -20748,6 +20767,50 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "80497819a1bcedac",
+      "title": "Consumers warned to beware of risky mini-bonds and loan notes",
+      "summary": "The FCA is warning consumers about the risks of investing in loan notes and mini-bonds issued by unregulated companies, after continuing to see people lose money in these high-risk investments. The recent failure of Woodville Consultants Ltd, a litigation funder that raised capital from retail investors through unregulated loan notes, shows the potential risk to investors. A loan note or mini-bond usually involves lending money to a company for a set period in return for interest. If that company fails, consumers could lose every penny. The FCA permanently banned the marketing of speculative illiquid securities, including mini-bonds and loan notes, to retail investors from 1 January 2021.",
+      "url": "https://www.fca.org.uk/news/press-releases/consumers-warned-beware-risky-mini-bonds-and-loan-notes",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Consumer Protection",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "retail investors",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "retail investors"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/consumers-warned-beware-risky-mini-bonds-and-loan-notes",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "b06a0099fbbc51e6",
       "title": "EBA consideration on the application of the FRTB from",
       "summary": "",
@@ -21393,50 +21456,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "557d13b907d8d2f3",
-      "title": "Outcomes monitoring: why understanding the consumer experience matters and where firms should focus",
-      "summary": "The Consumer Duty was designed to ensure firms were focussed on the outcomes that matter to their customers. Understanding the actual experiences of people and identifying potential harm are essential to delivering these improvements. So outcomes monitoring is at the heart of helping consumers to better navigate their financial lives. Understanding these outcomes is about more than collecting data or producing reports. It helps firms identify where customers may be struggling, spot emerging risks and take action before harm occurs. Doing this well helps build consumer trust in the firms and products that they engage with.",
-      "url": "https://www.fca.org.uk/news/blogs/outcomes-monitoring-why-understanding-consumer-experience-matters",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Consumer Protection",
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "consumer duty",
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "consumer duty"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/blogs/outcomes-monitoring-why-understanding-consumer-experience-matters",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "d4b1b750c55a9631",
       "title": "Strengthening resilience across an increasingly interconnected financial system",
       "summary": "Think of the last time you made a payment, transferred money, used a banking app or logged on to online financial services. Did you give much thought to the infrastructure that makes those essential everyday transactions possible? Let’s be honest, you probably didn’t. Most people don’t – until something goes wrong. Financial services rely on a network of providers working behind the scenes – including technology, data and operational service providers. These are so important to the resilience of the financial system that the government granted us powers to implement a new oversight regime, and has now designated the first critical third parties (CTPs).",
@@ -21595,10 +21614,10 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "bbd28f53b8668b8c",
-      "title": "You don't need to pay to claim: FCA launches nationwide car finance campaign",
-      "summary": "Millions of car finance customers who may be owed compensation can get help making a complaint for free, as the FCA launches a national advertising campaign. Research by the FCA found that 27% of car finance customers lack confidence to make a complaint without using a claims management company (CMC) or law firm, despite free tools from the FCA being available. Sheree Howard, executive director at the FCA, said: 'Many people who may be owed compensation aren’t sure where to start or don’t realise they don’t have to pay someone to make a complaint. Our free tools are there to help people feel claim confident – so they can get any money owed back without it costing them a penny.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-launches-nationwide-car-finance-campaign",
+      "id": "9c1b253bcbfe0732",
+      "title": "Unregulated loan notes and mini-bonds: don't risk your savings on promises of high returns",
+      "summary": "These high-risk investments should not usually be advertised widely to the public. We banned the marketing of speculative mini-bonds and loan notes to ordinary retail investors from 1 January 2021. We did this because these are complicated investments, not suitable for most people. The ban means these high-risk investments should not usually be advertised widely to the public. But some unregulated firms may still try to sell them by using legal exemptions. You should be on alert if you’re offered these types of investments by someone not regulated by us. They may ask you to tick a box saying you are a sophisticated, experienced or high-net-worth investor before you can invest.",
+      "url": "https://www.fca.org.uk/news/statements/unregulated-loan-notes-mini-bonds-dont-risk-savings-promises-high-returns",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -21610,12 +21629,21 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
+        "Consumer Protection",
         "Governance"
       ],
       "matchedKeywords": [
+        "retail investors",
         "conduct"
       ],
       "topicMatches": [
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "retail investors"
+          ]
+        },
         {
           "id": "governance",
           "label": "Governance",
@@ -21624,7 +21652,7 @@
           ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-launches-nationwide-car-finance-campaign",
+      "link": "https://www.fca.org.uk/news/statements/unregulated-loan-notes-mini-bonds-dont-risk-savings-promises-high-returns",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -21644,7 +21672,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-20T06:44:17.708Z",
+      "publishedAt": "2026-08-20T18:38:12.283Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21668,7 +21696,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-20T06:44:17.708Z",
+      "publishedAt": "2026-08-20T18:38:12.283Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21692,7 +21720,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-20T06:44:17.708Z",
+      "publishedAt": "2026-08-20T18:38:12.283Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21716,7 +21744,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-20T06:44:17.708Z",
+      "publishedAt": "2026-08-20T18:38:12.283Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21740,7 +21768,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-20T06:44:17.708Z",
+      "publishedAt": "2026-08-20T18:38:12.283Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21764,7 +21792,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-20T06:44:17.708Z",
+      "publishedAt": "2026-08-20T18:38:12.283Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21788,7 +21816,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-20T06:44:17.708Z",
+      "publishedAt": "2026-08-20T18:38:12.283Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21812,7 +21840,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-20T06:44:17.708Z",
+      "publishedAt": "2026-08-20T18:38:12.283Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21836,7 +21864,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-20T06:44:17.708Z",
+      "publishedAt": "2026-08-20T18:38:12.283Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21860,7 +21888,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-20T06:44:17.708Z",
+      "publishedAt": "2026-08-20T18:38:12.283Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21884,7 +21912,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-20T06:44:17.708Z",
+      "publishedAt": "2026-08-20T18:38:12.283Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21908,7 +21936,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-20T06:44:17.708Z",
+      "publishedAt": "2026-08-20T18:38:12.283Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21932,7 +21960,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-20T06:44:17.708Z",
+      "publishedAt": "2026-08-20T18:38:12.283Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21949,7 +21977,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 94
+      "count": 92
     },
     {
       "updateType": "Publications / Reports",
@@ -21957,7 +21985,7 @@
     },
     {
       "updateType": "News",
-      "count": 79
+      "count": 81
     },
     {
       "updateType": "Consultations",
@@ -21977,7 +22005,7 @@
     },
     {
       "updateType": "Other",
-      "count": 8
+      "count": 9
     },
     {
       "updateType": "Events",
