@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T06:47:18.794Z",
-  "totalPublications": 488,
+  "generatedAt": "2026-08-21T18:37:46.532Z",
+  "totalPublications": 487,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -117,7 +117,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "html-list-parser",
-      "itemCount": 2,
+      "itemCount": 1,
       "url": "https://www.eba.europa.eu/publications-and-media/publications",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
       "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 242
     },
     {
       "topic": "Basel / BCBS",
@@ -460,7 +460,7 @@
     },
     {
       "topic": "Governance",
-      "count": 135
+      "count": 134
     },
     {
       "topic": "Reporting / Disclosure",
@@ -472,7 +472,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 38
+      "count": 37
     },
     {
       "topic": "Capital Requirements",
@@ -480,7 +480,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 25
+      "count": 23
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -500,7 +500,7 @@
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 18
+      "count": 17
     },
     {
       "topic": "Liquidity",
@@ -508,7 +508,7 @@
     },
     {
       "topic": "Market Risk",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "Model Risk",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 242
     },
     {
       "topic": "Basel / BCBS",
@@ -534,7 +534,7 @@
     },
     {
       "topic": "Governance",
-      "count": 135
+      "count": 134
     },
     {
       "topic": "Reporting / Disclosure",
@@ -546,7 +546,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 38
+      "count": 37
     },
     {
       "topic": "Capital Requirements",
@@ -554,7 +554,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 25
+      "count": 23
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -574,7 +574,7 @@
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 18
+      "count": 17
     },
     {
       "topic": "Liquidity",
@@ -582,7 +582,7 @@
     },
     {
       "topic": "Market Risk",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "Model Risk",
@@ -608,7 +608,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 109
+      "count": 107
     },
     {
       "keyword": "board",
@@ -624,11 +624,11 @@
     },
     {
       "keyword": "governance",
-      "count": 34
+      "count": 33
     },
     {
       "keyword": "climate",
-      "count": 32
+      "count": 31
     },
     {
       "keyword": "money laundering",
@@ -659,11 +659,11 @@
       "count": 16
     },
     {
-      "keyword": "policy statement",
-      "count": 16
+      "keyword": "payments",
+      "count": 15
     },
     {
-      "keyword": "payments",
+      "keyword": "policy statement",
       "count": 15
     },
     {
@@ -675,12 +675,12 @@
       "count": 14
     },
     {
-      "keyword": "operational resilience",
+      "keyword": "stress test",
       "count": 12
     },
     {
-      "keyword": "stress test",
-      "count": 12
+      "keyword": "operational resilience",
+      "count": 11
     },
     {
       "keyword": "resolution",
@@ -736,10 +736,6 @@
     },
     {
       "keyword": "nature-related",
-      "count": 6
-    },
-    {
-      "keyword": "payment",
       "count": 6
     },
     {
@@ -808,6 +804,10 @@
     },
     {
       "keyword": "mrel",
+      "count": 4
+    },
+    {
+      "keyword": "payment",
       "count": 4
     },
     {
@@ -907,22 +907,22 @@
       "count": 2
     },
     {
-      "keyword": "frtb",
-      "count": 2
-    },
-    {
       "keyword": "greenwashing",
       "count": 2
     },
     {
       "keyword": "ifrs 9",
       "count": 2
+    },
+    {
+      "keyword": "irb",
+      "count": 2
     }
   ],
   "regionSummary": [
     {
       "region": "EU",
-      "count": 278
+      "count": 277
     },
     {
       "region": "UK",
@@ -952,7 +952,7 @@
     },
     {
       "institution": "European Banking Authority",
-      "count": 62
+      "count": 61
     },
     {
       "institution": "Bank of England",
@@ -1000,6 +1000,128 @@
     }
   ],
   "publications": [
+    {
+      "id": "c232c582098f0ef2",
+      "title": "Productivity and inflation dynamics",
+      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+      "url": "https://www.bankofengland.co.uk/working-paper/2026/productivity-and-inflation-dynamics",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-21T13:01:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/productivity-and-inflation-dynamics.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/productivity-and-inflation-dynamics",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "fc7ab09910ccc688",
+      "title": "Capital gains taxation and asset price volatility",
+      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+      "url": "https://www.bankofengland.co.uk/working-paper/2026/capital-gains-taxation-and-asset-price-volatility",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-21T13:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/capital-gains-taxation-and-asset-price-volatility.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/capital-gains-taxation-and-asset-price-volatility",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "b3e9f9f15f1979c6",
+      "title": "ECB Consumer Expectations Survey results – July 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-21T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/shared/pdf/CES_aggregate_statistics_guide.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op287~ea7eebc23f.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "a53a2ae714ddf0c9",
+      "title": "List of supervised entities - Cut-off date 1 July 2026",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202608.en.pdf",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-publications",
+      "sourceName": "ECB Banking Supervision Publications",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-21T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202608.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202608.en.pdf",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "1e6a872547e50fd0",
       "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
@@ -4722,9 +4844,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-07-24T13:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements"
       ],
@@ -4794,12 +4914,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-24T10:00:00.000Z",
-      "pdfLinks": [
-        "https://www.kansascityfed.org/documents/364/2016-The%20Lasting%20Damage%20from%20the%20Financial%20Crisis%20to%20U.S.%20Productivity.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2720~e6f3686548.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2951~e55e828e44.en.pdf?1ee9dfcf059901a6982d61fb3e3965db",
-        "https://www.bis.org/publ/work534.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -5052,29 +5167,6 @@
       "topicMatches": [],
       "link": "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading",
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "3d39327ed75a1d25",
-      "title": "ECB reveals shortlisted designs for new banknotes and launches public survey",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-23T14:15:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
     },
@@ -10565,114 +10657,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "6e72885bdc5d7f41",
-      "title": "Governance: recognised payment system operators",
-      "summary": "Policy statement and supervisory statement",
-      "url": "https://www.bankofengland.co.uk/paper/2026/ps/governance-recognised-payment-system-operators-ps-ss",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-12T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "governance",
-        "supervisory",
-        "policy statement",
-        "payment"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "governance"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory",
-            "policy statement"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payment"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/paper/2026/ps/governance-recognised-payment-system-operators-ps-ss",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "6c9db5010b7132de",
-      "title": "Operational resilience: recognised payment system operators and specified service providers",
-      "summary": "Supervisory statement",
-      "url": "https://www.bankofengland.co.uk/paper/2026/ss/operational-resilience-rpsos-ssps-ss",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-12T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "DORA / Operational Resilience",
-        "Supervision / Enforcement",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "operational resilience",
-        "supervisory",
-        "payment"
-      ],
-      "topicMatches": [
-        {
-          "id": "dora-operational-resilience",
-          "label": "DORA / Operational Resilience",
-          "keywords": [
-            "operational resilience"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payment"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/paper/2026/ss/operational-resilience-rpsos-ssps-ss",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "c1ed9e506cdcdd6e",
       "title": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
       "summary": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
@@ -11945,61 +11929,6 @@
         }
       ],
       "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.202605_ECBreport_on_good_practices_for_climate_and_nature_stress_testing.en.pdf",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "42989b2009459db1",
-      "title": "Good practices for climate and nature risk management",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.thematicreviewcercompendiumgoodpractices052026.en.pdf",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-publications",
-      "sourceName": "ECB Banking Supervision Publications",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-08T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.thematicreviewcercompendiumgoodpractices052026.en.pdf"
-      ],
-      "topics": [
-        "Basel / BCBS",
-        "Climate / ESG",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "climate",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.thematicreviewcercompendiumgoodpractices052026.en.pdf",
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
@@ -20801,45 +20730,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "b06a0099fbbc51e6",
-      "title": "EBA consideration on the application of the FRTB from",
-      "summary": "",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
-      "sourceId": "eba-publications",
-      "sourceName": "EBA Publications",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": null,
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf"
-      ],
-      "topics": [
-        "Market Risk"
-      ],
-      "matchedKeywords": [
-        "frtb"
-      ],
-      "topicMatches": [
-        {
-          "id": "market-risk",
-          "label": "Market Risk",
-          "keywords": [
-            "frtb"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report",
-      "originalPublishedAt": "2027-01-01T00:00:00.000Z",
-      "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
-    },
-    {
       "id": "582f678ef8bba519",
       "title": "FCA advances package of equity market transparency reforms",
       "summary": "The FCA has published a package of reforms designed to improve transparency, strengthen access to market-wide information and support confidence in UK equity markets. The package confirms the framework for a future equity consolidated tape, consults on targeted market structure reforms and introduces an interim market activity reporting tool for shares. UK equity markets offer investors a wide choice of trading options. The FCA's assessment is that competition and innovation have delivered significant benefits for market users, helping create liquid and resilient markets. However, greater choice has also increased fragmentation.",
@@ -21662,7 +21552,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-21T06:47:18.794Z",
+      "publishedAt": "2026-08-21T18:37:46.532Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21686,7 +21576,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-21T06:47:18.794Z",
+      "publishedAt": "2026-08-21T18:37:46.532Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21710,7 +21600,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-21T06:47:18.794Z",
+      "publishedAt": "2026-08-21T18:37:46.532Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21734,7 +21624,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-21T06:47:18.794Z",
+      "publishedAt": "2026-08-21T18:37:46.532Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21758,7 +21648,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-21T06:47:18.794Z",
+      "publishedAt": "2026-08-21T18:37:46.532Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21782,7 +21672,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-21T06:47:18.794Z",
+      "publishedAt": "2026-08-21T18:37:46.532Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21806,7 +21696,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-21T06:47:18.794Z",
+      "publishedAt": "2026-08-21T18:37:46.532Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21830,7 +21720,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-21T06:47:18.794Z",
+      "publishedAt": "2026-08-21T18:37:46.532Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21854,7 +21744,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-21T06:47:18.794Z",
+      "publishedAt": "2026-08-21T18:37:46.532Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21878,7 +21768,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-21T06:47:18.794Z",
+      "publishedAt": "2026-08-21T18:37:46.532Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21902,7 +21792,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-21T06:47:18.794Z",
+      "publishedAt": "2026-08-21T18:37:46.532Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21926,7 +21816,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-21T06:47:18.794Z",
+      "publishedAt": "2026-08-21T18:37:46.532Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21950,7 +21840,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-21T06:47:18.794Z",
+      "publishedAt": "2026-08-21T18:37:46.532Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21967,22 +21857,22 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 92
+      "count": 90
     },
     {
       "updateType": "Publications / Reports",
-      "count": 85
+      "count": 84
     },
     {
       "updateType": "News",
       "count": 81
     },
     {
-      "updateType": "Consultations",
-      "count": 37
+      "updateType": "Working Papers / Research",
+      "count": 39
     },
     {
-      "updateType": "Working Papers / Research",
+      "updateType": "Consultations",
       "count": 37
     },
     {
