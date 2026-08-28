@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T17:24:31.104Z",
+  "generatedAt": "2026-08-28T02:03:20.368Z",
   "totalPublications": 485,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -464,7 +464,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 59
+      "count": 58
     },
     {
       "topic": "AML / Financial Crime",
@@ -520,7 +520,7 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 7
+      "count": 8
     }
   ],
   "topicsSummary": [
@@ -538,7 +538,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 59
+      "count": 58
     },
     {
       "topic": "AML / Financial Crime",
@@ -594,7 +594,7 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 7
+      "count": 8
     }
   ],
   "keywordCloud": [
@@ -671,11 +671,11 @@
       "count": 14
     },
     {
-      "keyword": "transparency",
-      "count": 14
+      "keyword": "stress test",
+      "count": 13
     },
     {
-      "keyword": "stress test",
+      "keyword": "transparency",
       "count": 13
     },
     {
@@ -775,6 +775,10 @@
       "count": 5
     },
     {
+      "keyword": "retail investors",
+      "count": 5
+    },
+    {
       "keyword": "sanctions",
       "count": 5
     },
@@ -800,10 +804,6 @@
     },
     {
       "keyword": "recovery plans",
-      "count": 4
-    },
-    {
-      "keyword": "retail investors",
       "count": 4
     },
     {
@@ -879,10 +879,6 @@
       "count": 2
     },
     {
-      "keyword": "data standards",
-      "count": 2
-    },
-    {
       "keyword": "emissions",
       "count": 2
     },
@@ -916,6 +912,10 @@
     },
     {
       "keyword": "reverse stress",
+      "count": 2
+    },
+    {
+      "keyword": "scenario analysis",
       "count": 2
     }
   ],
@@ -1000,6 +1000,41 @@
     }
   ],
   "publications": [
+    {
+      "id": "9471402145e01ae4",
+      "title": "SEC: 38 Entities Feigned Legitimacy as U. S. Advisers Through False Filings to Lure Retail Investors",
+      "summary": "The Securities and Exchange Commission today charged 38 entities alleging that they made material misrepresentations in Forms ADV filed with the Commission between 2025 and 2026 to falsely portray themselves as legitimate advisory firms to U. S. investors…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-78-sec-38-entities-feigned-legitimacy-us-advisers-through-false-filings-lure-retail-investors",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-27T21:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Consumer Protection"
+      ],
+      "matchedKeywords": [
+        "retail investors"
+      ],
+      "topicMatches": [
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "retail investors"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-78-sec-38-entities-feigned-legitimacy-us-advisers-through-false-filings-lure-retail-investors",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "ebdba6a24cabf7eb",
       "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
@@ -4808,12 +4843,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-07-29T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/july/ps1826app1.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/july/ps1826app2.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/july/ps1826app3.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/july/ps1826app4.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements",
         "Reporting / Disclosure",
@@ -11164,43 +11194,6 @@
       ],
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "5004530ebfbe73d9",
-      "title": "SEC Establishes Joint Data Standards as Required Under the Financial Data Transparency Act of 2022",
-      "summary": "The U. S. Securities and Exchange Commission established joint data standards under the Financial Data Transparency Act of 2022. The final rule establishes technical standards for data submitted to certain financial regulatory agencies. Eight additional…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-53-sec-establishes-joint-data-standards-required-under-financial-data-transparency-act-2022",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-08T14:36:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "transparency",
-        "data standards"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "transparency",
-            "data standards"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-53-sec-establishes-joint-data-standards-required-under-financial-data-transparency-act-2022",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
     },
@@ -21468,7 +21461,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-27T17:24:31.104Z",
+      "publishedAt": "2026-08-28T02:03:20.368Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21492,7 +21485,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-27T17:24:31.104Z",
+      "publishedAt": "2026-08-28T02:03:20.368Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21516,7 +21509,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-27T17:24:31.104Z",
+      "publishedAt": "2026-08-28T02:03:20.368Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21540,7 +21533,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-27T17:24:31.104Z",
+      "publishedAt": "2026-08-28T02:03:20.368Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21564,7 +21557,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-27T17:24:31.104Z",
+      "publishedAt": "2026-08-28T02:03:20.368Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21588,7 +21581,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-27T17:24:31.104Z",
+      "publishedAt": "2026-08-28T02:03:20.368Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21612,7 +21605,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-27T17:24:31.104Z",
+      "publishedAt": "2026-08-28T02:03:20.368Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21636,7 +21629,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-27T17:24:31.104Z",
+      "publishedAt": "2026-08-28T02:03:20.368Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21660,7 +21653,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-27T17:24:31.104Z",
+      "publishedAt": "2026-08-28T02:03:20.368Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21684,7 +21677,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-27T17:24:31.104Z",
+      "publishedAt": "2026-08-28T02:03:20.368Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21708,7 +21701,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-27T17:24:31.104Z",
+      "publishedAt": "2026-08-28T02:03:20.368Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21732,7 +21725,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-27T17:24:31.104Z",
+      "publishedAt": "2026-08-28T02:03:20.368Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21756,7 +21749,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-27T17:24:31.104Z",
+      "publishedAt": "2026-08-28T02:03:20.368Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21773,7 +21766,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 90
+      "count": 89
     },
     {
       "updateType": "Publications / Reports",
@@ -21781,7 +21774,7 @@
     },
     {
       "updateType": "News",
-      "count": 79
+      "count": 80
     },
     {
       "updateType": "Consultations",
