@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T02:03:20.368Z",
+  "generatedAt": "2026-08-28T18:17:50.449Z",
   "totalPublications": 485,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,11 +452,11 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 241
+      "count": 240
     },
     {
       "topic": "Governance",
-      "count": 135
+      "count": 136
     },
     {
       "topic": "Basel / BCBS",
@@ -472,7 +472,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 36
+      "count": 35
     },
     {
       "topic": "Capital Requirements",
@@ -492,7 +492,7 @@
     },
     {
       "topic": "Stress Testing",
-      "count": 21
+      "count": 20
     },
     {
       "topic": "Recovery / Resolution",
@@ -526,11 +526,11 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 241
+      "count": 240
     },
     {
       "topic": "Governance",
-      "count": 135
+      "count": 136
     },
     {
       "topic": "Basel / BCBS",
@@ -546,7 +546,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 36
+      "count": 35
     },
     {
       "topic": "Capital Requirements",
@@ -566,7 +566,7 @@
     },
     {
       "topic": "Stress Testing",
-      "count": 21
+      "count": 20
     },
     {
       "topic": "Recovery / Resolution",
@@ -608,15 +608,15 @@
     },
     {
       "keyword": "supervisory",
-      "count": 104
+      "count": 105
     },
     {
       "keyword": "board",
-      "count": 94
+      "count": 95
     },
     {
       "keyword": "its",
-      "count": 85
+      "count": 84
     },
     {
       "keyword": "reporting",
@@ -628,7 +628,7 @@
     },
     {
       "keyword": "climate",
-      "count": 30
+      "count": 29
     },
     {
       "keyword": "money laundering",
@@ -699,11 +699,11 @@
       "count": 9
     },
     {
-      "keyword": "stress testing",
-      "count": 9
+      "keyword": "crypto",
+      "count": 8
     },
     {
-      "keyword": "crypto",
+      "keyword": "stress testing",
       "count": 8
     },
     {
@@ -739,14 +739,6 @@
       "count": 6
     },
     {
-      "keyword": "nature related",
-      "count": 6
-    },
-    {
-      "keyword": "nature-related",
-      "count": 6
-    },
-    {
       "keyword": "risk culture",
       "count": 6
     },
@@ -768,6 +760,14 @@
     },
     {
       "keyword": "esg",
+      "count": 5
+    },
+    {
+      "keyword": "nature related",
+      "count": 5
+    },
+    {
+      "keyword": "nature-related",
       "count": 5
     },
     {
@@ -1000,6 +1000,189 @@
     }
   ],
   "publications": [
+    {
+      "id": "02d63757c730ce0a",
+      "title": "SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations",
+      "summary": "The Securities and Exchange Commission today proposed amendments to Rule 3a12-8 under the Securities Exchange Act of 1934 to add the debt obligations of the European Union (EU) to the list of foreign government debt obligations designated as \"exempted…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-79-sec-proposes-amendments-exchange-act-rule-3a12-8-add-european-union-debt-obligations",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-28T17:33:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-79-sec-proposes-amendments-exchange-act-rule-3a12-8-add-european-union-debt-obligations",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "3d26dd673f36d9d2",
+      "title": "Isabel Schnabel: Central banks on-chain",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-28T16:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bis.org/publ/arpdf/ar2025e.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/other/ecb.exploratoryworknewtechnologies202506.en.pdf",
+        "https://www.bis.org/publ/othp110.pdf",
+        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260828_slides~c15106b8af.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "99ff4f44123a1525",
+      "title": "Letter from Claudia Buch, Chair of the Supervisory Board, to Ms Maria Zacharia, MEP, on banking supervision",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.mepletter260828_Zacharia~3469e469a9.en.pdf",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-publications",
+      "sourceName": "ECB Banking Supervision Publications",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-28T14:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.mepletter260828_Zacharia~3469e469a9.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "board",
+        "supervision",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.mepletter260828_Zacharia~3469e469a9.en.pdf",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "7c293107c668b4e2",
+      "title": "How do firms cope with economic shocks in real time?",
+      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+      "url": "https://www.bankofengland.co.uk/working-paper/2026/how-do-firms-cope-with-economic-shocks-in-real-time",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-28T13:02:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/how-do-firms-cope-with-economic-shocks-in-real-time.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/how-do-firms-cope-with-economic-shocks-in-real-time",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "50aaa082cea05d00",
+      "title": "Locking in the rate or staying flexible? Mortgage refinancing around an interest rate shock",
+      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+      "url": "https://www.bankofengland.co.uk/working-paper/2026/locking-in-the-rate-or-staying-flexible-mortgage-refinancing-around-an-interest-rate-shock",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-28T13:01:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/locking-in-the-rate-or-staying-flexible-mortgage-refinancing-around-an-interest-rate-shock.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/locking-in-the-rate-or-staying-flexible-mortgage-refinancing-around-an-interest-rate-shock",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "52b707b01266cdf6",
+      "title": "A welfare analysis of the central bank balance sheet",
+      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+      "url": "https://www.bankofengland.co.uk/working-paper/2026/a-welfare-analysis-of-the-central-bank-balance-sheet",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-28T13:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/a-welfare-analysis-of-the-central-bank-balance-sheet.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/a-welfare-analysis-of-the-central-bank-balance-sheet",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
     {
       "id": "9471402145e01ae4",
       "title": "SEC: 38 Entities Feigned Legitimacy as U. S. Advisers Through False Filings to Lure Retail Investors",
@@ -4687,10 +4870,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-30T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.dep260730_Item_1_ECB_Presentation_Accessibility_App.en.pdf",
-        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep251030_digital_euro_fit_payment_ecosystem_report.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Crypto / Digital Assets"
       ],
@@ -4725,9 +4905,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-07-29T18:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/monetarypolicy/files/monetary20260729a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -4762,12 +4940,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-29T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3158~d00f854954.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3179~6233349fcb.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op371.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3158~d00f854954.de.pdf?a34f3f07fc4796161579916a7a9eefeb"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4790,14 +4963,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-07-29T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/memoranda-of-understanding/pra-supervision-of-managing-agents.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2026/july/liac0226app1.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2026/july/liac0226app2.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2026/july/liac0226-appendicies--im03--internal-model-outputs-nonlife.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2026/july/liac0226app4.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2026/july/liac0226-appendicies---draft-amendments-to-ss24_15.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -5301,29 +5467,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "912e8daab4b4b829",
-      "title": "Results of the June 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_3~c0b45e246f.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-24T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_3~c0b45e246f.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "8e47f5569f68c4b7",
@@ -10309,52 +10452,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "d9e1d44bb5b454a1",
-      "title": "Private markets system-wide exploratory scenario: publication of the stress scenario",
-      "summary": "The Bank of England (the Bank) has launched the scenario phase of the private markets system-wide exploratory scenario.",
-      "url": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/publication-of-the-stress-scenario-for-the-private-markets-system-wide-exploratory-scenario",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-19T07:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/publication-of-the-stress-scenario-for-the-private-markets-system-wide-exploratory-scenario",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "11e3ac56bfed5995",
-      "title": "2025 CCP Global International Default Simulation: key findings and observations",
-      "summary": "Bafin, the Bank of England, Bundesbank, CFTC and ESMA present a summary of industry feedback from the 2025 CCP Global Default Simulation exercise and identify areas for consideration in the development of CCPs’ default management processes and future exercises.",
-      "url": "https://www.bankofengland.co.uk/paper/2026/2025-ccp-global-international-default-simulation-key-findings-and-observations",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-19T07:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/paper/2026/2025-ccp-global-international-default-simulation-key-findings-and-observations",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "d6ebc416b93b0e72",
       "title": "CP9/26 – Basel 3.1: Adjustments to the internal model approach (IMA) for market risk",
       "summary": "Consultation paper 9/26",
@@ -10415,29 +10512,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "b70a06c1b2ce4543",
-      "title": "Travel restrictions as border frictions: evidence from the Covid-19 pandemic",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/travel-restrictions-as-border-frictions-evidence-from-the-covid-19-pandemic",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-18T22:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/travel-restrictions-as-border-frictions-evidence-from-the-covid-19-pandemic",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "5b04623062db0e70",
@@ -10908,41 +10982,6 @@
       ],
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "11073c93b3982ff2",
-      "title": "SEC Proposes Rescission of Regulation NMS Rules 611 and 610(e)",
-      "summary": "The Securities and Exchange Commission today proposed amendments to rescind Rules 611 and 610(e) of Regulation NMS.“After two decades of Rule 611, it is high time that the Commission review its unintended consequences that have hindered — rather than…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-54-sec-proposes-rescission-regulation-nms-rules-611-610e",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-11T14:55:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-54-sec-proposes-rescission-regulation-nms-rules-611-610e",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
     },
@@ -11969,74 +12008,6 @@
       ],
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "e0899a87e8a1f86d",
-      "title": "ECB report on good practices for climate and nature-related risk stress testing",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.202605_ECBreport_on_good_practices_for_climate_and_nature_stress_testing.en.pdf",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-publications",
-      "sourceName": "ECB Banking Supervision Publications",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-05-08T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.202605_ECBreport_on_good_practices_for_climate_and_nature_stress_testing.en.pdf"
-      ],
-      "topics": [
-        "Basel / BCBS",
-        "Climate / ESG",
-        "Stress Testing",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "climate",
-        "nature-related",
-        "nature related",
-        "stress testing",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate",
-            "nature-related",
-            "nature related"
-          ]
-        },
-        {
-          "id": "stress-testing",
-          "label": "Stress Testing",
-          "keywords": [
-            "stress testing"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.202605_ECBreport_on_good_practices_for_climate_and_nature_stress_testing.en.pdf",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "31c758c03490be83",
@@ -21461,7 +21432,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-28T02:03:20.368Z",
+      "publishedAt": "2026-08-28T18:17:50.449Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21485,7 +21456,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-28T02:03:20.368Z",
+      "publishedAt": "2026-08-28T18:17:50.449Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21509,7 +21480,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-28T02:03:20.368Z",
+      "publishedAt": "2026-08-28T18:17:50.449Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21533,7 +21504,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-28T02:03:20.368Z",
+      "publishedAt": "2026-08-28T18:17:50.449Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21557,7 +21528,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-28T02:03:20.368Z",
+      "publishedAt": "2026-08-28T18:17:50.449Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21581,7 +21552,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-28T02:03:20.368Z",
+      "publishedAt": "2026-08-28T18:17:50.449Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21605,7 +21576,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-28T02:03:20.368Z",
+      "publishedAt": "2026-08-28T18:17:50.449Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21629,7 +21600,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-28T02:03:20.368Z",
+      "publishedAt": "2026-08-28T18:17:50.449Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21653,7 +21624,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-28T02:03:20.368Z",
+      "publishedAt": "2026-08-28T18:17:50.449Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21677,7 +21648,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-28T02:03:20.368Z",
+      "publishedAt": "2026-08-28T18:17:50.449Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21701,7 +21672,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-28T02:03:20.368Z",
+      "publishedAt": "2026-08-28T18:17:50.449Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21725,7 +21696,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-28T02:03:20.368Z",
+      "publishedAt": "2026-08-28T18:17:50.449Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21749,7 +21720,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-28T02:03:20.368Z",
+      "publishedAt": "2026-08-28T18:17:50.449Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21770,7 +21741,7 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 84
+      "count": 82
     },
     {
       "updateType": "News",
@@ -21782,7 +21753,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 37
+      "count": 39
     },
     {
       "updateType": "Statistics / Data",
