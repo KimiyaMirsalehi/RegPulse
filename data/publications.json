@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T22:34:49.587Z",
-  "totalPublications": 485,
+  "generatedAt": "2026-09-01T11:13:22.877Z",
+  "totalPublications": 484,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "fallback-parser",
-      "itemCount": 8,
+      "itemCount": 7,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 240
+      "count": 239
     },
     {
       "topic": "Governance",
@@ -508,7 +508,7 @@
     },
     {
       "topic": "Market Risk",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "Model Risk",
@@ -520,13 +520,13 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 8
+      "count": 7
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 240
+      "count": 239
     },
     {
       "topic": "Governance",
@@ -582,7 +582,7 @@
     },
     {
       "topic": "Market Risk",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "Model Risk",
@@ -594,7 +594,7 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 8
+      "count": 7
     }
   ],
   "keywordCloud": [
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 84
+      "count": 83
     },
     {
       "keyword": "reporting",
@@ -807,10 +807,6 @@
       "count": 4
     },
     {
-      "keyword": "var",
-      "count": 4
-    },
-    {
       "keyword": "carbon",
       "count": 3
     },
@@ -860,6 +856,10 @@
     },
     {
       "keyword": "stablecoins",
+      "count": 3
+    },
+    {
+      "keyword": "var",
       "count": 3
     },
     {
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 274
+      "count": 273
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 83
+      "count": 82
     },
     {
       "institution": "European Banking Authority",
@@ -1001,6 +1001,32 @@
   ],
   "publications": [
     {
+      "id": "9e8d7db270c29152",
+      "title": "Why the drivers of inflation matter for monetary policy",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260901~8d48e51f14.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-blog",
+      "sourceName": "ECB Blog",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-01T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op371.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3201~a02cfaf2e8.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260901~8d48e51f14.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
       "id": "efbd8061f0e0a942",
       "title": "SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity",
       "summary": "The Securities and Exchange Commission and the Food and Drug Administration today announced that they have entered into a Memorandum of Understanding (MOU) designed to assist the agencies in carrying out their respective missions of ensuring the…",
@@ -1047,6 +1073,31 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "45bb0a3d3821b8bc",
+      "title": "Environmental policy uncertainty and cleantech FDI",
+      "summary": "This paper examines whether environmental policy uncertainty undermines clean-technology investment in the United States by weakening policy-induced investment incentives. Using quarterly project-level data on U. S. greenfield investments from 2007Q1 to 2019Q1, combined with novel news-based indices that separately measure environmental policy salience and environmental policy uncertainty, we find that policy uncertainty substantially offsets the positive investment effects of environmental policy.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3278~42c60efb87.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-08-31T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3278~42c60efb87.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3278~42c60efb87.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "02d63757c730ce0a",
@@ -3477,31 +3528,6 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "66723b231ebe9a15",
-      "title": "The ECB-BIG index: tracking credit conditions in the euro area",
-      "summary": "This box introduces the European Central Bank Broad Intermediation Gauge (ECB-BIG) index, a new indicator designed to provide a timely assessment of intermediation conditions in the euro area. The ECB-BIG index summarises information from a large set of variables covering bank and non-bank credit conditions, and complements indicators of more narrowly defined financial conditions. It also provides insights into the transmission of monetary policy to the real economy by measuring the impact of credit shocks on investment. Currently, the index is signalling a moderate tightening of credit conditions after the start of the war in the Middle East.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_07~fae8aa9fb9.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-06T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3193~9db57822d4.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_07~fae8aa9fb9.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "f0da6afe38cd211a",
       "title": "SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division",
       "summary": "The Securities and Exchange Commission today announced it is establishing a new specialized unit within the Division of Enforcement to provide the dedicated expertise, focus, and capacity to pursue accounting and financial reporting fraud cases as well…",
@@ -5092,43 +5118,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "01faba4ab2659d39",
-      "title": "Threshold endogeneity in vector autoregressions: reassessing monetary state dependence",
-      "summary": "We develop an endogenous threshold VAR that addresses contemporaneous dependence between the threshold variable and reduced-form innovations— a pervasive issue when regime indicators are jointly determined with system dynamics. A regime-specific copula-based control function removes this dependence instrument-free, without parametric assumptions on the threshold’s marginal distribution, while preserving the linear regime-wise least-squares structure.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-29T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf"
-      ],
-      "topics": [
-        "Market Risk"
-      ],
-      "matchedKeywords": [
-        "var"
-      ],
-      "topicMatches": [
-        {
-          "id": "market-risk",
-          "label": "Market Risk",
-          "keywords": [
-            "var"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3263~54951460ab.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "3012f0f07b672875",
@@ -7929,29 +7918,6 @@
       ],
       "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260702_1~9af2c5f010.en.html",
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "3a5aefeb9a279e5d",
-      "title": "Beyond energy prices: the ripple effects of Gulf supply disruptions",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260702~a6cf657ddc.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-blog",
-      "sourceName": "ECB Blog",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-02T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260702~a6cf657ddc.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
     },
@@ -20830,59 +20796,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "269563d850575cf3",
-      "title": "FCA censures Equity for Growth (Securities) Limited",
-      "summary": "The FCA has censured Equity for Growth (Securities) Limited (EFG) for approving financial promotions relating to minibonds that were unfair, unclear and misleading. EFG approved financial promotions which failed to disclose very high commission fees charged by its appointed representatives and other introducers for marketing the minibonds to investors. Appointed representatives carry out regulated activities under the responsibility of an authorised firm, known as ‘the principal’. The promotions also failed to state that these fees would be deducted from investors’ money. This meant they could not make a fully informed decision before investing.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-censures-equity-growth-securities-limited",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Consumer Protection",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "financial promotions",
-        "conduct",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "financial promotions"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-censures-equity-growth-securities-limited",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "5d08776b6d907cdb",
       "title": "FCA expands global presence with new attachés in India and UAE",
       "summary": "The FCA has announced Sabina Saini and Darine Obeid as the financial services attachés for India and the UAE. Sabina will be based at the British Deputy High Commission in Mumbai and Darine will be based at the British Embassy in Abu Dhabi. These appointments expand the FCA's global presence, joining a global network that includes the FCA's existing attachés in Washington DC, Brussels and Singapore, as well as the Asia-Pacific, supporting international co-operation, exports and investment into the UK.",
@@ -21059,6 +20972,41 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "d24ac186d41a4ed4",
+      "title": "FCA urges young adults to check for unclaimed Child Trust Funds",
+      "summary": "Thousands of young adults could be sitting on a forgotten pot of savings as they head back to college and university. As students return to college and university this month, the FCA is urging young adults and parents to check whether they have a forgotten Child Trust Fund waiting to be claimed – potentially worth thousands of pounds. Figures from HMRC show that 760,000 matured Child Trust Funds, worth an average of £2,000 each, remain unclaimed. That means hundreds of thousands of young people could be missing out on money that could go towards new laptops, textbooks, rent deposits or the everyday costs of student life – or setting them up with savings for their future.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-urges-young-adults-check-unclaimed-child-trust-funds",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-urges-young-adults-check-unclaimed-child-trust-funds",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
     },
     {
       "id": "93a9223339d76280",
@@ -21429,7 +21377,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-08-31T22:34:49.587Z",
+      "publishedAt": "2026-09-01T11:13:22.877Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21453,7 +21401,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-31T22:34:49.587Z",
+      "publishedAt": "2026-09-01T11:13:22.877Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21477,7 +21425,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-31T22:34:49.587Z",
+      "publishedAt": "2026-09-01T11:13:22.877Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21501,7 +21449,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-31T22:34:49.587Z",
+      "publishedAt": "2026-09-01T11:13:22.877Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21525,7 +21473,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-31T22:34:49.587Z",
+      "publishedAt": "2026-09-01T11:13:22.877Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21549,7 +21497,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-31T22:34:49.587Z",
+      "publishedAt": "2026-09-01T11:13:22.877Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21573,7 +21521,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-31T22:34:49.587Z",
+      "publishedAt": "2026-09-01T11:13:22.877Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21597,7 +21545,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-31T22:34:49.587Z",
+      "publishedAt": "2026-09-01T11:13:22.877Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21621,7 +21569,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-31T22:34:49.587Z",
+      "publishedAt": "2026-09-01T11:13:22.877Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21645,7 +21593,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-31T22:34:49.587Z",
+      "publishedAt": "2026-09-01T11:13:22.877Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21669,7 +21617,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-31T22:34:49.587Z",
+      "publishedAt": "2026-09-01T11:13:22.877Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21693,7 +21641,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-31T22:34:49.587Z",
+      "publishedAt": "2026-09-01T11:13:22.877Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21717,7 +21665,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-08-31T22:34:49.587Z",
+      "publishedAt": "2026-09-01T11:13:22.877Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21734,7 +21682,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 89
+      "count": 88
     },
     {
       "updateType": "Publications / Reports",
@@ -21750,11 +21698,11 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 39
+      "count": 38
     },
     {
       "updateType": "Statistics / Data",
-      "count": 20
+      "count": 21
     },
     {
       "updateType": "Source Pages",
