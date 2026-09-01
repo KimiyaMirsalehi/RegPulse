@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:13:22.877Z",
+  "generatedAt": "2026-09-01T20:39:23.939Z",
   "totalPublications": 484,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -464,7 +464,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 58
+      "count": 57
     },
     {
       "topic": "AML / Financial Crime",
@@ -472,7 +472,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 35
+      "count": 34
     },
     {
       "topic": "Capital Requirements",
@@ -484,7 +484,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 22
+      "count": 23
     },
     {
       "topic": "Credit Risk",
@@ -538,7 +538,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 58
+      "count": 57
     },
     {
       "topic": "AML / Financial Crime",
@@ -546,7 +546,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 35
+      "count": 34
     },
     {
       "topic": "Capital Requirements",
@@ -558,7 +558,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 22
+      "count": 23
     },
     {
       "topic": "Credit Risk",
@@ -620,7 +620,7 @@
     },
     {
       "keyword": "reporting",
-      "count": 42
+      "count": 41
     },
     {
       "keyword": "governance",
@@ -628,7 +628,7 @@
     },
     {
       "keyword": "climate",
-      "count": 29
+      "count": 28
     },
     {
       "keyword": "money laundering",
@@ -807,6 +807,10 @@
       "count": 4
     },
     {
+      "keyword": "settlement",
+      "count": 4
+    },
+    {
       "keyword": "carbon",
       "count": 3
     },
@@ -844,10 +848,6 @@
     },
     {
       "keyword": "pillar 2",
-      "count": 3
-    },
-    {
-      "keyword": "settlement",
       "count": 3
     },
     {
@@ -1000,6 +1000,67 @@
     }
   ],
   "publications": [
+    {
+      "id": "bb73b3b1cf95d093",
+      "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-01T16:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bis.org/publ/qtrpdf/r_qt2509c.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpdps/ecb.dp24~9b349a69b7.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "89adebee4e480ffe",
+      "title": "SEC Proposes to Modernize Rules for Registered Transfer Agents",
+      "summary": "The Securities and Exchange Commission today proposed to update the rules and forms that apply to registered transfer agents. Transfer agents are a key component of the national clearance and settlement system. Transfer agents now perform a more diverse…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-01T14:57:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "settlement"
+      ],
+      "topicMatches": [
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "settlement"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "9e8d7db270c29152",
       "title": "Why the drivers of inflation matter for monetary policy",
@@ -4761,10 +4822,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-07-30T15:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20260730a1.pdf",
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20260730a2.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance",
         "Supervision / Enforcement"
@@ -5441,41 +5499,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "b531926385ee89b3",
-      "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-24T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Climate / ESG"
-      ],
-      "matchedKeywords": [
-        "climate"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "e6ad885f09b17f71",
@@ -10518,41 +10541,6 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.sec.gov/newsroom/press-releases/2026-57-sec-cftc-seek-public-comment-further-clarify-harmonize-derivatives-product-definitions",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "a2438648a6e851da",
-      "title": "SEC, CFTC Seek Public Input on Data Reporting Frameworks for Security-Based Swap and Swap Markets",
-      "summary": "The Securities and Exchange Commission and Commodity Futures Trading Commission today issued a joint request for public comment on potential opportunities to harmonize, modernize, and streamline data reporting requirements in their regulation of the…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-56-sec-cftc-seek-public-input-data-reporting-frameworks-security-based-swap-swap-markets",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-18T18:17:55.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "reporting"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-56-sec-cftc-seek-public-input-data-reporting-frameworks-security-based-swap-swap-markets",
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -21377,7 +21365,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-01T11:13:22.877Z",
+      "publishedAt": "2026-09-01T20:39:23.939Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21401,7 +21389,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T11:13:22.877Z",
+      "publishedAt": "2026-09-01T20:39:23.939Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21425,7 +21413,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T11:13:22.877Z",
+      "publishedAt": "2026-09-01T20:39:23.939Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21449,7 +21437,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T11:13:22.877Z",
+      "publishedAt": "2026-09-01T20:39:23.939Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21473,7 +21461,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T11:13:22.877Z",
+      "publishedAt": "2026-09-01T20:39:23.939Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21497,7 +21485,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T11:13:22.877Z",
+      "publishedAt": "2026-09-01T20:39:23.939Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21521,7 +21509,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T11:13:22.877Z",
+      "publishedAt": "2026-09-01T20:39:23.939Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21545,7 +21533,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T11:13:22.877Z",
+      "publishedAt": "2026-09-01T20:39:23.939Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21569,7 +21557,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T11:13:22.877Z",
+      "publishedAt": "2026-09-01T20:39:23.939Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21593,7 +21581,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T11:13:22.877Z",
+      "publishedAt": "2026-09-01T20:39:23.939Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21617,7 +21605,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T11:13:22.877Z",
+      "publishedAt": "2026-09-01T20:39:23.939Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21641,7 +21629,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T11:13:22.877Z",
+      "publishedAt": "2026-09-01T20:39:23.939Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21665,7 +21653,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T11:13:22.877Z",
+      "publishedAt": "2026-09-01T20:39:23.939Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21682,7 +21670,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 88
+      "count": 89
     },
     {
       "updateType": "Publications / Reports",
@@ -21690,7 +21678,7 @@
     },
     {
       "updateType": "News",
-      "count": 80
+      "count": 79
     },
     {
       "updateType": "Consultations",
