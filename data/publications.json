@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T20:39:23.939Z",
+  "generatedAt": "2026-09-02T10:45:07.550Z",
   "totalPublications": 484,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -460,7 +460,7 @@
     },
     {
       "topic": "Basel / BCBS",
-      "count": 132
+      "count": 133
     },
     {
       "topic": "Reporting / Disclosure",
@@ -468,11 +468,11 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 40
+      "count": 41
     },
     {
       "topic": "Climate / ESG",
-      "count": 34
+      "count": 33
     },
     {
       "topic": "Capital Requirements",
@@ -534,7 +534,7 @@
     },
     {
       "topic": "Basel / BCBS",
-      "count": 132
+      "count": 133
     },
     {
       "topic": "Reporting / Disclosure",
@@ -542,11 +542,11 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 40
+      "count": 41
     },
     {
       "topic": "Climate / ESG",
-      "count": 34
+      "count": 33
     },
     {
       "topic": "Capital Requirements",
@@ -628,7 +628,7 @@
     },
     {
       "keyword": "climate",
-      "count": 28
+      "count": 27
     },
     {
       "keyword": "money laundering",
@@ -719,16 +719,16 @@
       "count": 7
     },
     {
+      "keyword": "fraud",
+      "count": 7
+    },
+    {
       "keyword": "regulatory technical standards",
       "count": 7
     },
     {
       "keyword": "rts",
       "count": 7
-    },
-    {
-      "keyword": "fraud",
-      "count": 6
     },
     {
       "keyword": "implementing technical standards",
@@ -1000,6 +1000,202 @@
     }
   ],
   "publications": [
+    {
+      "id": "93a9223339d76280",
+      "title": "​Joint Board of Appeal dismisses appeal against the EBA",
+      "summary": "​The Joint Board of Appeal of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) has issued a decision stating that an appeal brought by an individual against the European Banking Authority (EBA) is inadmissible. 9 JULY 2026 ​The EBA releases the final technical package for its 4.3 reporting framework to support Third-Country Branches reporting and AML Authority risk assessment data collection ​The European Banking Authority (EBA) today published the final technical package for version 4.3 of its reporting framework.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-board-appeal-dismisses-appeal-against-eba",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-board-appeal-dismisses-appeal-against-eba",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-07/10158b52-0c16-4dd8-bf45-f34c25ba03d1/D%20v%20EBA_Final%20decision.pdf"
+      ],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "aml",
+        "board",
+        "reporting",
+        "supervisory",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "aml"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "f43060dc0513cef8",
+      "title": "Can synthetic securitisation support economic growth?",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260902~4ea10b9f9a.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-blog",
+      "sourceName": "ECB Blog",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-02T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3210~e2dc529b33.en.pdf?d40c0fa3d3c79fa89319680fdb2f2169"
+      ],
+      "topics": [
+        "Basel / BCBS"
+      ],
+      "matchedKeywords": [
+        "securitisation"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "securitisation"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260902~4ea10b9f9a.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "42cabba0a8815cb3",
+      "title": "Euro area bank interest rate statistics: July 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260902~d54675e442.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-statistical-press-releases",
+      "sourceName": "ECB Statistical Press Releases",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-02T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260902~d54675e442.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "a9cbe63ef63514c7",
+      "title": "SEC Announces Agenda and Panelists for Roundtable on Preparations for 24-Hour Trading",
+      "summary": "The Securities and Exchange Commission today announced the agenda and panelists for its Sept. 17, 2026, roundtable on preparations for 24-hour trading. The roundtable will be held at the SEC’s headquarters at 100 F Street, N. E., Washington, D. C., from 10…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-83-sec-announces-agenda-panelists-roundtable-preparations-24-hour-trading",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-01T19:17:39.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-83-sec-announces-agenda-panelists-roundtable-preparations-24-hour-trading",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "bcac6f4f6014b0e0",
+      "title": "SEC Charges San Francisco Bay Area Private Fund Executives with Multimillion Dollar Ponzi-Like Scheme",
+      "summary": "The Securities and Exchange Commission today charged Mark D. Hanf, the former CEO of Novato, California-based Pacific Private Money Group LLC (PPMG), and Hoai-Nam Chu Phan, the former COO of a PPMG subsidiary, with orchestrating an offering fraud that…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-01T17:52:32.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime"
+      ],
+      "matchedKeywords": [
+        "fraud"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "fraud"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "bb73b3b1cf95d093",
       "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
@@ -4672,9 +4868,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-07-31T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-07/JC_2026_25_ESA_statement_on_frontier_AI_models.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "AI",
         "DORA / Operational Resilience",
@@ -4738,10 +4932,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-07-31T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-07/Newsletter_June_and_July_2026.pdf",
-        "https://www.esma.europa.eu/sites/default/files/2026-06/ESMA75-113276571-1710_Public_Statement_MiCA_transitional_period_ends.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -4776,9 +4967,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-07-30T15:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20260730b1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance",
         "Supervision / Enforcement"
@@ -7284,50 +7473,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "d4af824190163949",
-      "title": "Climate factors: how the ECB tackles climate uncertainty in its collateral framework",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260707~bb81f1b45e.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-blog",
-      "sourceName": "ECB Blog",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-07T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Climate / ESG",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "climate",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260707~bb81f1b45e.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "cf99daba970494f7",
@@ -9845,29 +9990,6 @@
       "updateTypeDetail": "Other update"
     },
     {
-      "id": "fcfeabd7cab8c364",
-      "title": "SEC Appoints Kathleen Hutchinson as Director of Office of International Affairs",
-      "summary": "The Securities and Exchange Commission has appointed Kathleen M. Hutchinson as Director of the agency’s Office of International Affairs (OIA). OIA advises the Commission on international policy matters, coordinates with foreign authorities across the…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-58-sec-appoints-kathleen-hutchinson-director-office-international-affairs",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-24T18:32:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-58-sec-appoints-kathleen-hutchinson-director-office-international-affairs",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "e9b963f6314a49d2",
       "title": "Patrick Montagner: When fragmentation creates complexity",
       "summary": "",
@@ -10438,10 +10560,10 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "d9e1d44bb5b454a1",
-      "title": "Private markets system-wide exploratory scenario: publication of the stress scenario",
-      "summary": "The Bank of England (the Bank) has launched the scenario phase of the private markets system-wide exploratory scenario.",
-      "url": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/publication-of-the-stress-scenario-for-the-private-markets-system-wide-exploratory-scenario",
+      "id": "8b50abbdb865eb10",
+      "title": "Private markets system-wide exploratory scenario",
+      "summary": "This page details the hypothetical macroeconomic and financial market scenario to be used in the private markets system-wide exploratory scenario (PM SWES).",
+      "url": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario",
       "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "sourceId": "boe-publications",
@@ -10455,7 +10577,7 @@
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/publication-of-the-stress-scenario-for-the-private-markets-system-wide-exploratory-scenario",
+      "link": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
@@ -10521,29 +10643,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "5b04623062db0e70",
-      "title": "SEC, CFTC Seek Public Comment to Further Clarify and Harmonize Derivatives Product Definitions",
-      "summary": "The Securities and Exchange Commission and the Commodity Futures Trading Commission today issued a joint request for public comment on potential opportunities to further update, clarify, and harmonize certain derivatives product definitions and…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-57-sec-cftc-seek-public-comment-further-clarify-harmonize-derivatives-product-definitions",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-18T18:42:47.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-57-sec-cftc-seek-public-comment-further-clarify-harmonize-derivatives-product-definitions",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "6de5f585976ac4da",
@@ -11273,29 +11372,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "39762332f9f7c972",
-      "title": "Euro area bank interest rate statistics: April 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-statistical-press-releases",
-      "sourceName": "ECB Statistical Press Releases",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-05T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
     },
     {
       "id": "5901250f7213d65a",
@@ -20997,74 +21073,6 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "93a9223339d76280",
-      "title": "​Joint Board of Appeal dismisses appeal against the EBA",
-      "summary": "​The Joint Board of Appeal of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) has issued a decision stating that an appeal brought by an individual against the European Banking Authority (EBA) is inadmissible. 9 JULY 2026 ​The EBA releases the final technical package for its 4.3 reporting framework to support Third-Country Branches reporting and AML Authority risk assessment data collection ​The European Banking Authority (EBA) today published the final technical package for version 4.3 of its reporting framework.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-board-appeal-dismisses-appeal-against-eba",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-board-appeal-dismisses-appeal-against-eba",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": null,
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/10158b52-0c16-4dd8-bf45-f34c25ba03d1/D%20v%20EBA_Final%20decision.pdf"
-      ],
-      "topics": [
-        "AML / Financial Crime",
-        "Governance",
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "aml",
-        "board",
-        "reporting",
-        "supervisory",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "aml"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory",
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance",
-      "originalPublishedAt": "2026-09-03T00:00:00.000Z",
-      "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
-    },
-    {
       "id": "7776cc4b10a69526",
       "title": "Making compliance simpler: opening up the FCA Handbook through our new API",
       "summary": "Firms tell us that complying with our requirements can be a burden. They have to keep up with changes, understand what we expect and embed new practices across multiple systems and teams. All of this takes time and resources. Of course, firms must meet their regulatory responsibilities – but we want to make it as simple as possible. That's why we're launching the FCA Handbook Application Programming Interface (API), so software systems can talk to each other and share information. With the Handbook available in a structured, machine-readable format, firms can access, understand and use our rules more easily. It’s another practical step in being a smarter regulator in a digital world.",
@@ -21365,7 +21373,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-01T20:39:23.939Z",
+      "publishedAt": "2026-09-02T10:45:07.550Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21389,7 +21397,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T20:39:23.939Z",
+      "publishedAt": "2026-09-02T10:45:07.550Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21413,7 +21421,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T20:39:23.939Z",
+      "publishedAt": "2026-09-02T10:45:07.550Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21437,7 +21445,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T20:39:23.939Z",
+      "publishedAt": "2026-09-02T10:45:07.550Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21461,7 +21469,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T20:39:23.939Z",
+      "publishedAt": "2026-09-02T10:45:07.550Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21485,7 +21493,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T20:39:23.939Z",
+      "publishedAt": "2026-09-02T10:45:07.550Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21509,7 +21517,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T20:39:23.939Z",
+      "publishedAt": "2026-09-02T10:45:07.550Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21533,7 +21541,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T20:39:23.939Z",
+      "publishedAt": "2026-09-02T10:45:07.550Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21557,7 +21565,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T20:39:23.939Z",
+      "publishedAt": "2026-09-02T10:45:07.550Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21581,7 +21589,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T20:39:23.939Z",
+      "publishedAt": "2026-09-02T10:45:07.550Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21605,7 +21613,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T20:39:23.939Z",
+      "publishedAt": "2026-09-02T10:45:07.550Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21629,7 +21637,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T20:39:23.939Z",
+      "publishedAt": "2026-09-02T10:45:07.550Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21653,7 +21661,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-01T20:39:23.939Z",
+      "publishedAt": "2026-09-02T10:45:07.550Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21670,7 +21678,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 89
+      "count": 90
     },
     {
       "updateType": "Publications / Reports",
@@ -21678,7 +21686,7 @@
     },
     {
       "updateType": "News",
-      "count": 79
+      "count": 78
     },
     {
       "updateType": "Consultations",
