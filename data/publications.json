@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T10:48:10.837Z",
+  "generatedAt": "2026-09-03T20:36:12.891Z",
   "totalPublications": 485,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 240
+      "count": 241
     },
     {
       "topic": "Governance",
@@ -511,12 +511,12 @@
       "count": 10
     },
     {
-      "topic": "Model Risk",
+      "topic": "AI",
       "count": 9
     },
     {
-      "topic": "AI",
-      "count": 8
+      "topic": "Model Risk",
+      "count": 9
     },
     {
       "topic": "Consumer Protection",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 240
+      "count": 241
     },
     {
       "topic": "Governance",
@@ -585,12 +585,12 @@
       "count": 10
     },
     {
-      "topic": "Model Risk",
+      "topic": "AI",
       "count": 9
     },
     {
-      "topic": "AI",
-      "count": 8
+      "topic": "Model Risk",
+      "count": 9
     },
     {
       "topic": "Consumer Protection",
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 83
+      "count": 84
     },
     {
       "keyword": "reporting",
@@ -867,6 +867,10 @@
       "count": 2
     },
     {
+      "keyword": "artificial intelligence",
+      "count": 2
+    },
+    {
       "keyword": "basel iii",
       "count": 2
     },
@@ -912,10 +916,6 @@
     },
     {
       "keyword": "reverse stress",
-      "count": 2
-    },
-    {
-      "keyword": "scenario analysis",
       "count": 2
     }
   ],
@@ -1000,6 +1000,99 @@
     }
   ],
   "publications": [
+    {
+      "id": "3b068821b42c08a9",
+      "title": "SEC Proposes Rescission of Political Contribution Rule for Investment Advisers",
+      "summary": "The Securities and Exchange Commission today issued a proposal to rescind its “pay-to-play” rule that prohibits investment advisers from providing compensated investment advisory services to a government client for two years…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-03T20:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "2b4061ed1f32ac5f",
+      "title": "SEC Investor Advisory Committee to Host Sept. 10 Meeting",
+      "summary": "The Securities and Exchange Commission’s Investor Advisory Committee will host a public meeting at the SEC Headquarters in Washington D. C. on Sept. 10 at 10 a.m. ET to discuss artificial intelligence technologies in the public markets and the SEC’s…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-84-sec-investor-advisory-committee-host-sept-10-meeting",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-03T14:27:49.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "AI"
+      ],
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "artificial intelligence"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-84-sec-investor-advisory-committee-host-sept-10-meeting",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "f5ddcc954a66b5fe",
+      "title": "Bank of England Weekly Report 2 September 2026",
+      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+      "url": "https://www.bankofengland.co.uk/weekly-report/2026/2-september-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-03T14:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/2-september-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "93a9223339d76280",
       "title": "​Joint Board of Appeal dismisses appeal against the EBA",
@@ -4666,9 +4759,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-07-31T14:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260731a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -4703,11 +4794,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-07-31T11:30:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/3512a5c8-4b76-4f5a-887d-676f812827d5/Factsheet%20on%20DPM%20standard%202.1%20%286%29.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2025-10/b8e0ef8e-2d49-43fc-b917-dbca3423588c/Report%20on%20the%20efficiency%20of%20the%20regulatory%20and%20supervisory%20framework.pdf#page=10",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/7745bc7c-6796-45c5-90a0-9047049197d8/2026-07-30%20-%20Naming%20conventions.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Reporting / Disclosure",
         "Supervision / Enforcement"
@@ -8464,29 +8551,6 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "43e95916ffaac7f3",
-      "title": "SEC Seeks Public Comment on Novel Exchange-Traded Funds",
-      "summary": "The Securities and Exchange Commission today issued a request for public comment on exchange-traded funds (ETFs) seeking to invest in innovative asset classes or engage in novel investment strategies. The request focuses on ways to facilitate innovation…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-60-sec-seeks-public-comment-novel-exchange-traded-funds",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-30T14:15:05.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-60-sec-seeks-public-comment-novel-exchange-traded-funds",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "d9df567a6af9babd",
       "title": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
       "summary": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
@@ -8861,29 +8925,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "e3ff9389d13fd55f",
-      "title": "SEC, CFTC Seek Public Comment on the Harmonization of Portfolio Margining Frameworks",
-      "summary": "The Securities and Exchange Commission and the Commodity Futures Trading Commission today issued a joint request for public comment on potential approaches to further harmonize regulatory frameworks applicable to portfolio margining across securities,…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-59-sec-cftc-seek-public-comment-harmonization-portfolio-margining-frameworks",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-26T12:58:32.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-59-sec-cftc-seek-public-comment-harmonization-portfolio-margining-frameworks",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "393f28b1bf919b62",
@@ -10463,29 +10504,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "45e7d60df6aca709",
-      "title": "Market Participants Survey results - June 2026",
-      "summary": "Expectations for monetary policy from experts in UK rates markets.",
-      "url": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-june-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-19T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-june-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "4bd1806d8f750b92",
@@ -21406,7 +21424,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-03T10:48:10.837Z",
+      "publishedAt": "2026-09-03T20:36:12.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21430,7 +21448,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T10:48:10.837Z",
+      "publishedAt": "2026-09-03T20:36:12.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21454,7 +21472,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T10:48:10.837Z",
+      "publishedAt": "2026-09-03T20:36:12.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21478,7 +21496,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T10:48:10.837Z",
+      "publishedAt": "2026-09-03T20:36:12.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21502,7 +21520,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T10:48:10.837Z",
+      "publishedAt": "2026-09-03T20:36:12.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21526,7 +21544,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T10:48:10.837Z",
+      "publishedAt": "2026-09-03T20:36:12.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21550,7 +21568,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T10:48:10.837Z",
+      "publishedAt": "2026-09-03T20:36:12.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21574,7 +21592,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T10:48:10.837Z",
+      "publishedAt": "2026-09-03T20:36:12.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21598,7 +21616,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T10:48:10.837Z",
+      "publishedAt": "2026-09-03T20:36:12.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21622,7 +21640,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T10:48:10.837Z",
+      "publishedAt": "2026-09-03T20:36:12.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21646,7 +21664,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T10:48:10.837Z",
+      "publishedAt": "2026-09-03T20:36:12.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21670,7 +21688,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T10:48:10.837Z",
+      "publishedAt": "2026-09-03T20:36:12.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21694,7 +21712,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T10:48:10.837Z",
+      "publishedAt": "2026-09-03T20:36:12.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21711,7 +21729,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 90
+      "count": 91
     },
     {
       "updateType": "Publications / Reports",
@@ -21719,7 +21737,7 @@
     },
     {
       "updateType": "News",
-      "count": 78
+      "count": 77
     },
     {
       "updateType": "Consultations",
