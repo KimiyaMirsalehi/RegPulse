@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T20:36:35.183Z",
-  "totalPublications": 484,
+  "generatedAt": "2026-09-03T10:48:10.837Z",
+  "totalPublications": 485,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -117,7 +117,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "html-list-parser",
-      "itemCount": 1,
+      "itemCount": 2,
       "url": "https://www.eba.europa.eu/publications-and-media/publications",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
       "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 239
+      "count": 240
     },
     {
       "topic": "Governance",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 239
+      "count": 240
     },
     {
       "topic": "Governance",
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 273
+      "count": 274
     },
     {
       "region": "UK",
@@ -952,7 +952,7 @@
     },
     {
       "institution": "European Banking Authority",
-      "count": 61
+      "count": 62
     },
     {
       "institution": "Bank of England",
@@ -11899,6 +11899,31 @@
       "updateTypeDetail": "Publication / report"
     },
     {
+      "id": "a99c64545651602a",
+      "title": "EBA MB 2026 115 rev. 1 (Final Minutes MB meeting on",
+      "summary": "",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-09/3c2e8bbb-2000-4868-855c-bca5a5a60da3/EBA%20MB%202026%20115%20rev.%201%20%28Final%20Minutes%20MB%20meeting%20on%2013%20May%202026%29-signed-ts.pdf",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
+      "sourceId": "eba-publications",
+      "sourceName": "EBA Publications",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-05-13T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-09/3c2e8bbb-2000-4868-855c-bca5a5a60da3/EBA%20MB%202026%20115%20rev.%201%20%28Final%20Minutes%20MB%20meeting%20on%2013%20May%202026%29-signed-ts.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.eba.europa.eu/sites/default/files/2026-09/3c2e8bbb-2000-4868-855c-bca5a5a60da3/EBA%20MB%202026%20115%20rev.%201%20%28Final%20Minutes%20MB%20meeting%20on%2013%20May%202026%29-signed-ts.pdf",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
       "id": "03adefc135aca4c4",
       "title": "European Commission launches call for candidates for the ESAs’ Board of Appeal",
       "summary": "The European Commission has launched a call for expression of interest for the appointment of members to the Board of Appeal of the three European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs). 7 MAY 2026 The EBA consults on amendments to the RTS on the assignment of risk weights to specialised lending exposures under the Supervisory Slotting Criteria Approach The European Banking Authority (EBA) today launched a public consultation on proposed amendments to its Regulatory Technical Standards (RTS), set out in a Delegated Regulation, on the assignment of risk weights to specialised lending exposures under the Supervisory Slotting Criteria Approach (SSCA).",
@@ -20491,41 +20516,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "5d5029e5f64b3ec4",
-      "title": "Blue Motor Finance Limited enters administration",
-      "summary": "On 30 July 2026, Blue Motor Finance Limited (BMFL) was placed into administration. Simon Edel, Richard Barker and Alan Michael Hudson of Ernst & Young LLP were appointed as joint administrators. BMFL (firm reference number 737682) operated as a motor finance lender. The firm had been running at a loss for a number of years and faced significant compensation liabilities it could not meet. Simon Edel, Richard Barker and Alan Michael Hudson have been appointed as joint administrators. They are now responsible for BMFL while it is in administration. They will contact all affected customers. BMFL in administration is no longer lending.",
-      "url": "https://www.fca.org.uk/news/news-stories/blue-motor-finance-limited-enters-administration",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/news-stories/blue-motor-finance-limited-enters-administration",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "9f4b5b6613ca0ddc",
       "title": "CEO banned for false and misleading statements made in attempt to buy bank and football club",
       "summary": "Paul Taylor, former CEO of Blue Horizon Asset Management (BHAM) has been fined £489,000 and banned from working in financial services by the FCA. The former managing director of the firm, Esmeralda Toni, has also been fined £121,200 for serious misconduct and banned by the FCA. During his time at BHAM, Mr Taylor made misleading statements and falsified information during 2 separate attempted acquisitions. While attempting to acquire a UK bank, Mr Taylor falsified, or arranged to be falsified, documents claiming to be the owner of a bond portfolio worth approximately €200m. Ms Toni knowingly assisted Mr Taylor by making misleading statements to the bank and by helping falsify the documents.",
@@ -20854,6 +20844,50 @@
         }
       ],
       "link": "https://www.fca.org.uk/news/press-releases/fca-boosts-support-innovative-firms-scale-grow",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "270761008a9b8353",
+      "title": "FCA decides to ban and fine Daniel Thomas over unauthorised pension transfer advice",
+      "summary": "The FCA has decided to ban Daniel Thomas from working in financial services and fine him £742,700 after finding he recklessly gave defined benefit pension transfer advice he was neither qualified nor allowed to give.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-ban-fine-daniel-thomas-unauthorised-pension-transfer-advice",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "fine"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "fine"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-ban-fine-daniel-thomas-unauthorised-pension-transfer-advice",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -21372,7 +21406,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-02T20:36:35.183Z",
+      "publishedAt": "2026-09-03T10:48:10.837Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21396,7 +21430,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-02T20:36:35.183Z",
+      "publishedAt": "2026-09-03T10:48:10.837Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21420,7 +21454,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-02T20:36:35.183Z",
+      "publishedAt": "2026-09-03T10:48:10.837Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21444,7 +21478,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-02T20:36:35.183Z",
+      "publishedAt": "2026-09-03T10:48:10.837Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21468,7 +21502,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-02T20:36:35.183Z",
+      "publishedAt": "2026-09-03T10:48:10.837Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21492,7 +21526,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-02T20:36:35.183Z",
+      "publishedAt": "2026-09-03T10:48:10.837Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21516,7 +21550,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-02T20:36:35.183Z",
+      "publishedAt": "2026-09-03T10:48:10.837Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21540,7 +21574,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-02T20:36:35.183Z",
+      "publishedAt": "2026-09-03T10:48:10.837Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21564,7 +21598,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-02T20:36:35.183Z",
+      "publishedAt": "2026-09-03T10:48:10.837Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21588,7 +21622,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-02T20:36:35.183Z",
+      "publishedAt": "2026-09-03T10:48:10.837Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21612,7 +21646,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-02T20:36:35.183Z",
+      "publishedAt": "2026-09-03T10:48:10.837Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21636,7 +21670,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-02T20:36:35.183Z",
+      "publishedAt": "2026-09-03T10:48:10.837Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21660,7 +21694,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-02T20:36:35.183Z",
+      "publishedAt": "2026-09-03T10:48:10.837Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21681,7 +21715,7 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 81
+      "count": 82
     },
     {
       "updateType": "News",
