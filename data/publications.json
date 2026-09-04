@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T20:36:12.891Z",
+  "generatedAt": "2026-09-04T10:47:37.629Z",
   "totalPublications": 485,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -464,7 +464,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 57
+      "count": 58
     },
     {
       "topic": "AML / Financial Crime",
@@ -511,12 +511,12 @@
       "count": 10
     },
     {
-      "topic": "AI",
+      "topic": "Model Risk",
       "count": 9
     },
     {
-      "topic": "Model Risk",
-      "count": 9
+      "topic": "AI",
+      "count": 8
     },
     {
       "topic": "Consumer Protection",
@@ -538,7 +538,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 57
+      "count": 58
     },
     {
       "topic": "AML / Financial Crime",
@@ -585,12 +585,12 @@
       "count": 10
     },
     {
-      "topic": "AI",
+      "topic": "Model Risk",
       "count": 9
     },
     {
-      "topic": "Model Risk",
-      "count": 9
+      "topic": "AI",
+      "count": 8
     },
     {
       "topic": "Consumer Protection",
@@ -620,7 +620,7 @@
     },
     {
       "keyword": "reporting",
-      "count": 41
+      "count": 42
     },
     {
       "keyword": "governance",
@@ -827,10 +827,6 @@
       "count": 3
     },
     {
-      "keyword": "large language models",
-      "count": 3
-    },
-    {
       "keyword": "market risk",
       "count": 3
     },
@@ -896,6 +892,10 @@
     },
     {
       "keyword": "ifrs 9",
+      "count": 2
+    },
+    {
+      "keyword": "large language models",
       "count": 2
     },
     {
@@ -1000,6 +1000,91 @@
     }
   ],
   "publications": [
+    {
+      "id": "0f86bb717ddb44e9",
+      "title": "Philip R. Lane: Diversity at the European Central Bank",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-04T09:10:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "da41cb26531280c6",
+      "title": "Monthly Decision Maker Panel data - August 2026",
+      "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+      "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/august-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-04T08:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/august-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "94d455704b4c178a",
+      "title": "ESMA to host Data Day 2026: ‘Data in the Savings and Investment Union – from burden to opportunity’",
+      "summary": "Technology, use of data and simplification of reporting requirements will be at the centre",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-host-data-day-2026-data-savings-and-investment-union-burden-opportunity",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-09-04T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-09/Data_day_2026_-_Agenda.pdf"
+      ],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "reporting"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-host-data-day-2026-data-savings-and-investment-union-burden-opportunity",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "3b068821b42c08a9",
       "title": "SEC Proposes Rescission of Political Contribution Rule for Investment Advisers",
@@ -4676,9 +4761,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-08-03T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-08/ESA_2026_07_Final_Report_on_amending_RTS_on_uncleared_OTC_derivatives.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -4713,9 +4796,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-07-31T14:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260731b1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance",
         "Supervision / Enforcement"
@@ -5783,29 +5864,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "23adf6fe5fdd58fa",
-      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-24T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
     },
     {
       "id": "84f98b84be7bc7cf",
@@ -7134,29 +7192,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "0203ed112685745b",
-      "title": "ESMA launches data collection under the first phase of ESAP",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU regulator and supervisor, has",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-launches-data-collection-under-first-phase-esap",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-10T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-launches-data-collection-under-first-phase-esap",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "2d693931b9e5ebaf",
@@ -10466,41 +10501,6 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.bankofengland.co.uk/working-paper/2026/asymmetric-information-and-capita-regulation-in-sme-lending",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "f859d1f87a23dc33",
-      "title": "Inflation attitudes of large language models",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/inflation-attitudes-of-large-language-models",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-19T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "AI"
-      ],
-      "matchedKeywords": [
-        "large language models"
-      ],
-      "topicMatches": [
-        {
-          "id": "ai",
-          "label": "AI",
-          "keywords": [
-            "large language models"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/inflation-attitudes-of-large-language-models",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
@@ -21424,7 +21424,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-03T20:36:12.891Z",
+      "publishedAt": "2026-09-04T10:47:37.629Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21448,7 +21448,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T20:36:12.891Z",
+      "publishedAt": "2026-09-04T10:47:37.629Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21472,7 +21472,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T20:36:12.891Z",
+      "publishedAt": "2026-09-04T10:47:37.629Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21496,7 +21496,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T20:36:12.891Z",
+      "publishedAt": "2026-09-04T10:47:37.629Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21520,7 +21520,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T20:36:12.891Z",
+      "publishedAt": "2026-09-04T10:47:37.629Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21544,7 +21544,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T20:36:12.891Z",
+      "publishedAt": "2026-09-04T10:47:37.629Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21568,7 +21568,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T20:36:12.891Z",
+      "publishedAt": "2026-09-04T10:47:37.629Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21592,7 +21592,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T20:36:12.891Z",
+      "publishedAt": "2026-09-04T10:47:37.629Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21616,7 +21616,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T20:36:12.891Z",
+      "publishedAt": "2026-09-04T10:47:37.629Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21640,7 +21640,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T20:36:12.891Z",
+      "publishedAt": "2026-09-04T10:47:37.629Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21664,7 +21664,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T20:36:12.891Z",
+      "publishedAt": "2026-09-04T10:47:37.629Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21688,7 +21688,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T20:36:12.891Z",
+      "publishedAt": "2026-09-04T10:47:37.629Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21712,7 +21712,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-03T20:36:12.891Z",
+      "publishedAt": "2026-09-04T10:47:37.629Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21729,7 +21729,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 91
+      "count": 92
     },
     {
       "updateType": "Publications / Reports",
@@ -21737,7 +21737,7 @@
     },
     {
       "updateType": "News",
-      "count": 77
+      "count": 78
     },
     {
       "updateType": "Consultations",
@@ -21745,11 +21745,11 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 39
+      "count": 38
     },
     {
       "updateType": "Statistics / Data",
-      "count": 21
+      "count": 20
     },
     {
       "updateType": "Source Pages",
