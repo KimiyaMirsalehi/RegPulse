@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T10:43:53.221Z",
+  "generatedAt": "2026-09-08T20:48:43.919Z",
   "totalPublications": 485,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -1000,6 +1000,83 @@
     }
   ],
   "publications": [
+    {
+      "id": "65e0110dc59276e6",
+      "title": "Frank Elderson: Fireside chat",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-08T15:00:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-04/9081f06a-ed8f-4b0e-bd80-5fa6b399e05a/CP%20Module%202%20-%20FINREP.pdf",
+        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.other_publications_banking_sector_framework.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2292~77deb8b18f.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "7b7a48c8386fe841",
+      "title": "Frank Elderson: Fireside chat",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260908~f0dd8b1456.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-08T15:00:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-04/9081f06a-ed8f-4b0e-bd80-5fa6b399e05a/CP%20Module%202%20-%20FINREP.pdf",
+        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.other_publications_banking_sector_framework.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2292~77deb8b18f.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260908~f0dd8b1456.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
     {
       "id": "50c49e06b9b5679d",
       "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
@@ -4463,9 +4540,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-08-04T20:30:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/orders20260804b1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -4500,12 +4575,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-08-04T11:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/weekly-report/2019/23-january-2019.pdf?la=en&amp;hash=6AE3283070DD922C1B2A76CB080DC7596583F561",
-        "http://www.bankofengland.co.uk/-/media/BoE/Files/letter/2009/governor-letter-050309.pdf",
-        "https://webarchive.nationalarchives.gov.uk/ukgwa/+/http:/www.hm-treasury.gov.uk/d/chxletter_boe050309.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/markets/asset-purchase-facility/joint-bank-dmo-statement-on-gilt-lending.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Reporting / Disclosure"
       ],
@@ -5964,31 +6034,6 @@
       "topicMatches": [],
       "link": "https://www.esma.europa.eu/press-news/esma-news/esma-authorises-euroctp-consolidated-tape-provider-shares-and-exchange-traded",
       "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "916732f903b46d95",
-      "title": "Philip R. Lane: Outlook for the euro area economy",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-24T15:30:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
     },
@@ -11218,50 +11263,6 @@
         }
       ],
       "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260610_1~9199a15198.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "e78490c47e9e93ef",
-      "title": "Claudia Buch: Interview with Les Echos",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260610~912a7a34dc.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T12:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260610~912a7a34dc.en.html",
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
@@ -21396,7 +21397,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-08T10:43:53.221Z",
+      "publishedAt": "2026-09-08T20:48:43.919Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21420,7 +21421,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T10:43:53.221Z",
+      "publishedAt": "2026-09-08T20:48:43.919Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21444,7 +21445,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T10:43:53.221Z",
+      "publishedAt": "2026-09-08T20:48:43.919Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21468,7 +21469,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T10:43:53.221Z",
+      "publishedAt": "2026-09-08T20:48:43.919Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21492,7 +21493,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T10:43:53.221Z",
+      "publishedAt": "2026-09-08T20:48:43.919Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21516,7 +21517,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T10:43:53.221Z",
+      "publishedAt": "2026-09-08T20:48:43.919Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21540,7 +21541,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T10:43:53.221Z",
+      "publishedAt": "2026-09-08T20:48:43.919Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21564,7 +21565,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T10:43:53.221Z",
+      "publishedAt": "2026-09-08T20:48:43.919Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21588,7 +21589,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T10:43:53.221Z",
+      "publishedAt": "2026-09-08T20:48:43.919Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21612,7 +21613,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T10:43:53.221Z",
+      "publishedAt": "2026-09-08T20:48:43.919Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21636,7 +21637,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T10:43:53.221Z",
+      "publishedAt": "2026-09-08T20:48:43.919Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21660,7 +21661,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T10:43:53.221Z",
+      "publishedAt": "2026-09-08T20:48:43.919Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21684,7 +21685,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T10:43:53.221Z",
+      "publishedAt": "2026-09-08T20:48:43.919Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
