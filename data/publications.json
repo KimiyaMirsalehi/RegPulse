@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T10:52:36.523Z",
-  "totalPublications": 485,
+  "generatedAt": "2026-09-09T20:38:10.516Z",
+  "totalPublications": 484,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -117,7 +117,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "html-list-parser",
-      "itemCount": 2,
+      "itemCount": 1,
       "url": "https://www.eba.europa.eu/publications-and-media/publications",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
       "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 239
+      "count": 240
     },
     {
       "topic": "Governance",
@@ -460,23 +460,23 @@
     },
     {
       "topic": "Basel / BCBS",
-      "count": 134
+      "count": 135
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 59
+      "count": 57
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 41
+      "count": 40
+    },
+    {
+      "topic": "Capital Requirements",
+      "count": 33
     },
     {
       "topic": "Climate / ESG",
       "count": 33
-    },
-    {
-      "topic": "Capital Requirements",
-      "count": 31
     },
     {
       "topic": "Payments / Open Finance",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 239
+      "count": 240
     },
     {
       "topic": "Governance",
@@ -534,23 +534,23 @@
     },
     {
       "topic": "Basel / BCBS",
-      "count": 134
+      "count": 135
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 59
+      "count": 57
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 41
+      "count": 40
+    },
+    {
+      "topic": "Capital Requirements",
+      "count": 33
     },
     {
       "topic": "Climate / ESG",
       "count": 33
-    },
-    {
-      "topic": "Capital Requirements",
-      "count": 31
     },
     {
       "topic": "Payments / Open Finance",
@@ -620,7 +620,7 @@
     },
     {
       "keyword": "reporting",
-      "count": 42
+      "count": 40
     },
     {
       "keyword": "governance",
@@ -648,7 +648,7 @@
     },
     {
       "keyword": "capital requirements",
-      "count": 21
+      "count": 22
     },
     {
       "keyword": "credit risk",
@@ -783,10 +783,6 @@
       "count": 5
     },
     {
-      "keyword": "aml",
-      "count": 4
-    },
-    {
       "keyword": "counterparty credit risk",
       "count": 4
     },
@@ -803,12 +799,20 @@
       "count": 4
     },
     {
+      "keyword": "own funds",
+      "count": 4
+    },
+    {
       "keyword": "recovery plans",
       "count": 4
     },
     {
       "keyword": "settlement",
       "count": 4
+    },
+    {
+      "keyword": "aml",
+      "count": 3
     },
     {
       "keyword": "carbon",
@@ -835,10 +839,6 @@
       "count": 3
     },
     {
-      "keyword": "own funds",
-      "count": 3
-    },
-    {
       "keyword": "payment",
       "count": 3
     },
@@ -848,6 +848,10 @@
     },
     {
       "keyword": "stablecoin",
+      "count": 3
+    },
+    {
+      "keyword": "standardised approach",
       "count": 3
     },
     {
@@ -913,16 +917,12 @@
     {
       "keyword": "resolvability",
       "count": 2
-    },
-    {
-      "keyword": "reverse stress",
-      "count": 2
     }
   ],
   "regionSummary": [
     {
       "region": "EU",
-      "count": 274
+      "count": 273
     },
     {
       "region": "UK",
@@ -952,7 +952,7 @@
     },
     {
       "institution": "European Banking Authority",
-      "count": 62
+      "count": 61
     },
     {
       "institution": "Bank of England",
@@ -1000,6 +1000,29 @@
     }
   ],
   "publications": [
+    {
+      "id": "ddb73c345a4b47ad",
+      "title": "Christine Lagarde: The choice facing Europeans",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-09T17:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "53fb68d321e450df",
       "title": "ESMA consults on disclosure requirements and updates guidelines and Q&As under the Prospectus Regulation",
@@ -1057,6 +1080,53 @@
       "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
+    },
+    {
+      "id": "6b1241e9efa94918",
+      "title": "The EBA responds to the European Commission’s non-adoption of draft amending technical standards on prior permission",
+      "summary": "The EBA acknowledges the European Commission’s non-adoption of the targeted amendments of the Commission Delegated Regulation (EU) No 241/2014 aimed at shortening the application period for reducing own funds and eligible liabilities instruments. 27 AUGUST 2026 ​The EBA responds to the European Parliament’s observations made in the 2024 Discharge report ​The European Banking Authority (EBA) today published an Opinion in response to the observations made by European Parliament in its 2024 Discharge Report covering all agencies, including the EBA. The EBA welcomes the overall positive feedback from the European Parliament.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-european-commissions-non-adoption-draft-amending-technical-standards-prior-permission",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-european-commissions-non-adoption-draft-amending-technical-standards-prior-permission",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-09/0b03b060-3a85-4dc1-a903-ad2efa0ef7ba/3%20months%20letter%20RTS%20OFs-ELs.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-09/9e2f87d4-c236-4533-a6dd-72a7c8076011/2026%2009%2008%20EBA%20reply%20letter%20to%20EC.pdf"
+      ],
+      "topics": [
+        "Capital Requirements",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "own funds",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "own funds"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "65e0110dc59276e6",
@@ -1450,7 +1520,7 @@
     {
       "id": "93a9223339d76280",
       "title": "​Joint Board of Appeal dismisses appeal against the EBA",
-      "summary": "​The Joint Board of Appeal of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) has issued a decision stating that an appeal brought by an individual against the European Banking Authority (EBA) is inadmissible. 9 JULY 2026 ​The EBA releases the final technical package for its 4.3 reporting framework to support Third-Country Branches reporting and AML Authority risk assessment data collection ​The European Banking Authority (EBA) today published the final technical package for version 4.3 of its reporting framework.",
+      "summary": "​The Joint Board of Appeal of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) has issued a decision stating that an appeal brought by an individual against the European Banking Authority (EBA) is inadmissible. Pagination Current page 1 Page 2 Page 3 Page 4 Page 5 Page 6 Page 7",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-board-appeal-dismisses-appeal-against-eba",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-board-appeal-dismisses-appeal-against-eba",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -1467,26 +1537,14 @@
         "https://www.eba.europa.eu/sites/default/files/2026-07/10158b52-0c16-4dd8-bf45-f34c25ba03d1/D%20v%20EBA_Final%20decision.pdf"
       ],
       "topics": [
-        "AML / Financial Crime",
         "Governance",
-        "Reporting / Disclosure",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
-        "aml",
         "board",
-        "reporting",
-        "supervisory",
-        "its"
+        "supervisory"
       ],
       "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "aml"
-          ]
-        },
         {
           "id": "governance",
           "label": "Governance",
@@ -1495,18 +1553,10 @@
           ]
         },
         {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        },
-        {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
           "keywords": [
-            "supervisory",
-            "its"
+            "supervisory"
           ]
         }
       ],
@@ -3899,43 +3949,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "216c1c13d674d6a9",
-      "title": "Vision for the Integrated Reporting System (",
-      "summary": "",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-08/f2b02c01-74b3-4f9a-bdee-71f7102eec49/Vision%20for%20the%20Integrated%20Reporting%20System%20%2810%20August%202026%29.pdf",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
-      "sourceId": "eba-publications",
-      "sourceName": "EBA Publications",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-08-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-08/f2b02c01-74b3-4f9a-bdee-71f7102eec49/Vision%20for%20the%20Integrated%20Reporting%20System%20%2810%20August%202026%29.pdf"
-      ],
-      "topics": [
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "reporting"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/sites/default/files/2026-08/f2b02c01-74b3-4f9a-bdee-71f7102eec49/Vision%20for%20the%20Integrated%20Reporting%20System%20%2810%20August%202026%29.pdf",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "1dfc29dc65278791",
       "title": "Letter from the ECB President to Mr Gerald Hauser, MEP, on digital euro",
       "summary": "",
@@ -4478,9 +4491,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-08-05T07:35:10.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-08/df890775-8836-4484-8b96-107cd47d519e/Consultation%20paper%20on%20Reporting%20for%20the%20purposes%20of%20the%20validation%20and%20monitoring%20of%20ISDA%20SIMM.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Reporting / Disclosure",
         "Supervision / Enforcement"
@@ -4524,9 +4535,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-08-04T20:30:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/orders20260804a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -5854,29 +5863,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "3012f0f07b672875",
-      "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-29T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "65d3703b810e8774",
       "title": "Sharon Donnery: Interview with Liberal.gr",
       "summary": "",
@@ -6869,76 +6855,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "bb1ea4e0d9131d11",
-      "title": "​The EBA releases the final technical package for its 4.3 reporting framework to support Third-Country Branches reporting and AML Authority risk assessment data collection",
-      "summary": "​The European Banking Authority (EBA) today published the final technical package for version 4.3 of its reporting framework. The package implements the new reporting requirements for Third-Country Branches (TCBs) under the Capital Requirements Directive (CRD) and supports the implementation of a risk assessment data collection exercise by the Anti-Money Laundering Authority (AMLA). ​ Pagination Current page 1 Page 2 Page 3 Page 4 Page 5 Page 6 <a href=\"?pa",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-releases-final-technical-package-its-43-reporting-framework-support-third-country-branches",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-releases-final-technical-package-its-43-reporting-framework-support-third-country-branches",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-16T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Capital Requirements",
-        "AML / Financial Crime",
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "capital requirements",
-        "crd",
-        "aml",
-        "anti-money laundering",
-        "anti money laundering",
-        "money laundering",
-        "reporting",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital requirements",
-            "crd"
-          ]
-        },
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "aml",
-            "anti-money laundering",
-            "anti money laundering",
-            "money laundering"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "c2f49e789eb504a9",
       "title": "ECB clarification on ICAAPs and ILAAPs and respective package submissions",
       "summary": "",
@@ -7497,6 +7413,76 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "c4cd61659224bc5c",
+      "title": "​The EBA releases the final technical package for its 4.3 reporting framework to support Third-Country Branches reporting and AML Authority risk assessment data collection",
+      "summary": "​The European Banking Authority (EBA) today published the final technical package for version 4.3 of its reporting framework. The package implements the new reporting requirements for Third-Country Branches (TCBs) under the Capital Requirements Directive (CRD) and supports the implementation of a risk assessment data collection exercise by the Anti-Money Laundering Authority (AMLA).",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-releases-final-technical-package-its-43-reporting-framework-support-third-country-branches",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-releases-final-technical-package-its-43-reporting-framework-support-third-country-branches",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Capital Requirements",
+        "AML / Financial Crime",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "capital requirements",
+        "crd",
+        "aml",
+        "anti-money laundering",
+        "anti money laundering",
+        "money laundering",
+        "reporting",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital requirements",
+            "crd"
+          ]
+        },
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "aml",
+            "anti-money laundering",
+            "anti money laundering",
+            "money laundering"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "9df882905f8e2f99",
@@ -10481,7 +10467,7 @@
     {
       "id": "f8b7ac798ce0eec3",
       "title": "Latest EBA MREL dashboard shows that MREL requirements range from 25% to 29% of risk-weighted assets, depending on bank category, while bail-in remains the preferred resolution strategy",
-      "summary": "The European Banking Authority (EBA) today published its latest semi-annual dashboard on the minimum requirement for own funds and eligible liabilities (MREL), providing an update on the state of resolution planning and on the resources that banks are using to meet their requirements. As of December 2025, bail-in remains the preferred resolution strategy in terms of risk-weighed assets (RWAs), while rollover needs reach EUR 231 billion for instruments set to become ineligible over the next 12 months.",
+      "summary": "The European Banking Authority (EBA) today published its latest semi-annual dashboard on the minimum requirement for own funds and eligible liabilities (MREL), providing an update on the state of resolution planning and on the resources that banks are using to meet their requirements. As of December 2025, bail-in remains the preferred resolution strategy in terms of risk-weighed assets (RWAs), while rollover needs reach EUR 231 billion for instruments set to become ineligible over the next 12 months. Pagination First page Previous page Page 1 Current page",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/latest-eba-mrel-dashboard-shows-mrel-requirements-range-25-29-risk-weighted-assets-depending-bank",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/latest-eba-mrel-dashboard-shows-mrel-requirements-range-25-29-risk-weighted-assets-depending-bank",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -12374,7 +12360,7 @@
     {
       "id": "5670c84b039f98b0",
       "title": "The EBA publishes its final Guidelines on supervisory independence",
-      "summary": "The European Banking Authority (EBA) today published its final Guidelines on Supervisory Independence under the Capital Requirements Directive (CRD). The Guidelines further clarify the arrangements that competent authorities should have in place to prevent and manage conflicts of interest involving both their staff and the members of their governance bodies. These arrangements include declarations of interest, limitations on trading of financial instruments and cooling-oof restrictions.",
+      "summary": "The European Banking Authority (EBA) today published its final Guidelines on Supervisory Independence under the Capital Requirements Directive (CRD). The Guidelines further clarify the arrangements that competent authorities should have in place to prevent and manage conflicts of interest involving both their staff and the members of their governance bodies. These arrangements include declarations of interest, limitations on trading of financial instruments and cooling-oof restrictions. Pagination First page Previous page Page 1 Page 2 <span class=\"visuall",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-guidelines-supervisory-independence",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-guidelines-supervisory-independence",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -12433,7 +12419,7 @@
     {
       "id": "184dfc3ff65ad3b4",
       "title": "The EBA streamlines its Guidelines on connected clients to align with new EU legislation",
-      "summary": "The European Banking Authority (EBA) has decided to partially delete sections of its Guidelines on connected clients, following the entry into force of new, directly applicable EU legislation. The changes ensure continued clarity, consistency and alignment in the framework used by credit institutions to identify groups of connected clients. Pagination First page Previous page Page 1 Page 2 Current page 3",
+      "summary": "The European Banking Authority (EBA) has decided to partially delete sections of its Guidelines on connected clients, following the entry into force of new, directly applicable EU legislation. The changes ensure continued clarity, consistency and alignment in the framework used by credit institutions to identify groups of connected clients. 28 APRIL 2026 The EBA updates list of correlated currencies The European Banking Authority (EBA) published today the 2026 update of the list of closely correlated currencies, which is used for the calculation of capital requirements for foreign exchange risk under the standardised approach.",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-streamlines-its-guidelines-connected-clients-align-new-eu-legislation",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-streamlines-its-guidelines-connected-clients-align-new-eu-legislation",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -12448,13 +12434,31 @@
       "publishedAt": "2026-04-29T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Basel / BCBS",
+        "Capital Requirements",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "standardised approach",
+        "capital requirements",
         "guidelines",
         "its"
       ],
       "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "standardised approach"
+          ]
+        },
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital requirements"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -13526,7 +13530,7 @@
     {
       "id": "60fb8bb5cc3df6b8",
       "title": "The EBA publishes list of known data point model issues to enhance transparency and support reporting institutions",
-      "summary": "The European Banking Authority (EBA) today announced that it will begin publishing, on a regular basis, a list of known issues related to the data point model (DPM) framework. The list will include information on available workarounds and indicative timelines for resolution. This initiative is intended to improve transparency and to support reporting institutions by providing a single reference point for recurring technical questions.",
+      "summary": "The European Banking Authority (EBA) today announced that it will begin publishing, on a regular basis, a list of known issues related to the data point model (DPM) framework. The list will include information on available workarounds and indicative timelines for resolution. This initiative is intended to improve transparency and to support reporting institutions by providing a single reference point for recurring technical questions. Pagination First page Previous page Page 1 Page 2 <a href=\"?pag",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-list-known-data-point-model-issues-enhance-transparency-and-support-reporting",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-list-known-data-point-model-issues-enhance-transparency-and-support-reporting",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -13684,29 +13688,6 @@
       "sourceFeedUrl": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "f846d4f20d3cfbc3",
-      "title": "François-Louis Michaud to take up his role as Chair of the European Banking Authority",
-      "summary": "François-Louis Michaud will take up his position as Chair of the European Banking Authority (EBA) as from the 16 April 2026, following today’s formal appointment by the Council of the European Union. Pagination First page Previous page Page 1 Page 2 Page 3 C",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/francois-louis-michaud-take-his-role-chair-european-banking-authority",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/francois-louis-michaud-take-his-role-chair-european-banking-authority",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-03-30T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "34940b62494257e9",
@@ -21418,7 +21399,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-09T10:52:36.523Z",
+      "publishedAt": "2026-09-09T20:38:10.516Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21442,7 +21423,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T10:52:36.523Z",
+      "publishedAt": "2026-09-09T20:38:10.516Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21466,7 +21447,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T10:52:36.523Z",
+      "publishedAt": "2026-09-09T20:38:10.516Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21490,7 +21471,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T10:52:36.523Z",
+      "publishedAt": "2026-09-09T20:38:10.516Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21514,7 +21495,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T10:52:36.523Z",
+      "publishedAt": "2026-09-09T20:38:10.516Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21538,7 +21519,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T10:52:36.523Z",
+      "publishedAt": "2026-09-09T20:38:10.516Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21562,7 +21543,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T10:52:36.523Z",
+      "publishedAt": "2026-09-09T20:38:10.516Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21586,7 +21567,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T10:52:36.523Z",
+      "publishedAt": "2026-09-09T20:38:10.516Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21610,7 +21591,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T10:52:36.523Z",
+      "publishedAt": "2026-09-09T20:38:10.516Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21634,7 +21615,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T10:52:36.523Z",
+      "publishedAt": "2026-09-09T20:38:10.516Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21658,7 +21639,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T10:52:36.523Z",
+      "publishedAt": "2026-09-09T20:38:10.516Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21682,7 +21663,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T10:52:36.523Z",
+      "publishedAt": "2026-09-09T20:38:10.516Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21706,7 +21687,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T10:52:36.523Z",
+      "publishedAt": "2026-09-09T20:38:10.516Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21723,11 +21704,11 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 92
+      "count": 93
     },
     {
       "updateType": "Publications / Reports",
-      "count": 81
+      "count": 79
     },
     {
       "updateType": "News",
