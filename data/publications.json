@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T20:48:43.919Z",
+  "generatedAt": "2026-09-09T10:52:36.523Z",
   "totalPublications": 485,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -460,11 +460,11 @@
     },
     {
       "topic": "Basel / BCBS",
-      "count": 133
+      "count": 134
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 58
+      "count": 59
     },
     {
       "topic": "AML / Financial Crime",
@@ -534,11 +534,11 @@
     },
     {
       "topic": "Basel / BCBS",
-      "count": 133
+      "count": 134
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 58
+      "count": 59
     },
     {
       "topic": "AML / Financial Crime",
@@ -600,7 +600,7 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 132
+      "count": 131
     },
     {
       "keyword": "banking supervision",
@@ -696,10 +696,14 @@
     },
     {
       "keyword": "guidelines",
-      "count": 9
+      "count": 10
     },
     {
       "keyword": "crypto",
+      "count": 8
+    },
+    {
+      "keyword": "disclosure",
       "count": 8
     },
     {
@@ -712,10 +716,6 @@
     },
     {
       "keyword": "crr",
-      "count": 7
-    },
-    {
-      "keyword": "disclosure",
       "count": 7
     },
     {
@@ -875,6 +875,10 @@
       "count": 2
     },
     {
+      "keyword": "disclosure requirements",
+      "count": 2
+    },
+    {
       "keyword": "emissions",
       "count": 2
     },
@@ -912,10 +916,6 @@
     },
     {
       "keyword": "reverse stress",
-      "count": 2
-    },
-    {
-      "keyword": "scenario analysis",
       "count": 2
     }
   ],
@@ -1000,6 +1000,64 @@
     }
   ],
   "publications": [
+    {
+      "id": "53fb68d321e450df",
+      "title": "ESMA consults on disclosure requirements and updates guidelines and Q&As under the Prospectus Regulation",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets reg",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-consults-disclosure-requirements-and-updates-guidelines-and-qas-under",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-09/ESMA32-753890202-3085_Consultation_Paper_update_GLs_on_disclosure_under_Prospectus_Regulation.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2026-09/Overview_of_changes_made_to_the_Prospectus_Q_As.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2026-09/ESMA32-753890202-3034_Final_Report_Guidelines_on_supplements_which_introduce_new_securities_to_a_base_prospectus.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2026-09/ESMA32-753890202-3065_Final_report_update_to_RTS_key_financial_info_in_summary_of_a_prospectus.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "disclosure requirements",
+        "disclosure",
+        "guidelines"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "disclosure requirements"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "guidelines"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-consults-disclosure-requirements-and-updates-guidelines-and-qas-under",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
     {
       "id": "65e0110dc59276e6",
       "title": "Frank Elderson: Fireside chat",
@@ -4503,9 +4561,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-08-04T20:30:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/orders20260804c1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -6447,41 +6503,6 @@
       "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "31b4fffa4588dcec",
-      "title": "ESMA publishes report on cross-border investment services supervision",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-report-cross-border-investment-services-supervision",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-20T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-report-cross-border-investment-services-supervision",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "ccd2465e55fd6140",
@@ -21397,7 +21418,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-08T20:48:43.919Z",
+      "publishedAt": "2026-09-09T10:52:36.523Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21421,7 +21442,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T20:48:43.919Z",
+      "publishedAt": "2026-09-09T10:52:36.523Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21445,7 +21466,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T20:48:43.919Z",
+      "publishedAt": "2026-09-09T10:52:36.523Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21469,7 +21490,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T20:48:43.919Z",
+      "publishedAt": "2026-09-09T10:52:36.523Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21493,7 +21514,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T20:48:43.919Z",
+      "publishedAt": "2026-09-09T10:52:36.523Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21517,7 +21538,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T20:48:43.919Z",
+      "publishedAt": "2026-09-09T10:52:36.523Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21541,7 +21562,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T20:48:43.919Z",
+      "publishedAt": "2026-09-09T10:52:36.523Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21565,7 +21586,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T20:48:43.919Z",
+      "publishedAt": "2026-09-09T10:52:36.523Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21589,7 +21610,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T20:48:43.919Z",
+      "publishedAt": "2026-09-09T10:52:36.523Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21613,7 +21634,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T20:48:43.919Z",
+      "publishedAt": "2026-09-09T10:52:36.523Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21637,7 +21658,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T20:48:43.919Z",
+      "publishedAt": "2026-09-09T10:52:36.523Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21661,7 +21682,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T20:48:43.919Z",
+      "publishedAt": "2026-09-09T10:52:36.523Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21685,7 +21706,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-08T20:48:43.919Z",
+      "publishedAt": "2026-09-09T10:52:36.523Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21706,19 +21727,19 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 82
+      "count": 81
     },
     {
       "updateType": "News",
       "count": 78
     },
     {
-      "updateType": "Working Papers / Research",
+      "updateType": "Consultations",
       "count": 39
     },
     {
-      "updateType": "Consultations",
-      "count": 38
+      "updateType": "Working Papers / Research",
+      "count": 39
     },
     {
       "updateType": "Statistics / Data",
