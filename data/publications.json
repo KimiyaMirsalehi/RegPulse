@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T10:51:29.872Z",
-  "totalPublications": 485,
+  "generatedAt": "2026-09-10T20:30:55.789Z",
+  "totalPublications": 484,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -234,7 +234,7 @@
       "region": "US",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 12,
+      "itemCount": 11,
       "url": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
@@ -452,14 +452,14 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 240
-    },
-    {
-      "topic": "Governance",
-      "count": 136
+      "count": 239
     },
     {
       "topic": "Basel / BCBS",
+      "count": 135
+    },
+    {
+      "topic": "Governance",
       "count": 135
     },
     {
@@ -468,7 +468,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 40
+      "count": 41
     },
     {
       "topic": "Capital Requirements",
@@ -479,15 +479,15 @@
       "count": 33
     },
     {
+      "topic": "Credit Risk",
+      "count": 21
+    },
+    {
       "topic": "Crypto / Digital Assets",
-      "count": 22
+      "count": 21
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 22
-    },
-    {
-      "topic": "Credit Risk",
       "count": 21
     },
     {
@@ -526,14 +526,14 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 240
-    },
-    {
-      "topic": "Governance",
-      "count": 136
+      "count": 239
     },
     {
       "topic": "Basel / BCBS",
+      "count": 135
+    },
+    {
+      "topic": "Governance",
       "count": 135
     },
     {
@@ -542,7 +542,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 40
+      "count": 41
     },
     {
       "topic": "Capital Requirements",
@@ -553,15 +553,15 @@
       "count": 33
     },
     {
+      "topic": "Credit Risk",
+      "count": 21
+    },
+    {
       "topic": "Crypto / Digital Assets",
-      "count": 22
+      "count": 21
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 22
-    },
-    {
-      "topic": "Credit Risk",
       "count": 21
     },
     {
@@ -612,11 +612,11 @@
     },
     {
       "keyword": "board",
-      "count": 95
+      "count": 94
     },
     {
       "keyword": "its",
-      "count": 84
+      "count": 83
     },
     {
       "keyword": "reporting",
@@ -644,7 +644,7 @@
     },
     {
       "keyword": "conduct",
-      "count": 24
+      "count": 23
     },
     {
       "keyword": "capital requirements",
@@ -659,7 +659,7 @@
       "count": 17
     },
     {
-      "keyword": "payments",
+      "keyword": "policy statement",
       "count": 15
     },
     {
@@ -667,7 +667,7 @@
       "count": 14
     },
     {
-      "keyword": "policy statement",
+      "keyword": "payments",
       "count": 14
     },
     {
@@ -687,16 +687,16 @@
       "count": 11
     },
     {
-      "keyword": "consultation paper",
+      "keyword": "guidelines",
       "count": 10
+    },
+    {
+      "keyword": "consultation paper",
+      "count": 9
     },
     {
       "keyword": "digital euro",
-      "count": 10
-    },
-    {
-      "keyword": "guidelines",
-      "count": 10
+      "count": 9
     },
     {
       "keyword": "crypto",
@@ -704,6 +704,10 @@
     },
     {
       "keyword": "disclosure",
+      "count": 8
+    },
+    {
+      "keyword": "fraud",
       "count": 8
     },
     {
@@ -716,10 +720,6 @@
     },
     {
       "keyword": "crr",
-      "count": 7
-    },
-    {
-      "keyword": "fraud",
       "count": 7
     },
     {
@@ -930,7 +930,7 @@
     },
     {
       "region": "US",
-      "count": 78
+      "count": 77
     },
     {
       "region": "Global",
@@ -964,7 +964,7 @@
     },
     {
       "institution": "Federal Reserve Board",
-      "count": 32
+      "count": 31
     },
     {
       "institution": "Financial Conduct Authority",
@@ -1000,6 +1000,180 @@
     }
   ],
   "publications": [
+    {
+      "id": "182e95eff66beec0",
+      "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+      "summary": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-10T20:00:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260910a1.pdf",
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260910a2.pdf"
+      ],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "6bf062506540b31c",
+      "title": "SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme",
+      "summary": "The Securities and Exchange Commission today charged Ernest Ossei Boateng and two New Jersey-based companies he controls, Intercontinental Wealth Network LLC and I Wealth Network LP, for allegedly raising approximately $16 million from more than 200…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-10T17:45:22.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "b53a40cdfc2862c9",
+      "title": "Bank of England Weekly Report 9 September 2026",
+      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+      "url": "https://www.bankofengland.co.uk/weekly-report/2026/9-september-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-10T14:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/9-september-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "32db5d5b79ad8277",
+      "title": "ECB staff macroeconomic projections for the euro area, September 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/projections/html/ecb.projections202609_ecbstaff~8e340fc69d.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-10T13:45:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/other/ecb.projections202609_ecbstaff~8e340fc69d.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2315~73e5b1c3cd.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op343~ab3e870d21.fr.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3062~abe560353f.cs.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/projections/html/ecb.projections202609_ecbstaff~8e340fc69d.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "a28d8a1325bb8a1a",
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-10T13:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds260910~fbf0ab9b8d.en.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "2030c2e8bae45a95",
+      "title": "Monetary policy decisions",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-10T12:15:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds260910~fbf0ab9b8d.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "5b7f36620b8aafe2",
       "title": "Ongoing geopolitical and economic vulnerabilities masked by strong investor optimism",
@@ -4036,29 +4210,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "1b783324287beb4e",
-      "title": "ECB publishes consolidated banking data for end-March 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-07T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "36d18ab90394383f",
       "title": "The EBA amends Guidelines on the definition of default",
       "summary": "The European Banking Authority (EBA) published today its final Report amending the Guidelines on the application of the definition of default. The Report introduces targeted amendments to better reflect specific aspects of non recourse factoring. It also confirms that the 1% threshold applied to reductions in net present value loss (NPV threshold) in debt restructuring remains appropriate for prudential default recognition. 29 APRIL 2026 The EBA publishes its final Guidelines on supervisory independence The European Banking Authority (EBA) today published its final Guidelines on Supervisory Independence under the Capital Requirements Directive (CRD).",
@@ -4289,33 +4440,6 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "a7401dd88132e6b8",
-      "title": "Assessing the scope for compensatory fiscal measures in response to the recent energy shock",
-      "summary": "This box assesses the scope for euro area governments to adopt compensatory fiscal measures against the backdrop of the recent energy shock. It examines the available fiscal space, reviews the discretionary fiscal support provided so far, and assesses whether the current inflation environment has generated additional revenues that could partially finance current and future measures. The box concludes that, since fiscal space is more constrained than it was during the 2022 energy crisis and there is only modest scope for self-financing through inflation-driven revenues, it is all the more important for fiscal support to be temporary, targeted and tailored.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_08~381440ea4e.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-06T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op332~2dde0481fe.en.pdf",
-        "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/24/T1/Files/be2401-art06e.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op371.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_08~381440ea4e.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "6a9238ba3ce46e61",
       "title": "Economic Bulletin Issue 5, 2026",
       "summary": "",
@@ -4329,10 +4453,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-08-06T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/ecbu/eb202605.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/ecbu/ecb.eb_annex202605~eb96358d07.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -5692,41 +5813,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "146f997e04e06860",
-      "title": "Digital euro app to incorporate highest accessibility standards",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-30T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Crypto / Digital Assets"
-      ],
-      "matchedKeywords": [
-        "digital euro"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "digital euro"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "577a18f317d7149f",
@@ -7313,52 +7399,6 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "230c77a42b4d09d7",
-      "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-      "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-press",
-      "sourceName": "Federal Reserve Press Releases",
-      "institution": "Federal Reserve Board",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-09T19:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "board",
-        "conduct",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board",
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "8b9d663b4ae7090c",
       "title": "Bank of England Weekly Report 8 July 2026",
       "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
@@ -8525,29 +8565,6 @@
       ],
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "83cdb453ee6d71a8",
-      "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
-      "summary": "The Securities and Exchange Commission’s Division of Economic and Risk Analysis (DERA) published updated statistics and data visualizations covering key segments of the U. S. capital markets, including three new asset-backed securities (ABS) issuance data…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-61-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-01T12:47:58.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-61-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
     },
     {
       "id": "e9a02680d13a705e",
@@ -10088,50 +10105,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "ed4965d16a64927e",
-      "title": "RPIB consultation on the Design of the Future Retail Payments Infrastructure",
-      "summary": "Consultation paper",
-      "url": "https://www.bankofengland.co.uk/paper/2026/cp/rpib-consultation",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "consultation paper",
-        "payments"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "consultation paper"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payments"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/paper/2026/cp/rpib-consultation",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "2fd52ebdfc4f0ec6",
@@ -14187,41 +14160,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/rbu.html",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "c25fbd331ee7246c",
-      "title": "Agencies request comment on proposals to modernize the regulatory capital framework and maintain the strength of the banking system",
-      "summary": "Agencies request comment on proposals to modernize the regulatory capital framework and maintain the strength of the banking system",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm",
-      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-banking-reg",
-      "sourceName": "Federal Reserve Banking and Consumer Regulatory Policy",
-      "institution": "Federal Reserve Board",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-03-19T16:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "board"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        }
-      ],
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
     },
     {
       "id": "055282f27e946cd9",
@@ -21149,6 +21087,50 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
+      "id": "3ae2bd009687a56c",
+      "title": "Man pleads guilty to fraud and forgery offences relating to fake takeover approach",
+      "summary": "Christopher Woolcott has pleaded guilty to 4 counts of fraud and forgery after creating a fake takeover bid for Touchstone Exploration Inc. Mr Woolcott held shares in Touchstone Exploration Inc and stood to benefit financially from any upward movement in the share price had the fake takeover bid been announced to the market. Mr Woolcott admitted creating a fictitious takeover approach for Touchstone Exploration Inc using multiple false identities and forged documents, in an attempt to lend credibility to the approach. He will be sentenced at a later date.",
+      "url": "https://www.fca.org.uk/news/press-releases/man-pleads-guilty-fraud-forgery-offences-fake-takeover-approach",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "fraud",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "fraud"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/man-pleads-guilty-fraud-forgery-offences-fake-takeover-approach",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "154ea62cc287d151",
       "title": "T+1 Settlement: are firms ready for 2027?",
       "summary": "Why T+1 matters and what we’ve been doing so farThe UK’s move to a T+1 securities settlement cycle on 11 October 2027 is a fundamental shift in how securities transactions are settled. To prepare, market participants will have to rapidly speed up their post-trade processes, including automating their operations as appropriate. We’ve found that some are more ready than others – and some have a lot to do to meet deadlines, and our expectations. Participants should view T+1 as an opportunity. It will make the UK market more efficient and reduce risk – ultimately freeing up funds for investment. Our work on the T+1 transition is helping support growth in the UK financial market.",
@@ -21249,41 +21231,6 @@
       "updateTypeDetail": "Rule / standard / guidance",
       "originalPublishedAt": "2026-10-23T00:00:00.000Z",
       "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
-    },
-    {
-      "id": "0669e79472a354cc",
-      "title": "Trial date set for individual charged with illegal promotions",
-      "summary": "On 30 July 2026, Lucy Beck attended Southwark Crown Court for a hearing in relation to unauthorised promotions on social media. Ms Beck entered a not guilty plea and the date of her trial has been set as 12 June 2028. It is alleged that Ms Beck promoted buying and selling Foreign Exchange Contracts for Difference through social media accounts and websites, without being authorised to do so, contrary to sections 21 and 25 of the Financial Services and Markets Act 2000. Notes to editorsLucy Beck’s date of birth is 30/04/1994. Anyone who believes they may have suffered loss in relation to this matter is encouraged to contact the FCA consumer contact centre on 0800 111 6768.",
-      "url": "https://www.fca.org.uk/news/press-releases/trial-date-set-individual-charged-illegal-promotions",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/trial-date-set-individual-charged-illegal-promotions",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "11856ea04de1e8bc",
@@ -21414,7 +21361,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-10T10:51:29.872Z",
+      "publishedAt": "2026-09-10T20:30:55.789Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21438,7 +21385,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T10:51:29.872Z",
+      "publishedAt": "2026-09-10T20:30:55.789Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21462,7 +21409,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T10:51:29.872Z",
+      "publishedAt": "2026-09-10T20:30:55.789Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21486,7 +21433,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T10:51:29.872Z",
+      "publishedAt": "2026-09-10T20:30:55.789Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21510,7 +21457,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T10:51:29.872Z",
+      "publishedAt": "2026-09-10T20:30:55.789Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21534,7 +21481,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T10:51:29.872Z",
+      "publishedAt": "2026-09-10T20:30:55.789Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21558,7 +21505,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T10:51:29.872Z",
+      "publishedAt": "2026-09-10T20:30:55.789Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21582,7 +21529,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T10:51:29.872Z",
+      "publishedAt": "2026-09-10T20:30:55.789Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21606,7 +21553,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T10:51:29.872Z",
+      "publishedAt": "2026-09-10T20:30:55.789Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21630,7 +21577,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T10:51:29.872Z",
+      "publishedAt": "2026-09-10T20:30:55.789Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21654,7 +21601,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T10:51:29.872Z",
+      "publishedAt": "2026-09-10T20:30:55.789Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21678,7 +21625,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T10:51:29.872Z",
+      "publishedAt": "2026-09-10T20:30:55.789Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21702,7 +21649,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T10:51:29.872Z",
+      "publishedAt": "2026-09-10T20:30:55.789Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21719,27 +21666,27 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 93
+      "count": 92
     },
     {
       "updateType": "Publications / Reports",
-      "count": 80
+      "count": 81
     },
     {
       "updateType": "News",
-      "count": 78
-    },
-    {
-      "updateType": "Consultations",
-      "count": 39
+      "count": 80
     },
     {
       "updateType": "Working Papers / Research",
       "count": 39
     },
     {
+      "updateType": "Consultations",
+      "count": 38
+    },
+    {
       "updateType": "Statistics / Data",
-      "count": 20
+      "count": 19
     },
     {
       "updateType": "Source Pages",
@@ -21747,7 +21694,7 @@
     },
     {
       "updateType": "Other",
-      "count": 9
+      "count": 8
     },
     {
       "updateType": "Events",
