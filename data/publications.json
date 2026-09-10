@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T20:38:10.516Z",
-  "totalPublications": 484,
+  "generatedAt": "2026-09-10T10:51:29.872Z",
+  "totalPublications": 485,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -117,7 +117,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "html-list-parser",
-      "itemCount": 1,
+      "itemCount": 2,
       "url": "https://www.eba.europa.eu/publications-and-media/publications",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
       "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
@@ -479,11 +479,11 @@
       "count": 33
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 23
+      "topic": "Crypto / Digital Assets",
+      "count": 22
     },
     {
-      "topic": "Crypto / Digital Assets",
+      "topic": "Payments / Open Finance",
       "count": 22
     },
     {
@@ -553,11 +553,11 @@
       "count": 33
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 23
+      "topic": "Crypto / Digital Assets",
+      "count": 22
     },
     {
-      "topic": "Crypto / Digital Assets",
+      "topic": "Payments / Open Finance",
       "count": 22
     },
     {
@@ -807,10 +807,6 @@
       "count": 4
     },
     {
-      "keyword": "settlement",
-      "count": 4
-    },
-    {
       "keyword": "aml",
       "count": 3
     },
@@ -844,6 +840,10 @@
     },
     {
       "keyword": "pillar 2",
+      "count": 3
+    },
+    {
+      "keyword": "settlement",
       "count": 3
     },
     {
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 273
+      "count": 274
     },
     {
       "region": "UK",
@@ -952,7 +952,7 @@
     },
     {
       "institution": "European Banking Authority",
-      "count": 61
+      "count": 62
     },
     {
       "institution": "Bank of England",
@@ -1000,6 +1000,33 @@
     }
   ],
   "publications": [
+    {
+      "id": "5b7f36620b8aafe2",
+      "title": "Ongoing geopolitical and economic vulnerabilities masked by strong investor optimism",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets reg",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/ongoing-geopolitical-and-economic-vulnerabilities-masked-strong-investor",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-09/ESMA50-1949966494-4282_TRV_Risk_Monitor_2_2026.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2026-09/ESMA50-1949966494-4299_TRV_2_2026_Statistical_annex.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2026-09/ESMA71-545613100-2999_Ongoing_geopolitical_and_economic_vulnerabilities_masked_by_strong_investor_optimism_-_Press_release.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/ongoing-geopolitical-and-economic-vulnerabilities-masked-strong-investor",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "ddb73c345a4b47ad",
       "title": "Christine Lagarde: The choice facing Europeans",
@@ -4381,9 +4408,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-08-05T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op367~16f0cba571.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -6454,41 +6479,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
-    },
-    {
-      "id": "aceb4f081e1861e0",
-      "title": "ESMA calls on firms to finalise preparations ahead of T+1 settlement deadlines",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU regulator and supervisor, has published a",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-calls-firms-finalise-preparations-ahead-t1-settlement-deadlines",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-20T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "settlement"
-      ],
-      "topicMatches": [
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "settlement"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-calls-firms-finalise-preparations-ahead-t1-settlement-deadlines",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "ccd2465e55fd6140",
@@ -13137,6 +13127,31 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/rbu.html",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "c859bcc35c587eee",
+      "title": "EBA BS BSG 2026 006 rev. 1 (Final Minutes of Joint BoS BSG meeting on",
+      "summary": "",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-09/8d1a269e-c866-4893-b06b-fdae57732601/EBA%20BS%20BSG%202026%20006%20rev.%201%20%28Final%20Minutes%20of%20Joint%20BoS%20BSG%20meeting%20on%2021%20April%202026%29.pdf",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
+      "sourceId": "eba-publications",
+      "sourceName": "EBA Publications",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-04-21T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-09/8d1a269e-c866-4893-b06b-fdae57732601/EBA%20BS%20BSG%202026%20006%20rev.%201%20%28Final%20Minutes%20of%20Joint%20BoS%20BSG%20meeting%20on%2021%20April%202026%29.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.eba.europa.eu/sites/default/files/2026-09/8d1a269e-c866-4893-b06b-fdae57732601/EBA%20BS%20BSG%202026%20006%20rev.%201%20%28Final%20Minutes%20of%20Joint%20BoS%20BSG%20meeting%20on%2021%20April%202026%29.pdf",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "4d83d6d224d7f737",
@@ -21399,7 +21414,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-09T20:38:10.516Z",
+      "publishedAt": "2026-09-10T10:51:29.872Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21423,7 +21438,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T20:38:10.516Z",
+      "publishedAt": "2026-09-10T10:51:29.872Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21447,7 +21462,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T20:38:10.516Z",
+      "publishedAt": "2026-09-10T10:51:29.872Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21471,7 +21486,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T20:38:10.516Z",
+      "publishedAt": "2026-09-10T10:51:29.872Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21495,7 +21510,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T20:38:10.516Z",
+      "publishedAt": "2026-09-10T10:51:29.872Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21519,7 +21534,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T20:38:10.516Z",
+      "publishedAt": "2026-09-10T10:51:29.872Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21543,7 +21558,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T20:38:10.516Z",
+      "publishedAt": "2026-09-10T10:51:29.872Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21567,7 +21582,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T20:38:10.516Z",
+      "publishedAt": "2026-09-10T10:51:29.872Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21591,7 +21606,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T20:38:10.516Z",
+      "publishedAt": "2026-09-10T10:51:29.872Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21615,7 +21630,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T20:38:10.516Z",
+      "publishedAt": "2026-09-10T10:51:29.872Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21639,7 +21654,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T20:38:10.516Z",
+      "publishedAt": "2026-09-10T10:51:29.872Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21663,7 +21678,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T20:38:10.516Z",
+      "publishedAt": "2026-09-10T10:51:29.872Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21687,7 +21702,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-09T20:38:10.516Z",
+      "publishedAt": "2026-09-10T10:51:29.872Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21708,7 +21723,7 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 79
+      "count": 80
     },
     {
       "updateType": "News",
