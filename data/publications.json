@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T20:30:55.789Z",
+  "generatedAt": "2026-09-11T10:44:39.231Z",
   "totalPublications": 484,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -460,23 +460,27 @@
     },
     {
       "topic": "Governance",
-      "count": 135
+      "count": 133
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 57
+      "count": 58
     },
     {
       "topic": "AML / Financial Crime",
       "count": 41
     },
     {
-      "topic": "Capital Requirements",
+      "topic": "Climate / ESG",
       "count": 33
     },
     {
-      "topic": "Climate / ESG",
-      "count": 33
+      "topic": "Capital Requirements",
+      "count": 32
+    },
+    {
+      "topic": "Stress Testing",
+      "count": 22
     },
     {
       "topic": "Credit Risk",
@@ -491,10 +495,6 @@
       "count": 21
     },
     {
-      "topic": "Stress Testing",
-      "count": 20
-    },
-    {
       "topic": "Recovery / Resolution",
       "count": 19
     },
@@ -504,7 +504,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 14
+      "count": 11
     },
     {
       "topic": "Market Risk",
@@ -534,23 +534,27 @@
     },
     {
       "topic": "Governance",
-      "count": 135
+      "count": 133
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 57
+      "count": 58
     },
     {
       "topic": "AML / Financial Crime",
       "count": 41
     },
     {
-      "topic": "Capital Requirements",
+      "topic": "Climate / ESG",
       "count": 33
     },
     {
-      "topic": "Climate / ESG",
-      "count": 33
+      "topic": "Capital Requirements",
+      "count": 32
+    },
+    {
+      "topic": "Stress Testing",
+      "count": 22
     },
     {
       "topic": "Credit Risk",
@@ -565,10 +569,6 @@
       "count": 21
     },
     {
-      "topic": "Stress Testing",
-      "count": 20
-    },
-    {
       "topic": "Recovery / Resolution",
       "count": 19
     },
@@ -578,7 +578,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 14
+      "count": 11
     },
     {
       "topic": "Market Risk",
@@ -608,11 +608,11 @@
     },
     {
       "keyword": "supervisory",
-      "count": 104
+      "count": 103
     },
     {
       "keyword": "board",
-      "count": 94
+      "count": 93
     },
     {
       "keyword": "its",
@@ -620,11 +620,11 @@
     },
     {
       "keyword": "reporting",
-      "count": 40
+      "count": 41
     },
     {
       "keyword": "governance",
-      "count": 33
+      "count": 32
     },
     {
       "keyword": "climate",
@@ -663,20 +663,20 @@
       "count": 15
     },
     {
-      "keyword": "liquidity",
-      "count": 14
+      "keyword": "stress test",
+      "count": 15
     },
     {
       "keyword": "payments",
       "count": 14
     },
     {
-      "keyword": "stress test",
+      "keyword": "transparency",
       "count": 13
     },
     {
-      "keyword": "transparency",
-      "count": 13
+      "keyword": "liquidity",
+      "count": 11
     },
     {
       "keyword": "operational resilience",
@@ -739,10 +739,6 @@
       "count": 6
     },
     {
-      "keyword": "risk culture",
-      "count": 6
-    },
-    {
       "keyword": "stress tests",
       "count": 6
     },
@@ -779,6 +775,10 @@
       "count": 5
     },
     {
+      "keyword": "risk culture",
+      "count": 5
+    },
+    {
       "keyword": "sanctions",
       "count": 5
     },
@@ -804,6 +804,10 @@
     },
     {
       "keyword": "recovery plans",
+      "count": 4
+    },
+    {
+      "keyword": "reverse stress",
       "count": 4
     },
     {
@@ -836,10 +840,6 @@
     },
     {
       "keyword": "payment",
-      "count": 3
-    },
-    {
-      "keyword": "pillar 2",
       "count": 3
     },
     {
@@ -911,11 +911,11 @@
       "count": 2
     },
     {
-      "keyword": "resolution planning",
+      "keyword": "pillar 2",
       "count": 2
     },
     {
-      "keyword": "resolvability",
+      "keyword": "resolution planning",
       "count": 2
     }
   ],
@@ -1000,6 +1000,188 @@
     }
   ],
   "publications": [
+    {
+      "id": "e0c839c5125ad224",
+      "title": "Agents' summary of business conditions - September 2026",
+      "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+      "url": "https://www.bankofengland.co.uk/agents-summary/2026/september-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-11T08:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "reporting"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/agents-summary/2026/september-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "381de1281fcb7e3e",
+      "title": "Bank of England/Savanta Inflation Attitudes Survey - August 2026",
+      "summary": "This quarterly survey, conducted by Savanta on our behalf, assesses public attitudes to inflation, opinions about the Bank and awareness of our work.",
+      "url": "https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/august-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-11T08:30:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/inflation-attitudes-survey/methodology-and-notes.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/inflation-attitudes-survey/methodology-and-notes-face-to-face.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/august-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "e0f123a960d97b37",
+      "title": "Preparing for the unknown: lessons from the ECB’s reverse stress test on geopolitical risk Geopolitical risks are difficult to predict and can affect banks in many ways. The ECB’s 2026 reverse stress test highlights how banks can better understand their vulne",
+      "summary": "rabilities, prepare for adverse scenarios and strengthen their resilience. Read more 6 July 2026 Streamlining supervision, safeguarding resilience: tangible progress on our reform agenda ECB Banking Supervision is turning its reform agenda into concrete progress: making supervision more efficient, more effective and more risk-based, while continuing to preserve banks’ resilience. English 26 June 2026 Simpler guidance, more effective supervision European banking supervision has reviewed over 130 publications to make them more concise and user friendly.",
+      "url": "https://www.bankingsupervision.europa.eu/press/blog/2026/html/ssm.blog20260911~97fe7661d0.en.html",
+      "link": "https://www.bankingsupervision.europa.eu/press/blog/2026/html/ssm.blog20260911~97fe7661d0.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html",
+      "sourceId": "ecb-supervision-blog",
+      "sourceName": "ECB Banking Supervision Blog",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-09-11T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.geopolstresstest202608.en.pdf",
+        "https://www.bis.org/publ/bcbs155.pdf",
+        "https://www.imf.org/-/media/files/publications/cr/2025/english/1eurea2025007.pdf",
+        "https://www.bankingsupervision.europa.eu/framework/legal-framework/public-consultations/pdf/ssm.pubcon230724_draftguide.en.pdf",
+        "https://www.bankingsupervision.europa.eu/press/conferences/shared/pdf/sup_rep_conf/2025/Kokkonidis_slides.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op254~664ed99e11.en.pdf?8cbb52f88235380654d2bdd273a49758"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Stress Testing",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "stress test",
+        "reverse stress",
+        "supervision",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "stress-testing",
+          "label": "Stress Testing",
+          "keywords": [
+            "stress test",
+            "reverse stress"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision",
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "8e1a27ebc576f936",
+      "title": "Subscribe to The Supervision Blog",
+      "summary": "11 September 2026 Preparing for the unknown: lessons from the ECB’s reverse stress test on geopolitical risk Geopolitical risks are difficult to predict and can affect banks in many ways. The ECB’s 2026 reverse stress test highlights how banks can better understand their vulnerabilities, prepare for adverse scenarios and strengthen their resilience. Read more 6 July 2026 Streamlining supervision, safeguarding resilience: tangible progress on our reform agenda ECB Banking Supervision is turning its reform agenda into concrete progress: making supervision more efficient, more effective and more risk-based, while continuing to preserve banks’ resilience.",
+      "url": "https://www.bankingsupervision.europa.eu/press/blog/html/register.en.html",
+      "link": "https://www.bankingsupervision.europa.eu/press/blog/html/register.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html",
+      "sourceId": "ecb-supervision-blog",
+      "sourceName": "ECB Banking Supervision Blog",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-09-11T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Stress Testing",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "stress test",
+        "reverse stress",
+        "supervision",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "stress-testing",
+          "label": "Stress Testing",
+          "keywords": [
+            "stress test",
+            "reverse stress"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision",
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
     {
       "id": "182e95eff66beec0",
       "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
@@ -4225,32 +4407,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-08-07T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-05/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20Guidelines%20on%20definition%20of%20default.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_BG.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_CS.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_DA.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_DE.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_EL.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_ES.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_ET.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_FI.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_FR.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_GA.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_HR.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_HU.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_IT.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_LT.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_LV.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_MT.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_NL.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_PL.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_PT.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_RO.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_SK.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_SL.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-07/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20GL%20on%20Definition%20of%20Default%20%28EBA%20GL%202026%2005%29_SV.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements",
         "Supervision / Enforcement"
@@ -8092,9 +8249,9 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "710263d158bfc309",
-      "title": "Streamlining supervision, safeguarding resilience: tangible progress on our reform agenda ECB Banking Supervision is turning its reform agenda into concrete progress: making supervision more efficient, more effective and more risk-based, while continuing to p",
-      "summary": "reserve banks’ resilience. Read more 26 June 2026 Simpler guidance, more effective supervision European banking supervision has reviewed over 130 publications to make them more concise and user friendly. Around 40 will be discontinued, others have been revised in a targeted manner, and several are undergoing a more in-depth review, including the guide on governance and risk culture. English 8 May 2026 Good practices for advancing climate and nature-related risk management ECB Banking Supervision has updated its compendium of good practices for climate and nature-related risk management and stress testing.",
+      "id": "74bc51ce927362ef",
+      "title": "Streamlining supervision, safeguarding resilience: tangible progress on our reform agenda ECB Banking Supervision is turning its reform agenda into concrete progress: making supervision more efficient, more effective and more risk-based, while continuing to preserve banks’ resilience.",
+      "summary": "English 26 June 2026 Simpler guidance, more effective supervision European banking supervision has reviewed over 130 publications to make them more concise and user friendly. Around 40 will be discontinued, others have been revised in a targeted manner, and several are undergoing a more in-depth review, including the guide on governance and risk culture. English 8 May 2026 Good practices for advancing climate and nature-related risk management ECB Banking Supervision has updated its compendium of good practices for climate and nature-related risk management and stress testing.",
       "url": "https://www.bankingsupervision.europa.eu/press/blog/2026/html/ssm.blog20260706~d0c6490b28.en.html",
       "link": "https://www.bankingsupervision.europa.eu/press/blog/2026/html/ssm.blog20260706~d0c6490b28.en.html",
       "sourcePageUrl": "https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html",
@@ -8148,63 +8305,6 @@
           "label": "Stress Testing",
           "keywords": [
             "stress testing"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "governance",
-            "risk culture"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "3c7d55639898d07d",
-      "title": "Subscribe to The Supervision Blog",
-      "summary": "6 July 2026 Streamlining supervision, safeguarding resilience: tangible progress on our reform agenda ECB Banking Supervision is turning its reform agenda into concrete progress: making supervision more efficient, more effective and more risk-based, while continuing to preserve banks’ resilience. Read more 26 June 2026 Simpler guidance, more effective supervision European banking supervision has reviewed over 130 publications to make them more concise and user friendly. Around 40 will be discontinued, others have been revised in a targeted manner, and several are undergoing a more in-depth review, including the guide on governance and risk culture.",
-      "url": "https://www.bankingsupervision.europa.eu/press/blog/html/register.en.html",
-      "link": "https://www.bankingsupervision.europa.eu/press/blog/html/register.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html",
-      "sourceId": "ecb-supervision-blog",
-      "sourceName": "ECB Banking Supervision Blog",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-06T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "governance",
-        "risk culture",
-        "supervision",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
           ]
         },
         {
@@ -9668,41 +9768,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "ba8494a9397dd1a9",
-      "title": "Alternative Liquidity Facility Annual Report 2025/26",
-      "summary": "Our Alternative Liquidity Facility offers a non-interest based deposit facility backed by the Bank to commercial banks that cannot pay or receive interest.",
-      "url": "https://www.bankofengland.co.uk/alternative-liquidity-facility/2026/alf-annual-report-2025-26",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/alternative-liquidity-facility/2026/alf-annual-report-2025-26",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "af02c1fb8d3fad0b",
       "title": "Annual Reports 2026",
       "summary": "We have published several of our Annual Reports.",
@@ -9721,41 +9786,6 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.bankofengland.co.uk/annual-report/annual-reports-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "20663fa3fc464fdf",
-      "title": "Asset Purchase Facility Annual Report 2025/26",
-      "summary": "Our Asset Purchase Facility buys financial assets, such as government bonds, with the aim of improving liquidity in credit markets.",
-      "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2025-26",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2025-26",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
@@ -20387,81 +20417,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "d46982d9ad954295",
-      "title": "Supervising the new normal How do we ensure that supervision remains effective during the crisis, and which aspects will be crucial in determining the shape of the EU banking sector in the medium term? These are the key questions supervisors must now answer, writes Supervisory Board member Kerstin af Jochnick.",
-      "summary": "English 1 July 2020 Clarifying the ECB’s supervisory approach to consolidation As the ECB publishes its draft Guide on consolidation in the banking sector, Supervisory Board member Edouard Fernandez-Bollo explains in his blog post the key aspects of how the ECB assesses consolidation projects involving euro area banks. English 12 May 2020 A pragmatic SREP delivers appropriate supervision for the crisis The 2020 supervisory review takes a pragmatic approach while aiming to maintain an accurate view of banks’ soundness, writes Supervisory Board member Elizabeth McCaul. We focus on how banks manage risks to capital and liquidity, and intend to keep Pillar 2 requirements and guidance stable.",
-      "url": "https://www.bankingsupervision.europa.eu/press/blog/2020/html/ssm.blog200707~47e600a923.en.html",
-      "link": "https://www.bankingsupervision.europa.eu/press/blog/2020/html/ssm.blog200707~47e600a923.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html",
-      "sourceId": "ecb-supervision-blog",
-      "sourceName": "ECB Banking Supervision Blog",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2020-07-07T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Capital Requirements",
-        "Liquidity",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "pillar 2",
-        "liquidity",
-        "board",
-        "supervision",
-        "supervisory",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "pillar 2"
-          ]
-        },
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "supervisory",
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "9f4b5b6613ca0ddc",
       "title": "CEO banned for false and misleading statements made in attempt to buy bank and football club",
       "summary": "Paul Taylor, former CEO of Blue Horizon Asset Management (BHAM) has been fined £489,000 and banned from working in financial services by the FCA. The former managing director of the firm, Esmeralda Toni, has also been fined £121,200 for serious misconduct and banned by the FCA. During his time at BHAM, Mr Taylor made misleading statements and falsified information during 2 separate attempted acquisitions. While attempting to acquire a UK bank, Mr Taylor falsified, or arranged to be falsified, documents claiming to be the owner of a bond portfolio worth approximately €200m. Ms Toni knowingly assisted Mr Taylor by making misleading statements to the bank and by helping falsify the documents.",
@@ -21361,7 +21316,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-10T20:30:55.789Z",
+      "publishedAt": "2026-09-11T10:44:39.231Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21385,7 +21340,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T20:30:55.789Z",
+      "publishedAt": "2026-09-11T10:44:39.231Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21409,7 +21364,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T20:30:55.789Z",
+      "publishedAt": "2026-09-11T10:44:39.231Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21433,7 +21388,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T20:30:55.789Z",
+      "publishedAt": "2026-09-11T10:44:39.231Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21457,7 +21412,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T20:30:55.789Z",
+      "publishedAt": "2026-09-11T10:44:39.231Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21481,7 +21436,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T20:30:55.789Z",
+      "publishedAt": "2026-09-11T10:44:39.231Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21505,7 +21460,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T20:30:55.789Z",
+      "publishedAt": "2026-09-11T10:44:39.231Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21529,7 +21484,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T20:30:55.789Z",
+      "publishedAt": "2026-09-11T10:44:39.231Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21553,7 +21508,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T20:30:55.789Z",
+      "publishedAt": "2026-09-11T10:44:39.231Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21577,7 +21532,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T20:30:55.789Z",
+      "publishedAt": "2026-09-11T10:44:39.231Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21601,7 +21556,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T20:30:55.789Z",
+      "publishedAt": "2026-09-11T10:44:39.231Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21625,7 +21580,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T20:30:55.789Z",
+      "publishedAt": "2026-09-11T10:44:39.231Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21649,7 +21604,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-10T20:30:55.789Z",
+      "publishedAt": "2026-09-11T10:44:39.231Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
