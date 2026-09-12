@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T10:12:07.488Z",
+  "generatedAt": "2026-09-12T20:17:03.619Z",
   "totalPublications": 483,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -492,7 +492,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 21
+      "count": 20
     },
     {
       "topic": "Recovery / Resolution",
@@ -566,7 +566,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 21
+      "count": 20
     },
     {
       "topic": "Recovery / Resolution",
@@ -839,10 +839,6 @@
       "count": 3
     },
     {
-      "keyword": "payment",
-      "count": 3
-    },
-    {
       "keyword": "settlement",
       "count": 3
     },
@@ -904,6 +900,10 @@
     },
     {
       "keyword": "mrel",
+      "count": 2
+    },
+    {
+      "keyword": "payment",
       "count": 2
     },
     {
@@ -1000,6 +1000,55 @@
     }
   ],
   "publications": [
+    {
+      "id": "2d75cb28eafa039e",
+      "title": "Christine Lagarde: Interview with Ouest-France",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-12T20:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "8daa84d615ab89b6",
+      "title": "Christine Lagarde: Europe seen from Normandy",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-12T10:15:00.000Z",
+      "pdfLinks": [
+        "https://www.insee.fr/fr/statistiques/fichier/8610727/nr_cp_2025_inf_151.pdf",
+        "https://drinkcalvados.com/wp-content/uploads/2026/03/press-release-calvados-sales-2025.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "6bc0d94ccb6dc207",
       "title": "Philip R. Lane: Outlook for the euro area economy",
@@ -3696,31 +3745,6 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "bc02ce89a95ea5c7",
-      "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-17T09:30:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "dc2362c2330d8654",
       "title": "The AI boom: rational enthusiasm or the next dot-com bubble?",
       "summary": "",
@@ -4016,41 +4040,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "0b575a730b63db75",
-      "title": "Cash remains most widely accepted payment method in euro area",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-13T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "payment"
-      ],
-      "topicMatches": [
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payment"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "9d31e627bbbe642e",
@@ -21298,7 +21287,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-12T10:12:07.488Z",
+      "publishedAt": "2026-09-12T20:17:03.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21322,7 +21311,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T10:12:07.488Z",
+      "publishedAt": "2026-09-12T20:17:03.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21346,7 +21335,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T10:12:07.488Z",
+      "publishedAt": "2026-09-12T20:17:03.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21370,7 +21359,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T10:12:07.488Z",
+      "publishedAt": "2026-09-12T20:17:03.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21394,7 +21383,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T10:12:07.488Z",
+      "publishedAt": "2026-09-12T20:17:03.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21418,7 +21407,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T10:12:07.488Z",
+      "publishedAt": "2026-09-12T20:17:03.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21442,7 +21431,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T10:12:07.488Z",
+      "publishedAt": "2026-09-12T20:17:03.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21466,7 +21455,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T10:12:07.488Z",
+      "publishedAt": "2026-09-12T20:17:03.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21490,7 +21479,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T10:12:07.488Z",
+      "publishedAt": "2026-09-12T20:17:03.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21514,7 +21503,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T10:12:07.488Z",
+      "publishedAt": "2026-09-12T20:17:03.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21538,7 +21527,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T10:12:07.488Z",
+      "publishedAt": "2026-09-12T20:17:03.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21562,7 +21551,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T10:12:07.488Z",
+      "publishedAt": "2026-09-12T20:17:03.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21586,7 +21575,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T10:12:07.488Z",
+      "publishedAt": "2026-09-12T20:17:03.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21599,7 +21588,7 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 113
+      "count": 114
     },
     {
       "updateType": "Rules / Standards / Guidance",
@@ -21611,7 +21600,7 @@
     },
     {
       "updateType": "News",
-      "count": 80
+      "count": 79
     },
     {
       "updateType": "Working Papers / Research",
