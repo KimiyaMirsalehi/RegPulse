@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T20:17:03.619Z",
+  "generatedAt": "2026-09-13T11:11:55.942Z",
   "totalPublications": 483,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -504,7 +504,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "Market Risk",
@@ -578,7 +578,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "Market Risk",
@@ -675,12 +675,12 @@
       "count": 13
     },
     {
-      "keyword": "liquidity",
+      "keyword": "resolution",
       "count": 12
     },
     {
-      "keyword": "resolution",
-      "count": 12
+      "keyword": "liquidity",
+      "count": 11
     },
     {
       "keyword": "operational resilience",
@@ -9771,10 +9771,10 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "20663fa3fc464fdf",
-      "title": "Asset Purchase Facility Annual Report 2025/26",
-      "summary": "Our Asset Purchase Facility buys financial assets, such as government bonds, with the aim of improving liquidity in credit markets.",
-      "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2025-26",
+      "id": "af02c1fb8d3fad0b",
+      "title": "Annual Reports 2026",
+      "summary": "We have published several of our Annual Reports.",
+      "url": "https://www.bankofengland.co.uk/annual-report/annual-reports-2026",
       "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "sourceId": "boe-publications",
@@ -9785,22 +9785,10 @@
       "sourceType": "rss",
       "publishedAt": "2026-06-25T11:00:00.000Z",
       "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2025-26",
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/annual-report/annual-reports-2026",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
@@ -21287,7 +21275,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-12T20:17:03.619Z",
+      "publishedAt": "2026-09-13T11:11:55.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21311,7 +21299,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T20:17:03.619Z",
+      "publishedAt": "2026-09-13T11:11:55.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21335,7 +21323,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T20:17:03.619Z",
+      "publishedAt": "2026-09-13T11:11:55.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21359,7 +21347,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T20:17:03.619Z",
+      "publishedAt": "2026-09-13T11:11:55.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21383,7 +21371,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T20:17:03.619Z",
+      "publishedAt": "2026-09-13T11:11:55.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21407,7 +21395,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T20:17:03.619Z",
+      "publishedAt": "2026-09-13T11:11:55.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21431,7 +21419,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T20:17:03.619Z",
+      "publishedAt": "2026-09-13T11:11:55.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21455,7 +21443,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T20:17:03.619Z",
+      "publishedAt": "2026-09-13T11:11:55.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21479,7 +21467,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T20:17:03.619Z",
+      "publishedAt": "2026-09-13T11:11:55.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21503,7 +21491,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T20:17:03.619Z",
+      "publishedAt": "2026-09-13T11:11:55.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21527,7 +21515,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T20:17:03.619Z",
+      "publishedAt": "2026-09-13T11:11:55.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21551,7 +21539,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T20:17:03.619Z",
+      "publishedAt": "2026-09-13T11:11:55.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21575,7 +21563,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-12T20:17:03.619Z",
+      "publishedAt": "2026-09-13T11:11:55.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
