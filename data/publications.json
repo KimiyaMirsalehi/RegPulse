@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T20:26:03.444Z",
-  "totalPublications": 483,
+  "generatedAt": "2026-09-14T11:58:24.048Z",
+  "totalPublications": 481,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "fallback-parser",
-      "itemCount": 7,
+      "itemCount": 5,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -479,15 +479,15 @@
       "count": 32
     },
     {
+      "topic": "Crypto / Digital Assets",
+      "count": 22
+    },
+    {
       "topic": "Stress Testing",
       "count": 22
     },
     {
       "topic": "Credit Risk",
-      "count": 21
-    },
-    {
-      "topic": "Crypto / Digital Assets",
       "count": 21
     },
     {
@@ -504,7 +504,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 11
+      "count": 13
     },
     {
       "topic": "Market Risk",
@@ -553,15 +553,15 @@
       "count": 32
     },
     {
+      "topic": "Crypto / Digital Assets",
+      "count": 22
+    },
+    {
       "topic": "Stress Testing",
       "count": 22
     },
     {
       "topic": "Credit Risk",
-      "count": 21
-    },
-    {
-      "topic": "Crypto / Digital Assets",
       "count": 21
     },
     {
@@ -578,7 +578,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 11
+      "count": 13
     },
     {
       "topic": "Market Risk",
@@ -671,16 +671,16 @@
       "count": 14
     },
     {
+      "keyword": "liquidity",
+      "count": 13
+    },
+    {
       "keyword": "transparency",
       "count": 13
     },
     {
       "keyword": "resolution",
       "count": 12
-    },
-    {
-      "keyword": "liquidity",
-      "count": 11
     },
     {
       "keyword": "operational resilience",
@@ -811,6 +811,10 @@
       "count": 4
     },
     {
+      "keyword": "stablecoin",
+      "count": 4
+    },
+    {
       "keyword": "aml",
       "count": 3
     },
@@ -843,7 +847,7 @@
       "count": 3
     },
     {
-      "keyword": "stablecoin",
+      "keyword": "stablecoins",
       "count": 3
     },
     {
@@ -913,16 +917,12 @@
     {
       "keyword": "pillar 2",
       "count": 2
-    },
-    {
-      "keyword": "resolution planning",
-      "count": 2
     }
   ],
   "regionSummary": [
     {
       "region": "EU",
-      "count": 274
+      "count": 272
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 82
+      "count": 80
     },
     {
       "institution": "European Banking Authority",
@@ -1000,6 +1000,95 @@
     }
   ],
   "publications": [
+    {
+      "id": "b3aad5f82a0391cf",
+      "title": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-14T09:15:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "34d90a3ff2644f41",
+      "title": "DeFi-ying the Fed? Monetary policy transmission to stablecoin deposit rates",
+      "summary": "Does the Federal Reserve’s monetary policy influence the rates on USD-pegged stablecoins? While major stablecoin issuers do not pay interest, investors can earn returns by depositing stablecoins in Decentralized Finance (DeFi) protocols. We document unusually large and persistent spreads between traditional short-term interest rates and DeFi deposit rates, as well as a weak and unstable transmission of policy rate changes. We show that, in the short run, monetary policy shocks can move stablecoin rates in the opposite direction of policy rates, delaying a convergence that occurs only over the medium run.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3280~503ba7d4b0.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-14T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3280~503ba7d4b0.en.pdf"
+      ],
+      "topics": [
+        "Crypto / Digital Assets"
+      ],
+      "matchedKeywords": [
+        "stablecoin",
+        "stablecoins"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "stablecoin",
+            "stablecoins"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3280~503ba7d4b0.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "36bb4de341b6022b",
+      "title": "Fiscal policy and sectoral spillovers in open-economy HANK",
+      "summary": "Government spending falls disproportionately on non-tradable services. We show empirically that government spending shocks stimulate private consumption along with sizable spillovers to the goods sector and a relative decline in goods prices. We rationalize these findings with a two-sector open-economy HANK model. Uninsurable income risk and precautionary savings lead to a persistent income-driven expansion in private consumption. In the tradable sector, import intensity and limited labor reallocation dampen wage pass-through to prices, matching observed co-movements. The resulting expenditure switching produces a positive tradable output response despite deteriorating net exports.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3279~c0a22d29e1.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-14T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3279~c0a22d29e1.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3279~c0a22d29e1.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "2d75cb28eafa039e",
       "title": "Christine Lagarde: Interview with Ouest-France",
@@ -3602,33 +3691,6 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "da1b127a079cde5c",
-      "title": "Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-19T07:10:00.000Z",
-      "pdfLinks": [
-        "https://edit.centralbank.ie/docs/default-source/publications/research-technical-papers/spending-on-frontline-the-macroeconomic-implications-of-rising-defence-expenditure.pdf?sfvrsn=2f37721a_7",
-        "https://research-and-innovation.ec.europa.eu/document/download/9224c3b4-f529-4b48-b21b-879c442002a2_en?filename=ec_rtd_he-investing-to-shape-our-future.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op395.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "dae7b851f81adbe6",
       "title": "SEC Charges Former Executives With Fraud in Connection With $1.9 Billion Collapse of Subprime Auto Lender Tricolor",
       "summary": "The Securities and Exchange Commission today charged Daniel Chu, Jerome Kollar, and Ameryn Seibold, the former CEO, CFO, and Senior Director of Finance, respectively, at Texas-based Tricolor Holdings, LLC, for their roles in an alleged multi-year scheme…",
@@ -4610,31 +4672,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "0ed99322f5b98ac4",
-      "title": "Macro-at-Risk in the euro area Expert Group on Macro-at-Risk Time-Series Workstream",
-      "summary": "This paper introduces reduced-form macroeconometric tools, emphasising quantile regression models, to identify key risk drivers for the euro area economy and assess risks around the baseline ECB/Eurosystem staff macroeconomic projections for the euro area inflation and growth. The analysis uses a large number of risk factors, going beyond the usual financial factors, employing a sequential selection approach with robustness checks. To support the analysis a MATLAB toolbox (M@RX) was developed, incorporating several quantile regression-based model classes with a novel parametric tilting methodology and a copula approach for transforming predictive densities across frequencies.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op396.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-06T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op396.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op396.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "284c3eeb27c6b9ea",
       "title": "The PRA will hold a captive insurance industry roundtable",
       "summary": "On 17 September 2026, the PRA will host a roundtable in relation to CP11/26 – A tailored regime for captive insurance.",
@@ -4656,29 +4693,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "6a9238ba3ce46e61",
-      "title": "Economic Bulletin Issue 5, 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/html/eb202605.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-06T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/html/eb202605.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "f0da6afe38cd211a",
@@ -5981,56 +5995,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "27c8b1435e14414a",
-      "title": "Let the tree decide: FABART. A non-parametric factor model for nonlinear oil shock transmission",
-      "summary": "The question of how oil supply news shocks transmit to real activity, financial conditions, and regional labor markets is back at the center of the macroeconomic research agenda. To answer this question, we introduce the Factor Bayesian Additive Regression Tree (FABART) model, a nonlinear factor-augmented vector autoregression model, and apply it to a large U. S. macro-financial dataset with externally identified oil supply news shocks. The framework combines a large macro-financial information set with a flexible nonparametric measurement equation, allowing nonlinear transmission to emerge from the data rather than being imposed through a pre-specified functional form.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3265~cde079e4dc.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-30T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3265~cde079e4dc.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3265~cde079e4dc.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "21016c3692d706aa",
-      "title": "Subjective earnings and employment dynamics",
-      "summary": "We develop a new approach to estimating earnings, job, and employment dynamics using subjective expectations data from the NY Fed Survey of Consumer Expectations. These data provide beliefs about future earnings offers and acceptance probabilities, offering direct information on counterfactual outcomes and enabling identification under weaker assumptions. Our framework avoids biases from selection and unobserved heterogeneity that affect models using realized outcomes. First-step fixed-effects regressions identify risk, persistence, and transition effects; second-step GMM recovers the covariance structure of unobserved heterogeneities such as ability, mobility, and match quality.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3264~bcba0c01e5.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-30T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3264~bcba0c01e5.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3264~bcba0c01e5.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "577a18f317d7149f",
@@ -9771,10 +9735,10 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "af02c1fb8d3fad0b",
-      "title": "Annual Reports 2026",
-      "summary": "We have published several of our Annual Reports.",
-      "url": "https://www.bankofengland.co.uk/annual-report/annual-reports-2026",
+      "id": "ba8494a9397dd1a9",
+      "title": "Alternative Liquidity Facility Annual Report 2025/26",
+      "summary": "Our Alternative Liquidity Facility offers a non-interest based deposit facility backed by the Bank to commercial banks that cannot pay or receive interest.",
+      "url": "https://www.bankofengland.co.uk/alternative-liquidity-facility/2026/alf-annual-report-2025-26",
       "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "sourceId": "boe-publications",
@@ -9785,19 +9749,31 @@
       "sourceType": "rss",
       "publishedAt": "2026-06-25T11:00:00.000Z",
       "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/annual-report/annual-reports-2026",
+      "topics": [
+        "Liquidity"
+      ],
+      "matchedKeywords": [
+        "liquidity"
+      ],
+      "topicMatches": [
+        {
+          "id": "liquidity",
+          "label": "Liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/alternative-liquidity-facility/2026/alf-annual-report-2025-26",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "559508ab0749e425",
-      "title": "Bank of England Annual Report and Accounts - 2026",
-      "summary": "The Bank of England and the Prudential Regulation Authority (PRA) publish separate Annual Reports and Accounts. The reports provide information on our activities and finances for the preceding year.",
-      "url": "https://www.bankofengland.co.uk/annual-report/2026",
+      "id": "20663fa3fc464fdf",
+      "title": "Asset Purchase Facility Annual Report 2025/26",
+      "summary": "Our Asset Purchase Facility buys financial assets, such as government bonds, with the aim of improving liquidity in credit markets.",
+      "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2025-26",
       "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "sourceId": "boe-publications",
@@ -9808,10 +9784,22 @@
       "sourceType": "rss",
       "publishedAt": "2026-06-25T11:00:00.000Z",
       "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/annual-report/2026",
+      "topics": [
+        "Liquidity"
+      ],
+      "matchedKeywords": [
+        "liquidity"
+      ],
+      "topicMatches": [
+        {
+          "id": "liquidity",
+          "label": "Liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2025-26",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
@@ -21275,7 +21263,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-13T20:26:03.444Z",
+      "publishedAt": "2026-09-14T11:58:24.048Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21299,7 +21287,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-13T20:26:03.444Z",
+      "publishedAt": "2026-09-14T11:58:24.048Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21323,7 +21311,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-13T20:26:03.444Z",
+      "publishedAt": "2026-09-14T11:58:24.048Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21347,7 +21335,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-13T20:26:03.444Z",
+      "publishedAt": "2026-09-14T11:58:24.048Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21371,7 +21359,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-13T20:26:03.444Z",
+      "publishedAt": "2026-09-14T11:58:24.048Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21395,7 +21383,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-13T20:26:03.444Z",
+      "publishedAt": "2026-09-14T11:58:24.048Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21419,7 +21407,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-13T20:26:03.444Z",
+      "publishedAt": "2026-09-14T11:58:24.048Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21443,7 +21431,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-13T20:26:03.444Z",
+      "publishedAt": "2026-09-14T11:58:24.048Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21467,7 +21455,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-13T20:26:03.444Z",
+      "publishedAt": "2026-09-14T11:58:24.048Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21491,7 +21479,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-13T20:26:03.444Z",
+      "publishedAt": "2026-09-14T11:58:24.048Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21515,7 +21503,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-13T20:26:03.444Z",
+      "publishedAt": "2026-09-14T11:58:24.048Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21539,7 +21527,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-13T20:26:03.444Z",
+      "publishedAt": "2026-09-14T11:58:24.048Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21563,7 +21551,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-13T20:26:03.444Z",
+      "publishedAt": "2026-09-14T11:58:24.048Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21576,7 +21564,7 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 114
+      "count": 113
     },
     {
       "updateType": "Rules / Standards / Guidance",
@@ -21588,19 +21576,19 @@
     },
     {
       "updateType": "News",
-      "count": 79
-    },
-    {
-      "updateType": "Working Papers / Research",
-      "count": 39
+      "count": 80
     },
     {
       "updateType": "Consultations",
       "count": 38
     },
     {
+      "updateType": "Working Papers / Research",
+      "count": 36
+    },
+    {
       "updateType": "Statistics / Data",
-      "count": 19
+      "count": 20
     },
     {
       "updateType": "Source Pages",
