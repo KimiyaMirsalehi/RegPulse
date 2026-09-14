@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T11:58:24.048Z",
+  "generatedAt": "2026-09-14T21:34:32.435Z",
   "totalPublications": 481,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -91,7 +91,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 7,
+      "itemCount": 6,
       "url": "https://www.eba.europa.eu/news-press/news/rss.xml",
       "sourcePageUrl": "https://www.eba.europa.eu/news-press",
       "officialSourcePage": "https://www.eba.europa.eu/news-press",
@@ -104,7 +104,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "extra-html-list-parser",
-      "itemCount": 53,
+      "itemCount": 54,
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
       "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 238
+      "count": 239
     },
     {
       "topic": "Basel / BCBS",
@@ -468,7 +468,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 41
+      "count": 40
     },
     {
       "topic": "Climate / ESG",
@@ -492,11 +492,11 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 20
+      "count": 21
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 20
+      "count": 19
     },
     {
       "topic": "DORA / Operational Resilience",
@@ -504,7 +504,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 13
+      "count": 11
     },
     {
       "topic": "Market Risk",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 238
+      "count": 239
     },
     {
       "topic": "Basel / BCBS",
@@ -542,7 +542,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 41
+      "count": 40
     },
     {
       "topic": "Climate / ESG",
@@ -566,11 +566,11 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 20
+      "count": 21
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 20
+      "count": 19
     },
     {
       "topic": "DORA / Operational Resilience",
@@ -578,7 +578,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 13
+      "count": 11
     },
     {
       "topic": "Market Risk",
@@ -608,7 +608,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 103
+      "count": 102
     },
     {
       "keyword": "board",
@@ -616,11 +616,11 @@
     },
     {
       "keyword": "its",
-      "count": 83
+      "count": 87
     },
     {
       "keyword": "reporting",
-      "count": 41
+      "count": 40
     },
     {
       "keyword": "governance",
@@ -648,7 +648,7 @@
     },
     {
       "keyword": "capital requirements",
-      "count": 22
+      "count": 21
     },
     {
       "keyword": "credit risk",
@@ -656,7 +656,11 @@
     },
     {
       "keyword": "enforcement",
-      "count": 16
+      "count": 15
+    },
+    {
+      "keyword": "payments",
+      "count": 15
     },
     {
       "keyword": "policy statement",
@@ -667,27 +671,23 @@
       "count": 15
     },
     {
-      "keyword": "payments",
-      "count": 14
-    },
-    {
       "keyword": "liquidity",
-      "count": 13
-    },
-    {
-      "keyword": "transparency",
-      "count": 13
-    },
-    {
-      "keyword": "resolution",
-      "count": 12
+      "count": 11
     },
     {
       "keyword": "operational resilience",
       "count": 11
     },
     {
+      "keyword": "resolution",
+      "count": 11
+    },
+    {
       "keyword": "guidelines",
+      "count": 10
+    },
+    {
+      "keyword": "transparency",
       "count": 10
     },
     {
@@ -699,15 +699,11 @@
       "count": 9
     },
     {
-      "keyword": "crypto",
-      "count": 8
-    },
-    {
       "keyword": "disclosure",
-      "count": 8
+      "count": 9
     },
     {
-      "keyword": "fraud",
+      "keyword": "crypto",
       "count": 8
     },
     {
@@ -720,6 +716,10 @@
     },
     {
       "keyword": "crr",
+      "count": 7
+    },
+    {
+      "keyword": "fraud",
       "count": 7
     },
     {
@@ -751,10 +751,6 @@
       "count": 5
     },
     {
-      "keyword": "crd",
-      "count": 5
-    },
-    {
       "keyword": "esg",
       "count": 5
     },
@@ -764,6 +760,10 @@
     },
     {
       "keyword": "nature-related",
+      "count": 5
+    },
+    {
+      "keyword": "own funds",
       "count": 5
     },
     {
@@ -783,7 +783,15 @@
       "count": 5
     },
     {
+      "keyword": "aml",
+      "count": 4
+    },
+    {
       "keyword": "counterparty credit risk",
+      "count": 4
+    },
+    {
+      "keyword": "crd",
       "count": 4
     },
     {
@@ -799,10 +807,6 @@
       "count": 4
     },
     {
-      "keyword": "own funds",
-      "count": 4
-    },
-    {
       "keyword": "recovery plans",
       "count": 4
     },
@@ -813,10 +817,6 @@
     {
       "keyword": "stablecoin",
       "count": 4
-    },
-    {
-      "keyword": "aml",
-      "count": 3
     },
     {
       "keyword": "carbon",
@@ -840,6 +840,10 @@
     },
     {
       "keyword": "mica",
+      "count": 3
+    },
+    {
+      "keyword": "payment",
       "count": 3
     },
     {
@@ -904,10 +908,6 @@
     },
     {
       "keyword": "mrel",
-      "count": 2
-    },
-    {
-      "keyword": "payment",
       "count": 2
     },
     {
@@ -1001,6 +1001,91 @@
   ],
   "publications": [
     {
+      "id": "c47c0f5d62d8ef0d",
+      "title": "SEC Grants Exemptive Relief from Certain Inline XBRL Filing or Submission Requirements",
+      "summary": "The Securities and Exchange Commission issued an order granting exemptive relief from certain Inline XBRL requirements adopted on Dec. 16, 2024. More specifically, the Commission is granting exemptive relief from filing or submitting the following in…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-88-sec-grants-exemptive-relief-certain-inline-xbrl-filing-or-submission-requirements",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-14T16:47:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "xbrl"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "xbrl"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-88-sec-grants-exemptive-relief-certain-inline-xbrl-filing-or-submission-requirements",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "3093cdb6ec9b36d9",
+      "title": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-14T15:15:00.000Z",
+      "pdfLinks": [
+        "https://www.nber.org/system/files/working_papers/w34995/w34995.pdf",
+        "https://commission.europa.eu/system/files/2026-07/Demography_Report_2026.pdf",
+        "https://www.bis.org/publications/bulletin-120-financing-ai-boom-cash-flows-debt.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "cfdc958a9661cbf1",
+      "title": "Piero Cipollone: The future of euro cash: trusted today, designed for tomorrow",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_1~91d3436449.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-14T13:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_1~91d3436449.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "b3aad5f82a0391cf",
       "title": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
       "summary": "",
@@ -1088,6 +1173,59 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "d1fc2fc86d6dc340",
+      "title": "The EBA publishes updated list of validation rules as part of its regular quarterly reporting frameworks update",
+      "summary": "The European Banking Authority (EBA) issued today an updated list of validation rules defined in its reporting frameworks, as part of its regular quarterly review process. The revised package identifies rules that (i) have been deactivated due to inaccuracies or IT-related issues, or (ii) have been reactivated. 9 SEPTEMBER 2026 The EBA responds to the European Commission’s non-adoption of draft amending technical standards on prior permission The EBA acknowledges the European Commission’s non-adoption of the targeted amendments of the Commission Delegated Regulation (EU) No 241/2014 aimed at shortening the application period for reducing own funds and eligible liabilities instruments.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-updated-list-validation-rules-part-its-regular-quarterly-reporting-frameworks-update",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-updated-list-validation-rules-part-its-regular-quarterly-reporting-frameworks-update",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Capital Requirements",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "own funds",
+        "reporting",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "own funds"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "2d75cb28eafa039e",
@@ -1457,7 +1595,7 @@
       "sourceType": "rss",
       "publishedAt": "2026-09-10T20:00:00.000Z",
       "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260910a1.pdf",
+        "https://www.govinfo.gov/content/pkg/FR-2026-09-14/pdf/2026-18766.pdf",
         "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260910a2.pdf"
       ],
       "topics": [
@@ -2159,52 +2297,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "93a9223339d76280",
-      "title": "​Joint Board of Appeal dismisses appeal against the EBA",
-      "summary": "​The Joint Board of Appeal of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) has issued a decision stating that an appeal brought by an individual against the European Banking Authority (EBA) is inadmissible. Pagination Current page 1 Page 2 Page 3 Page 4 Page 5 Page 6 Page 7",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-board-appeal-dismisses-appeal-against-eba",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-board-appeal-dismisses-appeal-against-eba",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/10158b52-0c16-4dd8-bf45-f34c25ba03d1/D%20v%20EBA_Final%20decision.pdf"
-      ],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "board",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "92a22d5b3d62e29c",
@@ -3243,29 +3335,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "e0576bb27527c5fe",
-      "title": "Piero Cipollone: Interview with ilsussidiario.net",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-24T06:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "c232c582098f0ef2",
       "title": "Productivity and inflation dynamics",
       "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
@@ -3314,32 +3383,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "b3e9f9f15f1979c6",
-      "title": "ECB Consumer Expectations Survey results – July 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-21T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/shared/pdf/CES_aggregate_statistics_guide.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op287~ea7eebc23f.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "a53a2ae714ddf0c9",
@@ -4517,7 +4560,7 @@
     {
       "id": "36d18ab90394383f",
       "title": "The EBA amends Guidelines on the definition of default",
-      "summary": "The European Banking Authority (EBA) published today its final Report amending the Guidelines on the application of the definition of default. The Report introduces targeted amendments to better reflect specific aspects of non recourse factoring. It also confirms that the 1% threshold applied to reductions in net present value loss (NPV threshold) in debt restructuring remains appropriate for prudential default recognition. 29 APRIL 2026 The EBA publishes its final Guidelines on supervisory independence The European Banking Authority (EBA) today published its final Guidelines on Supervisory Independence under the Capital Requirements Directive (CRD).",
+      "summary": "The European Banking Authority (EBA) published today its final Report amending the Guidelines on the application of the definition of default. The Report introduces targeted amendments to better reflect specific aspects of non recourse factoring. It also confirms that the 1% threshold applied to reductions in net present value loss (NPV threshold) in debt restructuring remains appropriate for prudential default recognition. Pagination First page Previous page Page 1 Page 2 Current page 3 <",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -4532,31 +4575,18 @@
       "publishedAt": "2026-08-07T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
-        "Capital Requirements",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
-        "capital requirements",
-        "crd",
-        "supervisory",
         "final report",
         "guidelines",
         "its"
       ],
       "topicMatches": [
         {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital requirements",
-            "crd"
-          ]
-        },
-        {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
           "keywords": [
-            "supervisory",
             "final report",
             "guidelines",
             "its"
@@ -5502,52 +5532,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "2dacb4e5d25ab214",
-      "title": "The EBA-ECB-EIOPA “Data Point Model Alliance” consults on improvements to their data dictionary metamodel to better support statistical and supervisory reporting",
-      "summary": "The Data Point Model Alliance, a joint initiative of the EBA, ECB and EIOPA, is committed to making financial sector statistical and supervisory reporting across the EU simpler, smarter and more proportionate. To facilitate the integration of reporting, they launched today a public consultation on enhancements to their DPM metamodel for two months. They also published naming conventions for a consistent approach to metadata.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-ecb-eiopa-data-point-model-alliance-consults-improvements-their-data-dictionary-metamodel-better",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-31T11:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "reporting",
-        "supervisory reporting",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting",
-            "supervisory reporting"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-ecb-eiopa-data-point-model-alliance-consults-improvements-their-data-dictionary-metamodel-better",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
       "id": "fc6867b147264fbf",
       "title": "Market Participants Survey results - July 2026",
       "summary": "Expectations for monetary policy from experts in UK rates markets.",
@@ -5826,6 +5810,56 @@
       "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "c9f9c5f67d9ec3f3",
+      "title": "The EBA-ECB-EIOPA “Data Point Model Alliance” consults on improvements to their data dictionary metamodel to better support statistical and supervisory reporting",
+      "summary": "The Data Point Model Alliance, a joint initiative of the EBA, ECB and EIOPA, is committed to making financial sector statistical and supervisory reporting across the EU simpler, smarter and more proportionate. To facilitate the integration of reporting, they launched today a public consultation on enhancements to their DPM metamodel for two months. They also published naming conventions for a consistent approach to metadata. 24 JULY 2026 The EBA seeks feedback on the 4.4 draft technical package of its reporting and disclosure framework The European Banking Authority (EBA) today published a draft technical package for version 4.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-ecb-eiopa-data-point-model-alliance-consults-improvements-their-data-dictionary-metamodel-better",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-ecb-eiopa-data-point-model-alliance-consults-improvements-their-data-dictionary-metamodel-better",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-31T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "reporting",
+        "disclosure",
+        "supervisory reporting",
+        "supervisory",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting",
+            "disclosure",
+            "supervisory reporting"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "972eadf1dee6803d",
@@ -6924,7 +6958,7 @@
     {
       "id": "32fcb1e79dc8d0b5",
       "title": "​The EBA consults on amendments to data collection for the 2027 market risk benchmarking exercise",
-      "summary": "​The European Banking Authority (EBA) today launched a consultation on amendments to the Implementing Technical Standards (ITS) governing the benchmarking of internal models and the standardised approach for market risk for the 2027 exercise. The proposed amendments aim to ensure that the benchmarking framework remains aligned with the evolving regulatory framework, while providing institutions and supervisors with adequate time to prepare for the implementation of the upcoming market risk requirements. This consultation runs until 3 September 2026.",
+      "summary": "​The European Banking Authority (EBA) today launched a consultation on amendments to the Implementing Technical Standards (ITS) governing the benchmarking of internal models and the standardised approach for market risk for the 2027 exercise. The proposed amendments aim to ensure that the benchmarking framework remains aligned with the evolving regulatory framework, while providing institutions and supervisors with adequate time to prepare for the implementation of the upcoming market risk requirements. This consultation runs until 3 September 2026. Pagination Current page 1 Page 2 Page 3 Page 4 Page 5 Page 6 </",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-amendments-data-collection-2027-market-risk-benchmarking-exercise",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-amendments-data-collection-2027-market-risk-benchmarking-exercise",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -7109,6 +7143,140 @@
       "topicMatches": [],
       "link": "https://www.sec.gov/newsroom/press-releases/2026-67-sec-proposes-new-e-delivery-approach-make-information-more-readily-accessible-useful-investors",
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "6b16b94171ec0ea0",
+      "title": "​Joint Board of Appeal dismisses appeal against the EBA",
+      "summary": "​The Joint Board of Appeal of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) has issued a decision stating that an appeal brought by an individual against the European Banking Authority (EBA) is inadmissible. 9 JULY 2026 ​The EBA releases the final technical package for its 4.3 reporting framework to support Third-Country Branches reporting and AML Authority risk assessment data collection ​The European Banking Authority (EBA) today published the final technical package for version 4.3 of its reporting framework.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-board-appeal-dismisses-appeal-against-eba",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-board-appeal-dismisses-appeal-against-eba",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "aml",
+        "board",
+        "reporting",
+        "supervisory",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "aml"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "bb1ea4e0d9131d11",
+      "title": "​The EBA releases the final technical package for its 4.3 reporting framework to support Third-Country Branches reporting and AML Authority risk assessment data collection",
+      "summary": "​The European Banking Authority (EBA) today published the final technical package for version 4.3 of its reporting framework. The package implements the new reporting requirements for Third-Country Branches (TCBs) under the Capital Requirements Directive (CRD) and supports the implementation of a risk assessment data collection exercise by the Anti-Money Laundering Authority (AMLA).",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-releases-final-technical-package-its-43-reporting-framework-support-third-country-branches",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-releases-final-technical-package-its-43-reporting-framework-support-third-country-branches",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Capital Requirements",
+        "AML / Financial Crime",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "capital requirements",
+        "crd",
+        "aml",
+        "anti-money laundering",
+        "anti money laundering",
+        "money laundering",
+        "reporting",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital requirements",
+            "crd"
+          ]
+        },
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "aml",
+            "anti-money laundering",
+            "anti money laundering",
+            "money laundering"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
     },
@@ -7484,7 +7652,7 @@
     {
       "id": "2d693931b9e5ebaf",
       "title": "The EBA consults on revised Guidelines on limits on exposures to shadow banking entities under the Capital Requirements Regulation",
-      "summary": "The European Banking Authority (EBA) today launched a public consultation on revised Guidelines on limits on exposures to shadow banking entities carrying out banking activities outside a regulated framework. The revised Guidelines aim to align with the updated EU large-exposure reporting framework and to support sound risk management and governance practices across institutions. 9 APRIL 2026 The EBA publishes list of known data point model issues to enhance transparency and support reporting institutions The European Banking Authority (EBA) today announced that it will begin publishing, on a regular basis, a list of known issues related to the data point model (DPM) framework.",
+      "summary": "The European Banking Authority (EBA) today launched a public consultation on revised Guidelines on limits on exposures to shadow banking entities carrying out banking activities outside a regulated framework. The revised Guidelines aim to align with the updated EU large-exposure reporting framework and to support sound risk management and governance practices across institutions. Pagination First page Previous page Page 1 Page 2 <a href=\"?page=2\" class=\"pager__link\" title=\"",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-revised-guidelines-limits-exposures-shadow-banking-entities-under-capital-requirements",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-revised-guidelines-limits-exposures-shadow-banking-entities-under-capital-requirements",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -7508,7 +7676,6 @@
         "capital requirements",
         "governance",
         "reporting",
-        "transparency",
         "guidelines"
       ],
       "topicMatches": [
@@ -7530,8 +7697,7 @@
           "id": "reporting-disclosure",
           "label": "Reporting / Disclosure",
           "keywords": [
-            "reporting",
-            "transparency"
+            "reporting"
           ]
         },
         {
@@ -7590,76 +7756,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
-    },
-    {
-      "id": "c4cd61659224bc5c",
-      "title": "​The EBA releases the final technical package for its 4.3 reporting framework to support Third-Country Branches reporting and AML Authority risk assessment data collection",
-      "summary": "​The European Banking Authority (EBA) today published the final technical package for version 4.3 of its reporting framework. The package implements the new reporting requirements for Third-Country Branches (TCBs) under the Capital Requirements Directive (CRD) and supports the implementation of a risk assessment data collection exercise by the Anti-Money Laundering Authority (AMLA).",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-releases-final-technical-package-its-43-reporting-framework-support-third-country-branches",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-releases-final-technical-package-its-43-reporting-framework-support-third-country-branches",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-09T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Capital Requirements",
-        "AML / Financial Crime",
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "capital requirements",
-        "crd",
-        "aml",
-        "anti-money laundering",
-        "anti money laundering",
-        "money laundering",
-        "reporting",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital requirements",
-            "crd"
-          ]
-        },
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "aml",
-            "anti-money laundering",
-            "anti money laundering",
-            "money laundering"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "9df882905f8e2f99",
@@ -7885,50 +7981,6 @@
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "31fd005118f53335",
-      "title": "SEC Forms New Retail Fraud Working Group",
-      "summary": "The Securities and Exchange Commission today announced the creation of the Retail Fraud Working Group designed to strengthen the Division of Enforcement’s efforts to identify and combat fraud targeting everyday investors. The Retail Fraud Working Group…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-63-sec-forms-new-retail-fraud-working-group",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-07T14:39:57.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "fraud",
-        "enforcement"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "fraud"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "enforcement"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-63-sec-forms-new-retail-fraud-working-group",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "cf99daba970494f7",
@@ -9735,10 +9787,10 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "ba8494a9397dd1a9",
-      "title": "Alternative Liquidity Facility Annual Report 2025/26",
-      "summary": "Our Alternative Liquidity Facility offers a non-interest based deposit facility backed by the Bank to commercial banks that cannot pay or receive interest.",
-      "url": "https://www.bankofengland.co.uk/alternative-liquidity-facility/2026/alf-annual-report-2025-26",
+      "id": "af02c1fb8d3fad0b",
+      "title": "Annual Reports 2026",
+      "summary": "We have published several of our Annual Reports.",
+      "url": "https://www.bankofengland.co.uk/annual-report/annual-reports-2026",
       "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "sourceId": "boe-publications",
@@ -9749,31 +9801,19 @@
       "sourceType": "rss",
       "publishedAt": "2026-06-25T11:00:00.000Z",
       "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/alternative-liquidity-facility/2026/alf-annual-report-2025-26",
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/annual-report/annual-reports-2026",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "20663fa3fc464fdf",
-      "title": "Asset Purchase Facility Annual Report 2025/26",
-      "summary": "Our Asset Purchase Facility buys financial assets, such as government bonds, with the aim of improving liquidity in credit markets.",
-      "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2025-26",
+      "id": "559508ab0749e425",
+      "title": "Bank of England Annual Report and Accounts - 2026",
+      "summary": "The Bank of England and the Prudential Regulation Authority (PRA) publish separate Annual Reports and Accounts. The reports provide information on our activities and finances for the preceding year.",
+      "url": "https://www.bankofengland.co.uk/annual-report/2026",
       "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "sourceId": "boe-publications",
@@ -9784,22 +9824,10 @@
       "sourceType": "rss",
       "publishedAt": "2026-06-25T11:00:00.000Z",
       "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2025-26",
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/annual-report/2026",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
@@ -10451,7 +10479,7 @@
     {
       "id": "f8b7ac798ce0eec3",
       "title": "Latest EBA MREL dashboard shows that MREL requirements range from 25% to 29% of risk-weighted assets, depending on bank category, while bail-in remains the preferred resolution strategy",
-      "summary": "The European Banking Authority (EBA) today published its latest semi-annual dashboard on the minimum requirement for own funds and eligible liabilities (MREL), providing an update on the state of resolution planning and on the resources that banks are using to meet their requirements. As of December 2025, bail-in remains the preferred resolution strategy in terms of risk-weighed assets (RWAs), while rollover needs reach EUR 231 billion for instruments set to become ineligible over the next 12 months. Pagination First page Previous page Page 1 Current page",
+      "summary": "The European Banking Authority (EBA) today published its latest semi-annual dashboard on the minimum requirement for own funds and eligible liabilities (MREL), providing an update on the state of resolution planning and on the resources that banks are using to meet their requirements. As of December 2025, bail-in remains the preferred resolution strategy in terms of risk-weighed assets (RWAs), while rollover needs reach EUR 231 billion for instruments set to become ineligible over the next 12 months.",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/latest-eba-mrel-dashboard-shows-mrel-requirements-range-25-29-risk-weighted-assets-depending-bank",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/latest-eba-mrel-dashboard-shows-mrel-requirements-range-25-29-risk-weighted-assets-depending-bank",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -12344,7 +12372,7 @@
     {
       "id": "5670c84b039f98b0",
       "title": "The EBA publishes its final Guidelines on supervisory independence",
-      "summary": "The European Banking Authority (EBA) today published its final Guidelines on Supervisory Independence under the Capital Requirements Directive (CRD). The Guidelines further clarify the arrangements that competent authorities should have in place to prevent and manage conflicts of interest involving both their staff and the members of their governance bodies. These arrangements include declarations of interest, limitations on trading of financial instruments and cooling-oof restrictions. Pagination First page Previous page Page 1 Page 2 <span class=\"visuall",
+      "summary": "The European Banking Authority (EBA) today published its final Guidelines on Supervisory Independence under the Capital Requirements Directive (CRD). The Guidelines further clarify the arrangements that competent authorities should have in place to prevent and manage conflicts of interest involving both their staff and the members of their governance bodies. These arrangements include declarations of interest, limitations on trading of financial instruments and cooling-oof restrictions.",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-guidelines-supervisory-independence",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-guidelines-supervisory-independence",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -13491,52 +13519,6 @@
       ],
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "60fb8bb5cc3df6b8",
-      "title": "The EBA publishes list of known data point model issues to enhance transparency and support reporting institutions",
-      "summary": "The European Banking Authority (EBA) today announced that it will begin publishing, on a regular basis, a list of known issues related to the data point model (DPM) framework. The list will include information on available workarounds and indicative timelines for resolution. This initiative is intended to improve transparency and to support reporting institutions by providing a single reference point for recurring technical questions. Pagination First page Previous page Page 1 Page 2 <a href=\"?pag",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-list-known-data-point-model-issues-enhance-transparency-and-support-reporting",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-list-known-data-point-model-issues-enhance-transparency-and-support-reporting",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-04-09T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Reporting / Disclosure",
-        "Recovery / Resolution"
-      ],
-      "matchedKeywords": [
-        "reporting",
-        "transparency",
-        "resolution"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting",
-            "transparency"
-          ]
-        },
-        {
-          "id": "resolution-recovery",
-          "label": "Recovery / Resolution",
-          "keywords": [
-            "resolution"
-          ]
-        }
-      ],
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "8e2094f580ba4f1a",
@@ -20478,52 +20460,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "582f678ef8bba519",
-      "title": "FCA advances package of equity market transparency reforms",
-      "summary": "The FCA has published a package of reforms designed to improve transparency, strengthen access to market-wide information and support confidence in UK equity markets. The package confirms the framework for a future equity consolidated tape, consults on targeted market structure reforms and introduces an interim market activity reporting tool for shares. UK equity markets offer investors a wide choice of trading options. The FCA's assessment is that competition and innovation have delivered significant benefits for market users, helping create liquid and resilient markets. However, greater choice has also increased fragmentation.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-advances-package-equity-market-transparency-reforms",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "reporting",
-        "transparency"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting",
-            "transparency"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-advances-package-equity-market-transparency-reforms",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
       "id": "c9f6b8f3d7ae8958",
       "title": "FCA applying increased scrutiny to Annex 1 firms",
       "summary": "We are concerned about a number of risks among unregulated lenders, safe custody providers, money brokers and financial leasing companies (Annex 1 firms). Firms including unregulated lenders, safe custody providers, money brokers and financial leasing companies, need to be registered with us for anti-money laundering purposes. If you’re carrying out these activities without being registered, you should submit an application for registration. We are concerned about a number of risks we’ve identified among Annex 1 firms, in particular the potential for them to facilitate financial crime. We have seen firms rely too heavily on the financial crime controls of their parent company.",
@@ -20776,59 +20712,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "0fb35bc0c751c5ab",
-      "title": "FCA finalises rules to cut firms' transaction reporting costs by over £100m a year",
-      "summary": "Transaction reporting requirements become smarter, simpler and more proportionate under new rules from the FCA. Transaction reports are critical to the FCA’s ability to detect and investigate market abuse, monitor market functioning and supervise firms effectively. The new rules are designed to ensure the FCA continues to receive accurate, high-quality data while eliminating duplicative or low-value reporting. By removing unnecessary reporting the changes will reduce regulatory burden and support growth and competitiveness. The changes will save firms more than £100m a year.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-finalises-rules-cut-firms-transaction-reporting-costs-over-100m-year",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime",
-        "Governance",
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "market abuse",
-        "conduct",
-        "reporting"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "market abuse"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-finalises-rules-cut-firms-transaction-reporting-costs-over-100m-year",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "96c09b8c10e4edb2",
       "title": "FCA fines and bans former SVS Securities CEO",
       "summary": "The FCA has banned Demetrios Hadjigeorgiou from working in senior management positions in financial services and fined him £56,400. Mr Hadjigeorgiou was the former director and chief executive officer (CEO) of SVS Securities Plc (SVS), a discretionary fund manager. The FCA found that Mr Hadjigeorgiou failed to properly manage SVS and protect its customers’ interests. While he was CEO, the firm invested customers’ money, including pension savings, in high-risk products while receiving significant payments from the companies that issued them. Mr Hadjigeorgiou also failed to challenge a decision that reduced the value of customers’ bond investments by 10% when they decided to sell them.",
@@ -21033,6 +20916,63 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "b86cfdb446123c5a",
+      "title": "Premier Payment Solutions Ltd enters liquidation",
+      "summary": "On 10 September 2026, Premier Payment Solutions Ltd, which traded as PPS Money and MTBS (together, 'PPS Money'), entered liquidation. Bai Cham and Gary Shankland of BTG Begbies Traynor were appointed joint liquidators. PPS Money is registered as a small payment institution under the Payment Services Regulations 2017 (the PSRs). The firm provided money-remittance services, primarily supporting money service businesses to make cross-border payments, including through its network of FCA-registered agents, which are businesses or individuals registered to provide payment services on its behalf. See a list of PPS Money’s current and former agents.",
+      "url": "https://www.fca.org.uk/news/news-stories/premier-payment-solutions-ltd-enters-liquidation",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "its",
+        "payment",
+        "payments",
+        "payment services"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payments",
+            "payment services"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/premier-payment-solutions-ltd-enters-liquidation",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "154ea62cc287d151",
       "title": "T+1 Settlement: are firms ready for 2027?",
       "summary": "Why T+1 matters and what we’ve been doing so farThe UK’s move to a T+1 securities settlement cycle on 11 October 2027 is a fundamental shift in how securities transactions are settled. To prepare, market participants will have to rapidly speed up their post-trade processes, including automating their operations as appropriate. We’ve found that some are more ready than others – and some have a lot to do to meet deadlines, and our expectations. Participants should view T+1 as an opportunity. It will make the UK market more efficient and reduce risk – ultimately freeing up funds for investment. Our work on the T+1 transition is helping support growth in the UK financial market.",
@@ -21214,6 +21154,41 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "9592a2c7354dc76f",
+      "title": "Upper Tribunal upholds Crispin Odey ban",
+      "summary": "Crispin Odey’s ban from the financial services industry has been upheld by the Upper Tribunal, which found he lacked integrity. Mr Odey was the founder and majority owner of Odey Asset Management (OAM). He faced an internal disciplinary process for breaching a final written warning relating to repeated and persistent inappropriate behaviour towards female employees. In response, Mr Odey bullied and threatened his executive directors. He then twice dismissed OAM’s executive committee (ExCo) when they did not give in to his improper pressure. Mr Odey was only willing to answer to a governing body that would make a decision he agreed with, which was not to sack him.",
+      "url": "https://www.fca.org.uk/news/press-releases/upper-tribunal-upholds-crispin-odey-ban",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/upper-tribunal-upholds-crispin-odey-ban",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "bb35359995996060",
       "title": "Young investors trust AI more than TV or celebrities",
       "summary": "Four in 5 less experienced investors have used AI for help with investing – and around two-thirds report doing so occasionally or regularly. New research focused on 18- to 40-year-olds who own or are considering investments showed that 56% trust AI tools, more than TV and radio (47%), press (46%) or social media influencers (29%). And people are getting more comfortable, with two-thirds expecting to lean on AI even more over the next year. But the research from the FCA also revealed that these investors may be misunderstanding the level of protection if they rely on AI to support their investing decisions:Almost half (44%) mistakenly believe AI-generated financial information is regulated.",
@@ -21263,7 +21238,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-14T11:58:24.048Z",
+      "publishedAt": "2026-09-14T21:34:32.435Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21287,7 +21262,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T11:58:24.048Z",
+      "publishedAt": "2026-09-14T21:34:32.435Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21311,7 +21286,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T11:58:24.048Z",
+      "publishedAt": "2026-09-14T21:34:32.435Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21335,7 +21310,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T11:58:24.048Z",
+      "publishedAt": "2026-09-14T21:34:32.435Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21359,7 +21334,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T11:58:24.048Z",
+      "publishedAt": "2026-09-14T21:34:32.435Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21383,7 +21358,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T11:58:24.048Z",
+      "publishedAt": "2026-09-14T21:34:32.435Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21407,7 +21382,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T11:58:24.048Z",
+      "publishedAt": "2026-09-14T21:34:32.435Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21431,7 +21406,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T11:58:24.048Z",
+      "publishedAt": "2026-09-14T21:34:32.435Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21455,7 +21430,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T11:58:24.048Z",
+      "publishedAt": "2026-09-14T21:34:32.435Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21479,7 +21454,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T11:58:24.048Z",
+      "publishedAt": "2026-09-14T21:34:32.435Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21503,7 +21478,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T11:58:24.048Z",
+      "publishedAt": "2026-09-14T21:34:32.435Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21527,7 +21502,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T11:58:24.048Z",
+      "publishedAt": "2026-09-14T21:34:32.435Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21551,7 +21526,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T11:58:24.048Z",
+      "publishedAt": "2026-09-14T21:34:32.435Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21564,23 +21539,23 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 113
+      "count": 112
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 92
-    },
-    {
-      "updateType": "Publications / Reports",
-      "count": 81
+      "count": 94
     },
     {
       "updateType": "News",
+      "count": 81
+    },
+    {
+      "updateType": "Publications / Reports",
       "count": 80
     },
     {
       "updateType": "Consultations",
-      "count": 38
+      "count": 37
     },
     {
       "updateType": "Working Papers / Research",
