@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T11:14:55.309Z",
+  "generatedAt": "2026-09-15T20:57:01.810Z",
   "totalPublications": 481,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -504,7 +504,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 11
+      "count": 13
     },
     {
       "topic": "Market Risk",
@@ -578,7 +578,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 11
+      "count": 13
     },
     {
       "topic": "Market Risk",
@@ -672,7 +672,7 @@
     },
     {
       "keyword": "liquidity",
-      "count": 11
+      "count": 13
     },
     {
       "keyword": "operational resilience",
@@ -1000,6 +1000,31 @@
     }
   ],
   "publications": [
+    {
+      "id": "1a6a56d2bda0bb90",
+      "title": "Endogenous monetary policy effectiveness",
+      "summary": "How does the effectiveness of monetary policy vary over the policy cycle? Do tightenings and loosenings have symmetric effects on the macroeconomy? This paper addresses these questions using a nonlinear empirical framework that allows financial exposure to evolve endogenously in response to macroeconomic conditions and monetary policy changes. We provide new evidence on how monetary policy effectiveness varies over the policy cycle and across economic states.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3281~01820b53fd.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-15T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3281~01820b53fd.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3281~01820b53fd.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "80f061a5c33ba885",
       "title": "Why Europeans save differently — and how to put those savings to work",
@@ -1541,8 +1566,8 @@
       "sourceType": "rss",
       "publishedAt": "2026-09-11T14:00:00.000Z",
       "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260911a1.pdf",
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260911a2.pdf",
+        "https://www.govinfo.gov/content/pkg/FR-2026-09-15/pdf/2026-18859.pdf",
+        "https://www.govinfo.gov/content/pkg/FR-2026-09-15/pdf/2026-18852.pdf",
         "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260911a3.pdf",
         "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260911a4.pdf"
       ],
@@ -4852,14 +4877,14 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "cce56b96082e5711",
+      "id": "c3ad8f7f4c0378f4",
       "title": "Financial frictions across the production network and the transmission of monetary policy",
       "summary": "We show that monetary policy transmission is shaped not only by a sector’s own financial frictions but also by those prevailing in the broader production network. The latter, indirect frictions amplify the output and price effects of monetary policy and empirically dominate the direct ones. The amplification results from a downstream demand channel, as customers respond to tighter policy by purchasing fewer inputs. This is partly offset by an upstream cost channel, reflecting that suppliers raise prices to protect margins when financing costs rise. We inspect the mechanism in a multi-sector general equilibrium model with input-output linkages and working-capital constraints.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3271~99b37f6d9a.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -4872,9 +4897,9 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3271~99b37f6d9a.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "284c3eeb27c6b9ea",
@@ -5421,31 +5446,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "f1bd9cf96d4e5ee5",
-      "title": "The transmission of shocks across sectors and the dynamics of sectoral prices",
-      "summary": "This paper studies the dynamics of U. S. sectoral producer prices in a large Bayesian Vector Auto Regression (BVAR) model where the Input-Output (IO) matrix is used to structure their long-run relationships. The model provides evidence of a sectoral spillover channel in driving headline inflation without imposing such a mechanism in the model’s structure. Forecasts of headline inflation have accuracy comparable to the Survey of Professional Forecasters’ and greater than those generated by a standard BVAR with the Minnesota prior, confirming that the IO matrix long-run prior conveys relevant information about the data.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3266~e62e35205b.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-03T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3266~e62e35205b.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3266~e62e35205b.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "d5c7c99d268fd00f",
@@ -9939,10 +9939,10 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "af02c1fb8d3fad0b",
-      "title": "Annual Reports 2026",
-      "summary": "We have published several of our Annual Reports.",
-      "url": "https://www.bankofengland.co.uk/annual-report/annual-reports-2026",
+      "id": "ba8494a9397dd1a9",
+      "title": "Alternative Liquidity Facility Annual Report 2025/26",
+      "summary": "Our Alternative Liquidity Facility offers a non-interest based deposit facility backed by the Bank to commercial banks that cannot pay or receive interest.",
+      "url": "https://www.bankofengland.co.uk/alternative-liquidity-facility/2026/alf-annual-report-2025-26",
       "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "sourceId": "boe-publications",
@@ -9953,19 +9953,31 @@
       "sourceType": "rss",
       "publishedAt": "2026-06-25T11:00:00.000Z",
       "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/annual-report/annual-reports-2026",
+      "topics": [
+        "Liquidity"
+      ],
+      "matchedKeywords": [
+        "liquidity"
+      ],
+      "topicMatches": [
+        {
+          "id": "liquidity",
+          "label": "Liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/alternative-liquidity-facility/2026/alf-annual-report-2025-26",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "559508ab0749e425",
-      "title": "Bank of England Annual Report and Accounts - 2026",
-      "summary": "The Bank of England and the Prudential Regulation Authority (PRA) publish separate Annual Reports and Accounts. The reports provide information on our activities and finances for the preceding year.",
-      "url": "https://www.bankofengland.co.uk/annual-report/2026",
+      "id": "20663fa3fc464fdf",
+      "title": "Asset Purchase Facility Annual Report 2025/26",
+      "summary": "Our Asset Purchase Facility buys financial assets, such as government bonds, with the aim of improving liquidity in credit markets.",
+      "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2025-26",
       "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
       "officialSourcePage": "https://www.bankofengland.co.uk/rss",
       "sourceId": "boe-publications",
@@ -9976,10 +9988,22 @@
       "sourceType": "rss",
       "publishedAt": "2026-06-25T11:00:00.000Z",
       "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/annual-report/2026",
+      "topics": [
+        "Liquidity"
+      ],
+      "matchedKeywords": [
+        "liquidity"
+      ],
+      "topicMatches": [
+        {
+          "id": "liquidity",
+          "label": "Liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2025-26",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
@@ -21256,7 +21280,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-15T11:14:55.309Z",
+      "publishedAt": "2026-09-15T20:57:01.810Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21280,7 +21304,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-15T11:14:55.309Z",
+      "publishedAt": "2026-09-15T20:57:01.810Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21304,7 +21328,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-15T11:14:55.309Z",
+      "publishedAt": "2026-09-15T20:57:01.810Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21328,7 +21352,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-15T11:14:55.309Z",
+      "publishedAt": "2026-09-15T20:57:01.810Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21352,7 +21376,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-15T11:14:55.309Z",
+      "publishedAt": "2026-09-15T20:57:01.810Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21376,7 +21400,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-15T11:14:55.309Z",
+      "publishedAt": "2026-09-15T20:57:01.810Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21400,7 +21424,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-15T11:14:55.309Z",
+      "publishedAt": "2026-09-15T20:57:01.810Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21424,7 +21448,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-15T11:14:55.309Z",
+      "publishedAt": "2026-09-15T20:57:01.810Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21448,7 +21472,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-15T11:14:55.309Z",
+      "publishedAt": "2026-09-15T20:57:01.810Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21472,7 +21496,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-15T11:14:55.309Z",
+      "publishedAt": "2026-09-15T20:57:01.810Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21496,7 +21520,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-15T11:14:55.309Z",
+      "publishedAt": "2026-09-15T20:57:01.810Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21520,7 +21544,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-15T11:14:55.309Z",
+      "publishedAt": "2026-09-15T20:57:01.810Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21544,7 +21568,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-15T11:14:55.309Z",
+      "publishedAt": "2026-09-15T20:57:01.810Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
