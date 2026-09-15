@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T21:34:32.435Z",
+  "generatedAt": "2026-09-15T11:14:55.309Z",
   "totalPublications": 481,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -608,7 +608,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 102
+      "count": 103
     },
     {
       "keyword": "board",
@@ -847,6 +847,10 @@
       "count": 3
     },
     {
+      "keyword": "senior management",
+      "count": 3
+    },
+    {
       "keyword": "settlement",
       "count": 3
     },
@@ -912,10 +916,6 @@
     },
     {
       "keyword": "pillar 1",
-      "count": 2
-    },
-    {
-      "keyword": "pillar 2",
       "count": 2
     }
   ],
@@ -1000,6 +1000,185 @@
     }
   ],
   "publications": [
+    {
+      "id": "80f061a5c33ba885",
+      "title": "Why Europeans save differently — and how to put those savings to work",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260915~dacebb4a6f.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-blog",
+      "sourceName": "ECB Blog",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-15T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpsps/ecb.sps37~433920127f.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3239~efed05d5c7.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260915~dacebb4a6f.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "8a727947ea8e590b",
+      "title": "Claudia Buch: Banking regulators, supervisors and their watchers",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260915~7a1e0812d2.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-15T08:15:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op387.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3233~9e3ea8a772.en.pdf",
+        "https://www.imf.org/en/-/media/files/publications/cr/2025/english/1eurea2025002.pdf",
+        "https://www.ebf.eu/wp-content/uploads/2026/04/EBF-Response-to-EC-Consultation-on-Competitiveness-of-EU-Banking-Sector_April2026.pdf",
+        "https://finance.ec.europa.eu/document/download/a45302ec-c3bd-496e-a605-8342893ac64f_en?filename=fsug-opinions-260417-eu-banking-sector-competitiveness_en.pdf",
+        "https://commission.europa.eu/document/download/2cc9f5a1-9d9a-4d60-adfd-1cbaf330b868_en?filename=rsb_op_fc_sup_report_en.pdf",
+        "https://www.eba.europa.eu/sites/default/files/documents/10180/1359456/602d5c61-b501-4df9-8c89-71e32ab1bf84/EBA-Op-2016-04%20%20Report%20on%20SMEs%20and%20SME%20supporting%20factor.pdf",
+        "https://www.eba.europa.eu/sites/default/files/document_library/Publications/Reports/2022/1042869/Report%20on%20the%20application%20of%20the%20Infrastructure%20Supporting%20Factor.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op376.en.pdf?3fb16ecd325fcf059a06ab56da8ce288",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2937~7e22f4dc25.en.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/events/2023/september/the-links-between-prudential-regulation-competitiveness-and-growth.pdf",
+        "https://www.europarl.europa.eu/RegData/etudes/STUD/2025/764188/ECTI_STU(2025)764188_EN.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260915~7a1e0812d2.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "49d512b6bdb9a1af",
+      "title": "ECB publishes supervisory banking statistics on significant institutions for the second quarter of 2026",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260915~7917ca1416.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-15T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisorybankingstatistics_second_quarter_2026_202609.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260915~7917ca1416.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "ccab2ec7350b9573",
+      "title": "Supervisory Banking Statistics for significant institutions - Second quarter 2026",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisorybankingstatistics_second_quarter_2026_202609.en.pdf",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-publications",
+      "sourceName": "ECB Banking Supervision Publications",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-15T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisorybankingstatistics_second_quarter_2026_202609.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisorybankingstatistics_second_quarter_2026_202609.en.pdf",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
     {
       "id": "c47c0f5d62d8ef0d",
       "title": "SEC Grants Exemptive Relief from Certain Inline XBRL Filing or Submission Requirements",
@@ -4019,9 +4198,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-08-14T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2025-09/ESMA65-955014868-14991_CODER_Weekly_Position_Data_Reporting_Instructions.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Reporting / Disclosure"
       ],
@@ -4091,9 +4268,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-08-13T15:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20260813a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance",
         "Supervision / Enforcement"
@@ -7627,29 +7802,6 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "69161d0baae8b596",
-      "title": "Still fit for purpose? Upgrading our economic models for an age of uncertainty",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260710~f3f1759bba.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-blog",
-      "sourceName": "ECB Blog",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-10T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260710~f3f1759bba.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "2d693931b9e5ebaf",
       "title": "The EBA consults on revised Guidelines on limits on exposures to shadow banking entities under the Capital Requirements Regulation",
       "summary": "The European Banking Authority (EBA) today launched a public consultation on revised Guidelines on limits on exposures to shadow banking entities carrying out banking activities outside a regulated framework. The revised Guidelines aim to align with the updated EU large-exposure reporting framework and to support sound risk management and governance practices across institutions. Pagination First page Previous page Page 1 Page 2 <a href=\"?page=2\" class=\"pager__link\" title=\"",
@@ -10632,54 +10784,6 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "849c06b88db9abf2",
-      "title": "Supervisory Banking Statistics for significant institutions - First quarter 2026",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisorybankingstatistics_first_quarter_2026_202606.en.pdf",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-publications",
-      "sourceName": "ECB Banking Supervision Publications",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-19T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisorybankingstatistics_first_quarter_2026_202606.en.pdf"
-      ],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisorybankingstatistics_first_quarter_2026_202606.en.pdf",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
-    },
-    {
       "id": "d6ebc416b93b0e72",
       "title": "CP9/26 – Basel 3.1: Adjustments to the internal model approach (IMA) for market risk",
       "summary": "Consultation paper 9/26",
@@ -11133,50 +11237,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "c5ec8d7a6854c6a6",
-      "title": "Sharon Donnery: Trust is the infrastructure: banking supervision in a changing risk landscape",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260611~1b8b1dfe48.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-11T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260611~1b8b1dfe48.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "58ad1e8a8403236c",
       "title": "​The EBA launches early consultation on simplified EU-wide stress test, with climate risk integration",
       "summary": "The European Banking Authority (EBA) published today the draft methodology, templates, and template guidance for the 2027 EU-wide stress test. The 2027 exercise introduces significant simplifications to improve efficiency and risk sensitivity, while preserving the robustness and comparability of results. Key changes include a substantial reduction in data requirements, the alignment of information with harmonised supervisory reporting, and the integration of climate risks into the EU-wide stress test. A total of 63 banks from the EU and Norway, including 47 from the euro area, will participate, covering 75% of the EU banking sector.",
@@ -11241,50 +11301,6 @@
       ],
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "e45145448a5a4109",
-      "title": "Frank Elderson: Interview with Het Financieele Dagblad",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260610_1~9199a15198.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-10T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260610_1~9199a15198.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "6efdb2ce85148003",
@@ -20837,6 +20853,43 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
+      "id": "0cc87d7701a61e2f",
+      "title": "Financial regulator bans former law firm owner from financial services",
+      "summary": "The FCA has banned Nurul Miah, also known as Neil Mia and Neil Miah, from working in financial services. The FCA acted after the Solicitors Regulation Authority (SRA) found that Mr Miah, who was a non-legal manager at Kingly Solicitors Limited, dishonestly caused or allowed more than £28m of client money to be taken from client accounts without permission between April 2019 and July 2020. The SRA also found that more than £10m of client money was missing and had been used by Mr Miah for his own benefit. Mr Miah was approved by the FCA in 2016 to work in senior management roles at an unconnected firm, Oracle Consultants Ltd.",
+      "url": "https://www.fca.org.uk/news/press-releases/financial-regulator-bans-former-law-firm-owner-financial-services",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "senior management",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "senior management",
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/financial-regulator-bans-former-law-firm-owner-financial-services",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "7776cc4b10a69526",
       "title": "Making compliance simpler: opening up the FCA Handbook through our new API",
       "summary": "Firms tell us that complying with our requirements can be a burden. They have to keep up with changes, understand what we expect and embed new practices across multiple systems and teams. All of this takes time and resources. Of course, firms must meet their regulatory responsibilities – but we want to make it as simple as possible. That's why we're launching the FCA Handbook Application Programming Interface (API), so software systems can talk to each other and share information. With the Handbook available in a structured, machine-readable format, firms can access, understand and use our rules more easily. It’s another practical step in being a smarter regulator in a digital world.",
@@ -21075,41 +21128,6 @@
       "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
     },
     {
-      "id": "11856ea04de1e8bc",
-      "title": "Tribunal upholds FCA ban on pair involved in pension transfer advice and reduces fines",
-      "summary": "The Upper Tribunal upheld the FCA's decision to ban Richard Fenech and Heather Dunne from working in financial services. The Tribunal agreed that both acted dishonestly by providing a backdated appointed representative agreement to the FCA. The Tribunal found that Ms Dunne falsely claimed she had given advice to some pension schemes before she had done so. Also, that she had failed to take proper care when giving pension transfer advice. Meanwhile Mr Fenech failed to properly oversee her work. Ms Dunne advised about 92% of her clients to move out of defined benefit pension schemes between April 2015 and June 2017.",
-      "url": "https://www.fca.org.uk/news/press-releases/tribunal-upholds-fca-ban-pair-pensions-advice",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/tribunal-upholds-fca-ban-pair-pensions-advice",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "9c1b253bcbfe0732",
       "title": "Unregulated loan notes and mini-bonds: don't risk your savings on promises of high returns",
       "summary": "These high-risk investments should not usually be advertised widely to the public. We banned the marketing of speculative mini-bonds and loan notes to ordinary retail investors from 1 January 2021. We did this because these are complicated investments, not suitable for most people. The ban means these high-risk investments should not usually be advertised widely to the public. But some unregulated firms may still try to sell them by using legal exemptions. You should be on alert if you’re offered these types of investments by someone not regulated by us. They may ask you to tick a box saying you are a sophisticated, experienced or high-net-worth investor before you can invest.",
@@ -21238,7 +21256,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-14T21:34:32.435Z",
+      "publishedAt": "2026-09-15T11:14:55.309Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21262,7 +21280,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T21:34:32.435Z",
+      "publishedAt": "2026-09-15T11:14:55.309Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21286,7 +21304,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T21:34:32.435Z",
+      "publishedAt": "2026-09-15T11:14:55.309Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21310,7 +21328,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T21:34:32.435Z",
+      "publishedAt": "2026-09-15T11:14:55.309Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21334,7 +21352,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T21:34:32.435Z",
+      "publishedAt": "2026-09-15T11:14:55.309Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21358,7 +21376,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T21:34:32.435Z",
+      "publishedAt": "2026-09-15T11:14:55.309Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21382,7 +21400,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T21:34:32.435Z",
+      "publishedAt": "2026-09-15T11:14:55.309Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21406,7 +21424,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T21:34:32.435Z",
+      "publishedAt": "2026-09-15T11:14:55.309Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21430,7 +21448,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T21:34:32.435Z",
+      "publishedAt": "2026-09-15T11:14:55.309Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21454,7 +21472,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T21:34:32.435Z",
+      "publishedAt": "2026-09-15T11:14:55.309Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21478,7 +21496,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T21:34:32.435Z",
+      "publishedAt": "2026-09-15T11:14:55.309Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21502,7 +21520,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T21:34:32.435Z",
+      "publishedAt": "2026-09-15T11:14:55.309Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21526,7 +21544,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-14T21:34:32.435Z",
+      "publishedAt": "2026-09-15T11:14:55.309Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21539,15 +21557,15 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 112
+      "count": 111
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 94
+      "count": 93
     },
     {
       "updateType": "News",
-      "count": 81
+      "count": 82
     },
     {
       "updateType": "Publications / Reports",
@@ -21563,7 +21581,7 @@
     },
     {
       "updateType": "Statistics / Data",
-      "count": 20
+      "count": 21
     },
     {
       "updateType": "Source Pages",
