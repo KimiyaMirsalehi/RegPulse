@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-16T20:57:51.627Z",
-  "totalPublications": 480,
+  "generatedAt": "2026-09-17T11:06:47.316Z",
+  "totalPublications": 479,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "fallback-parser",
-      "itemCount": 4,
+      "itemCount": 3,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -452,11 +452,11 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 238
+      "count": 240
     },
     {
       "topic": "Basel / BCBS",
-      "count": 135
+      "count": 134
     },
     {
       "topic": "Governance",
@@ -468,7 +468,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 40
+      "count": 41
     },
     {
       "topic": "Climate / ESG",
@@ -476,11 +476,11 @@
     },
     {
       "topic": "Capital Requirements",
-      "count": 31
+      "count": 30
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 22
+      "count": 23
     },
     {
       "topic": "Stress Testing",
@@ -492,7 +492,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 21
+      "count": 20
     },
     {
       "topic": "Recovery / Resolution",
@@ -508,10 +508,6 @@
     },
     {
       "topic": "Market Risk",
-      "count": 10
-    },
-    {
-      "topic": "Model Risk",
       "count": 9
     },
     {
@@ -519,18 +515,22 @@
       "count": 8
     },
     {
+      "topic": "Model Risk",
+      "count": 8
+    },
+    {
       "topic": "Consumer Protection",
-      "count": 7
+      "count": 6
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 238
+      "count": 240
     },
     {
       "topic": "Basel / BCBS",
-      "count": 135
+      "count": 134
     },
     {
       "topic": "Governance",
@@ -542,7 +542,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 40
+      "count": 41
     },
     {
       "topic": "Climate / ESG",
@@ -550,11 +550,11 @@
     },
     {
       "topic": "Capital Requirements",
-      "count": 31
+      "count": 30
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 22
+      "count": 23
     },
     {
       "topic": "Stress Testing",
@@ -566,7 +566,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 21
+      "count": 20
     },
     {
       "topic": "Recovery / Resolution",
@@ -582,10 +582,6 @@
     },
     {
       "topic": "Market Risk",
-      "count": 10
-    },
-    {
-      "topic": "Model Risk",
       "count": 9
     },
     {
@@ -593,8 +589,12 @@
       "count": 8
     },
     {
+      "topic": "Model Risk",
+      "count": 8
+    },
+    {
       "topic": "Consumer Protection",
-      "count": 7
+      "count": 6
     }
   ],
   "keywordCloud": [
@@ -608,7 +608,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 103
+      "count": 102
     },
     {
       "keyword": "board",
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 87
+      "count": 89
     },
     {
       "keyword": "reporting",
@@ -636,11 +636,11 @@
     },
     {
       "keyword": "anti money laundering",
-      "count": 25
+      "count": 24
     },
     {
       "keyword": "anti-money laundering",
-      "count": 25
+      "count": 24
     },
     {
       "keyword": "conduct",
@@ -648,11 +648,15 @@
     },
     {
       "keyword": "capital requirements",
-      "count": 20
+      "count": 19
     },
     {
       "keyword": "credit risk",
       "count": 18
+    },
+    {
+      "keyword": "enforcement",
+      "count": 15
     },
     {
       "keyword": "payments",
@@ -667,10 +671,6 @@
       "count": 15
     },
     {
-      "keyword": "enforcement",
-      "count": 14
-    },
-    {
       "keyword": "liquidity",
       "count": 13
     },
@@ -683,15 +683,15 @@
       "count": 11
     },
     {
+      "keyword": "crypto",
+      "count": 10
+    },
+    {
       "keyword": "transparency",
       "count": 10
     },
     {
       "keyword": "consultation paper",
-      "count": 9
-    },
-    {
-      "keyword": "crypto",
       "count": 9
     },
     {
@@ -735,10 +735,6 @@
       "count": 6
     },
     {
-      "keyword": "internal models",
-      "count": 6
-    },
-    {
       "keyword": "stress tests",
       "count": 6
     },
@@ -756,6 +752,10 @@
     },
     {
       "keyword": "esg",
+      "count": 5
+    },
+    {
+      "keyword": "internal models",
       "count": 5
     },
     {
@@ -807,6 +807,10 @@
       "count": 4
     },
     {
+      "keyword": "payment",
+      "count": 4
+    },
+    {
       "keyword": "recovery plans",
       "count": 4
     },
@@ -847,23 +851,11 @@
       "count": 3
     },
     {
-      "keyword": "payment",
-      "count": 3
-    },
-    {
       "keyword": "senior management",
       "count": 3
     },
     {
-      "keyword": "settlement",
-      "count": 3
-    },
-    {
       "keyword": "standardised approach",
-      "count": 3
-    },
-    {
-      "keyword": "var",
       "count": 3
     },
     {
@@ -917,12 +909,20 @@
     {
       "keyword": "large language models",
       "count": 2
+    },
+    {
+      "keyword": "mrel",
+      "count": 2
+    },
+    {
+      "keyword": "pillar 1",
+      "count": 2
     }
   ],
   "regionSummary": [
     {
       "region": "EU",
-      "count": 270
+      "count": 269
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 79
+      "count": 78
     },
     {
       "institution": "European Banking Authority",
@@ -1000,6 +1000,56 @@
     }
   ],
   "publications": [
+    {
+      "id": "9cd96b2dc1358aee",
+      "title": "Entropic tilting of forecasts to SPF histograms: analytics & applications",
+      "summary": "We develop a direct approach to incorporating survey density forecasts into model-based predictive distributions. Histogram forecasts from the U. S. Survey of Professional Forecasters (SPF) carry rich nonparametric information about expected outcomes, but existing methods rely on moment-based approximations that discard part of it. We instead tilt entropically to the histogram probabilities themselves, matching them exactly. After reformulating the single-histogram problem, we derive a new analytic characterization of the multiple-histogram case, solved by Iterative Proportional Fitting and applicable to simulated densities from essentially any model.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3284~c350fd075f.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-17T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3284~c350fd075f.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3284~c350fd075f.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "db94233ee0ef981e",
+      "title": "Measuring sentiment news with transformer-based language models",
+      "summary": "Measuring sentiment from financial news is a central task in economics and finance, yet most existing indicators rely on dictionary-based approaches that infer sentiment from word counts and only partially capture context, negation, and semantic structure. This paper proposes a framework for constructing daily news mood indices using transformer-based language models and evaluates whether they better represent sentiment than dictionary-based alternatives. Using 143,755 financial news articles from Factiva, we classify sentiment at the sentence level with FinBERT and aggregate these predictions into article-level and daily sentiment measures through alternative normalization schemes.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3283~df0633dfd3.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-17T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3283~df0633dfd3.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3283~df0633dfd3.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "73f631c7bd37cae3",
       "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
@@ -4975,14 +5025,14 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "d724e906552cbe2c",
+      "id": "5221b17856024e65",
       "title": "Monetary policy and the rigidity of firm employment expectations",
       "summary": "This paper examines how monetary policy announcements affect firms’ employment expectations. Using German survey data, we combine high-frequency monetary policy surprises with survey response dates to identify the immediate and dynamic effects of monetary policy on firm-level expectations and subsequent employment. Contractionary shocks lead firms to revise employment plans downward immediately and persistently, eventually reducing employment growth. Initially, hiring plans are reduced, while layoffs increase later. Production expectations adjust twice as often but revert faster, consistent with greater labour market rigidity.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -4995,34 +5045,9 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "06d97ce6d5572f72",
-      "title": "Prohibition of monetary financing: an economic perspective",
-      "summary": "This paper analyses the European prohibition of monetary financing from an economic perspective. The prohibition seeks to safeguard central bank independence in setting monetary policy to maintain price stability, and to preserve fiscal discipline, thereby preventing monetary policy from becoming constrained or hindered by fiscal policies. Imposing a prohibition on financing public deficits helps to ensure a clear separation of responsibilities between monetary policy and fiscal policy and is consistent with a range of macroeconomic theories, including monetarism and the fiscal theory of the price level.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op397.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-10T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op397.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op397.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "eb9cad94ac778204",
@@ -5250,43 +5275,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "507bb6b6e77d1bee",
-      "title": "Forecasting the euro area job vacancy rate with earnings calls data",
-      "summary": "We analyse whether textual information extracted from firms’ earnings calls can improve forecasts of the euro area job vacancy rate. Using transcripts from euro area headquartered firms, we construct a monthly indicator of labour demand based on keywords related to labour market pressures and include it into a mixed frequency Bayesian VAR alongside standard hard and soft indicators. A pseudo–real-time evaluation shows that earnings calls provide timely and valuable signals for tracking vacancy dynamics.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3269~2e2e110338.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3269~2e2e110338.en.pdf"
-      ],
-      "topics": [
-        "Market Risk"
-      ],
-      "matchedKeywords": [
-        "var"
-      ],
-      "topicMatches": [
-        {
-          "id": "market-risk",
-          "label": "Market Risk",
-          "keywords": [
-            "var"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3269~2e2e110338.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "9c91c740febe80fe",
@@ -5519,74 +5507,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "3b932335718e9c07",
-      "title": "Severity over quantity. Drivers of supervisory capital add-ons in internal ratings-based models",
-      "summary": "Banks use their internal models to estimate capital requirements in a risk-sensitive way, subject to a set of rules laid down in banking regulation. However, these models are not flawless as the usage of models suffers from imperfections, such as oversimplifications or wrong assumptions. As a result, risks may be underestimated. This is particularly troublesome, where models are used to assess risks to banks’ solvency. In this paper we address an important gap in the literature with regard to such model risk. We find that a small set of high severity deficiencies in models is responsible for the majority of the counterfactual RWA burden imposed by supervisory capital add-ons.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3268~2149ee18e6.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-04T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3268~2149ee18e6.en.pdf"
-      ],
-      "topics": [
-        "Basel / BCBS",
-        "Capital Requirements",
-        "Model Risk",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "internal ratings-based",
-        "capital requirements",
-        "rwa",
-        "model risk",
-        "internal models",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "internal ratings-based"
-          ]
-        },
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital requirements",
-            "rwa"
-          ]
-        },
-        {
-          "id": "model-risk",
-          "label": "Model Risk",
-          "keywords": [
-            "model risk",
-            "internal models"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3268~2149ee18e6.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "46c9d255e86f9859",
@@ -20296,10 +20216,10 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "9f4b5b6613ca0ddc",
-      "title": "CEO banned for false and misleading statements made in attempt to buy bank and football club",
-      "summary": "Paul Taylor, former CEO of Blue Horizon Asset Management (BHAM) has been fined £489,000 and banned from working in financial services by the FCA. The former managing director of the firm, Esmeralda Toni, has also been fined £121,200 for serious misconduct and banned by the FCA. During his time at BHAM, Mr Taylor made misleading statements and falsified information during 2 separate attempted acquisitions. While attempting to acquire a UK bank, Mr Taylor falsified, or arranged to be falsified, documents claiming to be the owner of a bond portfolio worth approximately €200m. Ms Toni knowingly assisted Mr Taylor by making misleading statements to the bank and by helping falsify the documents.",
-      "url": "https://www.fca.org.uk/news/press-releases/ceo-banned-false-misleading-statements-attempt-buy-bank-football-club",
+      "id": "f0ea1308f7945c3b",
+      "title": "Better outcomes begin when payment firms understand customers’ needs",
+      "summary": "During our review of consumer vulnerability, we saw how relatively simple changes can make a real difference. One payments provider serving small business customers found that some customers were struggling to set up and manage their accounts because of limited IT literacy. The firm responded by arranging callback support to help customers set up their accounts. As a result, customers were able to manage their accounts successfully, without needing to invest in expensive new systems or roll out elaborate new processes.",
+      "url": "https://www.fca.org.uk/news/blogs/better-outcomes-payment-firms-understand-customer-needs",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -20311,10 +20231,13 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
-        "Governance"
+        "Governance",
+        "Payments / Open Finance"
       ],
       "matchedKeywords": [
-        "conduct"
+        "conduct",
+        "payment",
+        "payments"
       ],
       "topicMatches": [
         {
@@ -20323,12 +20246,20 @@
           "keywords": [
             "conduct"
           ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payments"
+          ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/press-releases/ceo-banned-false-misleading-statements-attempt-buy-bank-football-club",
+      "link": "https://www.fca.org.uk/news/blogs/better-outcomes-payment-firms-understand-customer-needs",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "80497819a1bcedac",
@@ -20469,10 +20400,10 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "c9f6b8f3d7ae8958",
-      "title": "FCA applying increased scrutiny to Annex 1 firms",
-      "summary": "We are concerned about a number of risks among unregulated lenders, safe custody providers, money brokers and financial leasing companies (Annex 1 firms). Firms including unregulated lenders, safe custody providers, money brokers and financial leasing companies, need to be registered with us for anti-money laundering purposes. If you’re carrying out these activities without being registered, you should submit an application for registration. We are concerned about a number of risks we’ve identified among Annex 1 firms, in particular the potential for them to facilitate financial crime. We have seen firms rely too heavily on the financial crime controls of their parent company.",
-      "url": "https://www.fca.org.uk/news/statements/fca-applying-increased-scrutiny-annex-1-firms",
+      "id": "0ca095bb7be2474b",
+      "title": "FCA and partners continues crackdown on illegal crypto trading",
+      "summary": "The FCA and partners have taken further action against illegal peer-to-peer crypto trading in London. The FCA has carried out further operations with partners to disrupt illegal peer-to-peer crypto trading across multiple London locations. Working with HM Revenue & Customs (HMRC) and the Metropolitan Police Service, the FCA targeted 3 premises suspected of illegal peer-to-peer crypto trading. Cease and desist letters were issued at all 3 premises, requiring traders to stop any suspected illegal crypto businesses. Peer-to-peer trading is when individuals buy and sell crypto directly with each other. Anyone doing this by way of business in the UK requires appropriate registration.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-and-partners-continues-crackdown-illegal-crypto-trading",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -20484,25 +20415,19 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
-        "AML / Financial Crime",
+        "Crypto / Digital Assets",
         "Governance"
       ],
       "matchedKeywords": [
-        "anti-money laundering",
-        "anti money laundering",
-        "money laundering",
-        "financial crime",
+        "crypto",
         "conduct"
       ],
       "topicMatches": [
         {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
           "keywords": [
-            "anti-money laundering",
-            "anti money laundering",
-            "money laundering",
-            "financial crime"
+            "crypto"
           ]
         },
         {
@@ -20513,7 +20438,7 @@
           ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/statements/fca-applying-increased-scrutiny-annex-1-firms",
+      "link": "https://www.fca.org.uk/news/press-releases/fca-and-partners-continues-crackdown-illegal-crypto-trading",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -20587,59 +20512,6 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "b682658937a6270e",
-      "title": "FCA boosts support for innovative firms as they scale and grow",
-      "summary": "Five fast-growing firms have joined the FCA’s Scale-up Unit, receiving tailored support to help them innovate, navigate regulation and grow sustainably. ClearScore, Modulr, Teya, Urban Jungle and Zilch, spanning payments, consumer finance, credit information and insurtech, are the first firms regulated solely by the FCA to take part. The Scale-up Unit gives firms tailored regulatory support as they develop new products, respond to policy changes and manage the challenges of rapid growth.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-boosts-support-innovative-firms-scale-grow",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Consumer Protection",
-        "Governance",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "consumer finance",
-        "conduct",
-        "payments"
-      ],
-      "topicMatches": [
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "consumer finance"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payments"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-boosts-support-innovative-firms-scale-grow",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "270761008a9b8353",
@@ -20776,6 +20648,107 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
+      "id": "cddaeb3fc8f56a28",
+      "title": "FCA opens investigation into Euro Exchange Securities UK Ltd",
+      "summary": "We are investigating potential offences by Euro Exchange Securities UK Ltd (EES). The reason for opening the investigation is that it appears to us that, between 1 February 2020 and 4 June 2026, EES may have committed offences under the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (the MLRs). EES may have failed to take appropriate steps to identify and assess the risks of money laundering, including in relation to its customers, the countries or geographic areas where it operated, its services, its transactions and delivery channels, and sufficiently document and update that assessment.",
+      "url": "https://www.fca.org.uk/news/enforcement-investigations/fca-opens-investigation-euro-exchange-securities-uk-ltd",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "money laundering",
+        "terrorist financing",
+        "conduct",
+        "investigation",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "money laundering",
+            "terrorist financing"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "investigation",
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/enforcement-investigations/fca-opens-investigation-euro-exchange-securities-uk-ltd",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "9696d6598a82d4ba",
+      "title": "FCA sets out steps to support small businesses' access to finance",
+      "summary": "Small and medium-sized enterprises (SMEs) could access finance more easily after the FCA sets out practical steps to help. An FCA review found no evidence that its regulation is a major barrier for SME access to finance. Many of the challenges identified relate to wider market, information and capability challenges. The review found that the challenges are often greatest for microbusinesses, which make up 95.5% of all SMEs and are less likely to use external finance.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-sets-out-steps-support-small-businesses-access-finance",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-sets-out-steps-support-small-businesses-access-finance",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "d24ac186d41a4ed4",
       "title": "FCA urges young adults to check for unclaimed Child Trust Funds",
       "summary": "Thousands of young adults could be sitting on a forgotten pot of savings as they head back to college and university. As students return to college and university this month, the FCA is urging young adults and parents to check whether they have a forgotten Child Trust Fund waiting to be claimed – potentially worth thousands of pounds. Figures from HMRC show that 760,000 matured Child Trust Funds, worth an average of £2,000 each, remain unclaimed. That means hundreds of thousands of young people could be missing out on money that could go towards new laptops, textbooks, rent deposits or the everyday costs of student life – or setting them up with savings for their future.",
@@ -20809,6 +20782,59 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "88622935ef3f0ba4",
+      "title": "Financial crime: protecting the hive",
+      "summary": "Speech by Steve Smart, executive director of enforcement and market oversight, at the Law Society Economic Crime Conference 2026. IntroductionA few weeks ago, I visited the Bank of England Museum to see a new exhibition on financial crime. I had expected banknotes and gold bars – not bees. Rather than bullion, I saw a working beehive and learnt how colonies defend themselves by reading signals, sharing information and taking collective action. Every bee gets checked at the door. If something’s off, the colony responds – together, and quickly. That same instinct and partnership are what we need to fight financial crime.",
+      "url": "https://www.fca.org.uk/news/speeches/financial-crime-protecting-hive",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "financial crime",
+        "conduct",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "financial crime"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/speeches/financial-crime-protecting-hive",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "0cc87d7701a61e2f",
@@ -20846,41 +20872,6 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "7776cc4b10a69526",
-      "title": "Making compliance simpler: opening up the FCA Handbook through our new API",
-      "summary": "Firms tell us that complying with our requirements can be a burden. They have to keep up with changes, understand what we expect and embed new practices across multiple systems and teams. All of this takes time and resources. Of course, firms must meet their regulatory responsibilities – but we want to make it as simple as possible. That's why we're launching the FCA Handbook Application Programming Interface (API), so software systems can talk to each other and share information. With the Handbook available in a structured, machine-readable format, firms can access, understand and use our rules more easily. It’s another practical step in being a smarter regulator in a digital world.",
-      "url": "https://www.fca.org.uk/news/blogs/making-compliance-simpler-opening-fca-handbook-new-api",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/blogs/making-compliance-simpler-opening-fca-handbook-new-api",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "3ae2bd009687a56c",
@@ -20982,50 +20973,6 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "154ea62cc287d151",
-      "title": "T+1 Settlement: are firms ready for 2027?",
-      "summary": "Why T+1 matters and what we’ve been doing so farThe UK’s move to a T+1 securities settlement cycle on 11 October 2027 is a fundamental shift in how securities transactions are settled. To prepare, market participants will have to rapidly speed up their post-trade processes, including automating their operations as appropriate. We’ve found that some are more ready than others – and some have a lot to do to meet deadlines, and our expectations. Participants should view T+1 as an opportunity. It will make the UK market more efficient and reduce risk – ultimately freeing up funds for investment. Our work on the T+1 transition is helping support growth in the UK financial market.",
-      "url": "https://www.fca.org.uk/news/blogs/t1-settlement-are-firms-ready-2027",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "settlement"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "settlement"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/blogs/t1-settlement-are-firms-ready-2027",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "07a227a94720c454",
@@ -21214,7 +21161,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-16T20:57:51.627Z",
+      "publishedAt": "2026-09-17T11:06:47.316Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21238,7 +21185,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-16T20:57:51.627Z",
+      "publishedAt": "2026-09-17T11:06:47.316Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21262,7 +21209,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-16T20:57:51.627Z",
+      "publishedAt": "2026-09-17T11:06:47.316Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21286,7 +21233,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-16T20:57:51.627Z",
+      "publishedAt": "2026-09-17T11:06:47.316Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21310,7 +21257,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-16T20:57:51.627Z",
+      "publishedAt": "2026-09-17T11:06:47.316Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21334,7 +21281,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-16T20:57:51.627Z",
+      "publishedAt": "2026-09-17T11:06:47.316Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21358,7 +21305,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-16T20:57:51.627Z",
+      "publishedAt": "2026-09-17T11:06:47.316Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21382,7 +21329,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-16T20:57:51.627Z",
+      "publishedAt": "2026-09-17T11:06:47.316Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21406,7 +21353,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-16T20:57:51.627Z",
+      "publishedAt": "2026-09-17T11:06:47.316Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21430,7 +21377,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-16T20:57:51.627Z",
+      "publishedAt": "2026-09-17T11:06:47.316Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21454,7 +21401,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-16T20:57:51.627Z",
+      "publishedAt": "2026-09-17T11:06:47.316Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21478,7 +21425,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-16T20:57:51.627Z",
+      "publishedAt": "2026-09-17T11:06:47.316Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21502,7 +21449,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-16T20:57:51.627Z",
+      "publishedAt": "2026-09-17T11:06:47.316Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21526,7 +21473,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-16T20:57:51.627Z",
+      "publishedAt": "2026-09-17T11:06:47.316Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21539,19 +21486,19 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 112
+      "count": 113
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 94
+      "count": 95
     },
     {
       "updateType": "News",
-      "count": 83
+      "count": 80
     },
     {
       "updateType": "Publications / Reports",
-      "count": 78
+      "count": 79
     },
     {
       "updateType": "Consultations",
@@ -21559,7 +21506,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 35
+      "count": 34
     },
     {
       "updateType": "Statistics / Data",
