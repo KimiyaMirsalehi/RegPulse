@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T11:06:47.316Z",
-  "totalPublications": 479,
+  "generatedAt": "2026-09-17T21:01:31.597Z",
+  "totalPublications": 480,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "fallback-parser",
-      "itemCount": 3,
+      "itemCount": 4,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 240
+      "count": 241
     },
     {
       "topic": "Basel / BCBS",
@@ -504,7 +504,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 13
+      "count": 12
     },
     {
       "topic": "Market Risk",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 240
+      "count": 241
     },
     {
       "topic": "Basel / BCBS",
@@ -578,7 +578,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 13
+      "count": 12
     },
     {
       "topic": "Market Risk",
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 89
+      "count": 90
     },
     {
       "keyword": "reporting",
@@ -672,7 +672,7 @@
     },
     {
       "keyword": "liquidity",
-      "count": 13
+      "count": 12
     },
     {
       "keyword": "operational resilience",
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 269
+      "count": 270
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 78
+      "count": 79
     },
     {
       "institution": "European Banking Authority",
@@ -1001,6 +1001,52 @@
   ],
   "publications": [
     {
+      "id": "f24d104555c50c98",
+      "title": "Bank of England Weekly Report 16 September 2026",
+      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+      "url": "https://www.bankofengland.co.uk/weekly-report/2026/16-september-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-17T14:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/16-september-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "963f7310bd42f2e6",
+      "title": "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
+      "summary": "The Securities and Exchange Commission today issued an order granting temporary, conditional exemptive relief to Tokenized Securities Venues each a “TSV” from the definition of “exchange” in the Securities Exchange Act of 1934 (Exchange Act) to trade…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-17T12:55:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "9cd96b2dc1358aee",
       "title": "Entropic tilting of forecasts to SPF histograms: analytics & applications",
       "summary": "We develop a direct approach to incorporating survey density forecasts into model-based predictive distributions. Histogram forecasts from the U. S. Survey of Professional Forecasters (SPF) carry rich nonparametric information about expected outcomes, but existing methods rely on moment-based approximations that discard part of it. We instead tilt entropically to the histogram probabilities themselves, matching them exactly. After reformulating the single-histogram problem, we derive a new analytic characterization of the multiple-histogram case, solved by Iterative Proportional Fitting and applicable to simulated densities from essentially any model.",
@@ -1049,6 +1095,43 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "62d71a87007ad5b9",
+      "title": "The factors behind output gap revisions",
+      "summary": "Estimates of potential output and the output gap are widely used in monetary, fiscal and structural policy analysis, but they are unobservable and subject to substantial real-time uncertainty. This paper examines revisions to output gap and potential growth estimates produced by the European Commission, the Eurosystem, the International Monetary Fund (IMF) and the Organisation for Economic Co-operation and Development (OECD) for the euro area and its member countries.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op399.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-16T22:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op399.en.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op399.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "73f631c7bd37cae3",
@@ -4301,9 +4384,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-08-19T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/stats/bop/2026/html/ecb.bp260819_annex~5bf6f83ab0.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Payments / Open Finance"
       ],
@@ -4956,14 +5037,14 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "1670d4699317abfb",
+      "id": "9c7f3195a7ff6b12",
       "title": "Can structural reforms unleash private investment?",
       "summary": "This paper examines the impact of labour and product market reforms on private investment across 26 advanced economies from 1975 to 2020. To this end, we combine a narrative database on major structural reforms with local projections and augmented inverse probability weighting. We find that a major labour market reform typically increases the level of real private investment by 5% cumulatively within six years, while a major product market reform yields an impact of 3%. Structural reforms are particularly effective in stimulating private investment when the private sector has access to ample external finance and the rule of law is strong.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3273~292f21a541.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -4976,9 +5057,9 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3273~292f21a541.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "c281a5173014d62e",
@@ -7874,29 +7955,6 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "9df882905f8e2f99",
-      "title": "SEC to Host Virtual Roundtable on Modernizing IPOs and Expanding Access to Public Markets",
-      "summary": "The Securities and Exchange Commission’s Office of the Advocate for Small Business Capital Formation and the Division of Corporation Finance will co-host a livestreamed discussion on Monday, July 13, 2026, at 2 p.m. to re-examine…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-65-sec-host-virtual-roundtable-modernizing-ipos-expanding-access-public-markets",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-08T17:54:26.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-65-sec-host-virtual-roundtable-modernizing-ipos-expanding-access-public-markets",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "0884d39314dc2234",
       "title": "PS17/26 – Regulated fees and levies: Rates proposals 2026/27",
       "summary": "Policy statement 17/26",
@@ -9876,41 +9934,6 @@
       ],
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/pra-secondary-competitiveness-and-growth-objectives-report-2025-26",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "20663fa3fc464fdf",
-      "title": "Asset Purchase Facility Annual Report 2025/26",
-      "summary": "Our Asset Purchase Facility buys financial assets, such as government bonds, with the aim of improving liquidity in credit markets.",
-      "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2025-26",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2025-26",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
     },
@@ -21161,7 +21184,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-17T11:06:47.316Z",
+      "publishedAt": "2026-09-17T21:01:31.597Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21185,7 +21208,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-17T11:06:47.316Z",
+      "publishedAt": "2026-09-17T21:01:31.597Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21209,7 +21232,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-17T11:06:47.316Z",
+      "publishedAt": "2026-09-17T21:01:31.597Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21233,7 +21256,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-17T11:06:47.316Z",
+      "publishedAt": "2026-09-17T21:01:31.597Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21257,7 +21280,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-17T11:06:47.316Z",
+      "publishedAt": "2026-09-17T21:01:31.597Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21281,7 +21304,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-17T11:06:47.316Z",
+      "publishedAt": "2026-09-17T21:01:31.597Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21305,7 +21328,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-17T11:06:47.316Z",
+      "publishedAt": "2026-09-17T21:01:31.597Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21329,7 +21352,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-17T11:06:47.316Z",
+      "publishedAt": "2026-09-17T21:01:31.597Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21353,7 +21376,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-17T11:06:47.316Z",
+      "publishedAt": "2026-09-17T21:01:31.597Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21377,7 +21400,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-17T11:06:47.316Z",
+      "publishedAt": "2026-09-17T21:01:31.597Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21401,7 +21424,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-17T11:06:47.316Z",
+      "publishedAt": "2026-09-17T21:01:31.597Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21425,7 +21448,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-17T11:06:47.316Z",
+      "publishedAt": "2026-09-17T21:01:31.597Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21449,7 +21472,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-17T11:06:47.316Z",
+      "publishedAt": "2026-09-17T21:01:31.597Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21473,7 +21496,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-17T11:06:47.316Z",
+      "publishedAt": "2026-09-17T21:01:31.597Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21506,7 +21529,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 34
+      "count": 35
     },
     {
       "updateType": "Statistics / Data",
