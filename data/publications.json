@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:30:55.781Z",
+  "generatedAt": "2026-09-19T10:26:15.497Z",
   "totalPublications": 479,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 241
+      "count": 243
     },
     {
       "topic": "Basel / BCBS",
@@ -464,7 +464,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 55
+      "count": 56
     },
     {
       "topic": "AML / Financial Crime",
@@ -491,16 +491,16 @@
       "count": 21
     },
     {
+      "topic": "DORA / Operational Resilience",
+      "count": 19
+    },
+    {
       "topic": "Payments / Open Finance",
       "count": 19
     },
     {
       "topic": "Recovery / Resolution",
       "count": 19
-    },
-    {
-      "topic": "DORA / Operational Resilience",
-      "count": 18
     },
     {
       "topic": "Liquidity",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 241
+      "count": 243
     },
     {
       "topic": "Basel / BCBS",
@@ -538,7 +538,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 55
+      "count": 56
     },
     {
       "topic": "AML / Financial Crime",
@@ -565,16 +565,16 @@
       "count": 21
     },
     {
+      "topic": "DORA / Operational Resilience",
+      "count": 19
+    },
+    {
       "topic": "Payments / Open Finance",
       "count": 19
     },
     {
       "topic": "Recovery / Resolution",
       "count": 19
-    },
-    {
-      "topic": "DORA / Operational Resilience",
-      "count": 18
     },
     {
       "topic": "Liquidity",
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 86
+      "count": 88
     },
     {
       "keyword": "reporting",
@@ -675,15 +675,15 @@
       "count": 12
     },
     {
+      "keyword": "operational resilience",
+      "count": 11
+    },
+    {
       "keyword": "resolution",
       "count": 11
     },
     {
       "keyword": "crypto",
-      "count": 10
-    },
-    {
-      "keyword": "operational resilience",
       "count": 10
     },
     {
@@ -695,15 +695,15 @@
       "count": 9
     },
     {
+      "keyword": "disclosure",
+      "count": 9
+    },
+    {
       "keyword": "guidelines",
       "count": 9
     },
     {
       "keyword": "digital euro",
-      "count": 8
-    },
-    {
-      "keyword": "disclosure",
       "count": 8
     },
     {
@@ -887,10 +887,6 @@
       "count": 2
     },
     {
-      "keyword": "emissions",
-      "count": 2
-    },
-    {
       "keyword": "final report",
       "count": 2
     },
@@ -916,6 +912,10 @@
     },
     {
       "keyword": "pillar 2",
+      "count": 2
+    },
+    {
+      "keyword": "resolution planning",
       "count": 2
     }
   ],
@@ -10204,68 +10204,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "559508ab0749e425",
-      "title": "Bank of England Annual Report and Accounts - 2026",
-      "summary": "The Bank of England and the Prudential Regulation Authority (PRA) publish separate Annual Reports and Accounts. The reports provide information on our activities and finances for the preceding year.",
-      "url": "https://www.bankofengland.co.uk/annual-report/2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/annual-report/2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "0c5ea09d8e53ef81",
-      "title": "Bank of England Climate Transition Plan – 2026 update",
-      "summary": "This update to the Bank’s 2023 Climate Transition Plan sets out the progress made to transition the Bank of England’s physical operations to net-zero greenhouse gas emissions by 2040.",
-      "url": "https://www.bankofengland.co.uk/climate-change/bank-of-england-climate-transition-plan-2026-update",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Climate / ESG"
-      ],
-      "matchedKeywords": [
-        "climate",
-        "net zero",
-        "emissions"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate",
-            "net zero",
-            "emissions"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/climate-change/bank-of-england-climate-transition-plan-2026-update",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "1f16161b50c2fbfe",
       "title": "Enforcement Decision Making Committee Report 2025/26",
       "summary": "This Enforcement Decision Making Committee (EDMC) annual report covers the period of 1 March 2025 to 28 February 2026.",
@@ -10392,6 +10330,105 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "e992e46e2b772e38",
+      "title": "Report on the Bank’s official market operations March 2025–February 2026",
+      "summary": "The Bank publishes an annual report covering key developments in its market operations and their usage. This report covers the period March 2025 to end-February 2026.",
+      "url": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "cad03c940a860df2",
+      "title": "The Bank of England's climate-related financial disclosure 2026",
+      "summary": "The Bank has continued to integrate the implications of climate change into the delivery of its mission, across both its policy work and its own operational resilience.",
+      "url": "https://www.bankofengland.co.uk/climate-change/the-bank-of-englands-climate-related-financial-disclosure-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Climate / ESG",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "operational resilience",
+        "climate",
+        "disclosure",
+        "financial disclosure",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "operational resilience"
+          ]
+        },
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure",
+            "financial disclosure"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/climate-change/the-bank-of-englands-climate-related-financial-disclosure-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "2fd52ebdfc4f0ec6",
@@ -21082,7 +21119,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-18T20:30:55.781Z",
+      "publishedAt": "2026-09-19T10:26:15.497Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21106,7 +21143,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-18T20:30:55.781Z",
+      "publishedAt": "2026-09-19T10:26:15.497Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21130,7 +21167,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-18T20:30:55.781Z",
+      "publishedAt": "2026-09-19T10:26:15.497Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21154,7 +21191,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-18T20:30:55.781Z",
+      "publishedAt": "2026-09-19T10:26:15.497Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21178,7 +21215,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-18T20:30:55.781Z",
+      "publishedAt": "2026-09-19T10:26:15.497Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21202,7 +21239,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-18T20:30:55.781Z",
+      "publishedAt": "2026-09-19T10:26:15.497Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21226,7 +21263,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-18T20:30:55.781Z",
+      "publishedAt": "2026-09-19T10:26:15.497Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21250,7 +21287,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-18T20:30:55.781Z",
+      "publishedAt": "2026-09-19T10:26:15.497Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21274,7 +21311,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-18T20:30:55.781Z",
+      "publishedAt": "2026-09-19T10:26:15.497Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21298,7 +21335,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-18T20:30:55.781Z",
+      "publishedAt": "2026-09-19T10:26:15.497Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21322,7 +21359,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-18T20:30:55.781Z",
+      "publishedAt": "2026-09-19T10:26:15.497Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21346,7 +21383,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-18T20:30:55.781Z",
+      "publishedAt": "2026-09-19T10:26:15.497Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21370,7 +21407,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-18T20:30:55.781Z",
+      "publishedAt": "2026-09-19T10:26:15.497Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21387,11 +21424,11 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 94
+      "count": 96
     },
     {
       "updateType": "Publications / Reports",
-      "count": 81
+      "count": 79
     },
     {
       "updateType": "News",
