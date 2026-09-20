@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:09:52.095Z",
+  "generatedAt": "2026-09-20T10:46:04.277Z",
   "totalPublications": 479,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 241
+      "count": 242
     },
     {
       "topic": "Basel / BCBS",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 241
+      "count": 242
     },
     {
       "topic": "Basel / BCBS",
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 86
+      "count": 87
     },
     {
       "keyword": "reporting",
@@ -10204,29 +10204,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "559508ab0749e425",
-      "title": "Bank of England Annual Report and Accounts - 2026",
-      "summary": "The Bank of England and the Prudential Regulation Authority (PRA) publish separate Annual Reports and Accounts. The reports provide information on our activities and finances for the preceding year.",
-      "url": "https://www.bankofengland.co.uk/annual-report/2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/annual-report/2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "0c5ea09d8e53ef81",
       "title": "Bank of England Climate Transition Plan – 2026 update",
       "summary": "This update to the Bank’s 2023 Climate Transition Plan sets out the progress made to transition the Bank of England’s physical operations to net-zero greenhouse gas emissions by 2040.",
@@ -10392,6 +10369,41 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "e992e46e2b772e38",
+      "title": "Report on the Bank’s official market operations March 2025–February 2026",
+      "summary": "The Bank publishes an annual report covering key developments in its market operations and their usage. This report covers the period March 2025 to end-February 2026.",
+      "url": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "2fd52ebdfc4f0ec6",
@@ -21082,7 +21094,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-19T20:09:52.095Z",
+      "publishedAt": "2026-09-20T10:46:04.277Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21106,7 +21118,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-19T20:09:52.095Z",
+      "publishedAt": "2026-09-20T10:46:04.277Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21130,7 +21142,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-19T20:09:52.095Z",
+      "publishedAt": "2026-09-20T10:46:04.277Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21154,7 +21166,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-19T20:09:52.095Z",
+      "publishedAt": "2026-09-20T10:46:04.277Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21178,7 +21190,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-19T20:09:52.095Z",
+      "publishedAt": "2026-09-20T10:46:04.277Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21202,7 +21214,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-19T20:09:52.095Z",
+      "publishedAt": "2026-09-20T10:46:04.277Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21226,7 +21238,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-19T20:09:52.095Z",
+      "publishedAt": "2026-09-20T10:46:04.277Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21250,7 +21262,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-19T20:09:52.095Z",
+      "publishedAt": "2026-09-20T10:46:04.277Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21274,7 +21286,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-19T20:09:52.095Z",
+      "publishedAt": "2026-09-20T10:46:04.277Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21298,7 +21310,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-19T20:09:52.095Z",
+      "publishedAt": "2026-09-20T10:46:04.277Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21322,7 +21334,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-19T20:09:52.095Z",
+      "publishedAt": "2026-09-20T10:46:04.277Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21346,7 +21358,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-19T20:09:52.095Z",
+      "publishedAt": "2026-09-20T10:46:04.277Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21370,7 +21382,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-19T20:09:52.095Z",
+      "publishedAt": "2026-09-20T10:46:04.277Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21387,11 +21399,11 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 94
+      "count": 95
     },
     {
       "updateType": "Publications / Reports",
-      "count": 81
+      "count": 80
     },
     {
       "updateType": "News",
