@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-20T20:24:39.837Z",
-  "totalPublications": 479,
+  "generatedAt": "2026-09-21T12:10:11.943Z",
+  "totalPublications": 482,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -25,12 +25,12 @@
       "institution": "European Central Bank",
       "region": "EU",
       "status": "success",
-      "parserMode": "fallback-parser",
+      "parserMode": "rss-parser",
       "itemCount": 15,
       "url": "https://www.ecb.europa.eu/rss/pub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "message": "Parsed successfully using fallback parser."
+      "message": "Parsed successfully."
     },
     {
       "id": "ecb-governing-council-statements",
@@ -117,7 +117,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "html-list-parser",
-      "itemCount": 1,
+      "itemCount": 2,
       "url": "https://www.eba.europa.eu/publications-and-media/publications",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
       "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "fallback-parser",
-      "itemCount": 2,
+      "itemCount": 4,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 242
+      "count": 246
     },
     {
       "topic": "Basel / BCBS",
@@ -464,23 +464,23 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 55
+      "count": 56
     },
     {
       "topic": "AML / Financial Crime",
       "count": 41
     },
     {
+      "topic": "Capital Requirements",
+      "count": 32
+    },
+    {
       "topic": "Climate / ESG",
       "count": 32
     },
     {
-      "topic": "Capital Requirements",
-      "count": 30
-    },
-    {
       "topic": "Crypto / Digital Assets",
-      "count": 23
+      "count": 24
     },
     {
       "topic": "Credit Risk",
@@ -492,15 +492,15 @@
     },
     {
       "topic": "Payments / Open Finance",
+      "count": 20
+    },
+    {
+      "topic": "DORA / Operational Resilience",
       "count": 19
     },
     {
       "topic": "Recovery / Resolution",
       "count": 19
-    },
-    {
-      "topic": "DORA / Operational Resilience",
-      "count": 18
     },
     {
       "topic": "Liquidity",
@@ -520,13 +520,13 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 5
+      "count": 4
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 242
+      "count": 246
     },
     {
       "topic": "Basel / BCBS",
@@ -538,23 +538,23 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 55
+      "count": 56
     },
     {
       "topic": "AML / Financial Crime",
       "count": 41
     },
     {
+      "topic": "Capital Requirements",
+      "count": 32
+    },
+    {
       "topic": "Climate / ESG",
       "count": 32
     },
     {
-      "topic": "Capital Requirements",
-      "count": 30
-    },
-    {
       "topic": "Crypto / Digital Assets",
-      "count": 23
+      "count": 24
     },
     {
       "topic": "Credit Risk",
@@ -566,15 +566,15 @@
     },
     {
       "topic": "Payments / Open Finance",
+      "count": 20
+    },
+    {
+      "topic": "DORA / Operational Resilience",
       "count": 19
     },
     {
       "topic": "Recovery / Resolution",
       "count": 19
-    },
-    {
-      "topic": "DORA / Operational Resilience",
-      "count": 18
     },
     {
       "topic": "Liquidity",
@@ -594,13 +594,13 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 5
+      "count": 4
     }
   ],
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 133
+      "count": 134
     },
     {
       "keyword": "banking supervision",
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 87
+      "count": 90
     },
     {
       "keyword": "reporting",
@@ -648,7 +648,7 @@
     },
     {
       "keyword": "capital requirements",
-      "count": 19
+      "count": 20
     },
     {
       "keyword": "credit risk",
@@ -675,15 +675,15 @@
       "count": 12
     },
     {
+      "keyword": "operational resilience",
+      "count": 11
+    },
+    {
       "keyword": "resolution",
       "count": 11
     },
     {
       "keyword": "crypto",
-      "count": 10
-    },
-    {
-      "keyword": "operational resilience",
       "count": 10
     },
     {
@@ -695,15 +695,15 @@
       "count": 9
     },
     {
+      "keyword": "disclosure",
+      "count": 9
+    },
+    {
       "keyword": "guidelines",
       "count": 9
     },
     {
       "keyword": "digital euro",
-      "count": 8
-    },
-    {
-      "keyword": "disclosure",
       "count": 8
     },
     {
@@ -717,6 +717,10 @@
     {
       "keyword": "stress testing",
       "count": 7
+    },
+    {
+      "keyword": "own funds",
+      "count": 6
     },
     {
       "keyword": "regulatory technical standards",
@@ -756,10 +760,6 @@
     },
     {
       "keyword": "nature-related",
-      "count": 5
-    },
-    {
-      "keyword": "own funds",
       "count": 5
     },
     {
@@ -807,15 +807,15 @@
       "count": 4
     },
     {
+      "keyword": "mica",
+      "count": 4
+    },
+    {
       "keyword": "payment",
       "count": 4
     },
     {
       "keyword": "recovery plans",
-      "count": 4
-    },
-    {
-      "keyword": "retail investors",
       "count": 4
     },
     {
@@ -829,6 +829,10 @@
     {
       "keyword": "stablecoins",
       "count": 4
+    },
+    {
+      "keyword": "authorisation",
+      "count": 3
     },
     {
       "keyword": "carbon",
@@ -847,7 +851,11 @@
       "count": 3
     },
     {
-      "keyword": "mica",
+      "keyword": "retail investors",
+      "count": 3
+    },
+    {
+      "keyword": "settlement",
       "count": 3
     },
     {
@@ -863,11 +871,11 @@
       "count": 2
     },
     {
-      "keyword": "authorisation",
+      "keyword": "basel iii",
       "count": 2
     },
     {
-      "keyword": "basel iii",
+      "keyword": "capital buffer",
       "count": 2
     },
     {
@@ -884,10 +892,6 @@
     },
     {
       "keyword": "disclosure requirements",
-      "count": 2
-    },
-    {
-      "keyword": "emissions",
       "count": 2
     },
     {
@@ -913,16 +917,12 @@
     {
       "keyword": "pillar 1",
       "count": 2
-    },
-    {
-      "keyword": "pillar 2",
-      "count": 2
     }
   ],
   "regionSummary": [
     {
       "region": "EU",
-      "count": 269
+      "count": 272
     },
     {
       "region": "UK",
@@ -948,11 +948,11 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 78
+      "count": 80
     },
     {
       "institution": "European Banking Authority",
-      "count": 61
+      "count": 62
     },
     {
       "institution": "Bank of England",
@@ -1000,6 +1000,198 @@
     }
   ],
   "publications": [
+    {
+      "id": "88610525fc67a9e8",
+      "title": "Navigating uncertainty: how the Middle East conflict is shaping expectations and coping strategies of firms",
+      "summary": "In the Survey on the Access to Financing of Enterprises (SAFE) for the second quarter of 2026, firms were asked about their exposure to the conflict in the Middle East, how the conflict has influenced their expectations, and what coping strategies they have adopted. It found that exposure to the conflict is higher for small and medium-sized enterprises, for exporters and in the trade sector. The conflict has primarily affected firms’ expectations for nominal variables and demand, while the impact on expectations for other real variables is small.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_02~b97ea4e6de.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_02~b97ea4e6de.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "c7249a203750635a",
+      "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Capital Requirements",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "own funds",
+        "settlement"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "own funds"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "settlement"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "1df1da10202e7ca5",
+      "title": "Eurosystem brings central bank money to tokenised finance",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "cc77d18578ad708d",
+      "title": "Inflation narratives and risk premia",
+      "summary": "Theory suggests inflation risk premia are positive when supply shocks are expected to dominate demand shocks and negative otherwise. We measure these beliefs using demand and supply narratives derived from inflation news via Causality Extraction, which identifies causal relations between inflation and its drivers. Using narrative extracted from inflation news from the Financial Times for the Euro Area and the Wall Street Journal for the US, our key variable, NetDemand, measures the difference in articles attributing inflation to demand versus supply factors. Consistent with asset pricing theory, inflation risk premia are inversely related to NetDemand across maturities in both regions.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3288~e05b586456.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-21T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3288~e05b586456.en.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3288~e05b586456.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "66709c4c14ebe9ee",
+      "title": "The impact of macroprudential policy fragmentation on corporate lending – evidence from a novel indicator",
+      "summary": "We construct a novel bank-level index that quantifies fragmentation in the capital buffer framework faced by euro area banks. Defined at quarterly frequency, it measures fragmentation by looking at the number of simultaneously active buffers, their geographical dispersion, and the frequency of buffer rate changes within the preceding year. The index is orthogonalised with respect to the level of capital requirements, bank size, and the financial cycle, thus controlling for these factors when measuring fragmentation as defined above.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3287~f3a9c1695b.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-21T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3287~f3a9c1695b.en.pdf"
+      ],
+      "topics": [
+        "Capital Requirements"
+      ],
+      "matchedKeywords": [
+        "capital requirements",
+        "capital buffer"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital requirements",
+            "capital buffer"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3287~f3a9c1695b.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "f9782b2fa2c47fea",
+      "title": "The uneven journey of wholesale gas and electricity prices to consumer bills",
+      "summary": "The sharp rise in energy prices in the first half of 2026 evoked memories of the 2021-22 energy price shock. However, the 2026 energy price shock has so far been smaller in scale. This reflects more limited growth in wholesale gas prices and an increased share of electricity generated from renewables, which has dampened the pass-through of gas prices to wholesale electricity prices. The transmission of wholesale prices to retail prices has also changed, becoming somewhat faster for gas prices.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_04~5f026ee8e2.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-21T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op388.en.pdf",
+        "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/24/T3/Files/be2403-art09e.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_04~5f026ee8e2.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "b89bb19d23e135fe",
       "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
@@ -1352,9 +1544,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-09-18T07:42:44.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-09/6b826e13-fecc-4940-ae21-b741cf76eabc/Final%20report%20on%20GL%20on%20third-country%20risk%20management.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "DORA / Operational Resilience",
         "Supervision / Enforcement"
@@ -3146,31 +3336,6 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "0f86bb717ddb44e9",
-      "title": "Philip R. Lane: Diversity at the European Central Bank",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-04T09:10:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "da41cb26531280c6",
       "title": "Monthly Decision Maker Panel data - August 2026",
       "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
@@ -3623,32 +3788,6 @@
       ],
       "link": "https://www.sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme",
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "bb73b3b1cf95d093",
-      "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-01T16:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bis.org/publ/qtrpdf/r_qt2509c.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpdps/ecb.dp24~9b349a69b7.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
     },
@@ -4170,9 +4309,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-08-26T08:37:24.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-08/44997535-0b67-4d01-93eb-79de2c62c028/CP%20on%20RTS%20on%20OpRisk%20management%20framework.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements",
         "Governance",
@@ -4227,9 +4364,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-08-25T18:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/monetary20260825a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -4264,11 +4399,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-08-25T08:32:13.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-08/faa39dd8-20fe-4149-9125-f6a33b68babd/Consultation%20Paper%20on%20draft%20RTS%20on%20reclassification%20of%20IFs%20as%20credit%20institutions.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-08/1fecb739-0e34-4d18-9cdb-63eb267c4aaf/RTS%20on%20threshold%20monitoring%20-%20Annex%201%20-%20Templates.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-08/15d19dc3-291c-4549-930c-2dce08f17517/RTS%20on%20threshold%20monitoring%20-%20Annex%202%20-%20Instructions%20updated%20to%20reflect%20CRD6%20update.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements",
         "Supervision / Enforcement"
@@ -4303,14 +4434,14 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "206b4d547e500832",
+      "id": "509d2df902aad3d5",
       "title": "Learning probability of default and stress testing",
       "summary": "We analyze the Probability of Default (PD) of non-financial corporations in Europe using Random Forests (RF) and assess implications for stress testing the banking sector. To this end, we exploit data on firms’ financial statements (Orbis) and banks’ credit registry (Anacredit). We show that RF displays stronger risk sensitivity than logistic regression in stress testing, shedding new light on the non-linear effect of scenario severity on PD. Moreover, we show how RF-based PD can be used in a network of banks and firms to stress test the banking sector through loan exposures as a key transmission channel of adverse scenarios.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3277~46bd788158.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -4346,19 +4477,19 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3277~46bd788158.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "d92c119c649c9236",
+      "id": "c5440be6e2e268a8",
       "title": "When the Crowd Speaks: AI-based retail investor sentiment indicator with Reddit data",
       "summary": "Retail investors increasingly discuss markets in real time on social media, yet these discussions remain difficult to measure systematically. This paper introduces the Reddit Retail Investor Sentiment Indicator (R-RISI), a high-frequency measure of retail investor sentiment based on Reddit posts from major investing and crypto-related subreddits between 2015 and April 2026. Using ChatGPT 5.1, we classify posts by sentiment and topic and show that large language models provide more accurate labels for informal social media language than widely used finance-specific models such as FinBERT, which tends to over-assign neutral sentiment.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3276~3ba8565a13.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -4403,9 +4534,9 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3276~3ba8565a13.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "c232c582098f0ef2",
@@ -4421,9 +4552,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-08-21T13:01:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/productivity-and-inflation-dynamics.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4648,14 +4777,14 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "5f03279e20f4dd38",
+      "id": "596baba34c0baf40",
       "title": "Banks’ funding structures and pass-through in the euro area",
       "summary": "This paper investigates the interest rate pass-through of monetary policy in the euro area by focusing on the role of banks’ funding structures. We estimate the interest rate pass-through for loans to non-financial corporations using bank-level balance sheet data. In doing so, we interact the response of lending rates with characteristics of the funding structure, and show that banks that rely more on bond issuance than on the money market tend to be less responsive to policy changes.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3274~c747d7b2d0.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -4668,19 +4797,19 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3274~c747d7b2d0.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "058c113d2af02fde",
+      "id": "d0ed626e2ee5e4e5",
       "title": "Hidden in the aggregate: the cyclicality of EU labour force participation",
       "summary": "We estimate the cyclical response of labour force participation to growth shocks across EU regions. We use a shift-share instrumental variable approach and local projections on EU Labour Force Survey microdata covering 15 countries and 114 regions over 2000–2020. The aggregate labour force participation rate is remarkably resilient, a clear contrast to the highly cyclical participation rate documented for the U. S. However, this resilience masks pronounced demographic heterogeneity. Men’s participation declines significantly while women’s remains stable, reflecting sectoral segregation and the added worker effect.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3275~9c3ff58aae.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -4693,9 +4822,9 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3275~9c3ff58aae.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "cc249754c45eb43b",
@@ -5362,31 +5491,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "9c7f3195a7ff6b12",
-      "title": "Can structural reforms unleash private investment?",
-      "summary": "This paper examines the impact of labour and product market reforms on private investment across 26 advanced economies from 1975 to 2020. To this end, we combine a narrative database on major structural reforms with local projections and augmented inverse probability weighting. We find that a major labour market reform typically increases the level of real private investment by 5% cumulatively within six years, while a major product market reform yields an impact of 3%. Structural reforms are particularly effective in stimulating private investment when the private sector has access to ample external finance and the rule of law is strong.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3273~292f21a541.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-11T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3273~292f21a541.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3273~292f21a541.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
       "id": "c281a5173014d62e",
       "title": "SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO and Affiliated General Partners in Alleged Fraud",
       "summary": "The Securities and Exchange Commission today charged New York-based investment adviser Adit Ventures Management LLC, its CEO Eric Munson, and three affiliated general partners, Adit Ventures LLC; Adit Ventures II LLC; and Adit Ventures III LLC (the…",
@@ -5429,31 +5533,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "5221b17856024e65",
-      "title": "Monetary policy and the rigidity of firm employment expectations",
-      "summary": "This paper examines how monetary policy announcements affect firms’ employment expectations. Using German survey data, we combine high-frequency monetary policy surprises with survey response dates to identify the immediate and dynamic effects of monetary policy on firm-level expectations and subsequent employment. Contractionary shocks lead firms to revise employment plans downward immediately and persistently, eventually reducing employment growth. Initially, hiring plans are reduced, while layoffs increase later. Production expectations adjust twice as often but revert faster, consistent with greater labour market rigidity.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-10T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "eb9cad94ac778204",
@@ -10204,45 +10283,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "0c5ea09d8e53ef81",
-      "title": "Bank of England Climate Transition Plan – 2026 update",
-      "summary": "This update to the Bank’s 2023 Climate Transition Plan sets out the progress made to transition the Bank of England’s physical operations to net-zero greenhouse gas emissions by 2040.",
-      "url": "https://www.bankofengland.co.uk/climate-change/bank-of-england-climate-transition-plan-2026-update",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Climate / ESG"
-      ],
-      "matchedKeywords": [
-        "climate",
-        "net zero",
-        "emissions"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate",
-            "net zero",
-            "emissions"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/climate-change/bank-of-england-climate-transition-plan-2026-update",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "1f16161b50c2fbfe",
       "title": "Enforcement Decision Making Committee Report 2025/26",
       "summary": "This Enforcement Decision Making Committee (EDMC) annual report covers the period of 1 March 2025 to 28 February 2026.",
@@ -10401,6 +10441,70 @@
         }
       ],
       "link": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "cad03c940a860df2",
+      "title": "The Bank of England's climate-related financial disclosure 2026",
+      "summary": "The Bank has continued to integrate the implications of climate change into the delivery of its mission, across both its policy work and its own operational resilience.",
+      "url": "https://www.bankofengland.co.uk/climate-change/the-bank-of-englands-climate-related-financial-disclosure-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Climate / ESG",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "operational resilience",
+        "climate",
+        "disclosure",
+        "financial disclosure",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "operational resilience"
+          ]
+        },
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure",
+            "financial disclosure"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/climate-change/the-bank-of-englands-climate-related-financial-disclosure-2026",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
@@ -20290,50 +20394,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "80497819a1bcedac",
-      "title": "Consumers warned to beware of risky mini-bonds and loan notes",
-      "summary": "The FCA is warning consumers about the risks of investing in loan notes and mini-bonds issued by unregulated companies, after continuing to see people lose money in these high-risk investments. The recent failure of Woodville Consultants Ltd, a litigation funder that raised capital from retail investors through unregulated loan notes, shows the potential risk to investors. A loan note or mini-bond usually involves lending money to a company for a set period in return for interest. If that company fails, consumers could lose every penny. The FCA permanently banned the marketing of speculative illiquid securities, including mini-bonds and loan notes, to retail investors from 1 January 2021.",
-      "url": "https://www.fca.org.uk/news/press-releases/consumers-warned-beware-risky-mini-bonds-and-loan-notes",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Consumer Protection",
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "retail investors",
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "retail investors"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/consumers-warned-beware-risky-mini-bonds-and-loan-notes",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "7ebdf1b16624440a",
       "title": "Crypto firms get guidance on how the new regime applies",
       "summary": "New FCA guidance will help firms understand how the law underpinning the UK's future cryptoasset regime applies to their business. It also sets out which activities may require FCA authorisation. The regime comes into force on 25 October 2027. With applications for authorisation opening from 30 September 2026, firms need this guidance now to help them prepare. The guidance covers activities including issuing qualifying stablecoins, operating cryptoasset trading platforms, dealing and arranging deals, safeguarding cryptoassets and arranging cryptoasset staking.",
@@ -20420,41 +20480,6 @@
       "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
     },
     {
-      "id": "8ad63da249cc2e36",
-      "title": "EGR Wealth Limited enters administration",
-      "summary": "On 24 August 2026, EGR Wealth Limited (EGR Wealth) entered administration. Robert Goodhew and Geoff Bouchier of Kroll Advisory Limited were appointed joint administrators. The joint administrators are responsible for managing the affairs of the firm during the administration process. They are officers of the court and need to comply with all insolvency law. EGR Wealth is authorised by the FCA. It provided discretionary investment management services, managed client investment portfolios, and facilitated the transfer and administration of client investments. On 24 July 2026, EGR Wealth agreed to a voluntary requirement which restricted the activities it can carry out.",
-      "url": "https://www.fca.org.uk/news/news-stories/egr-wealth-limited-enters-administration",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/news-stories/egr-wealth-limited-enters-administration",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "0ca095bb7be2474b",
       "title": "FCA and partners continues crackdown on illegal crypto trading",
       "summary": "The FCA and partners have taken further action against illegal peer-to-peer crypto trading in London. The FCA has carried out further operations with partners to disrupt illegal peer-to-peer crypto trading across multiple London locations. Working with HM Revenue & Customs (HMRC) and the Metropolitan Police Service, the FCA targeted 3 premises suspected of illegal peer-to-peer crypto trading. Cease and desist letters were issued at all 3 premises, requiring traders to stop any suspected illegal crypto businesses. Peer-to-peer trading is when individuals buy and sell crypto directly with each other. Anyone doing this by way of business in the UK requires appropriate registration.",
@@ -20497,6 +20522,41 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "72a0c9f89ca08298",
+      "title": "FCA and partners join forces to help improve financial security for millions",
+      "summary": "The FCA is partnering across sectors to expand protection insurance coverage for millions of unprotected people. While the market is working well for consumers who have protection insurance, millions of people remain unprotected. Around 58% of adults have no life insurance, critical illness cover or income protection – and 59% of that group has never considered it. This means that millions could be left vulnerable in the event of a death in the family, serious illness or loss of income. To help more people consider whether protection insurance is right for them, the FCA will join forces with partners from industry, government and consumer groups.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-partners-help-improve-financial-security-millions",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-partners-help-improve-financial-security-millions",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Events",
+      "updateTypeDetail": "Event / conference"
     },
     {
       "id": "ce93f89fc74b5330",
@@ -20674,6 +20734,52 @@
         }
       ],
       "link": "https://www.fca.org.uk/news/press-releases/fca-sets-out-steps-support-small-businesses-access-finance",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "7f37ce60827b4cfa",
+      "title": "FCA takes Hunter Jones to High Court over alleged unauthorised activity",
+      "summary": "The FCA has begun High Court proceedings against Osborne Baldwin Limited, which trades as Hunter Jones and Hunter Jones Group. The FCA alleges that Hunter Jones, which sells loan notes, carries out regulated activity without authorisation. The FCA is asking the court to stop Hunter Jones carrying out regulated activity and require money to be returned to investors. The proceedings are at an early stage. The court has not yet determined the claim and no trial date has been set. Consumers who deal with unauthorised firms are at greater risk and may lose access to important protections if things go wrong. The FCA strongly encourages consumers to use its Firm Checker.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-takes-hunter-jones-high-court-over-alleged-unauthorised-activity",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "authorisation",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "authorisation",
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-takes-hunter-jones-high-court-over-alleged-unauthorised-activity",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
@@ -20918,6 +21024,52 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "578723b401ca0583",
+      "title": "MiCA supervision training",
+      "summary": "",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-09/21526f63-47a6-47ec-87a6-ea02e37050c5/MiCA%20supervision%20training%2025%20September%202026.zip",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
+      "sourceId": "eba-publications",
+      "sourceName": "EBA Publications",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Crypto / Digital Assets",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "mica",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "mica"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/sites/default/files/2026-09/21526f63-47a6-47ec-87a6-ea02e37050c5/MiCA%20supervision%20training%2025%20September%202026.zip",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report",
+      "originalPublishedAt": "2026-09-25T00:00:00.000Z",
+      "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
+    },
+    {
       "id": "b86cfdb446123c5a",
       "title": "Premier Payment Solutions Ltd enters liquidation",
       "summary": "On 10 September 2026, Premier Payment Solutions Ltd, which traded as PPS Money and MTBS (together, 'PPS Money'), entered liquidation. Bai Cham and Gary Shankland of BTG Begbies Traynor were appointed joint liquidators. PPS Money is registered as a small payment institution under the Payment Services Regulations 2017 (the PSRs). The firm provided money-remittance services, primarily supporting money service businesses to make cross-border payments, including through its network of FCA-registered agents, which are businesses or individuals registered to provide payment services on its behalf. See a list of PPS Money’s current and former agents.",
@@ -21094,7 +21246,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-20T20:24:39.837Z",
+      "publishedAt": "2026-09-21T12:10:11.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21118,7 +21270,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-20T20:24:39.837Z",
+      "publishedAt": "2026-09-21T12:10:11.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21142,7 +21294,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-20T20:24:39.837Z",
+      "publishedAt": "2026-09-21T12:10:11.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21166,7 +21318,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-20T20:24:39.837Z",
+      "publishedAt": "2026-09-21T12:10:11.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21190,7 +21342,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-20T20:24:39.837Z",
+      "publishedAt": "2026-09-21T12:10:11.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21214,7 +21366,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-20T20:24:39.837Z",
+      "publishedAt": "2026-09-21T12:10:11.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21238,7 +21390,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-20T20:24:39.837Z",
+      "publishedAt": "2026-09-21T12:10:11.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21262,7 +21414,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-20T20:24:39.837Z",
+      "publishedAt": "2026-09-21T12:10:11.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21286,7 +21438,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-20T20:24:39.837Z",
+      "publishedAt": "2026-09-21T12:10:11.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21310,7 +21462,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-20T20:24:39.837Z",
+      "publishedAt": "2026-09-21T12:10:11.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21334,7 +21486,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-20T20:24:39.837Z",
+      "publishedAt": "2026-09-21T12:10:11.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21358,7 +21510,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-20T20:24:39.837Z",
+      "publishedAt": "2026-09-21T12:10:11.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21382,7 +21534,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-20T20:24:39.837Z",
+      "publishedAt": "2026-09-21T12:10:11.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21399,7 +21551,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 95
+      "count": 98
     },
     {
       "updateType": "Publications / Reports",
@@ -21407,19 +21559,19 @@
     },
     {
       "updateType": "News",
-      "count": 78
+      "count": 76
+    },
+    {
+      "updateType": "Working Papers / Research",
+      "count": 36
     },
     {
       "updateType": "Consultations",
       "count": 34
     },
     {
-      "updateType": "Working Papers / Research",
-      "count": 34
-    },
-    {
       "updateType": "Statistics / Data",
-      "count": 21
+      "count": 20
     },
     {
       "updateType": "Source Pages",
@@ -21431,7 +21583,7 @@
     },
     {
       "updateType": "Events",
-      "count": 2
+      "count": 3
     }
   ]
 }
