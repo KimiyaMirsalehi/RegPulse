@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T21:46:31.348Z",
-  "totalPublications": 482,
+  "generatedAt": "2026-09-22T11:05:22.027Z",
+  "totalPublications": 483,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "fallback-parser",
-      "itemCount": 4,
+      "itemCount": 5,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 246
     },
     {
       "topic": "Basel / BCBS",
@@ -476,7 +476,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 32
+      "count": 31
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -487,12 +487,12 @@
       "count": 22
     },
     {
-      "topic": "Stress Testing",
+      "topic": "Payments / Open Finance",
       "count": 21
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 20
+      "topic": "Stress Testing",
+      "count": 21
     },
     {
       "topic": "Recovery / Resolution",
@@ -507,11 +507,11 @@
       "count": 12
     },
     {
-      "topic": "AI",
-      "count": 8
+      "topic": "Market Risk",
+      "count": 9
     },
     {
-      "topic": "Market Risk",
+      "topic": "AI",
       "count": 8
     },
     {
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 246
     },
     {
       "topic": "Basel / BCBS",
@@ -550,7 +550,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 32
+      "count": 31
     },
     {
       "topic": "Crypto / Digital Assets",
@@ -561,12 +561,12 @@
       "count": 22
     },
     {
-      "topic": "Stress Testing",
+      "topic": "Payments / Open Finance",
       "count": 21
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 20
+      "topic": "Stress Testing",
+      "count": 21
     },
     {
       "topic": "Recovery / Resolution",
@@ -581,11 +581,11 @@
       "count": 12
     },
     {
-      "topic": "AI",
-      "count": 8
+      "topic": "Market Risk",
+      "count": 9
     },
     {
-      "topic": "Market Risk",
+      "topic": "AI",
       "count": 8
     },
     {
@@ -600,7 +600,7 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 134
+      "count": 135
     },
     {
       "keyword": "banking supervision",
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 88
+      "count": 89
     },
     {
       "keyword": "reporting",
@@ -632,7 +632,7 @@
     },
     {
       "keyword": "climate",
-      "count": 26
+      "count": 25
     },
     {
       "keyword": "anti money laundering",
@@ -679,6 +679,10 @@
       "count": 11
     },
     {
+      "keyword": "consultation paper",
+      "count": 10
+    },
+    {
       "keyword": "crypto",
       "count": 10
     },
@@ -689,10 +693,6 @@
     {
       "keyword": "transparency",
       "count": 10
-    },
-    {
-      "keyword": "consultation paper",
-      "count": 9
     },
     {
       "keyword": "guidelines",
@@ -763,6 +763,10 @@
       "count": 5
     },
     {
+      "keyword": "payment",
+      "count": 5
+    },
+    {
       "keyword": "pillar 3",
       "count": 5
     },
@@ -808,10 +812,6 @@
     },
     {
       "keyword": "mica",
-      "count": 4
-    },
-    {
-      "keyword": "payment",
       "count": 4
     },
     {
@@ -895,10 +895,6 @@
       "count": 2
     },
     {
-      "keyword": "emissions",
-      "count": 2
-    },
-    {
       "keyword": "final report",
       "count": 2
     },
@@ -917,12 +913,16 @@
     {
       "keyword": "mrel",
       "count": 2
+    },
+    {
+      "keyword": "pillar 1",
+      "count": 2
     }
   ],
   "regionSummary": [
     {
       "region": "EU",
-      "count": 272
+      "count": 273
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 80
+      "count": 81
     },
     {
       "institution": "European Banking Authority",
@@ -1000,6 +1000,114 @@
     }
   ],
   "publications": [
+    {
+      "id": "85b4dc95e66d3a71",
+      "title": "The Bank of England’s fees regime for recognised payment systems and specified service providers supervision 2026/27",
+      "summary": "Consultation paper",
+      "url": "https://www.bankofengland.co.uk/paper/2026/cp/the-boes-fees-regime-for-recognised-payment-systems-and-ssps-supervision-2026-27",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-22T11:00:00.000Z",
+      "pdfLinks": [
+        "https://assets.publishing.service.gov.uk/media/6a565ef42f6185941a9a64d8/Recognised_Payment_Systems_and_Digital_Settlement_Asset_Service_Providers_Fee_Regime_Consultation.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "supervision",
+        "consultation paper",
+        "payment",
+        "payment systems"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision",
+            "consultation paper"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payment systems"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/paper/2026/cp/the-boes-fees-regime-for-recognised-payment-systems-and-ssps-supervision-2026-27",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
+    {
+      "id": "7a3a120b62b15234",
+      "title": "US equity market developments during the AI boom",
+      "summary": "This box analyses developments in US equity markets during the recent AI boom and highlights recent signs of heightened price differentiation within the broader equity market rally. It shows that, over the past years, US equity valuations have been bolstered by strong realised and expected earnings tied to the AI boom. Risk appetite in US equity markets has been strong, with compensation for equity risk falling to relatively low levels during this period. These factors have supported resilience in US stock markets despite pressures from higher longer-term interest rates and geopolitical headwinds.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_06~ef276e3f80.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-22T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Market Risk"
+      ],
+      "matchedKeywords": [
+        "equity risk"
+      ],
+      "topicMatches": [
+        {
+          "id": "market-risk",
+          "label": "Market Risk",
+          "keywords": [
+            "equity risk"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_06~ef276e3f80.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "7e53e77710be7ef1",
+      "title": "Philip R. Lane: Interview with Le Temps",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-22T05:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
     {
       "id": "88610525fc67a9e8",
       "title": "Navigating uncertainty: how the Middle East conflict is shaping expectations and coping strategies of firms",
@@ -3162,34 +3270,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "65e0110dc59276e6",
-      "title": "Frank Elderson: Fireside chat",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-08T15:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-04/9081f06a-ed8f-4b0e-bd80-5fa6b399e05a/CP%20Module%202%20-%20FINREP.pdf",
-        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.other_publications_banking_sector_framework.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2292~77deb8b18f.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "7b7a48c8386fe841",
       "title": "Frank Elderson: Fireside chat",
       "summary": "",
@@ -3901,14 +3981,14 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "45bb0a3d3821b8bc",
+      "id": "ed97960df982b3dc",
       "title": "Environmental policy uncertainty and cleantech FDI",
       "summary": "This paper examines whether environmental policy uncertainty undermines clean-technology investment in the United States by weakening policy-induced investment incentives. Using quarterly project-level data on U. S. greenfield investments from 2007Q1 to 2019Q1, combined with novel news-based indices that separately measure environmental policy salience and environmental policy uncertainty, we find that policy uncertainty substantially offsets the positive investment effects of environmental policy.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3278~42c60efb87.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -3921,9 +4001,9 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3278~42c60efb87.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "02d63757c730ce0a",
@@ -4258,9 +4338,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-08-27T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/pdf/md/ecb.md2607_annex~b04670b43a.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4283,10 +4361,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-08-26T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.protiviti.com/sites/default/files/2025-11/lse-generational-surveyreport-bklt-1025-na-en.pdf",
-        "https://s3.amazonaws.com/real.stlouisfed.org/wp/2024/2024-027.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -10283,68 +10358,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "559508ab0749e425",
-      "title": "Bank of England Annual Report and Accounts - 2026",
-      "summary": "The Bank of England and the Prudential Regulation Authority (PRA) publish separate Annual Reports and Accounts. The reports provide information on our activities and finances for the preceding year.",
-      "url": "https://www.bankofengland.co.uk/annual-report/2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/annual-report/2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "0c5ea09d8e53ef81",
-      "title": "Bank of England Climate Transition Plan – 2026 update",
-      "summary": "This update to the Bank’s 2023 Climate Transition Plan sets out the progress made to transition the Bank of England’s physical operations to net-zero greenhouse gas emissions by 2040.",
-      "url": "https://www.bankofengland.co.uk/climate-change/bank-of-england-climate-transition-plan-2026-update",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Climate / ESG"
-      ],
-      "matchedKeywords": [
-        "climate",
-        "net zero",
-        "emissions"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate",
-            "net zero",
-            "emissions"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/climate-change/bank-of-england-climate-transition-plan-2026-update",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "1f16161b50c2fbfe",
       "title": "Enforcement Decision Making Committee Report 2025/26",
       "summary": "This Enforcement Decision Making Committee (EDMC) annual report covers the period of 1 March 2025 to 28 February 2026.",
@@ -10471,6 +10484,41 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "e992e46e2b772e38",
+      "title": "Report on the Bank’s official market operations March 2025–February 2026",
+      "summary": "The Bank publishes an annual report covering key developments in its market operations and their usage. This report covers the period March 2025 to end-February 2026.",
+      "url": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "2fd52ebdfc4f0ec6",
@@ -20416,6 +20464,41 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "e2c0fcd1c67e704a",
+      "title": "Debt advice warning: spot the red flags",
+      "summary": "People seeking debt advice are being urged to watch out for red flags. Free debt advice is available to everyone. However, the FCA is concerned that some consumers are being steered towards fee-paying debt solutions that may not be suitable for their needs, sometimes through high pressure sales tactics, misleading information or being advised by firms that do not have the appropriate permissions. Red flags include:Pressure tactics: Feeling hassled, or repeatedly contacted, particularly after an online enquiry or unexpected phone call, and being pressured to agree to a debt solution quickly over the phone or via WhatsApp, without time to properly consider their options.",
+      "url": "https://www.fca.org.uk/news/press-releases/debt-advice-warning-spot-red-flags",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/debt-advice-warning-spot-red-flags",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "02d144e53b4dd0d3",
       "title": "EBA Workshop - 11-",
       "summary": "",
@@ -20520,41 +20603,6 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Events",
       "updateTypeDetail": "Event / conference"
-    },
-    {
-      "id": "ce93f89fc74b5330",
-      "title": "FCA bans trio behind £35.5m scheme designed to bypass visa rules",
-      "summary": "The FCA has decided to ban 3 former senior figures at Dolfin Financial (UK) Limited (Dolfin) after finding they ran a scheme that helped clients bypass UK visa rules. Former chief executive Denisz Nagy has been fined £324,800 and former finance director Sanjay Maraj £122,000 for their roles in the scheme. Both have been banned from working in financial services. The FCA has also decided to ban Dolfin co-founder, Roman Joukovski, from working in financial services. Between 2016 and 2019, most clients using the scheme paid a fee of £400,000 instead of investing £2m of their own money in UK companies, as required under the Home Office investor visa rules.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-bans-trio-bypass-visa-rules",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-bans-trio-bypass-visa-rules",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "270761008a9b8353",
@@ -21209,7 +21257,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-21T21:46:31.348Z",
+      "publishedAt": "2026-09-22T11:05:22.027Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21233,7 +21281,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-21T21:46:31.348Z",
+      "publishedAt": "2026-09-22T11:05:22.027Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21257,7 +21305,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-21T21:46:31.348Z",
+      "publishedAt": "2026-09-22T11:05:22.027Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21281,7 +21329,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-21T21:46:31.348Z",
+      "publishedAt": "2026-09-22T11:05:22.027Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21305,7 +21353,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-21T21:46:31.348Z",
+      "publishedAt": "2026-09-22T11:05:22.027Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21329,7 +21377,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-21T21:46:31.348Z",
+      "publishedAt": "2026-09-22T11:05:22.027Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21353,7 +21401,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-21T21:46:31.348Z",
+      "publishedAt": "2026-09-22T11:05:22.027Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21377,7 +21425,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-21T21:46:31.348Z",
+      "publishedAt": "2026-09-22T11:05:22.027Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21401,7 +21449,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-21T21:46:31.348Z",
+      "publishedAt": "2026-09-22T11:05:22.027Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21425,7 +21473,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-21T21:46:31.348Z",
+      "publishedAt": "2026-09-22T11:05:22.027Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21449,7 +21497,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-21T21:46:31.348Z",
+      "publishedAt": "2026-09-22T11:05:22.027Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21473,7 +21521,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-21T21:46:31.348Z",
+      "publishedAt": "2026-09-22T11:05:22.027Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21497,7 +21545,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-21T21:46:31.348Z",
+      "publishedAt": "2026-09-22T11:05:22.027Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21510,7 +21558,7 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 115
+      "count": 116
     },
     {
       "updateType": "Rules / Standards / Guidance",
@@ -21518,7 +21566,7 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 82
+      "count": 79
     },
     {
       "updateType": "News",
@@ -21526,15 +21574,15 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 36
+      "count": 37
     },
     {
       "updateType": "Consultations",
-      "count": 34
+      "count": 35
     },
     {
       "updateType": "Statistics / Data",
-      "count": 20
+      "count": 21
     },
     {
       "updateType": "Source Pages",
