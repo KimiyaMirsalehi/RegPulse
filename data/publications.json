@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-23T10:54:24.918Z",
-  "totalPublications": 483,
+  "generatedAt": "2026-09-23T21:11:38.311Z",
+  "totalPublications": 484,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "fallback-parser",
-      "itemCount": 5,
+      "itemCount": 6,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -452,11 +452,11 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 247
+      "count": 246
     },
     {
       "topic": "Basel / BCBS",
-      "count": 134
+      "count": 135
     },
     {
       "topic": "Governance",
@@ -487,12 +487,12 @@
       "count": 22
     },
     {
-      "topic": "Stress Testing",
+      "topic": "Payments / Open Finance",
       "count": 21
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 20
+      "topic": "Stress Testing",
+      "count": 21
     },
     {
       "topic": "DORA / Operational Resilience",
@@ -507,12 +507,12 @@
       "count": 12
     },
     {
-      "topic": "Market Risk",
+      "topic": "AI",
       "count": 9
     },
     {
-      "topic": "AI",
-      "count": 8
+      "topic": "Market Risk",
+      "count": 9
     },
     {
       "topic": "Model Risk",
@@ -526,11 +526,11 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 247
+      "count": 246
     },
     {
       "topic": "Basel / BCBS",
-      "count": 134
+      "count": 135
     },
     {
       "topic": "Governance",
@@ -561,12 +561,12 @@
       "count": 22
     },
     {
-      "topic": "Stress Testing",
+      "topic": "Payments / Open Finance",
       "count": 21
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 20
+      "topic": "Stress Testing",
+      "count": 21
     },
     {
       "topic": "DORA / Operational Resilience",
@@ -581,12 +581,12 @@
       "count": 12
     },
     {
-      "topic": "Market Risk",
+      "topic": "AI",
       "count": 9
     },
     {
-      "topic": "AI",
-      "count": 8
+      "topic": "Market Risk",
+      "count": 9
     },
     {
       "topic": "Model Risk",
@@ -608,7 +608,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 105
+      "count": 106
     },
     {
       "keyword": "board",
@@ -659,7 +659,7 @@
       "count": 15
     },
     {
-      "keyword": "policy statement",
+      "keyword": "payments",
       "count": 15
     },
     {
@@ -667,7 +667,7 @@
       "count": 15
     },
     {
-      "keyword": "payments",
+      "keyword": "policy statement",
       "count": 14
     },
     {
@@ -827,6 +827,10 @@
       "count": 4
     },
     {
+      "keyword": "artificial intelligence",
+      "count": 3
+    },
+    {
       "keyword": "authorisation",
       "count": 3
     },
@@ -875,10 +879,6 @@
       "count": 2
     },
     {
-      "keyword": "artificial intelligence",
-      "count": 2
-    },
-    {
       "keyword": "basel iii",
       "count": 2
     },
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 273
+      "count": 274
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 81
+      "count": 82
     },
     {
       "institution": "European Banking Authority",
@@ -1000,6 +1000,161 @@
     }
   ],
   "publications": [
+    {
+      "id": "84d7fc1bd676f7c2",
+      "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
+      "summary": "The Securities and Exchange Commission’s Division of Economic and Risk Analysis (DERA) published updated statistics and data visualizations covering key segments of the U. S. capital markets, including a notable increase in the number of initial public…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-23T18:27:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "e4c035244d6c94d7",
+      "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-23T16:30:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "4b46fda0cbad06c3",
+      "title": "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
+      "summary": "The Securities and Exchange Commission today charged CMI Capital LLC and its founder and manager, Michael D. Williams, for an alleged fraudulent investment scheme that raised approximately $860,000 from at least 18 investors, many of whom are current or…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-23T16:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "enforcement",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement",
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "8254f8f6a5e247c5",
+      "title": "The digitalisation of money, payments and finance",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-23T16:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf"
+      ],
+      "topics": [
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "payments"
+      ],
+      "topicMatches": [
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payments"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "ab79e061b90e05be",
+      "title": "Scaling up European firms: the case for an EU company law regime to unlock cross-border investment, innovation and growth",
+      "summary": "Europe’s competitiveness challenge is increasingly recognised as a scale-up challenge. Firms expanding across the Single Market continue to face regulatory burdens and legal fragmentation throughout their life cycle, increasing the cost and complexity of cross-border operations. This article examines how these barriers affect the ability of firms to scale up and assesses the extent to which the European Commission’s proposal for an optional European corporate form (EU Inc.) could help firms.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202606_01~2b533feaed.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3185~74a163e02b.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op373.en.pdf",
+        "https://iep.unibocconi.eu/sites/default/files/media/attach/WP_Cost%20of%20Failure%2C%20Disruptive%20Innovation%20and%20Targeted%20Flexicurity_0.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3239~efed05d5c7.en.pdf",
+        "https://www.iwh-halle.de/fileadmin/_compnet/user_upload/CompNet__April2025__-_Productivity_Report.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2025-10/9734d851-6f6e-4c52-a519-9524ca6b724d/EBA%20Report%20on%20Insolvency%20Benchmarks.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op268~73e6860c62.lt.pdf",
+        "https://www.consilium.europa.eu/media/ny3j24sm/much-more-than-a-market-report-by-enrico-letta.pdf",
+        "https://www.nbb.be/doc/ts/other/eurosclerosis_2_0.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202606_01~2b533feaed.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "a53f2d7337c34d89",
       "title": "Almost ten million people took part in ECB survey on new euro banknotes",
@@ -1112,6 +1267,43 @@
         }
       ],
       "link": "https://www.esma.europa.eu/press-news/esma-news/esas-call-vigilance-over-external-dependencies-cyber-threats-and-private",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "46c33ea0f565ff59",
+      "title": "ESMA sets new supervisory priority on digital innovation from 2027",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets reg",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-new-supervisory-priority-digital-innovation-2027",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-09/Union_strategic_supervisory_priorities_-_factsheet.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-new-supervisory-priority-digital-innovation-2027",
       "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -1373,6 +1565,80 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
+    },
+    {
+      "id": "dd026e4a4ceef143",
+      "title": "Artificial intelligence and financial markets",
+      "summary": "Artificial intelligence is transforming financial markets by enabling investors and intermediaries to extract more information from increasingly abundant data through advances in algorithms and computing power. We discuss how AI changes information production and decision-making, labor demand, and financial intermediation, with a particular emphasis on securities markets. We then survey the implications of this transformation for market efficiency, competition, informational frictions, and financial stability.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp32~90bd9a7638.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-22T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp32~90bd9a7638.en.pdf"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "artificial intelligence"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp32~90bd9a7638.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "a4e5bd5744c53396",
+      "title": "Monetary policy transmission by securitising banks",
+      "summary": "This paper studies whether securitisation affects monetary policy transmission via banks. Using granular loan-level data from the euro area, we show that banks actively engaged in securitisation adjust credit supply more strongly in response to monetary policy shocks than a matched sample of non-securitising banks. This is because securitisation expands banks’ lending capacity, but by increasing reliance on investors whose required returns and risk appetite are more sensitive to monetary policy conditions.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3289~670b45de09.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-22T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3289~670b45de09.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS"
+      ],
+      "matchedKeywords": [
+        "securitisation"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "securitisation"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3289~670b45de09.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "7a3a120b62b15234",
@@ -2481,14 +2747,14 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "1a6a56d2bda0bb90",
+      "id": "a4fcc6e7ef8e819a",
       "title": "Endogenous monetary policy effectiveness",
       "summary": "How does the effectiveness of monetary policy vary over the policy cycle? Do tightenings and loosenings have symmetric effects on the macroeconomy? This paper addresses these questions using a nonlinear empirical framework that allows financial exposure to evolve endogenously in response to macroeconomic conditions and monetary policy changes. We provide new evidence on how monetary policy effectiveness varies over the policy cycle and across economic states.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3281~01820b53fd.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2501,9 +2767,9 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3281~01820b53fd.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "80f061a5c33ba885",
@@ -2795,14 +3061,14 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "34d90a3ff2644f41",
+      "id": "7dca907e6005e4ce",
       "title": "DeFi-ying the Fed? Monetary policy transmission to stablecoin deposit rates",
       "summary": "Does the Federal Reserve’s monetary policy influence the rates on USD-pegged stablecoins? While major stablecoin issuers do not pay interest, investors can earn returns by depositing stablecoins in Decentralized Finance (DeFi) protocols. We document unusually large and persistent spreads between traditional short-term interest rates and DeFi deposit rates, as well as a weak and unstable transmission of policy rate changes. We show that, in the short run, monetary policy shocks can move stablecoin rates in the opposite direction of policy rates, delaying a convergence that occurs only over the medium run.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3280~503ba7d4b0.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2829,19 +3095,19 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3280~503ba7d4b0.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "36bb4de341b6022b",
+      "id": "21abdad03eed7042",
       "title": "Fiscal policy and sectoral spillovers in open-economy HANK",
       "summary": "Government spending falls disproportionately on non-tradable services. We show empirically that government spending shocks stimulate private consumption along with sizable spillovers to the goods sector and a relative decline in goods prices. We rationalize these findings with a two-sector open-economy HANK model. Uninsurable income risk and precautionary savings lead to a persistent income-driven expansion in private consumption. In the tradable sector, import intensity and limited labor reallocation dampen wage pass-through to prices, matching observed co-movements. The resulting expenditure switching produces a positive tradable output response despite deteriorating net exports.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3279~c0a22d29e1.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2854,9 +3120,9 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3279~c0a22d29e1.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "d1fc2fc86d6dc340",
@@ -3347,68 +3613,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "a28d8a1325bb8a1a",
-      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-10T13:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds260910~fbf0ab9b8d.en.pdf"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "policy statement"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "policy statement"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "2030c2e8bae45a95",
-      "title": "Monetary policy decisions",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-10T12:15:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds260910~fbf0ab9b8d.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "5b7f36620b8aafe2",
@@ -4242,9 +4446,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-08-31T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2663~06c26039e0.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -5113,56 +5315,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "596baba34c0baf40",
-      "title": "Banks’ funding structures and pass-through in the euro area",
-      "summary": "This paper investigates the interest rate pass-through of monetary policy in the euro area by focusing on the role of banks’ funding structures. We estimate the interest rate pass-through for loans to non-financial corporations using bank-level balance sheet data. In doing so, we interact the response of lending rates with characteristics of the funding structure, and show that banks that rely more on bond issuance than on the money market tend to be less responsive to policy changes.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3274~c747d7b2d0.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-20T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3274~c747d7b2d0.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3274~c747d7b2d0.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "d0ed626e2ee5e4e5",
-      "title": "Hidden in the aggregate: the cyclicality of EU labour force participation",
-      "summary": "We estimate the cyclical response of labour force participation to growth shocks across EU regions. We use a shift-share instrumental variable approach and local projections on EU Labour Force Survey microdata covering 15 countries and 114 regions over 2000–2020. The aggregate labour force participation rate is remarkably resilient, a clear contrast to the highly cyclical participation rate documented for the U. S. However, this resilience masks pronounced demographic heterogeneity. Men’s participation declines significantly while women’s remains stable, reflecting sectoral segregation and the added worker effect.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3275~9c3ff58aae.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-20T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3275~9c3ff58aae.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3275~9c3ff58aae.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "cc249754c45eb43b",
@@ -6838,41 +6990,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "091e08e9f38150c1",
-      "title": "ESMA publishes latest edition of its newsletter",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-44",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-31T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-44",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "c9f9c5f67d9ec3f3",
       "title": "The EBA-ECB-EIOPA “Data Point Model Alliance” consults on improvements to their data dictionary metamodel to better support statistical and supervisory reporting",
       "summary": "The Data Point Model Alliance, a joint initiative of the EBA, ECB and EIOPA, is committed to making financial sector statistical and supervisory reporting across the EU simpler, smarter and more proportionate. To facilitate the integration of reporting, they launched today a public consultation on enhancements to their DPM metamodel for two months. They also published naming conventions for a consistent approach to metadata. 24 JULY 2026 The EBA seeks feedback on the 4.4 draft technical package of its reporting and disclosure framework The European Banking Authority (EBA) today published a draft technical package for version 4.",
@@ -7584,41 +7701,6 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "d9253113c002b92f",
-      "title": "SEC Announces Departure of Principal Deputy Director of Enforcement Sam Waldon",
-      "summary": "The Securities and Exchange Commission today announced that Sam Waldon, Principal Deputy Director of the Division of Enforcement, will depart the agency on July 31, 2026, after more than 14 years at the SEC. He will be succeeded as Principal Deputy…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-68-sec-announces-departure-principal-deputy-director-enforcement-sam-waldon",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-22T13:45:25.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "enforcement"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "enforcement"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-68-sec-announces-departure-principal-deputy-director-enforcement-sam-waldon",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "e1ce173fbd2be701",
       "title": "CP12/26 – Insurance friendly societies, amalgamations and transfers",
       "summary": "Consultation paper 12/26",
@@ -7984,29 +8066,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "c6ba2f4e6eb52be1",
-      "title": "SEC Proposes New E-Delivery Approach to Make Information More Readily Accessible and Useful for Investors",
-      "summary": "The Securities and Exchange Commission today proposed Regulation E-Delivery, a new rule that would expand the ability of issuers, broker-dealers, investment advisers, and others to use electronic delivery to satisfy information delivery requirements…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-67-sec-proposes-new-e-delivery-approach-make-information-more-readily-accessible-useful-investors",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-16T12:57:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-67-sec-proposes-new-e-delivery-approach-make-information-more-readily-accessible-useful-investors",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "bb1ea4e0d9131d11",
@@ -21307,7 +21366,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-23T10:54:24.918Z",
+      "publishedAt": "2026-09-23T21:11:38.311Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21331,7 +21390,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T10:54:24.918Z",
+      "publishedAt": "2026-09-23T21:11:38.311Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21355,7 +21414,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T10:54:24.918Z",
+      "publishedAt": "2026-09-23T21:11:38.311Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21379,7 +21438,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T10:54:24.918Z",
+      "publishedAt": "2026-09-23T21:11:38.311Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21403,7 +21462,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T10:54:24.918Z",
+      "publishedAt": "2026-09-23T21:11:38.311Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21427,7 +21486,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T10:54:24.918Z",
+      "publishedAt": "2026-09-23T21:11:38.311Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21451,7 +21510,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T10:54:24.918Z",
+      "publishedAt": "2026-09-23T21:11:38.311Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21475,7 +21534,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T10:54:24.918Z",
+      "publishedAt": "2026-09-23T21:11:38.311Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21499,7 +21558,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T10:54:24.918Z",
+      "publishedAt": "2026-09-23T21:11:38.311Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21523,7 +21582,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T10:54:24.918Z",
+      "publishedAt": "2026-09-23T21:11:38.311Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21547,7 +21606,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T10:54:24.918Z",
+      "publishedAt": "2026-09-23T21:11:38.311Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21571,7 +21630,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T10:54:24.918Z",
+      "publishedAt": "2026-09-23T21:11:38.311Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21595,7 +21654,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T10:54:24.918Z",
+      "publishedAt": "2026-09-23T21:11:38.311Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21612,11 +21671,11 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 96
+      "count": 95
     },
     {
       "updateType": "News",
-      "count": 78
+      "count": 79
     },
     {
       "updateType": "Publications / Reports",
@@ -21624,7 +21683,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 37
+      "count": 38
     },
     {
       "updateType": "Consultations",
