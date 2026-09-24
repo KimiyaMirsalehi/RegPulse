@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-23T21:11:38.311Z",
-  "totalPublications": 484,
+  "generatedAt": "2026-09-24T11:14:16.236Z",
+  "totalPublications": 488,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -25,12 +25,12 @@
       "institution": "European Central Bank",
       "region": "EU",
       "status": "success",
-      "parserMode": "rss-parser",
+      "parserMode": "fallback-parser",
       "itemCount": 15,
       "url": "https://www.ecb.europa.eu/rss/pub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "message": "Parsed successfully."
+      "message": "Parsed successfully using fallback parser."
     },
     {
       "id": "ecb-governing-council-statements",
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "fallback-parser",
-      "itemCount": 6,
+      "itemCount": 10,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 246
+      "count": 245
     },
     {
       "topic": "Basel / BCBS",
@@ -464,7 +464,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 55
+      "count": 56
     },
     {
       "topic": "AML / Financial Crime",
@@ -476,11 +476,11 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 31
+      "count": 32
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 25
+      "count": 26
     },
     {
       "topic": "Credit Risk",
@@ -488,7 +488,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 21
+      "count": 22
     },
     {
       "topic": "Stress Testing",
@@ -504,7 +504,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 12
+      "count": 13
     },
     {
       "topic": "AI",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 246
+      "count": 245
     },
     {
       "topic": "Basel / BCBS",
@@ -538,7 +538,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 55
+      "count": 56
     },
     {
       "topic": "AML / Financial Crime",
@@ -550,11 +550,11 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 31
+      "count": 32
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 25
+      "count": 26
     },
     {
       "topic": "Credit Risk",
@@ -562,7 +562,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 21
+      "count": 22
     },
     {
       "topic": "Stress Testing",
@@ -578,7 +578,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 12
+      "count": 13
     },
     {
       "topic": "AI",
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 90
+      "count": 88
     },
     {
       "keyword": "reporting",
@@ -632,7 +632,7 @@
     },
     {
       "keyword": "climate",
-      "count": 25
+      "count": 26
     },
     {
       "keyword": "anti money laundering",
@@ -655,11 +655,11 @@
       "count": 19
     },
     {
-      "keyword": "enforcement",
-      "count": 15
+      "keyword": "payments",
+      "count": 16
     },
     {
-      "keyword": "payments",
+      "keyword": "enforcement",
       "count": 15
     },
     {
@@ -672,18 +672,22 @@
     },
     {
       "keyword": "liquidity",
-      "count": 12
+      "count": 13
     },
     {
       "keyword": "resolution",
       "count": 12
     },
     {
-      "keyword": "consultation paper",
-      "count": 10
+      "keyword": "crypto",
+      "count": 11
     },
     {
-      "keyword": "crypto",
+      "keyword": "transparency",
+      "count": 11
+    },
+    {
+      "keyword": "consultation paper",
       "count": 10
     },
     {
@@ -695,19 +699,15 @@
       "count": 10
     },
     {
-      "keyword": "transparency",
-      "count": 10
-    },
-    {
       "keyword": "digital euro",
       "count": 8
     },
     {
-      "keyword": "disclosure",
-      "count": 8
+      "keyword": "crr",
+      "count": 7
     },
     {
-      "keyword": "crr",
+      "keyword": "disclosure",
       "count": 7
     },
     {
@@ -759,11 +759,19 @@
       "count": 5
     },
     {
+      "keyword": "mica",
+      "count": 5
+    },
+    {
       "keyword": "nature related",
       "count": 5
     },
     {
       "keyword": "nature-related",
+      "count": 5
+    },
+    {
+      "keyword": "payment",
       "count": 5
     },
     {
@@ -795,19 +803,11 @@
       "count": 4
     },
     {
+      "keyword": "deposit guarantee",
+      "count": 4
+    },
+    {
       "keyword": "ict risks",
-      "count": 4
-    },
-    {
-      "keyword": "mica",
-      "count": 4
-    },
-    {
-      "keyword": "payment",
-      "count": 4
-    },
-    {
-      "keyword": "recovery plans",
       "count": 4
     },
     {
@@ -839,10 +839,6 @@
       "count": 3
     },
     {
-      "keyword": "deposit guarantee",
-      "count": 3
-    },
-    {
       "keyword": "digital operational resilience",
       "count": 3
     },
@@ -852,6 +848,10 @@
     },
     {
       "keyword": "market risk",
+      "count": 3
+    },
+    {
+      "keyword": "recovery plans",
       "count": 3
     },
     {
@@ -903,6 +903,10 @@
       "count": 2
     },
     {
+      "keyword": "emissions",
+      "count": 2
+    },
+    {
       "keyword": "final report",
       "count": 2
     },
@@ -913,16 +917,12 @@
     {
       "keyword": "ifrs 9",
       "count": 2
-    },
-    {
-      "keyword": "large language models",
-      "count": 2
     }
   ],
   "regionSummary": [
     {
       "region": "EU",
-      "count": 274
+      "count": 278
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 82
+      "count": 86
     },
     {
       "institution": "European Banking Authority",
@@ -1000,6 +1000,353 @@
     }
   ],
   "publications": [
+    {
+      "id": "578723b401ca0583",
+      "title": "MiCA supervision training",
+      "summary": "",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-09/21526f63-47a6-47ec-87a6-ea02e37050c5/MiCA%20supervision%20training%2025%20September%202026.zip",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
+      "sourceId": "eba-publications",
+      "sourceName": "EBA Publications",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Crypto / Digital Assets",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "mica",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "mica"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/sites/default/files/2026-09/21526f63-47a6-47ec-87a6-ea02e37050c5/MiCA%20supervision%20training%2025%20September%202026.zip",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "9424d24ce4bf5a05",
+      "title": "How policymakers’ speeches and interviews move markets",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260924~3240af33dc.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-blog",
+      "sourceName": "ECB Blog",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-24T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3157~f5789c7b8a.en.pdf?5a729734ecbff98f80ba39c456bcda71",
+        "https://www.ecb.europa.eu/pub/pdf/other/art1_mb201407_pp63-77en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260924~3240af33dc.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "1447582a82c9354b",
+      "title": "Philip R. Lane: The outlook for the euro area economy",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-24T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "9e2ff9f08c3ea934",
+      "title": "Defence spending and its short and longer-term macroeconomic effects",
+      "summary": "EU Member States have committed to substantially increasing defence spending in the coming years. According to Eurosystem staff baseline projections, defence spending – particularly on investment – is a notable factor supporting euro area growth over the short and medium term. Inflation effects are projected to be limited, though price pressures may increase over time. This is especially likely if supply cannot catch up with increased demand or personnel spending continues to dominate in line with past trends, as shown in an empirical analysis for the 27 EU Member States over 1999-2025.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202606_02~7e74f747b2.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-24T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op337~fe2b751b27.en.pdf",
+        "https://www.nato.int/content/dam/nato/webready/documents/finance/def-exp-2026-en.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202606_02~7e74f747b2.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "1847adcdd0601bcc",
+      "title": "Economic Bulletin Issue 6, 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/html/eb202606.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-24T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/ecbu/eb202606.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/ecbu/ecb.eb_annex202606~5844c5bfa1.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/other/eb201604_article02.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/html/eb202606.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "39fbd9cd8a49fa29",
+      "title": "Liquidity conditions and monetary policy operations from 6 May to 28 July 2026",
+      "summary": "This box describes the Eurosystem liquidity conditions and monetary policy operations in the third and fourth reserve maintenance periods of 2026, from 6 May to 28 July.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_07~68d5d49c60.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-24T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Liquidity"
+      ],
+      "matchedKeywords": [
+        "liquidity"
+      ],
+      "topicMatches": [
+        {
+          "id": "liquidity",
+          "label": "Liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_07~68d5d49c60.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "5cd0c3b798c9c6ba",
+      "title": "Main results of the latest euro area demographic projections",
+      "summary": "This box presents the latest EUROPOP 2025 population projections for the euro area, documents the revisions compared with the EUROPOP 2023 projections and discusses the economic implications. The latest population outlook is more positive in the medium-run (until 2050) because of stronger net inward migration, which tempers the increase in age-related fiscal expenditure while boosting long-term economic growth. However, in the second half of the century the population is projected to decrease more strongly than previously projected as a result of lower fertility. This will have the opposite effect on public finances and long-term growth.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_03~93f1f1d53c.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-24T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op296~aaf209ffe5.en.pdf",
+        "https://economy-finance.ec.europa.eu/document/download/971dd209-41c2-425d-94f8-e3c3c3459af9_en?filename=ip279_en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_03~93f1f1d53c.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "5aa3b821ba2d7d80",
+      "title": "The evolution of financial conditions in the euro area and the United States: a Macro-Finance FCI perspective",
+      "summary": "This box extends the Macro-Finance Financial Conditions Index (FCI) framework, originally developed for the euro area, to the United States. The analysis finds close linkages between US and euro area financial conditions, with risk assets playing a dominant role in the transmission of US shocks to euro area financial markets. In particular, changes in market expectations for the stance of US monetary policy affect euro area financial conditions through global risk-asset repricing, even when the ECB’s own policy stance remains unchanged. The findings highlight the importance of spillovers from the United States in shaping euro area financial conditions.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_05~26c3018e11.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-24T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3193~9db57822d4.de.pdf",
+        "https://www.nber.org/system/files/working_papers/w33952/w33952.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_05~26c3018e11.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "f5ff9f5afd9a9e3a",
+      "title": "The EBA identifies priorities for the review of MiCA",
+      "summary": "The European Banking Authority (EBA) today published its response to the European Commission’s targeted consultation on the review of the Regulation on Markets in Crypto-assets (MiCA). While MiCA has established a comprehensive regulatory framework for crypto-asset activities in the European Union, the crypto sector continues to evolve rapidly with new products, services and business models emerging to market. Against this backdrop, the EBA recommends the European Commission prioritise specific issues in its review of MiCA.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-identifies-priorities-review-mica",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-24T07:00:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-09/12cb4f01-0d51-46bf-a561-165ac486698f/EBA%20response%20to%20EC%20targeted%20consultation%20on%20MiCA%20review.pdf"
+      ],
+      "topics": [
+        "Crypto / Digital Assets",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "crypto",
+        "mica",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "crypto",
+            "mica"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-identifies-priorities-review-mica",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
+    {
+      "id": "a687c5c91df1bab6",
+      "title": "Connecting payment systems, linking economies",
+      "summary": "Cross-border payments are often slow and costly with many regions underserved by current arrangements. In line with the G20 Roadmap for Enhancing Cross-border Payments, several countries and regions, including the euro area, are working to interlink their domestic fast payment systems as a way to improve speed, cost and transparency. Econometric evidence suggests that countries with interlinked systems trade about 4% more with each other – around half of the effect of a trade agreement and a quarter of the effect of a common currency.",
+      "url": "https://www.ecb.europa.eu//press/research-publications/resbull/2026/html/ecb.rb260924~8b74a93aa7.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-research-bulletin",
+      "sourceName": "ECB Research Bulletin",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-24T06:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/research-publications/resbull/2026/html/ecb.rb260924~8b74a93aa7.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2693~8d4e580438.en.pdf?972bbc119868c193467dc86f4a7cf706",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3202~028f70f8ec.en.pdf?3a7981ac882ddb22b9eaf97ba55cc8e6"
+      ],
+      "topics": [
+        "Reporting / Disclosure",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "transparency",
+        "payment",
+        "payments",
+        "payment systems"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "transparency"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payments",
+            "payment systems"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/research-publications/resbull/2026/html/ecb.rb260924~8b74a93aa7.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/rbu.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
     {
       "id": "84d7fc1bd676f7c2",
       "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
@@ -2033,14 +2380,14 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "2641c4646548af4c",
+      "id": "e1a1eaf8363c1c9d",
       "title": "Bank competition and credit risk: the conditioning role of capital",
       "summary": "This paper examines how bank capital conditions the effect of competition on credit risk in lending markets, informing the debate on banking competition, deregulation, and risk-based supervision. Using ECB supervisory data for 146 euro area banks across 19 countries over 2020Q2–2025Q3, we analyze whether this relationship depends on banks’ regulatory capital positions. We find that greater market power is associated with higher subsequent credit risk, while stronger capitalization is associated with lower risk. Crucially, competition reduces credit risk primarily for well-capitalized banks, whereas the effect is weak or absent for banks with lower capital ratios.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3285~6f253764af.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2076,9 +2423,9 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3285~6f253764af.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "7335eb083a10ec99",
@@ -2362,14 +2709,14 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "9cd96b2dc1358aee",
+      "id": "236f1f91b49ce1eb",
       "title": "Entropic tilting of forecasts to SPF histograms: analytics & applications",
       "summary": "We develop a direct approach to incorporating survey density forecasts into model-based predictive distributions. Histogram forecasts from the U. S. Survey of Professional Forecasters (SPF) carry rich nonparametric information about expected outcomes, but existing methods rely on moment-based approximations that discard part of it. We instead tilt entropically to the histogram probabilities themselves, matching them exactly. After reformulating the single-histogram problem, we derive a new analytic characterization of the multiple-histogram case, solved by Iterative Proportional Fitting and applicable to simulated densities from essentially any model.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3284~c350fd075f.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2382,19 +2729,19 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3284~c350fd075f.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "db94233ee0ef981e",
+      "id": "108f44d133998812",
       "title": "Measuring sentiment news with transformer-based language models",
       "summary": "Measuring sentiment from financial news is a central task in economics and finance, yet most existing indicators rely on dictionary-based approaches that infer sentiment from word counts and only partially capture context, negation, and semantic structure. This paper proposes a framework for constructing daily news mood indices using transformer-based language models and evaluates whether they better represent sentiment than dictionary-based alternatives. Using 143,755 financial news articles from Factiva, we classify sentiment at the sentence level with FinBERT and aggregate these predictions into article-level and daily sentiment measures through alternative normalization schemes.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3283~df0633dfd3.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2407,46 +2754,9 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3283~df0633dfd3.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "62d71a87007ad5b9",
-      "title": "The factors behind output gap revisions",
-      "summary": "Estimates of potential output and the output gap are widely used in monetary, fiscal and structural policy analysis, but they are unobservable and subject to substantial real-time uncertainty. This paper examines revisions to output gap and potential growth estimates produced by the European Commission, the Eurosystem, the International Monetary Fund (IMF) and the Organisation for Economic Co-operation and Development (OECD) for the euro area and its member countries.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op399.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-16T22:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op399.en.pdf"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op399.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "73f631c7bd37cae3",
@@ -2546,14 +2856,14 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "e8360fd50f7c19c6",
+      "id": "677ab156330cac70",
       "title": "When firms do not take the money and run: evidence from corporate loan moratoria",
       "summary": "Suspending loan repayments is a widely used policy tool to provide liquidity during crises. We study the take-up and real effects of the 2020 Austrian corporate debt moratoria, which required banks to temporarily postpone loan repayments for eligible firms. Exploiting a discontinuity in eligibility at a two-million-euro asset threshold, we document a take-up rate of 44%, well below full participation, reflecting both the pecuniary cost of the policy and firms’ fear of stigmatization. Despite the moderate take-up, moratoria increase investment and profitability without increasing defaults once repayments resume.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3282~b3fc21f7c5.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2578,9 +2888,9 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3282~b3fc21f7c5.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "dd800738faaa9849",
@@ -3222,31 +3532,6 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "6bc0d94ccb6dc207",
-      "title": "Philip R. Lane: Outlook for the euro area economy",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-11T17:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf",
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -4232,9 +4517,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-09-02T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3210~e2dc529b33.en.pdf?d40c0fa3d3c79fa89319680fdb2f2169"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS"
       ],
@@ -4397,10 +4680,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-09-01T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op371.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3201~a02cfaf2e8.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -6279,19 +6559,21 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "36abf35e44689010",
+      "id": "8dd44e6f4adb5176",
       "title": "​The EBA consults on reporting framework for validation and monitoring of ISDA Standard Initial Margin Model",
       "summary": "​The European Banking Authority (EBA) is consulting on a new reporting framework to support the validation and ongoing monitoring of initial margin models based on the ‘Standard Initial Margin Model’ (SIMM) developed by the International Swaps and Derivatives Association (ISDA). The proposed reporting requirements will provide the EBA with information necessary to effectively perform its role as central validator of pro forma models under EMIR, while ensuring a proportionate approach for reporting entities. The consultation runs until 2 November 2026.",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-reporting-framework-validation-and-monitoring-isda-standard-initial-margin-model",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-reporting-framework-validation-and-monitoring-isda-standard-initial-margin-model",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
       "institution": "European Banking Authority",
       "region": "EU",
       "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T07:35:10.000Z",
+      "sourceType": "html-list",
+      "publishedAt": "2026-08-05T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
         "Reporting / Disclosure",
@@ -6317,8 +6599,6 @@
           ]
         }
       ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-reporting-framework-validation-and-monitoring-isda-standard-initial-margin-model",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
     },
@@ -6992,7 +7272,7 @@
     {
       "id": "c9f9c5f67d9ec3f3",
       "title": "The EBA-ECB-EIOPA “Data Point Model Alliance” consults on improvements to their data dictionary metamodel to better support statistical and supervisory reporting",
-      "summary": "The Data Point Model Alliance, a joint initiative of the EBA, ECB and EIOPA, is committed to making financial sector statistical and supervisory reporting across the EU simpler, smarter and more proportionate. To facilitate the integration of reporting, they launched today a public consultation on enhancements to their DPM metamodel for two months. They also published naming conventions for a consistent approach to metadata. 24 JULY 2026 The EBA seeks feedback on the 4.4 draft technical package of its reporting and disclosure framework The European Banking Authority (EBA) today published a draft technical package for version 4.",
+      "summary": "The Data Point Model Alliance, a joint initiative of the EBA, ECB and EIOPA, is committed to making financial sector statistical and supervisory reporting across the EU simpler, smarter and more proportionate. To facilitate the integration of reporting, they launched today a public consultation on enhancements to their DPM metamodel for two months. They also published naming conventions for a consistent approach to metadata. Pagination Current page 1 Page 2 Page 3 Page 4 Page 5 Page 6 <li class=\"pager__it",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-ecb-eiopa-data-point-model-alliance-consults-improvements-their-data-dictionary-metamodel-better",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-ecb-eiopa-data-point-model-alliance-consults-improvements-their-data-dictionary-metamodel-better",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -7012,10 +7292,8 @@
       ],
       "matchedKeywords": [
         "reporting",
-        "disclosure",
         "supervisory reporting",
-        "supervisory",
-        "its"
+        "supervisory"
       ],
       "topicMatches": [
         {
@@ -7023,7 +7301,6 @@
           "label": "Reporting / Disclosure",
           "keywords": [
             "reporting",
-            "disclosure",
             "supervisory reporting"
           ]
         },
@@ -7031,8 +7308,7 @@
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
           "keywords": [
-            "supervisory",
-            "its"
+            "supervisory"
           ]
         }
       ],
@@ -7555,9 +7831,44 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
+      "id": "d8849361c7230a13",
+      "title": "​The EBA consults on rules to further improve depositor protection under the revised Deposit Guarantee Schemes Directive",
+      "summary": "​The European Banking Authority (EBA) today launched four public consultations on proposed rules to further strengthen depositor protection, preserve financial stability, and further harmonise depositor protection standards across the EU under the revised Deposit Guarantee Schemes Directive (DGSD3).",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-rules-further-improve-depositor-protection-under-revised-deposit-guarantee-schemes",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-rules-further-improve-depositor-protection-under-revised-deposit-guarantee-schemes",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-24T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "deposit guarantee"
+      ],
+      "topicMatches": [
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "deposit guarantee"
+          ]
+        }
+      ],
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
+    {
       "id": "6d288f04bfc3450f",
       "title": "The EBA seeks feedback on the 4.4 draft technical package of its reporting and disclosure framework",
-      "summary": "The European Banking Authority (EBA) today published a draft technical package for version 4.4 of its reporting and disclosure framework, covering IFRS 18 reporting, Pillar 3 ESG disclosures and other technical amendments. Pagination Current page 1 Page 2 Page 3 Page 4 Page 5 Page 6 Page 7 <a href=\"?page=7\" class=\"",
+      "summary": "The European Banking Authority (EBA) today published a draft technical package for version 4.4 of its reporting and disclosure framework, covering IFRS 18 reporting, Pillar 3 ESG disclosures and other technical amendments. 23 JULY 2026 ​The EBA consults on rules to further improve depositor protection under the revised Deposit Guarantee Schemes Directive ​The European Banking Authority (EBA) today launched four public consultations on proposed rules to further strengthen depositor protection, preserve financial stability, and further harmonise depositor protection standards across the EU under the revised Deposit Guarantee Schemes Directive (DGSD3).",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-seeks-feedback-44-draft-technical-package-its-reporting-and-disclosure-framework",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-seeks-feedback-44-draft-technical-package-its-reporting-and-disclosure-framework",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -7575,14 +7886,16 @@
         "Basel / BCBS",
         "Climate / ESG",
         "Reporting / Disclosure",
-        "Supervision / Enforcement"
+        "Supervision / Enforcement",
+        "Recovery / Resolution"
       ],
       "matchedKeywords": [
         "pillar 3",
         "esg",
         "reporting",
         "disclosure",
-        "its"
+        "its",
+        "deposit guarantee"
       ],
       "topicMatches": [
         {
@@ -7614,10 +7927,17 @@
           "keywords": [
             "its"
           ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "deposit guarantee"
+          ]
         }
       ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "6e7b37dd375be086",
@@ -7664,41 +7984,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "215079474c6b90ea",
-      "title": "​The EBA consults on rules to further improve depositor protection under the revised Deposit Guarantee Schemes Directive",
-      "summary": "​The European Banking Authority (EBA) today launched four public consultations on proposed rules to further strengthen depositor protection, preserve financial stability, and further harmonise depositor protection standards across the EU under the revised Deposit Guarantee Schemes Directive (DGSD3).",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-rules-further-improve-depositor-protection-under-revised-deposit-guarantee-schemes",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-rules-further-improve-depositor-protection-under-revised-deposit-guarantee-schemes",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Recovery / Resolution"
-      ],
-      "matchedKeywords": [
-        "deposit guarantee"
-      ],
-      "topicMatches": [
-        {
-          "id": "resolution-recovery",
-          "label": "Recovery / Resolution",
-          "keywords": [
-            "deposit guarantee"
-          ]
-        }
-      ],
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "e1ce173fbd2be701",
@@ -8366,29 +8651,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "8719c6d85e4706cb",
-      "title": "What drives euro area consumers to Chinese e-commerce platforms",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260713~ae38da7434.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-blog",
-      "sourceName": "ECB Blog",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-13T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260713~ae38da7434.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "656dcea6645c8ff7",
@@ -9736,7 +9998,7 @@
     {
       "id": "e820c92985d43c90",
       "title": "The EBA publishes a roadmap on the delivery of its mandates under the revised Deposit Guarantee Schemes Directive",
-      "summary": "The European Banking Authority (EBA) today published a roadmap outlining how it will deliver its mandates under the revised Deposit Guarantee Schemes Directive (DGSD3). The roadmap sets out the EBA’s role in implementing DGSD3 by developing a set of regulatory products to strengthen depositor protection across the EU. It also presents the timeline for these deliverables, which will ensure depositors are better informed about their rights, better protected, and that deposit guarantee schemes are prepared to act when needed. Pagination First page Previous page Page 1 Current page 2 <li",
+      "summary": "The European Banking Authority (EBA) today published a roadmap outlining how it will deliver its mandates under the revised Deposit Guarantee Schemes Directive (DGSD3). The roadmap sets out the EBA’s role in implementing DGSD3 by developing a set of regulatory products to strengthen depositor protection across the EU. It also presents the timeline for these deliverables, which will ensure depositors are better informed about their rights, better protected, and that deposit guarantee schemes are prepared to act when needed.",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-roadmap-delivery-its-mandates-under-revised-deposit-guarantee-schemes-directive",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-roadmap-delivery-its-mandates-under-revised-deposit-guarantee-schemes-directive",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -10478,6 +10740,45 @@
       "updateTypeDetail": "Publication / report"
     },
     {
+      "id": "0c5ea09d8e53ef81",
+      "title": "Bank of England Climate Transition Plan – 2026 update",
+      "summary": "This update to the Bank’s 2023 Climate Transition Plan sets out the progress made to transition the Bank of England’s physical operations to net-zero greenhouse gas emissions by 2040.",
+      "url": "https://www.bankofengland.co.uk/climate-change/bank-of-england-climate-transition-plan-2026-update",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-06-25T11:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "net zero",
+        "emissions"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate",
+            "net zero",
+            "emissions"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/climate-change/bank-of-england-climate-transition-plan-2026-update",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
       "id": "1f16161b50c2fbfe",
       "title": "Enforcement Decision Making Committee Report 2025/26",
       "summary": "This Enforcement Decision Making Committee (EDMC) annual report covers the period of 1 March 2025 to 28 February 2026.",
@@ -10604,41 +10905,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "e992e46e2b772e38",
-      "title": "Report on the Bank’s official market operations March 2025–February 2026",
-      "summary": "The Bank publishes an annual report covering key developments in its market operations and their usage. This report covers the period March 2025 to end-February 2026.",
-      "url": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "2fd52ebdfc4f0ec6",
@@ -11690,7 +11956,7 @@
     {
       "id": "4b0d1a5054ab82fb",
       "title": "​The EBA updates list of other systemically important institutions",
-      "summary": "​The European Banking Authority (EBA) today updated the list of other systemically important institutions (O-SIIs) in the EU, based on notifications received from national authorities during 2025. The publication aims to increase transparency and provides a consistent overview of institutions identified as systemically important across Member States.",
+      "summary": "​The European Banking Authority (EBA) today updated the list of other systemically important institutions (O-SIIs) in the EU, based on notifications received from national authorities during 2025. The publication aims to increase transparency and provides a consistent overview of institutions identified as systemically important across Member States. Pagination First page Previous page Page 1 Page 2 Current page 3 <li class=\"pager__item p",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-list-other-systemically-important-institutions-2",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-list-other-systemically-important-institutions-2",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -12149,7 +12415,7 @@
     {
       "id": "ba833b8228f8cba8",
       "title": "The EBA issues an opinion about an Austrian macroprudential measure",
-      "summary": "The European Banking Authority (EBA) provided its opinion to the European Commission about the intention by the Austrian Financial Market Authority (FMA) to increase the level of an existing sectoral systemic risk buffer to address risks in the Austrian commercial real estate market. This measure would result in the sum of the other systemically important institutions (O-SII) buffer rate and the combined systemic risk buffer rate exceeding 5% for the targeted exposures of a subset of banks. The EBA does not object to it. Pagination First page Previous page Page 1 Page 2 <li class=\"pager__item pager__item--active pager__",
+      "summary": "The European Banking Authority (EBA) provided its opinion to the European Commission about the intention by the Austrian Financial Market Authority (FMA) to increase the level of an existing sectoral systemic risk buffer to address risks in the Austrian commercial real estate market. This measure would result in the sum of the other systemically important institutions (O-SII) buffer rate and the combined systemic risk buffer rate exceeding 5% for the targeted exposures of a subset of banks. The EBA does not object to it.",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-opinion-about-austrian-macroprudential-measure",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-opinion-about-austrian-macroprudential-measure",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -12781,41 +13047,6 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "400960430812b368",
-      "title": "The EBA publishes Report on banks’ dry run testing of their recovery plans",
-      "summary": "The European Banking Authority (EBA) today published a Report comparing how banks test the implementation of their recovery plans through so-called “dry runs”. In a context of heightened uncertainty and the continued need for operational preparedness and resilience to unexpected stress events, the analysis confirms that dry runs are an effective tool to strengthen the operationalisation of recovery plans and enhance institutions’ crisis readiness. When used meaningfully, dry runs improve institutions’ ability to respond to stress situations in a timely and credible manner. Pagination First page Previous page Page 1 Page 2 </l",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-report-banks-dry-run-testing-their-recovery-plans",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-report-banks-dry-run-testing-their-recovery-plans",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-04-28T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Recovery / Resolution"
-      ],
-      "matchedKeywords": [
-        "recovery plans"
-      ],
-      "topicMatches": [
-        {
-          "id": "resolution-recovery",
-          "label": "Recovery / Resolution",
-          "keywords": [
-            "recovery plans"
-          ]
-        }
-      ],
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "cf148bf1d96bfdd9",
       "title": "The EBA updates list of correlated currencies",
       "summary": "The European Banking Authority (EBA) published today the 2026 update of the list of closely correlated currencies, which is used for the calculation of capital requirements for foreign exchange risk under the standardised approach. The update has been carried out in line with the methodology and procedure set out in the applicable Implementing Technical Standards (ITS). The revised list has been submitted to the European Commission for endorsement.",
@@ -13440,7 +13671,7 @@
     {
       "id": "392b6e43fe181a51",
       "title": "The Joint Bank Reporting Committee launches call to join the Reporting Contact Group",
-      "summary": "The Joint Bank Reporting Committee (JBRC), jointly set up by the European Banking Authority (EBA) and the European Central Bank (ECB), today launched a public call for expressions of interest to join its Reporting Contact Group (RCG). The RCG brings together stakeholders with expertise in banks’ regulatory reporting and serves as a regular forum for cooperation, exchange of views and sharing of best practices with authorities. The call is open to candidates representing stakeholders across the European Economic Area (EEA). The deadline for applications is 28 April 2026 (23:59 CEST).",
+      "summary": "The Joint Bank Reporting Committee (JBRC), jointly set up by the European Banking Authority (EBA) and the European Central Bank (ECB), today launched a public call for expressions of interest to join its Reporting Contact Group (RCG). The RCG brings together stakeholders with expertise in banks’ regulatory reporting and serves as a regular forum for cooperation, exchange of views and sharing of best practices with authorities. The call is open to candidates representing stakeholders across the European Economic Area (EEA). The deadline for applications is 28 April 2026 (23:59 CEST). Pagination First page Previous page Page 1 Page",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-bank-reporting-committee-launches-call-join-reporting-contact-group",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-bank-reporting-committee-launches-call-join-reporting-contact-group",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -15559,41 +15790,6 @@
       ],
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "972e7240e3e24f6d",
-      "title": "Private safe asset supply and financial instability",
-      "summary": "This article studies the supply of private safe assets by banks and its implications for financial stability. Banks originate loans and improve loan quality through hidden screening efforts. They can then create safe assets by issuing debt backed by the safe payoffs, from both loans they have originated and a diversified pool of loans from other banks. The interaction between banks’ screening efforts and diversification decisions determines the volume of safe assets they supply.",
-      "url": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb250527~db71bf8d29.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-research-bulletin",
-      "sourceName": "ECB Research Bulletin",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2025-05-27T06:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb250527~db71bf8d29.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/rbu.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "b8fc10495a91ad85",
@@ -21066,52 +21262,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "578723b401ca0583",
-      "title": "MiCA supervision training",
-      "summary": "",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-09/21526f63-47a6-47ec-87a6-ea02e37050c5/MiCA%20supervision%20training%2025%20September%202026.zip",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
-      "sourceId": "eba-publications",
-      "sourceName": "EBA Publications",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Crypto / Digital Assets",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "mica",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "mica"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/sites/default/files/2026-09/21526f63-47a6-47ec-87a6-ea02e37050c5/MiCA%20supervision%20training%2025%20September%202026.zip",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report",
-      "originalPublishedAt": "2026-09-25T00:00:00.000Z",
-      "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
-    },
-    {
       "id": "b86cfdb446123c5a",
       "title": "Premier Payment Solutions Ltd enters liquidation",
       "summary": "On 10 September 2026, Premier Payment Solutions Ltd, which traded as PPS Money and MTBS (together, 'PPS Money'), entered liquidation. Bai Cham and Gary Shankland of BTG Begbies Traynor were appointed joint liquidators. PPS Money is registered as a small payment institution under the Payment Services Regulations 2017 (the PSRs). The firm provided money-remittance services, primarily supporting money service businesses to make cross-border payments, including through its network of FCA-registered agents, which are businesses or individuals registered to provide payment services on its behalf. See a list of PPS Money’s current and former agents.",
@@ -21366,7 +21516,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-23T21:11:38.311Z",
+      "publishedAt": "2026-09-24T11:14:16.236Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21390,7 +21540,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T21:11:38.311Z",
+      "publishedAt": "2026-09-24T11:14:16.236Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21414,7 +21564,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T21:11:38.311Z",
+      "publishedAt": "2026-09-24T11:14:16.236Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21438,7 +21588,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T21:11:38.311Z",
+      "publishedAt": "2026-09-24T11:14:16.236Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21462,7 +21612,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T21:11:38.311Z",
+      "publishedAt": "2026-09-24T11:14:16.236Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21486,7 +21636,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T21:11:38.311Z",
+      "publishedAt": "2026-09-24T11:14:16.236Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21510,7 +21660,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T21:11:38.311Z",
+      "publishedAt": "2026-09-24T11:14:16.236Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21534,7 +21684,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T21:11:38.311Z",
+      "publishedAt": "2026-09-24T11:14:16.236Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21558,7 +21708,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T21:11:38.311Z",
+      "publishedAt": "2026-09-24T11:14:16.236Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21582,7 +21732,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T21:11:38.311Z",
+      "publishedAt": "2026-09-24T11:14:16.236Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21606,7 +21756,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T21:11:38.311Z",
+      "publishedAt": "2026-09-24T11:14:16.236Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21630,7 +21780,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T21:11:38.311Z",
+      "publishedAt": "2026-09-24T11:14:16.236Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21654,7 +21804,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-23T21:11:38.311Z",
+      "publishedAt": "2026-09-24T11:14:16.236Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21671,7 +21821,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 95
+      "count": 93
     },
     {
       "updateType": "News",
@@ -21679,15 +21829,15 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 77
+      "count": 76
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 38
+      "count": 43
     },
     {
       "updateType": "Consultations",
-      "count": 35
+      "count": 37
     },
     {
       "updateType": "Statistics / Data",
