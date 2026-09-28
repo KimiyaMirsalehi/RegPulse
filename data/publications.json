@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T20:58:19.665Z",
+  "generatedAt": "2026-09-28T13:04:27.891Z",
   "totalPublications": 488,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 243
     },
     {
       "topic": "Basel / BCBS",
@@ -483,11 +483,11 @@
       "count": 25
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 23
+      "topic": "Credit Risk",
+      "count": 22
     },
     {
-      "topic": "Credit Risk",
+      "topic": "Payments / Open Finance",
       "count": 22
     },
     {
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 243
     },
     {
       "topic": "Basel / BCBS",
@@ -557,11 +557,11 @@
       "count": 25
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 23
+      "topic": "Credit Risk",
+      "count": 22
     },
     {
-      "topic": "Credit Risk",
+      "topic": "Payments / Open Finance",
       "count": 22
     },
     {
@@ -608,7 +608,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 108
+      "count": 107
     },
     {
       "keyword": "board",
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 89
+      "count": 88
     },
     {
       "keyword": "reporting",
@@ -659,15 +659,15 @@
       "count": 16
     },
     {
-      "keyword": "payments",
-      "count": 16
-    },
-    {
       "keyword": "stress test",
       "count": 16
     },
     {
       "keyword": "liquidity",
+      "count": 15
+    },
+    {
+      "keyword": "payments",
       "count": 15
     },
     {
@@ -743,10 +743,6 @@
       "count": 6
     },
     {
-      "keyword": "payment",
-      "count": 6
-    },
-    {
       "keyword": "risk culture",
       "count": 6
     },
@@ -768,6 +764,10 @@
     },
     {
       "keyword": "nature-related",
+      "count": 5
+    },
+    {
+      "keyword": "payment",
       "count": 5
     },
     {
@@ -911,11 +911,11 @@
       "count": 2
     },
     {
-      "keyword": "mrel",
+      "keyword": "investigation",
       "count": 2
     },
     {
-      "keyword": "payment systems",
+      "keyword": "mrel",
       "count": 2
     }
   ],
@@ -1000,6 +1000,81 @@
     }
   ],
   "publications": [
+    {
+      "id": "bd15308c73c224f7",
+      "title": "Pedro Machado: Competitiveness and simplification – a common agenda for European banks",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260928~6a48c49104.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-28T07:40:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/annex/ssm.pr230417_annex.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260928~6a48c49104.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "1a0f6f865050220d",
+      "title": "ESMA sets 2027 priorities for stronger, simpler and more integrated EU capital markets",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets reg",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-2027-priorities-stronger-simpler-and-more-integrated-eu-capital",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-09/ESMA22-50751485-1673_Annual_Work_Programme_2027.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2026-09/ESMA22-1669215091-6873_SBR_Report.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2025-10/Simplification_and_Burden_Reduction.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2026-09/ESMA71-545613100-3005_ESMA_sets_2027_priorities_for_stronger__simpler_and_more_integrated_EU_capital_markets_-_Press_release.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-2027-priorities-stronger-simpler-and-more-integrated-eu-capital",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "996055ded84686a2",
       "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
@@ -4426,12 +4501,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-09-09T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-09/ESMA32-753890202-3085_Consultation_Paper_update_GLs_on_disclosure_under_Prospectus_Regulation.pdf",
-        "https://www.esma.europa.eu/sites/default/files/2026-09/Overview_of_changes_made_to_the_Prospectus_Q_As.pdf",
-        "https://www.esma.europa.eu/sites/default/files/2026-09/ESMA32-753890202-3034_Final_Report_Guidelines_on_supplements_which_introduce_new_securities_to_a_base_prospectus.pdf",
-        "https://www.esma.europa.eu/sites/default/files/2026-09/ESMA32-753890202-3065_Final_report_update_to_RTS_key_financial_info_in_summary_of_a_prospectus.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Reporting / Disclosure",
@@ -4486,10 +4556,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-09-09T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-09/0b03b060-3a85-4dc1-a903-ad2efa0ef7ba/3%20months%20letter%20RTS%20OFs-ELs.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-09/9e2f87d4-c236-4533-a6dd-72a7c8076011/2026%2009%2008%20EBA%20reply%20letter%20to%20EC.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements",
         "Supervision / Enforcement"
@@ -7009,41 +7076,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "1f10107dc49abd06",
-      "title": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "02ac4a670639ba2a",
@@ -10769,50 +10801,6 @@
       ],
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "9d4c78af032f1f28",
-      "title": "ECB concludes asset quality reviews of KfW Beteiligungsholding GmbH and Promontoria 19 Coöperatie U. A.",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260625~a11b2bb311.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-25T16:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260625~a11b2bb311.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "15157fd9fdd5c477",
@@ -20793,6 +20781,50 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
+      "id": "cc3f2d321f2381b0",
+      "title": "FCA secures bankruptcy order against Arthur Temlett",
+      "summary": "We asked the Court to make Arthur Temlett, trading as Abacus Insurance Consultants ('Abacus'), bankrupt. This is known as sequestration in Scotland. The Sheriff granted our application on 27 August 2026. Emma Porter of Aver Chartered Accountants ('Aver') was appointed as trustee. She will now assess Mr Temlett’s financial affairs and seek to distribute any recovered funds to creditors. Arthur Temlett is awaiting trial on embezzlement charges brought following an investigation by Police Scotland. On 21 January 2025, we took action to protect consumers by stopping Arthur Temlett from carrying out any regulated activities, including acting as an insurance broker.",
+      "url": "https://www.fca.org.uk/news/news-stories/fca-secures-bankruptcy-order-against-arthur-temlett",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "investigation"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "investigation"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/fca-secures-bankruptcy-order-against-arthur-temlett",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "9696d6598a82d4ba",
       "title": "FCA sets out steps to support small businesses' access to finance",
       "summary": "Small and medium-sized enterprises (SMEs) could access finance more easily after the FCA sets out practical steps to help. An FCA review found no evidence that its regulation is a major barrier for SME access to finance. Many of the challenges identified relate to wider market, information and capability challenges. The review found that the challenges are often greatest for microbusinesses, which make up 95.5% of all SMEs and are less likely to use external finance.",
@@ -21078,6 +21110,41 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "449a8c70ad91b32a",
+      "title": "InterestMe Financial Planning Limited (IMFP) and the appointed representative InterestMe Advisers Limited (IMA) enter administration",
+      "summary": "On 24 September 2026, IMFP and IMA entered administration. Robert Goodhew and Geoff Bouchier of Kroll Advisory Limited were appointed joint administrators for both firms. The joint administrators are responsible for managing the affairs of the firms during the administration process. They are officers of the court and need to comply with all insolvency law. IMFP is authorised by the FCA. IMA is an appointed representative of IMFP. The firms carry out regulated activities, including financial planning and advice on pensions, mortgages and wider financial planning matters. On 24 July 2026, IMFP agreed to a voluntary requirement which restricted the activities it can carry out.",
+      "url": "https://www.fca.org.uk/news/news-stories/imfp-appointed-representative-ima-enter-administration",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/imfp-appointed-representative-ima-enter-administration",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "e3c0b265fe6c9877",
       "title": "ITI Capital Ltd enters special administration",
       "summary": "On 25 September 2026, ITI Capital Ltd (ITI Capital) entered special administration. Duncan Perring and David Soden, both of Teneo Financial Advisory Ltd (Teneo), were appointed as special administrators. ITI Capital is a FCA authorised and regulated brokerage company that helped customers invest in shares and bonds and looked after their investments. On 10 August 2025, ITI Capital agreed to stop carrying out most regulated activity (UK and overseas) and to stop accepting any new client money or custody assets.",
@@ -21111,63 +21178,6 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "b86cfdb446123c5a",
-      "title": "Premier Payment Solutions Ltd enters liquidation",
-      "summary": "On 10 September 2026, Premier Payment Solutions Ltd, which traded as PPS Money and MTBS (together, 'PPS Money'), entered liquidation. Bai Cham and Gary Shankland of BTG Begbies Traynor were appointed joint liquidators. PPS Money is registered as a small payment institution under the Payment Services Regulations 2017 (the PSRs). The firm provided money-remittance services, primarily supporting money service businesses to make cross-border payments, including through its network of FCA-registered agents, which are businesses or individuals registered to provide payment services on its behalf. See a list of PPS Money’s current and former agents.",
-      "url": "https://www.fca.org.uk/news/news-stories/premier-payment-solutions-ltd-enters-liquidation",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "its",
-        "payment",
-        "payments",
-        "payment services"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payment",
-            "payments",
-            "payment services"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/news-stories/premier-payment-solutions-ltd-enters-liquidation",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "7ad6c7cab3a93ca4",
@@ -21381,41 +21391,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "9592a2c7354dc76f",
-      "title": "Upper Tribunal upholds Crispin Odey ban",
-      "summary": "Crispin Odey’s ban from the financial services industry has been upheld by the Upper Tribunal, which found he lacked integrity. Mr Odey was the founder and majority owner of Odey Asset Management (OAM). He faced an internal disciplinary process for breaching a final written warning relating to repeated and persistent inappropriate behaviour towards female employees. In response, Mr Odey bullied and threatened his executive directors. He then twice dismissed OAM’s executive committee (ExCo) when they did not give in to his improper pressure. Mr Odey was only willing to answer to a governing body that would make a decision he agreed with, which was not to sack him.",
-      "url": "https://www.fca.org.uk/news/press-releases/upper-tribunal-upholds-crispin-odey-ban",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/upper-tribunal-upholds-crispin-odey-ban",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "a8a402e1ea13f86d",
       "title": "Video",
       "summary": "",
@@ -21465,7 +21440,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-27T20:58:19.665Z",
+      "publishedAt": "2026-09-28T13:04:27.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21489,7 +21464,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-27T20:58:19.665Z",
+      "publishedAt": "2026-09-28T13:04:27.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21513,7 +21488,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-27T20:58:19.665Z",
+      "publishedAt": "2026-09-28T13:04:27.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21537,7 +21512,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-27T20:58:19.665Z",
+      "publishedAt": "2026-09-28T13:04:27.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21561,7 +21536,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-27T20:58:19.665Z",
+      "publishedAt": "2026-09-28T13:04:27.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21585,7 +21560,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-27T20:58:19.665Z",
+      "publishedAt": "2026-09-28T13:04:27.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21609,7 +21584,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-27T20:58:19.665Z",
+      "publishedAt": "2026-09-28T13:04:27.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21633,7 +21608,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-27T20:58:19.665Z",
+      "publishedAt": "2026-09-28T13:04:27.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21657,7 +21632,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-27T20:58:19.665Z",
+      "publishedAt": "2026-09-28T13:04:27.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21681,7 +21656,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-27T20:58:19.665Z",
+      "publishedAt": "2026-09-28T13:04:27.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21705,7 +21680,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-27T20:58:19.665Z",
+      "publishedAt": "2026-09-28T13:04:27.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21729,7 +21704,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-27T20:58:19.665Z",
+      "publishedAt": "2026-09-28T13:04:27.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21753,7 +21728,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-27T20:58:19.665Z",
+      "publishedAt": "2026-09-28T13:04:27.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21777,7 +21752,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-27T20:58:19.665Z",
+      "publishedAt": "2026-09-28T13:04:27.891Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21790,15 +21765,15 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 117
+      "count": 118
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 90
+      "count": 88
     },
     {
       "updateType": "News",
-      "count": 81
+      "count": 82
     },
     {
       "updateType": "Publications / Reports",
