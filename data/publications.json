@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T13:04:27.891Z",
+  "generatedAt": "2026-09-28T23:00:14.383Z",
   "totalPublications": 488,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 243
+      "count": 244
     },
     {
       "topic": "Basel / BCBS",
@@ -468,7 +468,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 39
+      "count": 40
     },
     {
       "topic": "Capital Requirements",
@@ -480,7 +480,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 25
+      "count": 26
     },
     {
       "topic": "Credit Risk",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 243
+      "count": 244
     },
     {
       "topic": "Basel / BCBS",
@@ -542,7 +542,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 39
+      "count": 40
     },
     {
       "topic": "Capital Requirements",
@@ -554,7 +554,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 25
+      "count": 26
     },
     {
       "topic": "Credit Risk",
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 88
+      "count": 89
     },
     {
       "keyword": "reporting",
@@ -679,15 +679,15 @@
       "count": 12
     },
     {
+      "keyword": "crypto",
+      "count": 11
+    },
+    {
       "keyword": "transparency",
       "count": 11
     },
     {
       "keyword": "consultation paper",
-      "count": 10
-    },
-    {
-      "keyword": "crypto",
       "count": 10
     },
     {
@@ -715,6 +715,10 @@
       "count": 7
     },
     {
+      "keyword": "fraud",
+      "count": 7
+    },
+    {
       "keyword": "implementing technical standards",
       "count": 7
     },
@@ -733,10 +737,6 @@
     {
       "keyword": "stress testing",
       "count": 7
-    },
-    {
-      "keyword": "fraud",
-      "count": 6
     },
     {
       "keyword": "own funds",
@@ -835,6 +835,10 @@
       "count": 3
     },
     {
+      "keyword": "cryptoasset",
+      "count": 3
+    },
+    {
       "keyword": "digital operational resilience",
       "count": 3
     },
@@ -884,10 +888,6 @@
     },
     {
       "keyword": "core principles for effective banking supervision",
-      "count": 2
-    },
-    {
-      "keyword": "cryptoasset",
       "count": 2
     },
     {
@@ -1000,6 +1000,67 @@
     }
   ],
   "publications": [
+    {
+      "id": "eb0ecb8667083760",
+      "title": "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
+      "summary": "The Securities and Exchange Commission today announced settled charges against New York-based investment adviser Zoe Financial Inc. for failing to fully and fairly disclose material facts concerning conflicts of interest to its clients and prospective…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-28T17:46:30.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "18e3c04594506a1d",
+      "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-28T13:30:00.000Z",
+      "pdfLinks": [
+        "https://www.suerf.org/wp-content/uploads/2025/01/SUERF-Policy-Brief-1080-Hartmann_Maver.pdf",
+        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260928_annex~493dd9e149.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "bd15308c73c224f7",
       "title": "Pedro Machado: Competitiveness and simplification – a common agenda for European banks",
@@ -4121,29 +4182,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "2d75cb28eafa039e",
-      "title": "Christine Lagarde: Interview with Ouest-France",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-12T20:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "67b29767ebd07b0d",
       "title": "Joint Readout of Principals’ Meeting of U. S. and UK Authorities Regarding Central Counterparty Resolution",
       "summary": "Senior officials from the Securities and Exchange Commission, Federal Deposit Insurance Corporation, Commodity Futures Trading Commission, Federal Reserve Board, and Bank of England convened for a tabletop exercise on Sept. 3, 2026, to discuss certain…",
@@ -4474,11 +4512,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-09-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-09/ESMA50-1949966494-4282_TRV_Risk_Monitor_2_2026.pdf",
-        "https://www.esma.europa.eu/sites/default/files/2026-09/ESMA50-1949966494-4299_TRV_2_2026_Statistical_annex.pdf",
-        "https://www.esma.europa.eu/sites/default/files/2026-09/ESMA71-545613100-2999_Ongoing_geopolitical_and_economic_vulnerabilities_masked_by_strong_investor_optimism_-_Press_release.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -8126,29 +8160,6 @@
       ],
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "6e7b37dd375be086",
-      "title": "SEC Announces Roundtable on Preparations for 24-Hour Trading",
-      "summary": "The Securities and Exchange Commission announced today that it will host a roundtable on Sept. 17, 2026, to discuss moving towards 24-hour trading in the U. S. equity markets, including preparations to support overnight trading, operations and resiliency…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-23T15:04:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "0132f6cb5bdaa91a",
@@ -20825,6 +20836,61 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "0ef31732914f2e9e",
+      "title": "FCA secures money back for victims of crypto fraud",
+      "summary": "Victims of a £1.5m crypto investment fraud will recover lost funds after the FCA obtained confiscation orders against Raymondip Bedi and Patrick Mavanga. At a hearing at Southwark Crown Court on 28 September 2026, Raymondip Bedi was ordered to pay £603,404.28 and Patrick Mavanga £247,997.99. Between February 2017 and June 2019, Bedi and Mavanga operated a fraudulent investment scheme, cold-calling consumers and persuading them to invest in fake cryptoasset opportunities through companies including CCX Capital and Astaria Group LLP. At least 65 investors were defrauded and lost £1,541,799.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-secures-money-back-victims-crypto-fraud",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Crypto / Digital Assets",
+        "AML / Financial Crime",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "crypto",
+        "cryptoasset",
+        "fraud",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "crypto",
+            "cryptoasset"
+          ]
+        },
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "fraud"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-secures-money-back-victims-crypto-fraud",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "9696d6598a82d4ba",
       "title": "FCA sets out steps to support small businesses' access to finance",
       "summary": "Small and medium-sized enterprises (SMEs) could access finance more easily after the FCA sets out practical steps to help. An FCA review found no evidence that its regulation is a major barrier for SME access to finance. Many of the challenges identified relate to wider market, information and capability challenges. The review found that the challenges are often greatest for microbusinesses, which make up 95.5% of all SMEs and are less likely to use external finance.",
@@ -20966,43 +21032,6 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "0cc87d7701a61e2f",
-      "title": "Financial regulator bans former law firm owner from financial services",
-      "summary": "The FCA has banned Nurul Miah, also known as Neil Mia and Neil Miah, from working in financial services. The FCA acted after the Solicitors Regulation Authority (SRA) found that Mr Miah, who was a non-legal manager at Kingly Solicitors Limited, dishonestly caused or allowed more than £28m of client money to be taken from client accounts without permission between April 2019 and July 2020. The SRA also found that more than £10m of client money was missing and had been used by Mr Miah for his own benefit. Mr Miah was approved by the FCA in 2016 to work in senior management roles at an unconnected firm, Oracle Consultants Ltd.",
-      "url": "https://www.fca.org.uk/news/press-releases/financial-regulator-bans-former-law-firm-owner-financial-services",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "senior management",
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "senior management",
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/financial-regulator-bans-former-law-firm-owner-financial-services",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "0d99be89f3dbacfe",
@@ -21440,7 +21469,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-28T13:04:27.891Z",
+      "publishedAt": "2026-09-28T23:00:14.383Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21464,7 +21493,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T13:04:27.891Z",
+      "publishedAt": "2026-09-28T23:00:14.383Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21488,7 +21517,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T13:04:27.891Z",
+      "publishedAt": "2026-09-28T23:00:14.383Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21512,7 +21541,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T13:04:27.891Z",
+      "publishedAt": "2026-09-28T23:00:14.383Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21536,7 +21565,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T13:04:27.891Z",
+      "publishedAt": "2026-09-28T23:00:14.383Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21560,7 +21589,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T13:04:27.891Z",
+      "publishedAt": "2026-09-28T23:00:14.383Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21584,7 +21613,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T13:04:27.891Z",
+      "publishedAt": "2026-09-28T23:00:14.383Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21608,7 +21637,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T13:04:27.891Z",
+      "publishedAt": "2026-09-28T23:00:14.383Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21632,7 +21661,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T13:04:27.891Z",
+      "publishedAt": "2026-09-28T23:00:14.383Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21656,7 +21685,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T13:04:27.891Z",
+      "publishedAt": "2026-09-28T23:00:14.383Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21680,7 +21709,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T13:04:27.891Z",
+      "publishedAt": "2026-09-28T23:00:14.383Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21704,7 +21733,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T13:04:27.891Z",
+      "publishedAt": "2026-09-28T23:00:14.383Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21728,7 +21757,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T13:04:27.891Z",
+      "publishedAt": "2026-09-28T23:00:14.383Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21752,7 +21781,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T13:04:27.891Z",
+      "publishedAt": "2026-09-28T23:00:14.383Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21765,11 +21794,11 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 118
+      "count": 117
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 88
+      "count": 89
     },
     {
       "updateType": "News",
