@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T23:00:14.383Z",
+  "generatedAt": "2026-09-29T12:14:53.637Z",
   "totalPublications": 488,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 245
     },
     {
       "topic": "Basel / BCBS",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 245
     },
     {
       "topic": "Basel / BCBS",
@@ -683,15 +683,15 @@
       "count": 11
     },
     {
+      "keyword": "guidelines",
+      "count": 11
+    },
+    {
       "keyword": "transparency",
       "count": 11
     },
     {
       "keyword": "consultation paper",
-      "count": 10
-    },
-    {
-      "keyword": "guidelines",
       "count": 10
     },
     {
@@ -1000,6 +1000,44 @@
     }
   ],
   "publications": [
+    {
+      "id": "af22f2b4afb329c4",
+      "title": "ECB amends monetary policy implementation guidelines as part of regular review",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-29T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/legal/ecb.leg_gui_2026_26.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/legal/ecb.leg_gui_2026_27.en.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "guidelines"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "guidelines"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "eb0ecb8667083760",
       "title": "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
@@ -4035,31 +4073,6 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_1~91d3436449.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "b3aad5f82a0391cf",
-      "title": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-14T09:15:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -21469,7 +21482,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-28T23:00:14.383Z",
+      "publishedAt": "2026-09-29T12:14:53.637Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21493,7 +21506,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T23:00:14.383Z",
+      "publishedAt": "2026-09-29T12:14:53.637Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21517,7 +21530,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T23:00:14.383Z",
+      "publishedAt": "2026-09-29T12:14:53.637Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21541,7 +21554,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T23:00:14.383Z",
+      "publishedAt": "2026-09-29T12:14:53.637Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21565,7 +21578,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T23:00:14.383Z",
+      "publishedAt": "2026-09-29T12:14:53.637Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21589,7 +21602,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T23:00:14.383Z",
+      "publishedAt": "2026-09-29T12:14:53.637Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21613,7 +21626,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T23:00:14.383Z",
+      "publishedAt": "2026-09-29T12:14:53.637Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21637,7 +21650,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T23:00:14.383Z",
+      "publishedAt": "2026-09-29T12:14:53.637Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21661,7 +21674,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T23:00:14.383Z",
+      "publishedAt": "2026-09-29T12:14:53.637Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21685,7 +21698,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T23:00:14.383Z",
+      "publishedAt": "2026-09-29T12:14:53.637Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21709,7 +21722,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T23:00:14.383Z",
+      "publishedAt": "2026-09-29T12:14:53.637Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21733,7 +21746,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T23:00:14.383Z",
+      "publishedAt": "2026-09-29T12:14:53.637Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21757,7 +21770,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T23:00:14.383Z",
+      "publishedAt": "2026-09-29T12:14:53.637Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21781,7 +21794,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-28T23:00:14.383Z",
+      "publishedAt": "2026-09-29T12:14:53.637Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21798,11 +21811,11 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 89
+      "count": 90
     },
     {
       "updateType": "News",
-      "count": 82
+      "count": 81
     },
     {
       "updateType": "Publications / Reports",
