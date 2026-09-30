@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T21:58:24.232Z",
-  "totalPublications": 487,
+  "generatedAt": "2026-09-30T12:01:00.619Z",
+  "totalPublications": 488,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -195,7 +195,7 @@
       "region": "UK",
       "status": "success",
       "parserMode": "extra-html-list-parser",
-      "itemCount": 1,
+      "itemCount": 2,
       "url": "https://www.bankofengland.co.uk/financial-stability",
       "sourcePageUrl": "https://www.bankofengland.co.uk/financial-stability",
       "officialSourcePage": "https://www.bankofengland.co.uk/financial-stability",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 245
+      "count": 246
     },
     {
       "topic": "Basel / BCBS",
@@ -464,11 +464,11 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 55
+      "count": 54
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 41
+      "count": 40
     },
     {
       "topic": "Capital Requirements",
@@ -512,7 +512,7 @@
     },
     {
       "topic": "Model Risk",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "AI",
@@ -520,13 +520,13 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 4
+      "count": 5
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 245
+      "count": 246
     },
     {
       "topic": "Basel / BCBS",
@@ -538,11 +538,11 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 55
+      "count": 54
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 41
+      "count": 40
     },
     {
       "topic": "Capital Requirements",
@@ -586,7 +586,7 @@
     },
     {
       "topic": "Model Risk",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "AI",
@@ -594,7 +594,7 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 4
+      "count": 5
     }
   ],
   "keywordCloud": [
@@ -608,7 +608,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 107
+      "count": 108
     },
     {
       "keyword": "board",
@@ -687,15 +687,15 @@
       "count": 11
     },
     {
-      "keyword": "transparency",
-      "count": 11
-    },
-    {
       "keyword": "consultation paper",
       "count": 10
     },
     {
       "keyword": "operational resilience",
+      "count": 10
+    },
+    {
+      "keyword": "transparency",
       "count": 10
     },
     {
@@ -723,10 +723,6 @@
       "count": 7
     },
     {
-      "keyword": "internal models",
-      "count": 7
-    },
-    {
       "keyword": "regulatory technical standards",
       "count": 7
     },
@@ -737,6 +733,10 @@
     {
       "keyword": "stress testing",
       "count": 7
+    },
+    {
+      "keyword": "internal models",
+      "count": 6
     },
     {
       "keyword": "own funds",
@@ -815,14 +815,6 @@
       "count": 4
     },
     {
-      "keyword": "sanctions",
-      "count": 4
-    },
-    {
-      "keyword": "stablecoins",
-      "count": 4
-    },
-    {
       "keyword": "ai models",
       "count": 3
     },
@@ -859,7 +851,15 @@
       "count": 3
     },
     {
+      "keyword": "sanctions",
+      "count": 3
+    },
+    {
       "keyword": "settlement",
+      "count": 3
+    },
+    {
+      "keyword": "stablecoins",
       "count": 3
     },
     {
@@ -926,7 +926,7 @@
     },
     {
       "region": "UK",
-      "count": 129
+      "count": 130
     },
     {
       "region": "US",
@@ -956,7 +956,7 @@
     },
     {
       "institution": "Bank of England",
-      "count": 51
+      "count": 52
     },
     {
       "institution": "Bank of England / Prudential Regulation Authority",
@@ -1000,6 +1000,185 @@
     }
   ],
   "publications": [
+    {
+      "id": "784723f3b154edb3",
+      "title": "Systemic Risk Survey Results - 2026 H2",
+      "summary": "The Systemic Risk Survey is conducted on a biannual basis, to quantify and track market participants’ views of risks to, and their confidence in, the stability of the UK financial system.",
+      "url": "https://www.bankofengland.co.uk/systemic-risk-survey/2026/2026-h2",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-30T09:30:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/systemic-risk-survey/2026/2026-h2.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/systemic-risk-survey/2026/2026-h2",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "acef1380787c9be5",
+      "title": "Sharon Donnery: Interview with banko.ro",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260930~04503f5461.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-30T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260930~04503f5461.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "216e833ef4451b13",
+      "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-30T02:20:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op194.pt.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "61f86b45a7404f0f",
+      "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260930~8b08062e83.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-30T02:20:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op194.pt.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260930~8b08062e83.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "931d3ca18e7f294c",
+      "title": "News // Financial Policy Committee (FPC)",
+      "summary": "",
+      "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/financial-stability",
+      "officialSourcePage": "https://www.bankofengland.co.uk/financial-stability",
+      "sourceId": "boe-financial-stability",
+      "sourceName": "BoE Financial Stability",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "html-list",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/financial-policy-committee-record/2026/fpc-summary-and-record-september-2026.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/financial-stability",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "bede23e1d74813e9",
       "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
@@ -4148,29 +4327,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "cfdc958a9661cbf1",
-      "title": "Piero Cipollone: The future of euro cash: trusted today, designed for tomorrow",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_1~91d3436449.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-14T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_1~91d3436449.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "7dca907e6005e4ce",
       "title": "DeFi-ying the Fed? Monetary policy transmission to stablecoin deposit rates",
       "summary": "Does the Federal Reserve’s monetary policy influence the rates on USD-pegged stablecoins? While major stablecoin issuers do not pay interest, investors can earn returns by depositing stablecoins in Decentralized Finance (DeFi) protocols. We document unusually large and persistent spreads between traditional short-term interest rates and DeFi deposit rates, as well as a weak and unstable transmission of policy rate changes. We show that, in the short run, monetary policy shocks can move stablecoin rates in the opposite direction of policy rates, delaying a convergence that occurs only over the medium run.",
@@ -4347,12 +4503,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-09-11T14:00:00.000Z",
-      "pdfLinks": [
-        "https://www.govinfo.gov/content/pkg/FR-2026-09-15/pdf/2026-18859.pdf",
-        "https://www.govinfo.gov/content/pkg/FR-2026-09-15/pdf/2026-18852.pdf",
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260911a3.pdf",
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260911a4.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "DORA / Operational Resilience",
         "Governance"
@@ -4433,10 +4584,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-09-11T08:30:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/inflation-attitudes-survey/methodology-and-notes.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/inflation-attitudes-survey/methodology-and-notes-face-to-face.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4461,14 +4609,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-09-11T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.geopolstresstest202608.en.pdf",
-        "https://www.bis.org/publ/bcbs155.pdf",
-        "https://www.imf.org/-/media/files/publications/cr/2025/english/1eurea2025007.pdf",
-        "https://www.bankingsupervision.europa.eu/framework/legal-framework/public-consultations/pdf/ssm.pubcon230724_draftguide.en.pdf",
-        "https://www.bankingsupervision.europa.eu/press/conferences/shared/pdf/sup_rep_conf/2025/Kokkonidis_slides.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op254~664ed99e11.en.pdf?8cbb52f88235380654d2bdd273a49758"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Stress Testing",
@@ -10155,68 +10296,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "2c063738ed608197",
-      "title": "ECB sanctions BIL for breaching ECB decision on internal models",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260629~f60e0e7048.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-29T16:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "AML / Financial Crime",
-        "Model Risk",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "sanctions",
-        "internal models",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "sanctions"
-          ]
-        },
-        {
-          "id": "model-risk",
-          "label": "Model Risk",
-          "keywords": [
-            "internal models"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260629~f60e0e7048.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "e820c92985d43c90",
       "title": "The EBA publishes a roadmap on the delivery of its mandates under the revised Deposit Guarantee Schemes Directive",
       "summary": "The European Banking Authority (EBA) today published a roadmap outlining how it will deliver its mandates under the revised Deposit Guarantee Schemes Directive (DGSD3). The roadmap sets out the EBA’s role in implementing DGSD3 by developing a set of regulatory products to strengthen depositor protection across the EU. It also presents the timeline for these deliverables, which will ensure depositors are better informed about their rights, better protected, and that deposit guarantee schemes are prepared to act when needed.",
@@ -10325,29 +10404,6 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.bankofengland.co.uk/working-paper/2026/developing-a-house-price-at-risk-framework-for-the-uk",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "d61def2447954ade",
-      "title": "Monetary transmission to firm-level research and development",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/monetary-transmission-to-firm-level-r-and-d",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-26T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/monetary-transmission-to-firm-level-r-and-d",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
@@ -10544,61 +10600,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "5090a4cf035c20ce",
-      "title": "ECB streamlines supervisory guidance to improve clarity and transparency",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260626~57c6ccd373.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-26T07:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "transparency",
-        "supervision",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "transparency"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260626~57c6ccd373.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "827f9d7cc0880f60",
@@ -20513,65 +20514,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "7ebdf1b16624440a",
-      "title": "Crypto firms get guidance on how the new regime applies",
-      "summary": "New FCA guidance will help firms understand how the law underpinning the UK's future cryptoasset regime applies to their business. It also sets out which activities may require FCA authorisation. The regime comes into force on 25 October 2027. With applications for authorisation opening from 30 September 2026, firms need this guidance now to help them prepare. The guidance covers activities including issuing qualifying stablecoins, operating cryptoasset trading platforms, dealing and arranging deals, safeguarding cryptoassets and arranging cryptoasset staking.",
-      "url": "https://www.fca.org.uk/news/press-releases/crypto-firms-get-guidance-how-new-regime-applies",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Crypto / Digital Assets",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "crypto",
-        "cryptoasset",
-        "cryptoassets",
-        "stablecoins",
-        "conduct",
-        "authorisation"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "crypto",
-            "cryptoasset",
-            "cryptoassets",
-            "stablecoins"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "authorisation"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/crypto-firms-get-guidance-how-new-regime-applies",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "e2c0fcd1c67e704a",
       "title": "Debt advice warning: spot the red flags",
       "summary": "People seeking debt advice are being urged to watch out for red flags. Free debt advice is available to everyone. However, the FCA is concerned that some consumers are being steered towards fee-paying debt solutions that may not be suitable for their needs, sometimes through high pressure sales tactics, misleading information or being advised by firms that do not have the appropriate permissions. Red flags include:Pressure tactics: Feeling hassled, or repeatedly contacted, particularly after an online enquiry or unexpected phone call, and being pressured to agree to a debt solution quickly over the phone or via WhatsApp, without time to properly consider their options.",
@@ -20797,6 +20739,70 @@
         }
       ],
       "link": "https://www.fca.org.uk/news/news-stories/fca-opens-investigation-euro-exchange-securities-uk-ltd",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "29ae48b46bbc4550",
+      "title": "FCA opens the gateway to regulated crypto",
+      "summary": "From today, crypto firms can apply for authorisation from the FCA, marking a landmark moment as the UK takes a step closer towards becoming one of the most trusted places in the world to build and invest in cryptoasset businesses. For the first time, crypto firms operating in the UK will be brought into full FCA regulation, with clear standards covering consumer protection, safeguarding, market integrity and financial resilience. This is a significant milestone, not just for the industry, but it signals to those who invest in crypto that the UK is serious in giving them protections they have never had before.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-opens-gateway-regulated-crypto",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Crypto / Digital Assets",
+        "Consumer Protection",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "crypto",
+        "cryptoasset",
+        "consumer protection",
+        "conduct",
+        "authorisation"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "crypto",
+            "cryptoasset"
+          ]
+        },
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "consumer protection"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "authorisation"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/fca-opens-gateway-regulated-crypto",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
@@ -21479,7 +21485,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-29T21:58:24.232Z",
+      "publishedAt": "2026-09-30T12:01:00.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21503,7 +21509,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-29T21:58:24.232Z",
+      "publishedAt": "2026-09-30T12:01:00.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21527,7 +21533,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-29T21:58:24.232Z",
+      "publishedAt": "2026-09-30T12:01:00.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21551,7 +21557,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-29T21:58:24.232Z",
+      "publishedAt": "2026-09-30T12:01:00.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21575,7 +21581,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-29T21:58:24.232Z",
+      "publishedAt": "2026-09-30T12:01:00.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21599,7 +21605,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-29T21:58:24.232Z",
+      "publishedAt": "2026-09-30T12:01:00.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21623,7 +21629,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-29T21:58:24.232Z",
+      "publishedAt": "2026-09-30T12:01:00.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21647,7 +21653,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-29T21:58:24.232Z",
+      "publishedAt": "2026-09-30T12:01:00.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21671,7 +21677,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-29T21:58:24.232Z",
+      "publishedAt": "2026-09-30T12:01:00.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21695,7 +21701,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-29T21:58:24.232Z",
+      "publishedAt": "2026-09-30T12:01:00.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21719,7 +21725,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-29T21:58:24.232Z",
+      "publishedAt": "2026-09-30T12:01:00.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21743,7 +21749,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-29T21:58:24.232Z",
+      "publishedAt": "2026-09-30T12:01:00.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21767,7 +21773,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-29T21:58:24.232Z",
+      "publishedAt": "2026-09-30T12:01:00.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21791,7 +21797,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-29T21:58:24.232Z",
+      "publishedAt": "2026-09-30T12:01:00.619Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21804,7 +21810,7 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 117
+      "count": 119
     },
     {
       "updateType": "Rules / Standards / Guidance",
@@ -21812,15 +21818,15 @@
     },
     {
       "updateType": "News",
-      "count": 82
+      "count": 81
     },
     {
       "updateType": "Publications / Reports",
-      "count": 74
+      "count": 75
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 44
+      "count": 43
     },
     {
       "updateType": "Consultations",
