@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T21:56:22.555Z",
+  "generatedAt": "2026-10-01T12:34:17.883Z",
   "totalPublications": 487,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -272,7 +272,7 @@
       "institution": "Network for Greening the Financial System",
       "region": "Global",
       "status": "success",
-      "parserMode": "source-empty-or-unavailable",
+      "parserMode": "html-list-empty",
       "itemCount": 0,
       "url": "https://www.ngfs.net/en/publications-and-statistics/ngfs-publications",
       "sourcePageUrl": "https://www.ngfs.net/en/publications-and-statistics/ngfs-publications",
@@ -487,12 +487,12 @@
       "count": 23
     },
     {
-      "topic": "Payments / Open Finance",
+      "topic": "Stress Testing",
       "count": 22
     },
     {
-      "topic": "Stress Testing",
-      "count": 22
+      "topic": "Payments / Open Finance",
+      "count": 21
     },
     {
       "topic": "Recovery / Resolution",
@@ -561,12 +561,12 @@
       "count": 23
     },
     {
-      "topic": "Payments / Open Finance",
+      "topic": "Stress Testing",
       "count": 22
     },
     {
-      "topic": "Stress Testing",
-      "count": 22
+      "topic": "Payments / Open Finance",
+      "count": 21
     },
     {
       "topic": "Recovery / Resolution",
@@ -668,7 +668,7 @@
     },
     {
       "keyword": "payments",
-      "count": 15
+      "count": 14
     },
     {
       "keyword": "policy statement",
@@ -1000,6 +1000,147 @@
     }
   ],
   "publications": [
+    {
+      "id": "65ba75fd01dc73f4",
+      "title": "Patrick Montagner: Remaining vigilant in a changing risk environment",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261001_1~039634f271.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-01T10:15:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261001_1~039634f271.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "cbef0ae971313bb7",
+      "title": "PRA Regulatory Digest – September 2026",
+      "summary": "The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/september-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-01T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/september-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "88c714e49133e633",
+      "title": "Euro area bank interest rate statistics: August 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-statistical-press-releases",
+      "sourceName": "ECB Statistical Press Releases",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-01T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "a2faf4ec7d75c4ec",
+      "title": "Pedro Machado: The exit test: why the single market in banking depends on how banks fail",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261001~6a72b2ab07.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-01T07:30:00.000Z",
+      "pdfLinks": [
+        "https://www.bis.org/publications/fsi-paper-26-what-needs-be-done-improve-efficiency-resolution-framework-banking-union.pdf",
+        "https://www.srb.europa.eu/system/files/media/document/MREL%20Policy%202024_clean%20version_web.pdf",
+        "https://www.srb.europa.eu/system/files/media/document/2026-07-20_MREL-dashboard-H2-2025.pdf",
+        "https://www.bankingsupervision.europa.eu/press/speeches/date/2026/html/ssm.sp260506~530f6aa051.en.pdf",
+        "https://www.esm.europa.eu/system/files/document/2026-07/05-TESM-AMD-BG.en21.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/other/ecb.simplification_supervisory_reporting_framework202512.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261001~6a72b2ab07.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
     {
       "id": "5f7b422438722e9a",
       "title": "SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities",
@@ -4204,9 +4345,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-09-16T18:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/monetarypolicy/files/monetary20260916a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -9859,41 +9998,6 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "f5f57f39a5b9d1b5",
-      "title": "Euro area quarterly balance of payments and international investment position: first quarter of 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq260703~7d2888b3ee.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-statistical-press-releases",
-      "sourceName": "ECB Statistical Press Releases",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-03T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "payments"
-      ],
-      "topicMatches": [
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payments"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq260703~7d2888b3ee.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
-    },
-    {
       "id": "846b5e96be6a1c34",
       "title": "Bank of England Weekly Report 1 July 2026",
       "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
@@ -9915,50 +10019,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "79282a48dbbed1e9",
-      "title": "Frank Elderson: The green transition – benefits and barriers",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260702_1~9af2c5f010.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-02T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260702_1~9af2c5f010.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "3415673992d08de8",
@@ -10005,50 +10065,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "ed54cb50114189aa",
-      "title": "Claudia Buch: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260702~8fde047a2d.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-02T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260702~8fde047a2d.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "40981b32b968df86",
@@ -14514,29 +14530,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "d665d856f8ed4fc4",
-      "title": "PRA Regulatory Digest – February 2026",
-      "summary": "The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/february-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-03-02T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/february-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "4e93b3039d9f6704",
@@ -21441,7 +21434,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-09-30T21:56:22.555Z",
+      "publishedAt": "2026-10-01T12:34:17.883Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21465,7 +21458,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-30T21:56:22.555Z",
+      "publishedAt": "2026-10-01T12:34:17.883Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21489,7 +21482,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-30T21:56:22.555Z",
+      "publishedAt": "2026-10-01T12:34:17.883Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21513,7 +21506,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-30T21:56:22.555Z",
+      "publishedAt": "2026-10-01T12:34:17.883Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21537,7 +21530,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-30T21:56:22.555Z",
+      "publishedAt": "2026-10-01T12:34:17.883Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21561,7 +21554,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-30T21:56:22.555Z",
+      "publishedAt": "2026-10-01T12:34:17.883Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21585,7 +21578,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-30T21:56:22.555Z",
+      "publishedAt": "2026-10-01T12:34:17.883Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21609,7 +21602,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-30T21:56:22.555Z",
+      "publishedAt": "2026-10-01T12:34:17.883Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21633,7 +21626,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-30T21:56:22.555Z",
+      "publishedAt": "2026-10-01T12:34:17.883Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21657,7 +21650,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-30T21:56:22.555Z",
+      "publishedAt": "2026-10-01T12:34:17.883Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21681,7 +21674,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-30T21:56:22.555Z",
+      "publishedAt": "2026-10-01T12:34:17.883Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21705,7 +21698,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-30T21:56:22.555Z",
+      "publishedAt": "2026-10-01T12:34:17.883Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21729,7 +21722,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-30T21:56:22.555Z",
+      "publishedAt": "2026-10-01T12:34:17.883Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21753,7 +21746,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-09-30T21:56:22.555Z",
+      "publishedAt": "2026-10-01T12:34:17.883Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
