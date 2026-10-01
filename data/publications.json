@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T12:34:17.883Z",
-  "totalPublications": 487,
+  "generatedAt": "2026-10-01T22:24:24.910Z",
+  "totalPublications": 486,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 10,
+      "itemCount": 9,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 245
     },
     {
       "topic": "Basel / BCBS",
@@ -460,7 +460,7 @@
     },
     {
       "topic": "Governance",
-      "count": 131
+      "count": 130
     },
     {
       "topic": "Reporting / Disclosure",
@@ -468,7 +468,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 36
+      "count": 34
     },
     {
       "topic": "Capital Requirements",
@@ -484,14 +484,14 @@
     },
     {
       "topic": "Credit Risk",
-      "count": 23
-    },
-    {
-      "topic": "Stress Testing",
       "count": 22
     },
     {
       "topic": "Payments / Open Finance",
+      "count": 21
+    },
+    {
+      "topic": "Stress Testing",
       "count": 21
     },
     {
@@ -511,22 +511,22 @@
       "count": 10
     },
     {
+      "topic": "AI",
+      "count": 8
+    },
+    {
       "topic": "Model Risk",
       "count": 8
     },
     {
-      "topic": "AI",
-      "count": 7
-    },
-    {
       "topic": "Consumer Protection",
-      "count": 7
+      "count": 6
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 245
     },
     {
       "topic": "Basel / BCBS",
@@ -534,7 +534,7 @@
     },
     {
       "topic": "Governance",
-      "count": 131
+      "count": 130
     },
     {
       "topic": "Reporting / Disclosure",
@@ -542,7 +542,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 36
+      "count": 34
     },
     {
       "topic": "Capital Requirements",
@@ -558,14 +558,14 @@
     },
     {
       "topic": "Credit Risk",
-      "count": 23
-    },
-    {
-      "topic": "Stress Testing",
       "count": 22
     },
     {
       "topic": "Payments / Open Finance",
+      "count": 21
+    },
+    {
+      "topic": "Stress Testing",
       "count": 21
     },
     {
@@ -585,16 +585,16 @@
       "count": 10
     },
     {
+      "topic": "AI",
+      "count": 8
+    },
+    {
       "topic": "Model Risk",
       "count": 8
     },
     {
-      "topic": "AI",
-      "count": 7
-    },
-    {
       "topic": "Consumer Protection",
-      "count": 7
+      "count": 6
     }
   ],
   "keywordCloud": [
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 88
+      "count": 89
     },
     {
       "keyword": "reporting",
@@ -639,10 +639,6 @@
       "count": 23
     },
     {
-      "keyword": "conduct",
-      "count": 23
-    },
-    {
       "keyword": "anti money laundering",
       "count": 22
     },
@@ -651,12 +647,12 @@
       "count": 22
     },
     {
-      "keyword": "credit risk",
-      "count": 19
+      "keyword": "conduct",
+      "count": 22
     },
     {
-      "keyword": "stress test",
-      "count": 16
+      "keyword": "credit risk",
+      "count": 19
     },
     {
       "keyword": "enforcement",
@@ -664,6 +660,10 @@
     },
     {
       "keyword": "liquidity",
+      "count": 15
+    },
+    {
+      "keyword": "stress test",
       "count": 15
     },
     {
@@ -680,7 +680,7 @@
     },
     {
       "keyword": "crypto",
-      "count": 11
+      "count": 12
     },
     {
       "keyword": "transparency",
@@ -715,10 +715,6 @@
       "count": 7
     },
     {
-      "keyword": "fraud",
-      "count": 7
-    },
-    {
       "keyword": "implementing technical standards",
       "count": 7
     },
@@ -728,10 +724,6 @@
     },
     {
       "keyword": "rts",
-      "count": 7
-    },
-    {
-      "keyword": "stress testing",
       "count": 7
     },
     {
@@ -747,11 +739,19 @@
       "count": 6
     },
     {
+      "keyword": "stress testing",
+      "count": 6
+    },
+    {
       "keyword": "crd",
       "count": 5
     },
     {
       "keyword": "dora",
+      "count": 5
+    },
+    {
+      "keyword": "fraud",
       "count": 5
     },
     {
@@ -776,10 +776,6 @@
     },
     {
       "keyword": "reverse stress",
-      "count": 5
-    },
-    {
-      "keyword": "stablecoin",
       "count": 5
     },
     {
@@ -815,7 +811,7 @@
       "count": 4
     },
     {
-      "keyword": "retail investors",
+      "keyword": "stablecoin",
       "count": 4
     },
     {
@@ -860,6 +856,10 @@
     },
     {
       "keyword": "recovery plans",
+      "count": 3
+    },
+    {
+      "keyword": "retail investors",
       "count": 3
     },
     {
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 277
+      "count": 276
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 86
+      "count": 85
     },
     {
       "institution": "European Banking Authority",
@@ -1001,6 +1001,190 @@
   ],
   "publications": [
     {
+      "id": "ad7b7bbb4f68e5ca",
+      "title": "SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
+      "summary": "The Securities and Exchange Commission today proposed new rules and amendments to provide a tailored framework for the custody of crypto assets for registered investment advisers and regulated funds, i.e. registered investment companies and business…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-01T16:16:07.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Crypto / Digital Assets"
+      ],
+      "matchedKeywords": [
+        "crypto"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "crypto"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "ae4b337c0b2e6ee6",
+      "title": "Isabel Schnabel: Central banks on-chain",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-01T15:30:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "4f210e56104f7cc6",
+      "title": "SEC’s Division of Examinations Announces New Exam Handbook",
+      "summary": "The Securities and Exchange Commission’s Division of Examinations today published its new handbook, “The SEC Exam Handbook: A Practical Guide on Process and Engagement,” which replaces and expands upon the previous examination brochure by providing…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-01T15:03:35.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "30f30cd6ebcf57bb",
+      "title": "Bank of England Weekly Report 30 September 2026",
+      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+      "url": "https://www.bankofengland.co.uk/weekly-report/2026/30-september-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-01T14:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/30-september-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "9078f10ef677b175",
+      "title": "Christine Lagarde: Where AI risks meet",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-01T13:30:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-02/ESMA50-481369926-30599_TRV_Risk_Analysis_AI_adoption_and_trends_in_securities_markets.pdf",
+        "https://www.fsb.org/wp-content/uploads/P011117.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/asc/esrb.ascreport202512_AIandsystemicrisk.en.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/reports/esrb.report202607_AImodelscybercapabilites.en.pdf"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "matchedKeywords": [
+        "ai risks"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "ai risks"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "a16af283d310ff29",
+      "title": "Scottish and Northern Ireland Banknote Issuance Annual Report 2026",
+      "summary": "Report on the Bank of England’s work under the Scottish and Northern Ireland Banknote Regulations 2009.",
+      "url": "https://www.bankofengland.co.uk/banknotes/scottish-and-northern-ireland-banknotes/2026-annual-report",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-01T13:30:00.000Z",
+      "pdfLinks": [
+        "http://www.opsi.gov.uk/si/si2009/pdf/uksi_20093056_en.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/banknotes/scottish-northern-ireland/scottish-and-northern-ireland-statement-of-penalty-policy-2018.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/banknotes/scottish-and-northern-ireland-banknotes/2026-annual-report",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
       "id": "65ba75fd01dc73f4",
       "title": "Patrick Montagner: Remaining vigilant in a changing risk environment",
       "summary": "",
@@ -1043,6 +1227,56 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "8d5b685018666d41",
+      "title": "Forecasting wages with local linear forests",
+      "summary": "This study applies a Local Linear Forest (LLF) for wage forecasting in France. The LLF outperforms benchmarks such as Random Walk (RW), Ridge Regressions (RR) and Random Forests (RF). We also show that adding foreign predictors (i.e. measures of real activity, price and wage pressures from Germany and Italy) to French economic variables significantly improves wage predictions in France. The implications of our results are that wage dynamics in France exhibit non-linearity, to a certain extent, and that the better ability of LLFs relative to RFs to fit smooth signals is a valuable feature, especially at times in which wage growth reaches unprecedented levels from an historical perspective.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3291~03026896b2.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-01T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3291~03026896b2.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3291~03026896b2.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "5f432025eef38348",
+      "title": "Monetary policy surprises with imperfect information",
+      "summary": "High-frequency interest rate surprises around Fed announcements do not identify monetary policy (MP) shocks if markets are imperfectly informed. Instead, they can also reflect central bank information (CBI) shocks, when the Fed assesses the economy differently, and Fed-response-to-news (FRN) shocks, when markets misperceive the policy rule. The literature treats these as competing explanations; we show they are distinct, and jointly identify all three from the co-movement of interest rate and equity surprises, their predictability from public news, and heteroskedasticity between FOMC and non-FOMC communication. CBI effects are robust at daily and monthly frequencies; FRN matters only daily.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3292~76d878a0cf.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-01T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3292~76d878a0cf.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3292~76d878a0cf.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "cbef0ae971313bb7",
@@ -3709,14 +3943,14 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "66709c4c14ebe9ee",
+      "id": "237abae89a2374f3",
       "title": "The impact of macroprudential policy fragmentation on corporate lending – evidence from a novel indicator",
       "summary": "We construct a novel bank-level index that quantifies fragmentation in the capital buffer framework faced by euro area banks. Defined at quarterly frequency, it measures fragmentation by looking at the number of simultaneously active buffers, their geographical dispersion, and the frequency of buffer rate changes within the preceding year. The index is orthogonalised with respect to the level of capital requirements, bank size, and the financial cycle, thus controlling for these factors when measuring fragmentation as defined above.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3287~f3a9c1695b.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -3743,35 +3977,9 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3287~f3a9c1695b.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "f9782b2fa2c47fea",
-      "title": "The uneven journey of wholesale gas and electricity prices to consumer bills",
-      "summary": "The sharp rise in energy prices in the first half of 2026 evoked memories of the 2021-22 energy price shock. However, the 2026 energy price shock has so far been smaller in scale. This reflects more limited growth in wholesale gas prices and an increased share of electricity generated from renewables, which has dampened the pass-through of gas prices to wholesale electricity prices. The transmission of wholesale prices to retail prices has also changed, becoming somewhat faster for gas prices.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_04~5f026ee8e2.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-21T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op388.en.pdf",
-        "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/24/T3/Files/be2403-art09e.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_04~5f026ee8e2.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "b89bb19d23e135fe",
@@ -4049,32 +4257,6 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "455258e19fc162ee",
-      "title": "ECB Consumer Expectations Survey results – August 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-18T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/shared/pdf/CES_aggregate_statistics_guide.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op287~ea7eebc23f.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "169311c815135ed1",
       "title": "Euro area monthly balance of payments: July 2026",
       "summary": "",
@@ -4162,29 +4344,6 @@
       "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "cdb9f2f59e155f77",
-      "title": "Boris Vujčić: Interview with Reuters",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-18T06:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "f24d104555c50c98",
@@ -4308,9 +4467,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-09-16T18:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20260916.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -6008,31 +6165,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "ed97960df982b3dc",
-      "title": "Environmental policy uncertainty and cleantech FDI",
-      "summary": "This paper examines whether environmental policy uncertainty undermines clean-technology investment in the United States by weakening policy-induced investment incentives. Using quarterly project-level data on U. S. greenfield investments from 2007Q1 to 2019Q1, combined with novel news-based indices that separately measure environmental policy salience and environmental policy uncertainty, we find that policy uncertainty substantially offsets the positive investment effects of environmental policy.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3278~42c60efb87.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-31T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3278~42c60efb87.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3278~42c60efb87.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
       "id": "02d63757c730ce0a",
       "title": "SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations",
       "summary": "The Securities and Exchange Commission today proposed amendments to Rule 3a12-8 under the Securities Exchange Act of 1934 to add the debt obligations of the European Union (EU) to the list of foreign government debt obligations designated as \"exempted…",
@@ -6476,54 +6608,6 @@
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "509d2df902aad3d5",
-      "title": "Learning probability of default and stress testing",
-      "summary": "We analyze the Probability of Default (PD) of non-financial corporations in Europe using Random Forests (RF) and assess implications for stress testing the banking sector. To this end, we exploit data on firms’ financial statements (Orbis) and banks’ credit registry (Anacredit). We show that RF displays stronger risk sensitivity than logistic regression in stress testing, shedding new light on the non-linear effect of scenario severity on PD. Moreover, we show how RF-based PD can be used in a network of banks and firms to stress test the banking sector through loan exposures as a key transmission channel of adverse scenarios.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3277~46bd788158.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-24T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3277~46bd788158.en.pdf"
-      ],
-      "topics": [
-        "Credit Risk",
-        "Stress Testing"
-      ],
-      "matchedKeywords": [
-        "probability of default",
-        "stress test",
-        "stress testing"
-      ],
-      "topicMatches": [
-        {
-          "id": "credit-risk",
-          "label": "Credit Risk",
-          "keywords": [
-            "probability of default"
-          ]
-        },
-        {
-          "id": "stress-testing",
-          "label": "Stress Testing",
-          "keywords": [
-            "stress test",
-            "stress testing"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3277~46bd788158.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "c232c582098f0ef2",
@@ -6971,50 +7055,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "2696a11449aff716",
-      "title": "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
-      "summary": "The Securities and Exchange Commission today charged New York resident Andrew Spaventa and three entities he owned and controlled with fraud and other violations in connection with unregistered securities offerings of private funds that purportedly…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-14T20:16:34.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime",
-        "Consumer Protection"
-      ],
-      "matchedKeywords": [
-        "fraud",
-        "retail investors"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "fraud"
-          ]
-        },
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "retail investors"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "10d526b7e3ff0580",
       "title": "Outsourcing and competition in the banking sector: the rise of Cloud Service Providers",
       "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
@@ -7094,41 +7134,6 @@
       "sourceFeedUrl": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "f998ce8ae177a504",
-      "title": "SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities",
-      "summary": "The Securities and Exchange Commission today charged three Toms River, New Jersey residents for their roles in an affinity investment fraud that raised approximately $47 million from more than 87 investors, who were primarily members of Orthodox Jewish…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-74-sec-charges-toms-river-trio-connection-alleged-47-million-fraud-targeting-orthodox-jewish",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-13T20:32:19.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime"
-      ],
-      "matchedKeywords": [
-        "fraud"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "fraud"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-74-sec-charges-toms-river-trio-connection-alleged-47-million-fraud-targeting-orthodox-jewish",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "8562ccb625eb5434",
@@ -10296,50 +10301,6 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "3f24243ebaf16064",
-      "title": "Bank of England and Financial Conduct Authority’s approach to joint regulation of systemic stablecoin issuers",
-      "summary": "Approach document",
-      "url": "https://www.bankofengland.co.uk/paper/2026/boe-and-fcas-approach-to-joint-regulation-of-systemic-stablecoin-issuers",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-30T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Crypto / Digital Assets",
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "stablecoin",
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "stablecoin"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/paper/2026/boe-and-fcas-approach-to-joint-regulation-of-systemic-stablecoin-issuers",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "aa298ab3622dc965",
       "title": "EU deposit guarantee scheme funds to protect depositors against bank failures continue to grow and have reached a volume of €85bn, the EBA observes",
       "summary": "The European Banking Authority (EBA) today published end-2025 data on two key concepts and indicators in the DGSD, namely financial means available to, and covered deposits protected by DGSs. This annual publication, covering each Member State, enhances transparency and accountability across the EU to the benefit of depositors, markets, policymakers, DGSs and Members States.",
@@ -10538,29 +10499,6 @@
       ],
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "ec03b5825e072974",
-      "title": "Developing a house price-at-risk framework for the UK",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/developing-a-house-price-at-risk-framework-for-the-uk",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-26T13:01:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/developing-a-house-price-at-risk-framework-for-the-uk",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "393f28b1bf919b62",
@@ -21434,7 +21372,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-01T12:34:17.883Z",
+      "publishedAt": "2026-10-01T22:24:24.910Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21458,7 +21396,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T12:34:17.883Z",
+      "publishedAt": "2026-10-01T22:24:24.910Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21482,7 +21420,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T12:34:17.883Z",
+      "publishedAt": "2026-10-01T22:24:24.910Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21506,7 +21444,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T12:34:17.883Z",
+      "publishedAt": "2026-10-01T22:24:24.910Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21530,7 +21468,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T12:34:17.883Z",
+      "publishedAt": "2026-10-01T22:24:24.910Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21554,7 +21492,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T12:34:17.883Z",
+      "publishedAt": "2026-10-01T22:24:24.910Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21578,7 +21516,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T12:34:17.883Z",
+      "publishedAt": "2026-10-01T22:24:24.910Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21602,7 +21540,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T12:34:17.883Z",
+      "publishedAt": "2026-10-01T22:24:24.910Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21626,7 +21564,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T12:34:17.883Z",
+      "publishedAt": "2026-10-01T22:24:24.910Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21650,7 +21588,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T12:34:17.883Z",
+      "publishedAt": "2026-10-01T22:24:24.910Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21674,7 +21612,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T12:34:17.883Z",
+      "publishedAt": "2026-10-01T22:24:24.910Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21698,7 +21636,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T12:34:17.883Z",
+      "publishedAt": "2026-10-01T22:24:24.910Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21722,7 +21660,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T12:34:17.883Z",
+      "publishedAt": "2026-10-01T22:24:24.910Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21746,7 +21684,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T12:34:17.883Z",
+      "publishedAt": "2026-10-01T22:24:24.910Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21759,15 +21697,15 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 120
+      "count": 119
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 92
+      "count": 95
     },
     {
       "updateType": "News",
-      "count": 78
+      "count": 77
     },
     {
       "updateType": "Publications / Reports",
@@ -21775,7 +21713,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 43
+      "count": 41
     },
     {
       "updateType": "Consultations",
