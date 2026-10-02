@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T22:24:24.910Z",
+  "generatedAt": "2026-10-02T12:00:30.942Z",
   "totalPublications": 486,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -520,7 +520,7 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 6
+      "count": 7
     }
   ],
   "topicsSummary": [
@@ -594,7 +594,7 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 6
+      "count": 7
     }
   ],
   "keywordCloud": [
@@ -767,10 +767,6 @@
       "count": 5
     },
     {
-      "keyword": "payment",
-      "count": 5
-    },
-    {
       "keyword": "pillar 3",
       "count": 5
     },
@@ -808,6 +804,10 @@
     },
     {
       "keyword": "esg",
+      "count": 4
+    },
+    {
+      "keyword": "payment",
       "count": 4
     },
     {
@@ -1000,6 +1000,142 @@
     }
   ],
   "publications": [
+    {
+      "id": "cb22805ee2cd6cdf",
+      "title": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-02T11:30:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/other/ecb.simplification_supervisory_reporting_framework202512.en.pdf",
+        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2951~e55e828e44.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3043~967a27abd4.en.pdf",
+        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261002_annex~70347620f7.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "6c9f60c5e937dd95",
+      "title": "Households and non-financial corporations in the euro area: second quarter of 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q2~444dc6a8ee.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-statistical-press-releases",
+      "sourceName": "ECB Statistical Press Releases",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-02T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/pdf/ffi/ecb.eaefd_early2026q2_annex_1~7e37dfbf1d.en.pdf",
+        "https://www.ecb.europa.eu/press/pdf/ffi/ecb.eaefd_early2026q2_annex~1ff00dc3bd.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q2~444dc6a8ee.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "8d251b37b7d35f21",
+      "title": "How firms plan to finance AI investment- evidence from the SAFE",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261002~7e82912ad5.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-blog",
+      "sourceName": "ECB Blog",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-02T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261002~7e82912ad5.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "34e1c2a33a31fa17",
+      "title": "Monthly Decision Maker Panel data - September 2026",
+      "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+      "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/september-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-02T08:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/september-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "d2eb24b366755893",
+      "title": "Euro area quarterly balance of payments and international investment position: second quarter of 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-statistical-press-releases",
+      "sourceName": "ECB Statistical Press Releases",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-02T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "payments"
+      ],
+      "topicMatches": [
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payments"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
     {
       "id": "ad7b7bbb4f68e5ca",
       "title": "SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
@@ -3883,29 +4019,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "1df1da10202e7ca5",
-      "title": "Eurosystem brings central bank money to tokenised finance",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-21T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "cc77d18578ad708d",
       "title": "Inflation narratives and risk premia",
       "summary": "Theory suggests inflation risk premia are positive when supply shocks are expected to dominate demand shocks and negative otherwise. We measure these beliefs using demand and supply narratives derived from inflation news via Causality Extraction, which identifies causal relations between inflation and its drivers. Using narrative extracted from inflation news from the Financial Times for the Euro Area and the Wall Street Journal for the US, our key variable, NetDemand, measures the difference in articles attributing inflation to demand versus supply factors. Consistent with asset pricing theory, inflation risk premia are inversely related to NetDemand across maturities in both regions.",
@@ -4270,9 +4383,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-09-18T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/stats/bop/2026/html/ecb.bp260918_annex~1dbc8ca3d7.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Payments / Open Finance"
       ],
@@ -9159,29 +9270,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "b8e5317491699b09",
-      "title": "How banks have adjusted their lending in response to trade tensions",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260715~d5c83c53ee.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-blog",
-      "sourceName": "ECB Blog",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-15T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260715~d5c83c53ee.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "f68264a10230d862",
       "title": "CP10/26 – Ring-fenced bodies: Changes to the continuity of provision of services rules",
       "summary": "Consultation paper 10/26",
@@ -9934,29 +10022,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "51c5ca047b1a9038",
-      "title": "Households and non-financial corporations in the euro area: first quarter of 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q1~af06811912.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-statistical-press-releases",
-      "sourceName": "ECB Statistical Press Releases",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-03T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q1~af06811912.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
-    },
-    {
       "id": "70399c84e7f26a3c",
       "title": "Monthly Decision Maker Panel data - June 2026",
       "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
@@ -9978,29 +10043,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "b85e5ed7c846553f",
-      "title": "Euro area bank interest rate statistics: May 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2607~f27327115e.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-statistical-press-releases",
-      "sourceName": "ECB Statistical Press Releases",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-03T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2607~f27327115e.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
     },
     {
       "id": "846b5e96be6a1c34",
@@ -10276,29 +10318,6 @@
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "updateType": "Other",
       "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "e376f7c4b2426394",
-      "title": "Consolidated balance sheet - 31 March 2025",
-      "summary": "We publish our balance sheet once a quarter. It contains consolidated data on our assets and liabilities for five quarters earlier.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2025/consolidated-balance-sheet-31-march-2025",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-30T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2025/consolidated-balance-sheet-31-march-2025",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
     },
     {
       "id": "aa298ab3622dc965",
@@ -20294,52 +20313,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "f0ea1308f7945c3b",
-      "title": "Better outcomes begin when payment firms understand customers’ needs",
-      "summary": "During our review of consumer vulnerability, we saw how relatively simple changes can make a real difference. One payments provider serving small business customers found that some customers were struggling to set up and manage their accounts because of limited IT literacy. The firm responded by arranging callback support to help customers set up their accounts. As a result, customers were able to manage their accounts successfully, without needing to invest in expensive new systems or roll out elaborate new processes.",
-      "url": "https://www.fca.org.uk/news/blogs/better-outcomes-payment-firms-understand-customer-needs",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "payment",
-        "payments"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payment",
-            "payments"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/blogs/better-outcomes-payment-firms-understand-customer-needs",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "4a923b3ba3bafe03",
       "title": "Building a stronger UK investment culture",
       "summary": "Speech by Lucy Castledine, director of consumer investments, at the 2026 Investor Summit. Speaker: Lucy Castledine, director, consumer investmentsEvent: Investor Summit 2026, LondonDelivered: 18 September 2026Note: This is the speech as drafted and may differ from the delivered versionReading time: 7 minutesKey points:How the FCA is supporting growth, innovation and wider access to investments. Why a wider range of support and clearer, simpler information is vital to helping people invest with confidence. How stronger action against scams and illegal promotions can build trust in markets.",
@@ -20972,6 +20945,50 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "e757f95843010c86",
+      "title": "Firms’ confidence, satisfaction and trust in the FCA rise",
+      "summary": "The latest FCA and Practitioner Panel survey shows rising levels of satisfaction, confidence and trust in the FCA among firms, alongside a strong understanding of Consumer Duty expectations. The FCA and Practitioner Panel annual survey of regulated firms provides valuable insights into how firms think we’re performing. The latest survey shows 79% of firms are highly satisfied with their relationship with the FCA, up from 74% last year. The proportion of firms rating the FCA as a highly effective regulator also increased from 69% to 76%, while 75% reported high levels of trust.",
+      "url": "https://www.fca.org.uk/news/news-stories/firms-confidence-satisfaction-and-trust-fca-rise",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Consumer Protection",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "consumer duty",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "consumer duty"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/firms-confidence-satisfaction-and-trust-fca-rise",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "9a977be29aa900b9",
       "title": "Images",
       "summary": "",
@@ -21372,7 +21389,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-01T22:24:24.910Z",
+      "publishedAt": "2026-10-02T12:00:30.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21396,7 +21413,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T22:24:24.910Z",
+      "publishedAt": "2026-10-02T12:00:30.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21420,7 +21437,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T22:24:24.910Z",
+      "publishedAt": "2026-10-02T12:00:30.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21444,7 +21461,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T22:24:24.910Z",
+      "publishedAt": "2026-10-02T12:00:30.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21468,7 +21485,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T22:24:24.910Z",
+      "publishedAt": "2026-10-02T12:00:30.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21492,7 +21509,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T22:24:24.910Z",
+      "publishedAt": "2026-10-02T12:00:30.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21516,7 +21533,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T22:24:24.910Z",
+      "publishedAt": "2026-10-02T12:00:30.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21540,7 +21557,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T22:24:24.910Z",
+      "publishedAt": "2026-10-02T12:00:30.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21564,7 +21581,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T22:24:24.910Z",
+      "publishedAt": "2026-10-02T12:00:30.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21588,7 +21605,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T22:24:24.910Z",
+      "publishedAt": "2026-10-02T12:00:30.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21612,7 +21629,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T22:24:24.910Z",
+      "publishedAt": "2026-10-02T12:00:30.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21636,7 +21653,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T22:24:24.910Z",
+      "publishedAt": "2026-10-02T12:00:30.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21660,7 +21677,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T22:24:24.910Z",
+      "publishedAt": "2026-10-02T12:00:30.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21684,7 +21701,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-01T22:24:24.910Z",
+      "publishedAt": "2026-10-02T12:00:30.942Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21701,15 +21718,15 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 95
+      "count": 96
     },
     {
       "updateType": "News",
-      "count": 77
+      "count": 78
     },
     {
       "updateType": "Publications / Reports",
-      "count": 75
+      "count": 74
     },
     {
       "updateType": "Working Papers / Research",
@@ -21721,7 +21738,7 @@
     },
     {
       "updateType": "Statistics / Data",
-      "count": 20
+      "count": 19
     },
     {
       "updateType": "Source Pages",
