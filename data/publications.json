@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T12:52:08.339Z",
+  "generatedAt": "2026-10-06T22:24:29.392Z",
   "totalPublications": 485,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 245
     },
     {
       "topic": "Basel / BCBS",
@@ -468,7 +468,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 36
+      "count": 35
     },
     {
       "topic": "Capital Requirements",
@@ -480,7 +480,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 24
+      "count": 25
     },
     {
       "topic": "Credit Risk",
@@ -491,12 +491,12 @@
       "count": 21
     },
     {
-      "topic": "Payments / Open Finance",
+      "topic": "Recovery / Resolution",
       "count": 20
     },
     {
-      "topic": "Recovery / Resolution",
-      "count": 20
+      "topic": "Payments / Open Finance",
+      "count": 19
     },
     {
       "topic": "DORA / Operational Resilience",
@@ -520,13 +520,13 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 7
+      "count": 6
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 245
     },
     {
       "topic": "Basel / BCBS",
@@ -542,7 +542,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 36
+      "count": 35
     },
     {
       "topic": "Capital Requirements",
@@ -554,7 +554,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 24
+      "count": 25
     },
     {
       "topic": "Credit Risk",
@@ -565,12 +565,12 @@
       "count": 21
     },
     {
-      "topic": "Payments / Open Finance",
+      "topic": "Recovery / Resolution",
       "count": 20
     },
     {
-      "topic": "Recovery / Resolution",
-      "count": 20
+      "topic": "Payments / Open Finance",
+      "count": 19
     },
     {
       "topic": "DORA / Operational Resilience",
@@ -594,13 +594,13 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 7
+      "count": 6
     }
   ],
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 134
+      "count": 135
     },
     {
       "keyword": "banking supervision",
@@ -663,15 +663,15 @@
       "count": 14
     },
     {
-      "keyword": "payments",
-      "count": 14
-    },
-    {
       "keyword": "policy statement",
       "count": 14
     },
     {
       "keyword": "enforcement",
+      "count": 13
+    },
+    {
+      "keyword": "payments",
       "count": 13
     },
     {
@@ -699,12 +699,12 @@
       "count": 10
     },
     {
-      "keyword": "supervisory reporting",
+      "keyword": "digital euro",
       "count": 9
     },
     {
-      "keyword": "digital euro",
-      "count": 8
+      "keyword": "supervisory reporting",
+      "count": 9
     },
     {
       "keyword": "disclosure",
@@ -712,10 +712,6 @@
     },
     {
       "keyword": "crr",
-      "count": 7
-    },
-    {
-      "keyword": "fraud",
       "count": 7
     },
     {
@@ -733,6 +729,10 @@
     {
       "keyword": "rts",
       "count": 7
+    },
+    {
+      "keyword": "fraud",
+      "count": 6
     },
     {
       "keyword": "risk culture",
@@ -855,10 +855,6 @@
       "count": 3
     },
     {
-      "keyword": "retail investors",
-      "count": 3
-    },
-    {
       "keyword": "sanctions",
       "count": 3
     },
@@ -916,6 +912,10 @@
     },
     {
       "keyword": "pillar 1",
+      "count": 2
+    },
+    {
+      "keyword": "pillar 2",
       "count": 2
     }
   ],
@@ -1000,6 +1000,193 @@
     }
   ],
   "publications": [
+    {
+      "id": "b5719aa79751d02f",
+      "title": "SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case",
+      "summary": "The Securities and Exchange Commission today moved for entry of a final judgment by consent against Stephen Kenneth Leech II, the former co-chief investment officer of registered investment adviser Western Asset Management Company LLC, whom the SEC…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-06T20:30:24.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "a60ea3777edc144d",
+      "title": "SEC to Host Virtual National Compliance Outreach Seminar for Investment Companies and Investment Advisers",
+      "summary": "The Securities and Exchange Commission’s Compliance Outreach Program announced today that it will host a virtual national seminar for investment companies and investment advisers on November 19, 2026. The purpose of the event is to help chief compliance…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-102-sec-host-virtual-national-compliance-outreach-seminar-investment-companies-investment-advisers",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-06T14:37:55.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-102-sec-host-virtual-national-compliance-outreach-seminar-investment-companies-investment-advisers",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Events",
+      "updateTypeDetail": "Event / conference"
+    },
+    {
+      "id": "dbe76883978ba016",
+      "title": "Consolidated balance sheet - 30 June 2025",
+      "summary": "We publish our balance sheet once a quarter. It contains consolidated data on our assets and liabilities for five quarters earlier.",
+      "url": "https://www.bankofengland.co.uk/weekly-report/2025/consolidated-balance-sheet-30-june-2025",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-06T13:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/weekly-report/2025/consolidated-balance-sheet-30-june-2025",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "a598aae062e54096",
+      "title": "Frank Elderson: Effective supervision through timely remediation",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-06T13:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "e76ae85ccc6f1d37",
+      "title": "Frank Elderson: Effective supervision through timely remediation",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261006~8887da2bd4.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-06T13:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261006~8887da2bd4.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "1f68ec018100111c",
+      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-06T13:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep251010_technical_annex_financial_stability_impact_digital_euro.en.pdf?f55d1581c257d73d86ad560edce18c17"
+      ],
+      "topics": [
+        "Crypto / Digital Assets"
+      ],
+      "matchedKeywords": [
+        "tokenisation",
+        "digital euro"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "tokenisation",
+            "digital euro"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "8e43767a8f9bae48",
       "title": "Funding the AI revolution: evidence from euro area sectors",
@@ -3786,31 +3973,6 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "e4c035244d6c94d7",
-      "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-23T16:30:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "4b46fda0cbad06c3",
       "title": "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
       "summary": "The Securities and Exchange Commission today charged CMI Capital LLC and its founder and manager, Michael D. Williams, for an alleged fraudulent investment scheme that raised approximately $860,000 from at least 18 investors, many of whom are current or…",
@@ -3846,43 +4008,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "8254f8f6a5e247c5",
-      "title": "The digitalisation of money, payments and finance",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-23T16:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf"
-      ],
-      "topics": [
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "payments"
-      ],
-      "topicMatches": [
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payments"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "ab79e061b90e05be",
@@ -3933,9 +4058,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-09-23T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-09/ef331e5c-7bdc-488f-adc8-ca6286530ea0/JC%20Update%20on%20Risks%20and%20Vulnerabilities%20Autumn%202026%29.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "DORA / Operational Resilience",
         "Supervision / Enforcement"
@@ -3985,9 +4108,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-09-23T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-09/JC_2026_29_JC_update_on_risks_and_vulnerabilities_autumn_2026.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -4022,9 +4143,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-09-23T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-09/Union_strategic_supervisory_priorities_-_factsheet.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -4059,9 +4178,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-09-22T20:30:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/orders20260922a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -4131,21 +4248,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-09-22T14:15:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/Takeaways_horizontal_assessment~de65261ad0.en.pdf",
-        "http://www.esrb.europa.eu/pub/pdf/asc/esrb.ascreport202201_digitalisationandthefutureofbanking~83f079b5c7.en.pdf?87d77f9d8be17bcd1c5bacb79455b1f0",
-        "https://www.bis.org/bcbs/publ/d575.pdf",
-        "https://www.fsb.org/uploads/OECD-%E2%80%93-FSB-Roundtable-on-Artificial-Intelligence-AI-in-Finance.pdf",
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/annex/ssm.nl251120_1_annex.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3092~84ac652507.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op361~145e704503.en.pdf",
-        "https://www.esrb.europa.eu/pub/pdf/reports/esrb.report202510_cryptoassets.en.pdf?347510c016928b8c2f74825965cd20a9",
-        "https://www.eba.europa.eu/sites/default/files/2024-12/4b294386-1235-463f-b9b5-08f255160435/Report%20on%20Tokenised%20deposits.pdf",
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.outsourcing_horizontal_analysis_202502~c54626829c.en.pdf",
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisory_guides202507.en.pdf",
-        "https://www.bankingsupervision.europa.eu/press/letterstobanks/shared/pdf/2026/ssm.2026_letter_on_AI_enabled_cybersecurity_threats.en.pdf",
-        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Supervision / Enforcement"
@@ -6708,41 +6811,6 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "9471402145e01ae4",
-      "title": "SEC: 38 Entities Feigned Legitimacy as U. S. Advisers Through False Filings to Lure Retail Investors",
-      "summary": "The Securities and Exchange Commission today charged 38 entities alleging that they made material misrepresentations in Forms ADV filed with the Commission between 2025 and 2026 to falsely portray themselves as legitimate advisory firms to U. S. investors…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-78-sec-38-entities-feigned-legitimacy-us-advisers-through-false-filings-lure-retail-investors",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-27T21:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Consumer Protection"
-      ],
-      "matchedKeywords": [
-        "retail investors"
-      ],
-      "topicMatches": [
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "retail investors"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-78-sec-38-entities-feigned-legitimacy-us-advisers-through-false-filings-lure-retail-investors",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "ebdba6a24cabf7eb",
       "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
       "summary": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
@@ -7187,41 +7255,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
-    },
-    {
-      "id": "dae7b851f81adbe6",
-      "title": "SEC Charges Former Executives With Fraud in Connection With $1.9 Billion Collapse of Subprime Auto Lender Tricolor",
-      "summary": "The Securities and Exchange Commission today charged Daniel Chu, Jerome Kollar, and Ameryn Seibold, the former CEO, CFO, and Senior Director of Finance, respectively, at Texas-based Tricolor Holdings, LLC, for their roles in an alleged multi-year scheme…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-77-sec-charges-former-executives-fraud-connection-19-billion-collapse-subprime-auto-lender-tricolor",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-18T19:55:10.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime"
-      ],
-      "matchedKeywords": [
-        "fraud"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "fraud"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-77-sec-charges-former-executives-fraud-connection-19-billion-collapse-subprime-auto-lender-tricolor",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "4b5a31d05e6d371c",
@@ -8391,50 +8424,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "65d3703b810e8774",
-      "title": "Sharon Donnery: Interview with Liberal.gr",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260728~574c738cea.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-28T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260728~574c738cea.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "2f6e2257c3e067e9",
@@ -10144,29 +10133,6 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.bankofengland.co.uk/bank-liabilities-survey/2026/2026-q2",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "2b65ae6cdb81d1c5",
-      "title": "Credit Conditions Survey - 2026 Q2",
-      "summary": "This quarterly survey of banks and building societies is aimed at improving our understanding of trends and developments in credit conditions.",
-      "url": "https://www.bankofengland.co.uk/credit-conditions-survey/2026/2026-q2",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-02T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/credit-conditions-survey/2026/2026-q2",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
@@ -21355,7 +21321,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-06T12:52:08.339Z",
+      "publishedAt": "2026-10-06T22:24:29.392Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21379,7 +21345,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-06T12:52:08.339Z",
+      "publishedAt": "2026-10-06T22:24:29.392Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21403,7 +21369,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-06T12:52:08.339Z",
+      "publishedAt": "2026-10-06T22:24:29.392Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21427,7 +21393,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-06T12:52:08.339Z",
+      "publishedAt": "2026-10-06T22:24:29.392Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21451,7 +21417,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-06T12:52:08.339Z",
+      "publishedAt": "2026-10-06T22:24:29.392Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21475,7 +21441,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-06T12:52:08.339Z",
+      "publishedAt": "2026-10-06T22:24:29.392Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21499,7 +21465,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-06T12:52:08.339Z",
+      "publishedAt": "2026-10-06T22:24:29.392Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21523,7 +21489,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-06T12:52:08.339Z",
+      "publishedAt": "2026-10-06T22:24:29.392Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21547,7 +21513,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-06T12:52:08.339Z",
+      "publishedAt": "2026-10-06T22:24:29.392Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21571,7 +21537,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-06T12:52:08.339Z",
+      "publishedAt": "2026-10-06T22:24:29.392Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21595,7 +21561,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-06T12:52:08.339Z",
+      "publishedAt": "2026-10-06T22:24:29.392Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21619,7 +21585,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-06T12:52:08.339Z",
+      "publishedAt": "2026-10-06T22:24:29.392Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21643,7 +21609,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-06T12:52:08.339Z",
+      "publishedAt": "2026-10-06T22:24:29.392Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21664,11 +21630,11 @@
     },
     {
       "updateType": "News",
-      "count": 78
+      "count": 77
     },
     {
       "updateType": "Publications / Reports",
-      "count": 76
+      "count": 75
     },
     {
       "updateType": "Working Papers / Research",
@@ -21680,19 +21646,19 @@
     },
     {
       "updateType": "Statistics / Data",
-      "count": 19
+      "count": 20
     },
     {
       "updateType": "Source Pages",
       "count": 13
     },
     {
-      "updateType": "Other",
+      "updateType": "Events",
       "count": 3
     },
     {
-      "updateType": "Events",
-      "count": 2
+      "updateType": "Other",
+      "count": 3
     }
   ]
 }
