@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:47:11.459Z",
+  "generatedAt": "2026-10-07T22:50:25.543Z",
   "totalPublications": 485,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -1001,6 +1001,43 @@
   ],
   "publications": [
     {
+      "id": "6b21996e367193de",
+      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-07T18:00:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20260916.pdf"
+      ],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "57be94ef9f5a8605",
       "title": "CP13/26 – The Prudential Regulation Authority’s automatic thresholds indexation framework",
       "summary": "Consultation paper 13/26",
@@ -1857,9 +1894,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-10-02T20:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20261002a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance",
         "Supervision / Enforcement"
@@ -4099,11 +4134,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-09-24T06:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/research-publications/resbull/2026/html/ecb.rb260924~8b74a93aa7.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2693~8d4e580438.en.pdf?972bbc119868c193467dc86f4a7cf706",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3202~028f70f8ec.en.pdf?3a7981ac882ddb22b9eaf97ba55cc8e6"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Reporting / Disclosure",
         "Payments / Open Finance"
@@ -7278,41 +7309,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "1e6a872547e50fd0",
-      "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-      "summary": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
-      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-press",
-      "sourceName": "Federal Reserve Press Releases",
-      "institution": "Federal Reserve Board",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-20T20:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "board"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        }
-      ],
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "82df8c9436f27621",
@@ -21303,7 +21299,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-07T12:47:11.459Z",
+      "publishedAt": "2026-10-07T22:50:25.543Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21327,7 +21323,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T12:47:11.459Z",
+      "publishedAt": "2026-10-07T22:50:25.543Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21351,7 +21347,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T12:47:11.459Z",
+      "publishedAt": "2026-10-07T22:50:25.543Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21375,7 +21371,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T12:47:11.459Z",
+      "publishedAt": "2026-10-07T22:50:25.543Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21399,7 +21395,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T12:47:11.459Z",
+      "publishedAt": "2026-10-07T22:50:25.543Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21423,7 +21419,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T12:47:11.459Z",
+      "publishedAt": "2026-10-07T22:50:25.543Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21447,7 +21443,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T12:47:11.459Z",
+      "publishedAt": "2026-10-07T22:50:25.543Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21471,7 +21467,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T12:47:11.459Z",
+      "publishedAt": "2026-10-07T22:50:25.543Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21495,7 +21491,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T12:47:11.459Z",
+      "publishedAt": "2026-10-07T22:50:25.543Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21519,7 +21515,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T12:47:11.459Z",
+      "publishedAt": "2026-10-07T22:50:25.543Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21543,7 +21539,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T12:47:11.459Z",
+      "publishedAt": "2026-10-07T22:50:25.543Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21567,7 +21563,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T12:47:11.459Z",
+      "publishedAt": "2026-10-07T22:50:25.543Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21591,7 +21587,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T12:47:11.459Z",
+      "publishedAt": "2026-10-07T22:50:25.543Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
