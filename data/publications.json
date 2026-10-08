@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T22:50:25.543Z",
-  "totalPublications": 485,
+  "generatedAt": "2026-10-08T12:55:23.325Z",
+  "totalPublications": 484,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -325,7 +325,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 15,
+      "itemCount": 14,
       "url": "https://www.ecb.europa.eu/rss/statpress.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -460,15 +460,15 @@
     },
     {
       "topic": "Governance",
-      "count": 129
+      "count": 128
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 51
+      "count": 50
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 35
+      "count": 34
     },
     {
       "topic": "Capital Requirements",
@@ -480,7 +480,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 25
+      "count": 26
     },
     {
       "topic": "Credit Risk",
@@ -534,15 +534,15 @@
     },
     {
       "topic": "Governance",
-      "count": 129
+      "count": 128
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 51
+      "count": 50
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 35
+      "count": 34
     },
     {
       "topic": "Capital Requirements",
@@ -554,7 +554,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 25
+      "count": 26
     },
     {
       "topic": "Credit Risk",
@@ -608,11 +608,11 @@
     },
     {
       "keyword": "supervisory",
-      "count": 109
+      "count": 110
     },
     {
       "keyword": "board",
-      "count": 92
+      "count": 91
     },
     {
       "keyword": "its",
@@ -620,7 +620,7 @@
     },
     {
       "keyword": "reporting",
-      "count": 33
+      "count": 32
     },
     {
       "keyword": "governance",
@@ -659,10 +659,6 @@
       "count": 14
     },
     {
-      "keyword": "enforcement",
-      "count": 13
-    },
-    {
       "keyword": "liquidity",
       "count": 13
     },
@@ -677,6 +673,10 @@
     {
       "keyword": "resolution",
       "count": 13
+    },
+    {
+      "keyword": "enforcement",
+      "count": 12
     },
     {
       "keyword": "consultation paper",
@@ -863,6 +863,10 @@
       "count": 3
     },
     {
+      "keyword": "stablecoins",
+      "count": 3
+    },
+    {
       "keyword": "standardised approach",
       "count": 3
     },
@@ -913,16 +917,12 @@
     {
       "keyword": "pillar 1",
       "count": 2
-    },
-    {
-      "keyword": "pillar 2",
-      "count": 2
     }
   ],
   "regionSummary": [
     {
       "region": "EU",
-      "count": 275
+      "count": 274
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 84
+      "count": 83
     },
     {
       "institution": "European Banking Authority",
@@ -1000,6 +1000,216 @@
     }
   ],
   "publications": [
+    {
+      "id": "e21b32526dc16918",
+      "title": "Meeting of 9-10 September 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-08T11:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "322dd8932f1d50f0",
+      "title": "Why should the ECB care about the unequal effects of climate change?",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261008~dbf4f59782.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-blog",
+      "sourceName": "ECB Blog",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-08T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2665~622858d454.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op281~05a7735b1c.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op328~2c44ee718e.en.pdf?7793485730460e4e0b4e170237eb7429",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3248~f871c3bd85.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2798~0608a462fb.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op340~0173592e52.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2537~002be51914.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3084~59464f2b92.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3237~617a2b8de5.en.pdf?7ebea83a8f52a6800ba4e9ddf3df0339",
+        "https://conference.nber.org/conf_papers/f240202.pdf"
+      ],
+      "topics": [
+        "Climate / ESG"
+      ],
+      "matchedKeywords": [
+        "climate"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261008~dbf4f59782.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "ec9a4936fb79b2c4",
+      "title": "Bank Liabilities Survey - 2026 Q3",
+      "summary": "This quarterly survey of banks and building societies is aimed at improving our understanding of the role of lenders’ liabilities and capital in driving credit and monetary conditions.",
+      "url": "https://www.bankofengland.co.uk/bank-liabilities-survey/2026/2026-q3",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-08T08:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/bank-liabilities-survey/2026/2026-q3",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "47885926a24c4490",
+      "title": "Credit Conditions Survey - 2026 Q3",
+      "summary": "This quarterly survey of banks and building societies is aimed at improving our understanding of trends and developments in credit conditions.",
+      "url": "https://www.bankofengland.co.uk/credit-conditions-survey/2026/2026-q3",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-08T08:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/credit-conditions-survey/2026/2026-q3",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "99a9e51b82f0dd0d",
+      "title": "Piero Cipollone: Interview with Corriere della Sera",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-08T06:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "97c7302c4701439a",
+      "title": "Private equity beyond the target: how buyouts reshape supply chains",
+      "summary": "The impact of private equity buyouts on target firms is well documented, yet empirical evidence on the impact of buyouts across the supply chain remains scarce. We address this gap by using unique production network data to examine how supply chains contribute to the ability of private equity investors to create and extract value. We show that, on average, suppliers of firms backed by private equity outperform their peers because of increased demand for inputs from customers backed by private equity – rather than alternative mechanisms such as knowledge spillovers.",
+      "url": "https://www.ecb.europa.eu//press/research-publications/resbull/2026/html/ecb.rb261008~e8cca8ed6f.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-research-bulletin",
+      "sourceName": "ECB Research Bulletin",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-08T06:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/research-publications/resbull/2026/html/ecb.rb261008~e8cca8ed6f.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3234~f530727180.en.pdf?e56523c68420c4f7c18a362f7121b5d5"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/research-publications/resbull/2026/html/ecb.rb261008~e8cca8ed6f.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/rbu.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "ce804de6a87216a0",
+      "title": "ESMA sets out supervisory expectations on services related to unauthorised stablecoins",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU regulator and supervisor, has",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-out-supervisory-expectations-services-related-unauthorised",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA75-113276571-1742_Opinion_on_the_provision_of_crypto_asset_services_in_relation_to_non-MiCA-compliant_asset-referenced_tokens_and_e-money_tokens.pdf"
+      ],
+      "topics": [
+        "Crypto / Digital Assets",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "stablecoins",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "stablecoins"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-out-supervisory-expectations-services-related-unauthorised",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "6b21996e367193de",
       "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
@@ -3285,32 +3495,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "18e3c04594506a1d",
-      "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-28T13:30:00.000Z",
-      "pdfLinks": [
-        "https://www.suerf.org/wp-content/uploads/2025/01/SUERF-Policy-Brief-1080-Hartmann_Maver.pdf",
-        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260928_annex~493dd9e149.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "bd15308c73c224f7",
       "title": "Pedro Machado: Competitiveness and simplification – a common agenda for European banks",
       "summary": "",
@@ -3860,41 +4044,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "da893181edcb8800",
-      "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-24T12:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "board"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "9424d24ce4bf5a05",
       "title": "How policymakers’ speeches and interviews move markets",
       "summary": "",
@@ -3972,11 +4121,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-09-24T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/ecbu/eb202606.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/ecbu/ecb.eb_annex202606~5844c5bfa1.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/other/eb201604_article02.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4034,10 +4179,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-09-24T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op296~aaf209ffe5.en.pdf",
-        "https://economy-finance.ec.europa.eu/document/download/971dd209-41c2-425d-94f8-e3c3c3459af9_en?filename=ip279_en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4060,10 +4202,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-09-24T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3193~9db57822d4.de.pdf",
-        "https://www.nber.org/system/files/working_papers/w33952/w33952.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4086,9 +4225,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-09-24T07:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-09/12cb4f01-0d51-46bf-a561-165ac486698f/EBA%20response%20to%20EC%20targeted%20consultation%20on%20MiCA%20review.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Crypto / Digital Assets",
         "Supervision / Enforcement"
@@ -6318,41 +6455,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "94d455704b4c178a",
-      "title": "ESMA to host Data Day 2026: ‘Data in the Savings and Investment Union – from burden to opportunity’",
-      "summary": "Technology, use of data and simplification of reporting requirements will be at the centre",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-host-data-day-2026-data-savings-and-investment-union-burden-opportunity",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-09-04T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "reporting"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-host-data-day-2026-data-savings-and-investment-union-burden-opportunity",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "3b068821b42c08a9",
       "title": "SEC Proposes Rescission of Political Contribution Rule for Investment Advisers",
       "summary": "The Securities and Exchange Commission today issued a proposal to rescind its “pay-to-play” rule that prohibits investment advisers from providing compensated investment advisory services to a government client for two years…",
@@ -8474,29 +8576,6 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "bb814f030c0880fb",
-      "title": "Energy shock: why oil and gas prices have risen less than expected",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260727~1212bdb8f9.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-blog",
-      "sourceName": "ECB Blog",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-27T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260727~1212bdb8f9.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "f1c71abc3582f6db",
       "title": "Euro area economic and financial developments by institutional sector: first quarter of 2026",
       "summary": "",
@@ -9516,29 +9595,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "ce8e8bf5dee8c33b",
-      "title": "Meeting of 10-11 June 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260709~0e7f8241c9.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-statistical-press-releases",
-      "sourceName": "ECB Statistical Press Releases",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-09T11:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260709~0e7f8241c9.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
-    },
-    {
       "id": "0884d39314dc2234",
       "title": "PS17/26 – Regulated fees and levies: Rates proposals 2026/27",
       "summary": "Policy statement 17/26",
@@ -10103,52 +10159,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "846b5e96be6a1c34",
-      "title": "Bank of England Weekly Report 1 July 2026",
-      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2026/1-july-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-02T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/1-july-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "3415673992d08de8",
-      "title": "Bank Liabilities Survey - 2026 Q2",
-      "summary": "This quarterly survey of banks and building societies is aimed at improving our understanding of the role of lenders’ liabilities and capital in driving credit and monetary conditions.",
-      "url": "https://www.bankofengland.co.uk/bank-liabilities-survey/2026/2026-q2",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-02T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/bank-liabilities-survey/2026/2026-q2",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "40981b32b968df86",
@@ -15479,41 +15489,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "46d1f2bca68ca19b",
-      "title": "Climate change, firms and aggregate productivity",
-      "summary": "Our paper uses a general equilibrium framework to examine the effects of temperature on firm-level demand, productivity and input allocative efficiency. Using data from Italian firms and detailed climate data, it uncovers a sizeable negative effect of extreme temperatures on firm-level productivity. Based on these estimates, the model generates aggregate productivity losses from local temperature fluctuations that are higher than previously thought, ranging from 0.60% to 6.82% depending on the scenario and the extent of adaptation.",
-      "url": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb250624~a3ba3cb524.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-research-bulletin",
-      "sourceName": "ECB Research Bulletin",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2025-06-24T06:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Climate / ESG"
-      ],
-      "matchedKeywords": [
-        "climate"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb250624~a3ba3cb524.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/rbu.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
       "id": "f9a75001a8a8a3f1",
       "title": "Sanctions: a tool to enhance regulatory compliance and supervisory effectiveness The integration of sanctions into the ECB’s escalation framework strengthens compliance, enhances supervisory effectiveness and acts as a deterrent against future violations.",
       "summary": "English 3 June 2025 Hidden leverage and blind spots: addressing banks’ exposures to private market funds Private capital markets are growing fast – and so are their links to banks. As complexity and leverage build up outside the regulatory perimeter, risk management of banks, transparency, and regulatory frameworks need to keep pace. English 18 March 2025 Managing liquidity in a changing environment As the normalisation of the Eurosystem balance sheet progresses, the aggregate amount of central bank liquidity available to banks in the euro area will fall over the coming years.",
@@ -20241,41 +20216,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "4a923b3ba3bafe03",
-      "title": "Building a stronger UK investment culture",
-      "summary": "Speech by Lucy Castledine, director of consumer investments, at the 2026 Investor Summit. Speaker: Lucy Castledine, director, consumer investmentsEvent: Investor Summit 2026, LondonDelivered: 18 September 2026Note: This is the speech as drafted and may differ from the delivered versionReading time: 7 minutesKey points:How the FCA is supporting growth, innovation and wider access to investments. Why a wider range of support and clearer, simpler information is vital to helping people invest with confidence. How stronger action against scams and illegal promotions can build trust in markets.",
-      "url": "https://www.fca.org.uk/news/speeches/building-stronger-uk-investment-culture",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/speeches/building-stronger-uk-investment-culture",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "5a1152a1593f14b2",
       "title": "Building the next generation of market infrastructure",
       "summary": "Speech by Nikhil Rathi, FCA chief executive at TheCityUK dinner, sponsored by Nasdaq. Thank you to TheCityUK and Nasdaq for bringing us together this evening. It’s a fitting venue for us to discuss market transitions: the former HQ of Midland Bank, which of course became part of HSBC. And now HSBC Orion has become the first entrant approved to provide live Digital Securities Depository services. A useful reminder that financial infrastructure never stands still, and neither can we. A few years ago, discussions about digital assets were dominated by the technology itself. Could you tokenise a fund? Could you put a bond on a distributed ledger?",
@@ -20697,59 +20637,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "88622935ef3f0ba4",
-      "title": "Financial crime: protecting the hive",
-      "summary": "Speech by Steve Smart, executive director of enforcement and market oversight, at the Law Society Economic Crime Conference 2026. IntroductionA few weeks ago, I visited the Bank of England Museum to see a new exhibition on financial crime. I had expected banknotes and gold bars – not bees. Rather than bullion, I saw a working beehive and learnt how colonies defend themselves by reading signals, sharing information and taking collective action. Every bee gets checked at the door. If something’s off, the colony responds – together, and quickly. That same instinct and partnership are what we need to fight financial crime.",
-      "url": "https://www.fca.org.uk/news/speeches/financial-crime-protecting-hive",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "financial crime",
-        "conduct",
-        "enforcement"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "financial crime"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "enforcement"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/speeches/financial-crime-protecting-hive",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "0d99be89f3dbacfe",
       "title": "Firms crack down on money mules but need to do more",
       "summary": "Financial firms are shutting down hundreds of thousands of suspected money mule accounts, but organised criminal groups are still shifting dirty money through multiple bank accounts before cashing out. An FCA survey found firms have closed an increasing number of suspected mule accounts over the last 3 years: 238,396 suspected mules had their accounts closed in 2025, up from 184,935 in 2023 and 233,269 in 2024. An increase in account closures could reflect broader customer growth alongside improvements in identifying and acting on suspected mule activity, rather than necessarily meaning mules make up a higher proportion of firms’ business.",
@@ -21004,6 +20891,41 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "050768a6191ef2df",
+      "title": "New rules to make long-term investment funds clearer",
+      "summary": "The FCA has set out clearer expectations for asset managers about long-term investments, such as property. This will help give the market more confidence to invest in funds that support private markets. The new rules mean that investors will have to give 90 days' notice to access their funds but will be more certain that they will receive their money. For investors, this means the fund should be clearer from the start about how quickly they can get their money back and whether the fund is right for their needs. Currently some of these funds allow people to take money out daily with no notice period.",
+      "url": "https://www.fca.org.uk/news/press-releases/new-rules-make-long-term-investment-funds-clearer",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/new-rules-make-long-term-investment-funds-clearer",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "a2799f833e09b18b",
       "title": "Reforming UK capital markets to ensure they work well for our economy",
       "summary": "Speech by Jon Relleen, director of infrastructure and exchanges, at the Reform of the UK Public and Private Capital Markets Summit 2026. The Economic Secretary to the Treasury has discussed the contribution of UK markets to economic growth. I want to build on that by talking about the FCA’s role in reforming capital market rules. The headline is that we've been very busy over the past few years. We’ve now completed major aspects of a multi-year programme of work, to ensure capital markets work well for our economy and support growth. This has already delivered positive changes. But there’s plenty more to come.",
@@ -21037,6 +20959,41 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "242c14cc42cced5f",
+      "title": "Strong compliance functions support trusted corporate finance markets",
+      "summary": "Corporate finance firms help businesses raise funding and implement strategic transactions, supporting investment and growth. This brings responsibility: clients need to be able to trust that firms will act with integrity and manage any conflicts of interest. That trust underpins effective wholesale markets activity. In our Regulatory Priorities Report, we said we would assess corporate finance firms’ compliance functions and their ability to challenge the business effectively. We surveyed 411 corporate finance firms about their compliance resources and activities, receiving 382 responses.",
+      "url": "https://www.fca.org.uk/news/blogs/strong-compliance-functions-support-trusted-corporate-finance-markets",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/blogs/strong-compliance-functions-support-trusted-corporate-finance-markets",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "7ad6c7cab3a93ca4",
@@ -21299,7 +21256,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-07T22:50:25.543Z",
+      "publishedAt": "2026-10-08T12:55:23.325Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21323,7 +21280,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T22:50:25.543Z",
+      "publishedAt": "2026-10-08T12:55:23.325Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21347,7 +21304,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T22:50:25.543Z",
+      "publishedAt": "2026-10-08T12:55:23.325Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21371,7 +21328,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T22:50:25.543Z",
+      "publishedAt": "2026-10-08T12:55:23.325Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21395,7 +21352,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T22:50:25.543Z",
+      "publishedAt": "2026-10-08T12:55:23.325Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21419,7 +21376,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T22:50:25.543Z",
+      "publishedAt": "2026-10-08T12:55:23.325Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21443,7 +21400,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T22:50:25.543Z",
+      "publishedAt": "2026-10-08T12:55:23.325Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21467,7 +21424,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T22:50:25.543Z",
+      "publishedAt": "2026-10-08T12:55:23.325Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21491,7 +21448,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T22:50:25.543Z",
+      "publishedAt": "2026-10-08T12:55:23.325Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21515,7 +21472,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T22:50:25.543Z",
+      "publishedAt": "2026-10-08T12:55:23.325Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21539,7 +21496,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T22:50:25.543Z",
+      "publishedAt": "2026-10-08T12:55:23.325Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21563,7 +21520,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T22:50:25.543Z",
+      "publishedAt": "2026-10-08T12:55:23.325Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21587,7 +21544,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-07T22:50:25.543Z",
+      "publishedAt": "2026-10-08T12:55:23.325Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21600,19 +21557,19 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 121
+      "count": 120
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 93
+      "count": 94
     },
     {
       "updateType": "News",
-      "count": 77
+      "count": 76
     },
     {
       "updateType": "Publications / Reports",
-      "count": 75
+      "count": 76
     },
     {
       "updateType": "Working Papers / Research",
@@ -21624,7 +21581,7 @@
     },
     {
       "updateType": "Statistics / Data",
-      "count": 21
+      "count": 20
     },
     {
       "updateType": "Source Pages",
