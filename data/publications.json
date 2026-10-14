@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-13T22:21:27.385Z",
-  "totalPublications": 488,
+  "generatedAt": "2026-10-14T11:20:33.525Z",
+  "totalPublications": 487,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -260,7 +260,7 @@
       "region": "US",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 22,
+      "itemCount": 23,
       "url": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
       "sourcePageUrl": "https://www.consumerfinance.gov/about-us/newsroom/",
       "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 7,
+      "itemCount": 5,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 243
     },
     {
       "topic": "Basel / BCBS",
@@ -464,7 +464,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 50
+      "count": 49
     },
     {
       "topic": "AML / Financial Crime",
@@ -500,15 +500,15 @@
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 18
+      "count": 17
     },
     {
       "topic": "Liquidity",
-      "count": 13
+      "count": 12
     },
     {
       "topic": "Market Risk",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Consumer Protection",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 243
     },
     {
       "topic": "Basel / BCBS",
@@ -538,7 +538,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 50
+      "count": 49
     },
     {
       "topic": "AML / Financial Crime",
@@ -574,15 +574,15 @@
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 18
+      "count": 17
     },
     {
       "topic": "Liquidity",
-      "count": 13
+      "count": 12
     },
     {
       "topic": "Market Risk",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Consumer Protection",
@@ -600,7 +600,7 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 134
+      "count": 133
     },
     {
       "keyword": "banking supervision",
@@ -608,11 +608,11 @@
     },
     {
       "keyword": "supervisory",
-      "count": 107
+      "count": 106
     },
     {
       "keyword": "its",
-      "count": 92
+      "count": 93
     },
     {
       "keyword": "board",
@@ -620,7 +620,7 @@
     },
     {
       "keyword": "reporting",
-      "count": 34
+      "count": 33
     },
     {
       "keyword": "governance",
@@ -652,15 +652,11 @@
     },
     {
       "keyword": "credit risk",
-      "count": 20
+      "count": 19
     },
     {
       "keyword": "stress test",
       "count": 14
-    },
-    {
-      "keyword": "liquidity",
-      "count": 13
     },
     {
       "keyword": "payments",
@@ -675,19 +671,19 @@
       "count": 12
     },
     {
+      "keyword": "liquidity",
+      "count": 12
+    },
+    {
       "keyword": "policy statement",
       "count": 12
     },
     {
       "keyword": "consultation paper",
-      "count": 11
-    },
-    {
-      "keyword": "crypto",
       "count": 10
     },
     {
-      "keyword": "operational resilience",
+      "keyword": "crypto",
       "count": 10
     },
     {
@@ -704,6 +700,10 @@
     },
     {
       "keyword": "guidelines",
+      "count": 9
+    },
+    {
+      "keyword": "operational resilience",
       "count": 9
     },
     {
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 276
+      "count": 274
     },
     {
       "region": "UK",
@@ -930,7 +930,7 @@
     },
     {
       "region": "US",
-      "count": 76
+      "count": 77
     },
     {
       "region": "Global",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 82
+      "count": 80
     },
     {
       "institution": "European Banking Authority",
@@ -976,7 +976,7 @@
     },
     {
       "institution": "Consumer Financial Protection Bureau",
-      "count": 22
+      "count": 23
     },
     {
       "institution": "European Securities and Markets Authority",
@@ -1000,6 +1000,292 @@
     }
   ],
   "publications": [
+    {
+      "id": "b40504681a71a8e2",
+      "title": "PS19/26 – High loan to income lending",
+      "summary": "PRA policy statement 19/26 | FCA policy statement 26/20",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/october/high-loan-to-income-lending-policy-statement",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.fca.org.uk/publication/finalised-guidance/fg26-11.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/october/ps1926app1.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/october/ps1926app4.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/october/high-loan-to-income-lending-policy-statement",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "f12fe9b294c4d89a",
+      "title": "SS2/26 – High loan to income lending",
+      "summary": "Supervisory statement 2/26",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/october/high-loan-to-income-lending-supervisory-statement",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/october/high-loan-to-income-lending-supervisory-statement",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "f77ffc62aff89f23",
+      "title": "The heterogeneous bank lending channel of monetary policy",
+      "summary": "How does heterogeneity in banks’ interest-rate risk exposure shape monetary policy transmission? We develop a quantitative macroeconomic model of heterogeneous banks to answer this question. We establish an irrelevance result: differences in interest-rate risk exposure between fixed- and variable-rate banking systems matter for transmission only when bank solvency concerns become relevant. Calibrating the model to the euro area, we show that idiosyncratic default risk pushes a substantial share of banks toward the solvency threshold, making heterogeneity quantitatively important.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3299~01776adb36.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3299~01776adb36.en.pdf"
+      ],
+      "topics": [
+        "Credit Risk",
+        "Market Risk"
+      ],
+      "matchedKeywords": [
+        "default risk",
+        "interest rate risk"
+      ],
+      "topicMatches": [
+        {
+          "id": "credit-risk",
+          "label": "Credit Risk",
+          "keywords": [
+            "default risk"
+          ]
+        },
+        {
+          "id": "market-risk",
+          "label": "Market Risk",
+          "keywords": [
+            "interest rate risk"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3299~01776adb36.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "5f4391fb5eb88804",
+      "title": "What analysts hear and why it matters for monetary policy",
+      "summary": "We introduce a novel measure of how European Central Bank (ECB) monetary policy is interpreted by analysts at major investment banks. We construct a “policy interpretation shock” based on the language used in analysts’ reports covering monetary policy decisions by the ECB’s Governing Council (GovC). The main identifying assumption is that changes in the way analysts report on policy communication by the GovC—that is, the change in the policy tone from the preview report to the recap report—reflect unexpected information revealed by the policy event.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3298~06485c09a7.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3298~06485c09a7.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3298~06485c09a7.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Events",
+      "updateTypeDetail": "Event / conference"
+    },
+    {
+      "id": "7855481a0cb76423",
+      "title": "CFPB Announces New Initiative to Address OCC-Uncovered Debanking by Large Banks",
+      "summary": "Today, the Consumer Financial Protection Bureau (CFPB) announced the next step in its work to advance President Trump’s fight against the debanking of businesses and individuals on the basis of their constitutionally protected rights",
+      "url": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-announces-new-initiative-to-address-occ-uncovered-debanking-by-large-banks/",
+      "sourcePageUrl": "https://www.consumerfinance.gov/about-us/newsroom/",
+      "officialSourcePage": "https://www.consumerfinance.gov/about-us/newsroom/",
+      "sourceId": "cfpb-newsroom",
+      "sourceName": "CFPB Newsroom",
+      "institution": "Consumer Financial Protection Bureau",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-announces-new-initiative-to-address-occ-uncovered-debanking-by-large-banks/",
+      "sourceFeedUrl": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "05136b9a7f1c5d46",
+      "title": "ESMA analysis shows continued growth in cross-border investment services",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets reg",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-analysis-shows-continued-growth-cross-border-investment-services",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA35-243228190-8325_Report_on_cross_border_data_collection.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-analysis-shows-continued-growth-cross-border-investment-services",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "52cae284df6626f5",
+      "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.thematicreviewcercompendiumgoodpractices052026.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.202605_ECBreport_on_good_practices_for_climate_and_nature_stress_testing.en.pdf",
+        "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/economic-research/publications/specials/en/2026/may/2026-05-28-heat-AZ.pdf",
+        "https://www.ngfs.net/system/files/2025-09/NGFS_information%20note_Leveraging%20physical%20climate%20risk%20data.pdf",
+        "https://www.bankingsupervision.europa.eu/press/letterstobanks/shared/pdf/2026/ssm.2026_letter_on_AI_enabled_cybersecurity_threats.en.pdf",
+        "https://www.europarl.europa.eu/RegData/etudes/STUD/2026/784023/ECTI_STU(2026)784023_EN.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "8e8b31343e92b26e",
+      "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261014~02407f2add.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.thematicreviewcercompendiumgoodpractices052026.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.202605_ECBreport_on_good_practices_for_climate_and_nature_stress_testing.en.pdf",
+        "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/economic-research/publications/specials/en/2026/may/2026-05-28-heat-AZ.pdf",
+        "https://www.ngfs.net/system/files/2025-09/NGFS_information%20note_Leveraging%20physical%20climate%20risk%20data.pdf",
+        "https://www.bankingsupervision.europa.eu/press/letterstobanks/shared/pdf/2026/ssm.2026_letter_on_AI_enabled_cybersecurity_threats.en.pdf",
+        "https://www.europarl.europa.eu/RegData/etudes/STUD/2026/784023/ECTI_STU(2026)784023_EN.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261014~02407f2add.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
     {
       "id": "c966048cbd73faeb",
       "title": "Philip R. Lane: The AI opportunity for Europe",
@@ -3887,43 +4173,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "216e833ef4451b13",
-      "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-30T02:20:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op194.pt.pdf"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "61f86b45a7404f0f",
       "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
       "summary": "",
@@ -3937,9 +4186,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-09-30T02:20:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op194.pt.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Supervision / Enforcement"
@@ -3985,9 +4232,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-09-30T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-09/ESMA75-113276571-1721_Response_to_the_EC_consultation_MiCA_regulation_review.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Crypto / Digital Assets"
       ],
@@ -4022,9 +4267,7 @@
       "jurisdiction": "UK",
       "sourceType": "html-list",
       "publishedAt": "2026-09-30T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/financial-policy-committee-record/2026/fpc-summary-and-record-september-2026.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4049,9 +4292,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-09-30T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-09/f6561915-4192-4d73-88ac-10f8bc09abca/EBA%20Work%20programme%202027.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Reporting / Disclosure",
         "Supervision / Enforcement",
@@ -4260,29 +4501,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "1a0f6f865050220d",
-      "title": "ESMA sets 2027 priorities for stronger, simpler and more integrated EU capital markets",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets reg",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-2027-priorities-stronger-simpler-and-more-integrated-eu-capital",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-2027-priorities-stronger-simpler-and-more-integrated-eu-capital",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "996055ded84686a2",
@@ -4850,52 +5068,6 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_07~68d5d49c60.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "5cd0c3b798c9c6ba",
-      "title": "Main results of the latest euro area demographic projections",
-      "summary": "This box presents the latest EUROPOP 2025 population projections for the euro area, documents the revisions compared with the EUROPOP 2023 projections and discusses the economic implications. The latest population outlook is more positive in the medium-run (until 2050) because of stronger net inward migration, which tempers the increase in age-related fiscal expenditure while boosting long-term economic growth. However, in the second half of the century the population is projected to decrease more strongly than previously projected as a result of lower fertility. This will have the opposite effect on public finances and long-term growth.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_03~93f1f1d53c.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-24T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_03~93f1f1d53c.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "5aa3b821ba2d7d80",
-      "title": "The evolution of financial conditions in the euro area and the United States: a Macro-Finance FCI perspective",
-      "summary": "This box extends the Macro-Finance Financial Conditions Index (FCI) framework, originally developed for the euro area, to the United States. The analysis finds close linkages between US and euro area financial conditions, with risk assets playing a dominant role in the transmission of US shocks to euro area financial markets. In particular, changes in market expectations for the stance of US monetary policy affect euro area financial conditions through global risk-asset repricing, even when the ECB’s own policy stance remains unchanged. The findings highlight the importance of spillovers from the United States in shaping euro area financial conditions.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_05~26c3018e11.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-24T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202606_05~26c3018e11.en.html",
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
@@ -5606,54 +5778,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "e1a1eaf8363c1c9d",
-      "title": "Bank competition and credit risk: the conditioning role of capital",
-      "summary": "This paper examines how bank capital conditions the effect of competition on credit risk in lending markets, informing the debate on banking competition, deregulation, and risk-based supervision. Using ECB supervisory data for 146 euro area banks across 19 countries over 2020Q2–2025Q3, we analyze whether this relationship depends on banks’ regulatory capital positions. We find that greater market power is associated with higher subsequent credit risk, while stronger capitalization is associated with lower risk. Crucially, competition reduces credit risk primarily for well-capitalized banks, whereas the effect is weak or absent for banks with lower capital ratios.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3285~6f253764af.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-18T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3285~6f253764af.en.pdf"
-      ],
-      "topics": [
-        "Credit Risk",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "credit risk",
-        "supervision",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "credit-risk",
-          "label": "Credit Risk",
-          "keywords": [
-            "credit risk"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3285~6f253764af.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
       "id": "7335eb083a10ec99",
       "title": "Guide to licence applications",
       "summary": "",
@@ -5882,31 +6006,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "236f1f91b49ce1eb",
-      "title": "Entropic tilting of forecasts to SPF histograms: analytics & applications",
-      "summary": "We develop a direct approach to incorporating survey density forecasts into model-based predictive distributions. Histogram forecasts from the U. S. Survey of Professional Forecasters (SPF) carry rich nonparametric information about expected outcomes, but existing methods rely on moment-based approximations that discard part of it. We instead tilt entropically to the histogram probabilities themselves, matching them exactly. After reformulating the single-histogram problem, we derive a new analytic characterization of the multiple-histogram case, solved by Iterative Proportional Fitting and applicable to simulated densities from essentially any model.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3284~c350fd075f.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-17T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3284~c350fd075f.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3284~c350fd075f.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "73f631c7bd37cae3",
@@ -7038,50 +7137,6 @@
       ],
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "92a22d5b3d62e29c",
-      "title": "Claudia Buch: Bank resilience and sustainable growth: two sides of the same coin",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260902~f61170cf2f.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-02T13:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260902~f61170cf2f.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "d4225cde6e86a251",
@@ -14482,59 +14537,6 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "055282f27e946cd9",
-      "title": "PS7/26 – Operational resilience: Operational incident and third-party reporting",
-      "summary": "Policy statement 7/26",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/operational-incident-and-third-party-reporting-policy-statement",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-03-18T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "DORA / Operational Resilience",
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "operational resilience",
-        "reporting",
-        "policy statement"
-      ],
-      "topicMatches": [
-        {
-          "id": "dora-operational-resilience",
-          "label": "DORA / Operational Resilience",
-          "keywords": [
-            "operational resilience"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "policy statement"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/operational-incident-and-third-party-reporting-policy-statement",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "7aea65835949c260",
       "title": "SS1/26 – Operational resilience: Incident reporting",
       "summary": "Supervisory statement 1/26",
@@ -14588,50 +14590,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "efaf33893b1bf4de",
-      "title": "CP5/26 – Modernising the liquidity policy framework",
-      "summary": "Consultation paper 5/26",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/modernising-the-liquidity-policy-framework-consultation-paper",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-03-17T11:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Liquidity",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "liquidity",
-        "consultation paper"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "consultation paper"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/modernising-the-liquidity-policy-framework-consultation-paper",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "4bd2d4bde90b1784",
@@ -21414,7 +21372,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-13T22:21:27.385Z",
+      "publishedAt": "2026-10-14T11:20:33.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21438,7 +21396,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-13T22:21:27.385Z",
+      "publishedAt": "2026-10-14T11:20:33.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21462,7 +21420,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-13T22:21:27.385Z",
+      "publishedAt": "2026-10-14T11:20:33.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21486,7 +21444,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-13T22:21:27.385Z",
+      "publishedAt": "2026-10-14T11:20:33.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21510,7 +21468,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-13T22:21:27.385Z",
+      "publishedAt": "2026-10-14T11:20:33.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21534,7 +21492,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-13T22:21:27.385Z",
+      "publishedAt": "2026-10-14T11:20:33.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21558,7 +21516,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-13T22:21:27.385Z",
+      "publishedAt": "2026-10-14T11:20:33.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21582,7 +21540,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-13T22:21:27.385Z",
+      "publishedAt": "2026-10-14T11:20:33.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21606,7 +21564,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-13T22:21:27.385Z",
+      "publishedAt": "2026-10-14T11:20:33.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21630,7 +21588,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-13T22:21:27.385Z",
+      "publishedAt": "2026-10-14T11:20:33.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21654,7 +21612,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-13T22:21:27.385Z",
+      "publishedAt": "2026-10-14T11:20:33.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21678,7 +21636,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-13T22:21:27.385Z",
+      "publishedAt": "2026-10-14T11:20:33.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21702,7 +21660,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-13T22:21:27.385Z",
+      "publishedAt": "2026-10-14T11:20:33.525Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21719,7 +21677,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 94
+      "count": 96
     },
     {
       "updateType": "Publications / Reports",
@@ -21727,15 +21685,15 @@
     },
     {
       "updateType": "News",
-      "count": 76
+      "count": 75
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 42
+      "count": 40
     },
     {
       "updateType": "Consultations",
-      "count": 37
+      "count": 36
     },
     {
       "updateType": "Statistics / Data",
@@ -21747,7 +21705,7 @@
     },
     {
       "updateType": "Events",
-      "count": 4
+      "count": 5
     },
     {
       "updateType": "Other",
