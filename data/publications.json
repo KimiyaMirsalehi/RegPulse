@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:58:10.686Z",
+  "generatedAt": "2026-10-15T20:59:36.618Z",
   "totalPublications": 485,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -272,7 +272,7 @@
       "institution": "Network for Greening the Financial System",
       "region": "Global",
       "status": "success",
-      "parserMode": "html-list-empty",
+      "parserMode": "source-empty-or-unavailable",
       "itemCount": 0,
       "url": "https://www.ngfs.net/en/publications-and-statistics/ngfs-publications",
       "sourcePageUrl": "https://www.ngfs.net/en/publications-and-statistics/ngfs-publications",
@@ -464,7 +464,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 50
+      "count": 51
     },
     {
       "topic": "AML / Financial Crime",
@@ -538,7 +538,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 50
+      "count": 51
     },
     {
       "topic": "AML / Financial Crime",
@@ -688,7 +688,7 @@
     },
     {
       "keyword": "transparency",
-      "count": 10
+      "count": 11
     },
     {
       "keyword": "digital euro",
@@ -783,10 +783,6 @@
       "count": 4
     },
     {
-      "keyword": "authorisation",
-      "count": 4
-    },
-    {
       "keyword": "counterparty credit risk",
       "count": 4
     },
@@ -812,6 +808,10 @@
     },
     {
       "keyword": "artificial intelligence",
+      "count": 3
+    },
+    {
+      "keyword": "authorisation",
       "count": 3
     },
     {
@@ -1000,6 +1000,29 @@
     }
   ],
   "publications": [
+    {
+      "id": "cb44217a35027744",
+      "title": "Bank of England Weekly Report 14 October 2026",
+      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+      "url": "https://www.bankofengland.co.uk/weekly-report/2026/14-october-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-15T14:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/14-october-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "c1ffbde3ac0767c4",
       "title": "Review of CCP collateral rules - letters of credit",
@@ -1216,6 +1239,52 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "b6a1c5a21bb55b1d",
+      "title": "ESMA updates its manual on transparency with new guidance for OTC derivatives and tick-size regime",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU regulator and supervisor, has updated its",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-updates-its-manual-transparency-new-guidance-otc-derivatives-and-tick",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2023-07/ESMA74-2134169708-6870_Manual_on_post-trade_transparency.pdf"
+      ],
+      "topics": [
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "transparency",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "transparency"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-updates-its-manual-transparency-new-guidance-otc-derivatives-and-tick",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "f833e74849512f15",
@@ -2844,32 +2913,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "67c2e387cf2eeba1",
-      "title": "ESMA clarifies access for EU market participants to the services of third-country CSDs",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU regulator and superviso",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-clarifies-access-eu-market-participants-services-third-country-csds",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-10-07T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA74-2119945926-3877_Statement_on_third-country_CSDs.pdf",
-        "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA74-2119945926-3773_T_1_statement.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-clarifies-access-eu-market-participants-services-third-country-csds",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "b5719aa79751d02f",
@@ -9999,29 +10042,6 @@
         }
       ],
       "link": "https://www.bankofengland.co.uk/working-paper/2026/sos-the-overnight-bilateral-liquidity-provision-of-non-bank-financial-institutions-to-banks",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "b78d6e57ee6fe8ba",
-      "title": "Central bank communications that reach the public",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/central-bank-communications-that-reach-the-public",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-10T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/central-bank-communications-that-reach-the-public",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
@@ -20299,41 +20319,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "e2c0fcd1c67e704a",
-      "title": "Debt advice warning: spot the red flags",
-      "summary": "People seeking debt advice are being urged to watch out for red flags. Free debt advice is available to everyone. However, the FCA is concerned that some consumers are being steered towards fee-paying debt solutions that may not be suitable for their needs, sometimes through high pressure sales tactics, misleading information or being advised by firms that do not have the appropriate permissions. Red flags include:Pressure tactics: Feeling hassled, or repeatedly contacted, particularly after an online enquiry or unexpected phone call, and being pressured to agree to a debt solution quickly over the phone or via WhatsApp, without time to properly consider their options.",
-      "url": "https://www.fca.org.uk/news/press-releases/debt-advice-warning-spot-red-flags",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/debt-advice-warning-spot-red-flags",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "2e23544a387e702d",
       "title": "EBA ESG risk dashboard shows stable climate risk exposures and continued improvements in data quality",
       "summary": "The European Banking Authority (EBA) today published its latest Environmental, Social and Governance (ESG) risk dashboard, showing continued stability in banks’ transition and physical climate risk indicators across the EU/EEA in second half of 2025. The results also indicate gradual improvements in the availability and quality of climate-related data, particularly for energy efficiency assessments of mortgage portfolios, supporting more robust climate risk monitoring in the banking sector.",
@@ -20391,6 +20376,41 @@
       "updateTypeDetail": "Rule / standard / guidance",
       "originalPublishedAt": "2026-11-25T00:00:00.000Z",
       "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
+    },
+    {
+      "id": "1131815c45e2105b",
+      "title": "ePayments Systems Limited enters special administration",
+      "summary": "On 15 October 2026, ePayments Systems Limited (EPS) entered special administration. Mark Boast and Allister Manson of Opus Restructuring LLP (Opus) have been appointed as joint special administrators. EPS is authorised by the FCA to issue e-money under the Electronic Money Regulations 2011 (EMRs). See details on the Financial Services Register. Who to contactThe special administrators are responsible for managing customer claims against the firm and returning funds to customers where possible. If you have any questions about the administration process, please contact the special administrators:Email: epayments@opusllp.comWebsite: opusllp.",
+      "url": "https://www.fca.org.uk/news/news-stories/epayments-systems-limited-enters-special-administration",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/epayments-systems-limited-enters-special-administration",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "8a8be4e92eae11e4",
@@ -20593,52 +20613,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "7f37ce60827b4cfa",
-      "title": "FCA takes Hunter Jones to High Court over alleged unauthorised activity",
-      "summary": "The FCA has begun High Court proceedings against Osborne Baldwin Limited, which trades as Hunter Jones and Hunter Jones Group. The FCA alleges that Hunter Jones, which sells loan notes, carries out regulated activity without authorisation. The FCA is asking the court to stop Hunter Jones carrying out regulated activity and require money to be returned to investors. The proceedings are at an early stage. The court has not yet determined the claim and no trial date has been set. Consumers who deal with unauthorised firms are at greater risk and may lose access to important protections if things go wrong. The FCA strongly encourages consumers to use its Firm Checker.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-takes-hunter-jones-high-court-over-alleged-unauthorised-activity",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "authorisation",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "authorisation",
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-takes-hunter-jones-high-court-over-alleged-unauthorised-activity",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "0d99be89f3dbacfe",
       "title": "Firms crack down on money mules but need to do more",
       "summary": "Financial firms are shutting down hundreds of thousands of suspected money mule accounts, but organised criminal groups are still shifting dirty money through multiple bank accounts before cashing out. An FCA survey found firms have closed an increasing number of suspected mule accounts over the last 3 years: 238,396 suspected mules had their accounts closed in 2025, up from 184,935 in 2023 and 233,269 in 2024. An increase in account closures could reflect broader customer growth alongside improvements in identifying and acting on suspected mule activity, rather than necessarily meaning mules make up a higher proportion of firms’ business.",
@@ -20783,6 +20757,41 @@
         }
       ],
       "link": "https://www.fca.org.uk/news/news-stories/iti-capital-ltd-enters-special-administration",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "1c9761127d831705",
+      "title": "Jarvis Investment Management Limited enters special administration",
+      "summary": "On 14 October 2026, Jarvis Investment Management Limited (Jarvis Investment) entered special administration. Adam Stephens and Philip Hemming of S&W Partners LLP were appointed as special administrators. Jarvis Investment (FRN 116413) is FCA authorised and regulated to provide wealth management services. On 16 September 2022, Jarvis Investment agreed to a voluntary requirement with the FCA, which restricted the activities it could undertake without FCA consent.",
+      "url": "https://www.fca.org.uk/news/news-stories/jarvis-investment-management-limited-enters-special-administration",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/jarvis-investment-management-limited-enters-special-administration",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -21333,7 +21342,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-15T10:58:10.686Z",
+      "publishedAt": "2026-10-15T20:59:36.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21357,7 +21366,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-15T10:58:10.686Z",
+      "publishedAt": "2026-10-15T20:59:36.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21381,7 +21390,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-15T10:58:10.686Z",
+      "publishedAt": "2026-10-15T20:59:36.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21405,7 +21414,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-15T10:58:10.686Z",
+      "publishedAt": "2026-10-15T20:59:36.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21429,7 +21438,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-15T10:58:10.686Z",
+      "publishedAt": "2026-10-15T20:59:36.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21453,7 +21462,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-15T10:58:10.686Z",
+      "publishedAt": "2026-10-15T20:59:36.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21477,7 +21486,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-15T10:58:10.686Z",
+      "publishedAt": "2026-10-15T20:59:36.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21501,7 +21510,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-15T10:58:10.686Z",
+      "publishedAt": "2026-10-15T20:59:36.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21525,7 +21534,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-15T10:58:10.686Z",
+      "publishedAt": "2026-10-15T20:59:36.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21549,7 +21558,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-15T10:58:10.686Z",
+      "publishedAt": "2026-10-15T20:59:36.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21573,7 +21582,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-15T10:58:10.686Z",
+      "publishedAt": "2026-10-15T20:59:36.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21597,7 +21606,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-15T10:58:10.686Z",
+      "publishedAt": "2026-10-15T20:59:36.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21621,7 +21630,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-15T10:58:10.686Z",
+      "publishedAt": "2026-10-15T20:59:36.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21642,7 +21651,7 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 81
+      "count": 82
     },
     {
       "updateType": "News",
@@ -21654,7 +21663,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 37
+      "count": 36
     },
     {
       "updateType": "Statistics / Data",
