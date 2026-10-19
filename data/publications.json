@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T20:12:09.560Z",
-  "totalPublications": 487,
+  "generatedAt": "2026-10-19T12:18:06.901Z",
+  "totalPublications": 489,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -117,7 +117,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "html-list-parser",
-      "itemCount": 4,
+      "itemCount": 5,
       "url": "https://www.eba.europa.eu/publications-and-media/publications",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
       "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 4,
+      "itemCount": 5,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -472,7 +472,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 34
+      "count": 36
     },
     {
       "topic": "Capital Requirements",
@@ -480,7 +480,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 26
+      "count": 25
     },
     {
       "topic": "Credit Risk",
@@ -504,7 +504,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "Market Risk",
@@ -512,7 +512,7 @@
     },
     {
       "topic": "AI",
-      "count": 8
+      "count": 9
     },
     {
       "topic": "Consumer Protection",
@@ -546,7 +546,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 34
+      "count": 36
     },
     {
       "topic": "Capital Requirements",
@@ -554,7 +554,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 26
+      "count": 25
     },
     {
       "topic": "Credit Risk",
@@ -578,7 +578,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "Market Risk",
@@ -586,7 +586,7 @@
     },
     {
       "topic": "AI",
-      "count": 8
+      "count": 9
     },
     {
       "topic": "Consumer Protection",
@@ -608,7 +608,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 104
+      "count": 103
     },
     {
       "keyword": "board",
@@ -628,7 +628,7 @@
     },
     {
       "keyword": "climate",
-      "count": 27
+      "count": 29
     },
     {
       "keyword": "money laundering",
@@ -671,6 +671,10 @@
       "count": 13
     },
     {
+      "keyword": "liquidity",
+      "count": 12
+    },
+    {
       "keyword": "policy statement",
       "count": 12
     },
@@ -680,10 +684,6 @@
     },
     {
       "keyword": "crypto",
-      "count": 11
-    },
-    {
-      "keyword": "liquidity",
       "count": 11
     },
     {
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 273
+      "count": 275
     },
     {
       "region": "UK",
@@ -948,11 +948,11 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 79
+      "count": 80
     },
     {
       "institution": "European Banking Authority",
-      "count": 64
+      "count": 65
     },
     {
       "institution": "Bank of England",
@@ -1000,6 +1000,170 @@
     }
   ],
   "publications": [
+    {
+      "id": "911733fadda1bfbc",
+      "title": "A Nobel Prize for microeconomic foundations of macroeconomic stabilisation",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261019~b833d15fce.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-blog",
+      "sourceName": "ECB Blog",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-19T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261019~b833d15fce.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "9b4db51fe474b699",
+      "title": "Regulatory incentives and the structure of euro area money markets",
+      "summary": "This paper quantifies the regulatory cost of short-term money market transactions and analyses how post-global financial crisis prudential reforms shape the structure of euro area money markets and the redistribution of central bank reserves. As the stock of reserves declines with the normalisation of the European Central Bank’s balance sheet, trading in money markets is becoming increasingly important to banks’ liquidity management. As the related money market volumes rise, regulatory constraints may become a more visible determinant of trading activity and short-term rate formation.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op401.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-19T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op401.en.pdf"
+      ],
+      "topics": [
+        "Liquidity"
+      ],
+      "matchedKeywords": [
+        "liquidity"
+      ],
+      "topicMatches": [
+        {
+          "id": "liquidity",
+          "label": "Liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op401.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "efaf66d079b5d6a2",
+      "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-19T06:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op380.en.pdf",
+        "https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_FullVolume.pdf",
+        "https://iea.blob.core.windows.net/assets/1c696cc3-e251-46a9-8d4d-9edb2a4e806a/Electrification.pdf",
+        "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op367~16f0cba571.en.pdf?4a16bb11f780582d2c8e1552b3a33d8d",
+        "https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en?filename=The%20future%20of%20European%20competitiveness%20_%20A%20competitiveness%20strategy%20for%20Europe.pdf",
+        "https://www.consilium.europa.eu/media/ny3j24sm/much-more-than-a-market-report-by-enrico-letta.pdf"
+      ],
+      "topics": [
+        "Climate / ESG"
+      ],
+      "matchedKeywords": [
+        "climate"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "93ab148a6f0c7c78",
+      "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261019~1a96adc133.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op380.en.pdf",
+        "https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_FullVolume.pdf",
+        "https://iea.blob.core.windows.net/assets/1c696cc3-e251-46a9-8d4d-9edb2a4e806a/Electrification.pdf",
+        "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op367~16f0cba571.en.pdf?4a16bb11f780582d2c8e1552b3a33d8d",
+        "https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en?filename=The%20future%20of%20European%20competitiveness%20_%20A%20competitiveness%20strategy%20for%20Europe.pdf",
+        "https://www.consilium.europa.eu/media/ny3j24sm/much-more-than-a-market-report-by-enrico-letta.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Climate / ESG",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "climate",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261019~1a96adc133.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
     {
       "id": "060c2359e6525902",
       "title": "Christine Lagarde: IMFC Statement",
@@ -4114,14 +4278,14 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "8d5b685018666d41",
+      "id": "5b2e7ba91e50ab88",
       "title": "Forecasting wages with local linear forests",
       "summary": "This study applies a Local Linear Forest (LLF) for wage forecasting in France. The LLF outperforms benchmarks such as Random Walk (RW), Ridge Regressions (RR) and Random Forests (RF). We also show that adding foreign predictors (i.e. measures of real activity, price and wage pressures from Germany and Italy) to French economic variables significantly improves wage predictions in France. The implications of our results are that wage dynamics in France exhibit non-linearity, to a certain extent, and that the better ability of LLFs relative to RFs to fit smooth signals is a valuable feature, especially at times in which wage growth reaches unprecedented levels from an historical perspective.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3291~03026896b2.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -4134,9 +4298,9 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3291~03026896b2.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "5f432025eef38348",
@@ -4296,29 +4460,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "c5e55ba1d6be7614",
-      "title": "Christine Lagarde: Interview with La Croix",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-30T17:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "2c402125292ef379",
@@ -6509,52 +6650,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "49d512b6bdb9a1af",
-      "title": "ECB publishes supervisory banking statistics on significant institutions for the second quarter of 2026",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260915~7917ca1416.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-15T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260915~7917ca1416.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
     },
     {
       "id": "ccab2ec7350b9573",
@@ -8953,29 +9048,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "b8882e80acc057ea",
-      "title": "Demand or supply-driven? How firms view inflation right now",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260729~7cbefa619b.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-blog",
-      "sourceName": "ECB Blog",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-29T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260729~7cbefa619b.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "6953dd509cd679f9",
@@ -12717,6 +12789,31 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "e89d8910ae865b68",
+      "title": "EBA MB 2026 127 rev. 1 (Final Minutes MB conference call on",
+      "summary": "",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/0c9f0966-23a3-44fc-a11c-4d58bcf49686/EBA%20MB%202026%20127%20rev.%201%20%28Final%20Minutes%20MB%20conference%20call%20on%2029%20May%202026%29.pdf",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
+      "sourceId": "eba-publications",
+      "sourceName": "EBA Publications",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-05-29T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-10/0c9f0966-23a3-44fc-a11c-4d58bcf49686/EBA%20MB%202026%20127%20rev.%201%20%28Final%20Minutes%20MB%20conference%20call%20on%2029%20May%202026%29.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.eba.europa.eu/sites/default/files/2026-10/0c9f0966-23a3-44fc-a11c-4d58bcf49686/EBA%20MB%202026%20127%20rev.%201%20%28Final%20Minutes%20MB%20conference%20call%20on%2029%20May%202026%29.pdf",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "updateType": "Events",
+      "updateTypeDetail": "Event / conference"
     },
     {
       "id": "1e01f4a9e4f08cfd",
@@ -20313,10 +20410,10 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "5a1152a1593f14b2",
-      "title": "Building the next generation of market infrastructure",
-      "summary": "Speech by Nikhil Rathi, FCA chief executive at TheCityUK dinner, sponsored by Nasdaq. Thank you to TheCityUK and Nasdaq for bringing us together this evening. It’s a fitting venue for us to discuss market transitions: the former HQ of Midland Bank, which of course became part of HSBC. And now HSBC Orion has become the first entrant approved to provide live Digital Securities Depository services. A useful reminder that financial infrastructure never stands still, and neither can we. A few years ago, discussions about digital assets were dominated by the technology itself. Could you tokenise a fund? Could you put a bond on a distributed ledger?",
-      "url": "https://www.fca.org.uk/news/speeches/building-next-generation-market-infrastructure",
+      "id": "81547f447d34eb16",
+      "title": "Building the future of finance in the age of AI",
+      "summary": "Jessica Rusu, FCA chief data, information and intelligence officerat Bloomberg's UK Policy Series. The Mills ReviewThat is why we commissioned the Mills Review, published in July, focused on how AI could reshape retail financial services by 2030. Some developments we anticipated are already emerging, including the transition towards agentic finance, such as the launch of Meta’s Muse. Our response to the review is not to consult, study and report progress. Our focus is testing, assurance, monitoring and surveillance: directly with industry to understand how AI systems are being deployed. Whilst the Review focused on retail, the AI shift does not stop at the retail boundary.",
+      "url": "https://www.fca.org.uk/news/speeches/building-future-finance-age-ai",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -20328,21 +20425,19 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
-        "Crypto / Digital Assets",
+        "AI",
         "Governance"
       ],
       "matchedKeywords": [
-        "digital assets",
-        "distributed ledger",
+        "ai systems",
         "conduct"
       ],
       "topicMatches": [
         {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
+          "id": "ai",
+          "label": "AI",
           "keywords": [
-            "digital assets",
-            "distributed ledger"
+            "ai systems"
           ]
         },
         {
@@ -20353,10 +20448,10 @@
           ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/speeches/building-next-generation-market-infrastructure",
+      "link": "https://www.fca.org.uk/news/speeches/building-future-finance-age-ai",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "2e23544a387e702d",
@@ -21431,7 +21526,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-18T20:12:09.560Z",
+      "publishedAt": "2026-10-19T12:18:06.901Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21455,7 +21550,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-18T20:12:09.560Z",
+      "publishedAt": "2026-10-19T12:18:06.901Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21479,7 +21574,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-18T20:12:09.560Z",
+      "publishedAt": "2026-10-19T12:18:06.901Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21503,7 +21598,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-18T20:12:09.560Z",
+      "publishedAt": "2026-10-19T12:18:06.901Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21527,7 +21622,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-18T20:12:09.560Z",
+      "publishedAt": "2026-10-19T12:18:06.901Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21551,7 +21646,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-18T20:12:09.560Z",
+      "publishedAt": "2026-10-19T12:18:06.901Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21575,7 +21670,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-18T20:12:09.560Z",
+      "publishedAt": "2026-10-19T12:18:06.901Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21599,7 +21694,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-18T20:12:09.560Z",
+      "publishedAt": "2026-10-19T12:18:06.901Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21623,7 +21718,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-18T20:12:09.560Z",
+      "publishedAt": "2026-10-19T12:18:06.901Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21647,7 +21742,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-18T20:12:09.560Z",
+      "publishedAt": "2026-10-19T12:18:06.901Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21671,7 +21766,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-18T20:12:09.560Z",
+      "publishedAt": "2026-10-19T12:18:06.901Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21695,7 +21790,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-18T20:12:09.560Z",
+      "publishedAt": "2026-10-19T12:18:06.901Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21719,7 +21814,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-18T20:12:09.560Z",
+      "publishedAt": "2026-10-19T12:18:06.901Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21732,7 +21827,7 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 119
+      "count": 118
     },
     {
       "updateType": "Rules / Standards / Guidance",
@@ -21740,19 +21835,19 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 82
+      "count": 81
     },
     {
       "updateType": "News",
-      "count": 71
+      "count": 72
     },
     {
       "updateType": "Consultations",
-      "count": 37
+      "count": 38
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 37
+      "count": 38
     },
     {
       "updateType": "Statistics / Data",
@@ -21764,7 +21859,7 @@
     },
     {
       "updateType": "Events",
-      "count": 5
+      "count": 6
     },
     {
       "updateType": "Other",
