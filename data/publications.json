@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:59:39.704Z",
+  "generatedAt": "2026-10-20T21:20:24.339Z",
   "totalPublications": 489,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 246
+      "count": 245
     },
     {
       "topic": "Basel / BCBS",
@@ -460,7 +460,7 @@
     },
     {
       "topic": "Governance",
-      "count": 129
+      "count": 128
     },
     {
       "topic": "Reporting / Disclosure",
@@ -468,7 +468,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 38
+      "count": 37
     },
     {
       "topic": "Climate / ESG",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 246
+      "count": 245
     },
     {
       "topic": "Basel / BCBS",
@@ -534,7 +534,7 @@
     },
     {
       "topic": "Governance",
-      "count": 129
+      "count": 128
     },
     {
       "topic": "Reporting / Disclosure",
@@ -542,7 +542,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 38
+      "count": 37
     },
     {
       "topic": "Climate / ESG",
@@ -608,15 +608,15 @@
     },
     {
       "keyword": "supervisory",
-      "count": 103
+      "count": 104
     },
     {
       "keyword": "board",
-      "count": 93
+      "count": 92
     },
     {
       "keyword": "its",
-      "count": 93
+      "count": 91
     },
     {
       "keyword": "reporting",
@@ -715,10 +715,6 @@
       "count": 7
     },
     {
-      "keyword": "fraud",
-      "count": 7
-    },
-    {
       "keyword": "implementing technical standards",
       "count": 7
     },
@@ -736,6 +732,10 @@
     },
     {
       "keyword": "crr",
+      "count": 6
+    },
+    {
+      "keyword": "fraud",
       "count": 6
     },
     {
@@ -1001,6 +1001,64 @@
   ],
   "publications": [
     {
+      "id": "35c0352faa63a57f",
+      "title": "SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers",
+      "summary": "The U. S. Securities and Exchange Commission (SEC) and the French Autorité des Marchés Financiers (AMF) announced that they have entered into a Memorandum of Understanding (MOU) designed to facilitate consultation and information-sharing in the…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-20T13:25:16.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
+    {
+      "id": "62d99283d9e5f56e",
+      "title": "SEC, FSA Hold Autumn Financial Regulatory Dialogue",
+      "summary": "The U. S. Securities and Exchange Commission (SEC) and the Financial Services Agency of Japan (FSA) convened the Autumn SEC-FSA Financial Regulatory Dialogue in Tokyo on Oct. 19, 2026. The SEC–FSA Dialogue builds upon longstanding efforts between the two…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-20T12:51:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "5f948cab90af5ca5",
       "title": "Has food inflation lost its bite?",
       "summary": "",
@@ -1141,6 +1199,31 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "27010fbf93db901e",
+      "title": "ESMA specifies requirements to facilitate safe use of post-trade risk reduction services",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-specifies-requirements-facilitate-safe-use-post-trade-risk-reduction",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA74-1049116226-981_Final_Report_on_post_trade_risk_reduction_services_RTS_Exemption_CO.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-specifies-requirements-facilitate-safe-use-post-trade-risk-reduction",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "b2619d870ed1beb6",
@@ -2827,50 +2910,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "8b3f1783ab4bbcf7",
-      "title": "ESMA appoints Carlos San Basilio as the new member of its Management Board",
-      "summary": "The European Securities and Markets Authority (ESMA), the European Union’s financial",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-appoints-carlos-san-basilio-new-member-its-management-board",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-10-09T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "board",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-appoints-carlos-san-basilio-new-member-its-management-board",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "74dd6e6753e8205f",
       "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
       "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
@@ -4239,9 +4278,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-10-02T04:00:00.000Z",
-      "pdfLinks": [
-        "https://www.mymoney.gov/sites/default/files/100/National-Strategy-Financial-Literacy-for-2026.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "AML / Financial Crime"
       ],
@@ -7560,76 +7597,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
-    },
-    {
-      "id": "a9cbe63ef63514c7",
-      "title": "SEC Announces Agenda and Panelists for Roundtable on Preparations for 24-Hour Trading",
-      "summary": "The Securities and Exchange Commission today announced the agenda and panelists for its Sept. 17, 2026, roundtable on preparations for 24-hour trading. The roundtable will be held at the SEC’s headquarters at 100 F Street, N. E., Washington, D. C., from 10…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-83-sec-announces-agenda-panelists-roundtable-preparations-24-hour-trading",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-01T19:17:39.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-83-sec-announces-agenda-panelists-roundtable-preparations-24-hour-trading",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "bcac6f4f6014b0e0",
-      "title": "SEC Charges San Francisco Bay Area Private Fund Executives with Multimillion Dollar Ponzi-Like Scheme",
-      "summary": "The Securities and Exchange Commission today charged Mark D. Hanf, the former CEO of Novato, California-based Pacific Private Money Group LLC (PPMG), and Hoai-Nam Chu Phan, the former COO of a PPMG subsidiary, with orchestrating an offering fraud that…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-01T17:52:32.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime"
-      ],
-      "matchedKeywords": [
-        "fraud"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "fraud"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "9e8d7db270c29152",
@@ -21522,7 +21489,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-20T10:59:39.704Z",
+      "publishedAt": "2026-10-20T21:20:24.339Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21546,7 +21513,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T10:59:39.704Z",
+      "publishedAt": "2026-10-20T21:20:24.339Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21570,7 +21537,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T10:59:39.704Z",
+      "publishedAt": "2026-10-20T21:20:24.339Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21594,7 +21561,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T10:59:39.704Z",
+      "publishedAt": "2026-10-20T21:20:24.339Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21618,7 +21585,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T10:59:39.704Z",
+      "publishedAt": "2026-10-20T21:20:24.339Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21642,7 +21609,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T10:59:39.704Z",
+      "publishedAt": "2026-10-20T21:20:24.339Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21666,7 +21633,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T10:59:39.704Z",
+      "publishedAt": "2026-10-20T21:20:24.339Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21690,7 +21657,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T10:59:39.704Z",
+      "publishedAt": "2026-10-20T21:20:24.339Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21714,7 +21681,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T10:59:39.704Z",
+      "publishedAt": "2026-10-20T21:20:24.339Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21738,7 +21705,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T10:59:39.704Z",
+      "publishedAt": "2026-10-20T21:20:24.339Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21762,7 +21729,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T10:59:39.704Z",
+      "publishedAt": "2026-10-20T21:20:24.339Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21786,7 +21753,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T10:59:39.704Z",
+      "publishedAt": "2026-10-20T21:20:24.339Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21810,7 +21777,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T10:59:39.704Z",
+      "publishedAt": "2026-10-20T21:20:24.339Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21827,7 +21794,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 96
+      "count": 94
     },
     {
       "updateType": "Publications / Reports",
@@ -21835,11 +21802,11 @@
     },
     {
       "updateType": "News",
-      "count": 72
+      "count": 73
     },
     {
       "updateType": "Consultations",
-      "count": 38
+      "count": 39
     },
     {
       "updateType": "Working Papers / Research",
