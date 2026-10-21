@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:20:24.339Z",
+  "generatedAt": "2026-10-21T11:18:12.907Z",
   "totalPublications": 489,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 245
+      "count": 244
     },
     {
       "topic": "Basel / BCBS",
@@ -504,7 +504,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 12
+      "count": 13
     },
     {
       "topic": "Market Risk",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 245
+      "count": 244
     },
     {
       "topic": "Basel / BCBS",
@@ -578,7 +578,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 12
+      "count": 13
     },
     {
       "topic": "Market Risk",
@@ -663,16 +663,16 @@
       "count": 14
     },
     {
+      "keyword": "liquidity",
+      "count": 13
+    },
+    {
       "keyword": "payments",
       "count": 13
     },
     {
       "keyword": "resolution",
       "count": 13
-    },
-    {
-      "keyword": "liquidity",
-      "count": 12
     },
     {
       "keyword": "policy statement",
@@ -811,10 +811,6 @@
       "count": 3
     },
     {
-      "keyword": "authorisation",
-      "count": 3
-    },
-    {
       "keyword": "basel iii",
       "count": 3
     },
@@ -880,6 +876,10 @@
     },
     {
       "keyword": "aml",
+      "count": 2
+    },
+    {
+      "keyword": "authorisation",
       "count": 2
     },
     {
@@ -1000,6 +1000,96 @@
     }
   ],
   "publications": [
+    {
+      "id": "9a484c3087c47caa",
+      "title": "Resilience of the euro area economy – weathering one shock, preparing for the next",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261021~1c5ec8f223.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-blog",
+      "sourceName": "ECB Blog",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-21T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op371.en.pdf?f80ec8ae70bf291a160a0b89674bf747",
+        "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/24/T3/Files/be2403-art09e.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3180~6e06816794.en.pdf?9954f6aba905d8c673ae5b7d06a158d5"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261021~1c5ec8f223.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "b643e542f24d1d62",
+      "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-21T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "b4b881626aea70d8",
+      "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-21T04:15:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/ire/focus/ecb.irebox202106_06~10e831c124.en.pdf",
+        "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr983.pdf"
+      ],
+      "topics": [
+        "Liquidity"
+      ],
+      "matchedKeywords": [
+        "liquidity"
+      ],
+      "topicMatches": [
+        {
+          "id": "liquidity",
+          "label": "Liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "35c0352faa63a57f",
       "title": "SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers",
@@ -4129,35 +4219,6 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "cb22805ee2cd6cdf",
-      "title": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-02T11:30:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/other/ecb.simplification_supervisory_reporting_framework202512.en.pdf",
-        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2951~e55e828e44.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3043~967a27abd4.en.pdf",
-        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261002_annex~70347620f7.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "6c9f60c5e937dd95",
       "title": "Households and non-financial corporations in the euro area: second quarter of 2026",
       "summary": "",
@@ -4333,31 +4394,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "ae4b337c0b2e6ee6",
-      "title": "Isabel Schnabel: Central banks on-chain",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-01T15:30:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "4f210e56104f7cc6",
@@ -8486,29 +8522,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "11b51e98dbcdfd24",
-      "title": "Building resilience: how energy prices boost home efficiency",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260805~cdb927b992.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-blog",
-      "sourceName": "ECB Blog",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-05T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260805~cdb927b992.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "8dd44e6f4adb5176",
@@ -20755,6 +20768,41 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "6d5b2e4bd7f6a0a9",
+      "title": "Former chief executive banned after misconduct led to £4m losses in high-risk investments",
+      "summary": "The FCA has banned Jeffrey Dawkins, the former chief executive of Vector Wealth Ltd, after he dishonestly acted as a front for a disqualified director using the company to sell high-risk bonds. Mr Dawkins has also been fined nearly £270,000. In 2019, Mr Dawkins sold Vector Wealth to a disqualified director who described himself as CEO and wanted to use Vector Wealth’s FCA-authorised status to sell mini-bonds. Mr Dawkins told the FCA he was still in charge, but the new “CEO” was really running the firm. This deception allowed the disqualified director to promote mini-bonds using the legitimacy of the firm to make them appear safer than they were.",
+      "url": "https://www.fca.org.uk/news/press-releases/former-chief-executive-banned-after-misconduct-led-4m-losses-high-risk-investments",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/former-chief-executive-banned-after-misconduct-led-4m-losses-high-risk-investments",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "449a8c70ad91b32a",
       "title": "InterestMe Financial Planning Limited (IMFP) and the appointed representative InterestMe Advisers Limited (IMA) enter administration",
       "summary": "On 24 September 2026, IMFP and IMA entered administration. Robert Goodhew and Geoff Bouchier of Kroll Advisory Limited were appointed joint administrators for both firms. The joint administrators are responsible for managing the affairs of the firms during the administration process. They are officers of the court and need to comply with all insolvency law. IMFP is authorised by the FCA. IMA is an appointed representative of IMFP. The firms carry out regulated activities, including financial planning and advice on pensions, mortgages and wider financial planning matters. On 24 July 2026, IMFP agreed to a voluntary requirement which restricted the activities it can carry out.",
@@ -20785,41 +20833,6 @@
         }
       ],
       "link": "https://www.fca.org.uk/news/news-stories/imfp-appointed-representative-ima-enter-administration",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "e3c0b265fe6c9877",
-      "title": "ITI Capital Ltd enters special administration",
-      "summary": "On 25 September 2026, ITI Capital Ltd (ITI Capital) entered special administration. Duncan Perring and David Soden, both of Teneo Financial Advisory Ltd (Teneo), were appointed as special administrators. ITI Capital is a FCA authorised and regulated brokerage company that helped customers invest in shares and bonds and looked after their investments. On 10 August 2025, ITI Capital agreed to stop carrying out most regulated activity (UK and overseas) and to stop accepting any new client money or custody assets.",
-      "url": "https://www.fca.org.uk/news/news-stories/iti-capital-ltd-enters-special-administration",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/news-stories/iti-capital-ltd-enters-special-administration",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -21139,6 +21152,41 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
+      "id": "a72a108d6fdf9626",
+      "title": "Reshaping regulation, deliberately",
+      "summary": "Speech by Sarah Pritchard, deputy chief executive, at Investment Association Annual Dinner 2026. Reform: more than writing rulesIn this sector, we’re just past peak rule making. The scale of change has been significant – and deliberate. But we’re not done yet. We want to see growth that benefits consumers, supports competitiveness and spurs innovation. Building a stronger retail investment culture takes more than piecemeal rule writing. It takes a strategic approach. One that starts with giving consumers the support they need to make informed financial decisions. And understand both the risks of acting – and the costs of not acting.",
+      "url": "https://www.fca.org.uk/news/speeches/reshaping-regulation-deliberately",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/speeches/reshaping-regulation-deliberately",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
       "id": "242c14cc42cced5f",
       "title": "Strong compliance functions support trusted corporate finance markets",
       "summary": "Corporate finance firms help businesses raise funding and implement strategic transactions, supporting investment and growth. This brings responsibility: clients need to be able to trust that firms will act with integrity and manage any conflicts of interest. That trust underpins effective wholesale markets activity. In our Regulatory Priorities Report, we said we would assess corporate finance firms’ compliance functions and their ability to challenge the business effectively. We surveyed 411 corporate finance firms about their compliance resources and activities, receiving 382 responses.",
@@ -21385,50 +21433,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "c87fd8dce04bd724",
-      "title": "Twenty-four CFD firms closing in crackdown on misuse of UK authorisation",
-      "summary": "Twenty-one Contracts for Differences (CFD) firms have closed since 2025, following a FCA crackdown. The FCA was concerned the firms were misusing their authorised status to mislead consumers. Three other firms are currently cancelling their permissions. The FCA has been challenging CFD firms that carry out little UK business but use their authorisation as a badge to make linked overseas companies look more trustworthy than they really are. This creates the misleading impression that consumers are dealing directly with a UK-regulated firm and benefit from UK protections when they do not.",
-      "url": "https://www.fca.org.uk/news/press-releases/twenty-four-cfd-firms-closing-crackdown-misuse-uk-authorisation",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "authorisation"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "authorisation"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/twenty-four-cfd-firms-closing-crackdown-misuse-uk-authorisation",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "ae478cf7ac37ddec",
       "title": "Two plead guilty after clients lose £2m in fraud case",
       "summary": "Two people who worked at financial advice firms have pleaded guilty to fraud after 4 clients lost £2m. Kerry Nelson, the director of Nexus Independent Financial Advisers Limited and Nexus Investment Managers Limited, and Jacqueline Stephens, the firms' business operations manager, admitted all charges brought by the FCA at Portsmouth Crown Court. They admitted defrauding clients between January 2019 and January 2023 and using false documents as part of the fraud. Nelson has also admitted a money laundering offence after money was withdrawn from the firms, which she used to fund her extravagant lifestyle.",
@@ -21489,7 +21493,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-20T21:20:24.339Z",
+      "publishedAt": "2026-10-21T11:18:12.907Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21513,7 +21517,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T21:20:24.339Z",
+      "publishedAt": "2026-10-21T11:18:12.907Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21537,7 +21541,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T21:20:24.339Z",
+      "publishedAt": "2026-10-21T11:18:12.907Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21561,7 +21565,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T21:20:24.339Z",
+      "publishedAt": "2026-10-21T11:18:12.907Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21585,7 +21589,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T21:20:24.339Z",
+      "publishedAt": "2026-10-21T11:18:12.907Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21609,7 +21613,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T21:20:24.339Z",
+      "publishedAt": "2026-10-21T11:18:12.907Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21633,7 +21637,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T21:20:24.339Z",
+      "publishedAt": "2026-10-21T11:18:12.907Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21657,7 +21661,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T21:20:24.339Z",
+      "publishedAt": "2026-10-21T11:18:12.907Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21681,7 +21685,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T21:20:24.339Z",
+      "publishedAt": "2026-10-21T11:18:12.907Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21705,7 +21709,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T21:20:24.339Z",
+      "publishedAt": "2026-10-21T11:18:12.907Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21729,7 +21733,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T21:20:24.339Z",
+      "publishedAt": "2026-10-21T11:18:12.907Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21753,7 +21757,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T21:20:24.339Z",
+      "publishedAt": "2026-10-21T11:18:12.907Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21777,7 +21781,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-20T21:20:24.339Z",
+      "publishedAt": "2026-10-21T11:18:12.907Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21790,7 +21794,7 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 119
+      "count": 120
     },
     {
       "updateType": "Rules / Standards / Guidance",
@@ -21802,7 +21806,7 @@
     },
     {
       "updateType": "News",
-      "count": 73
+      "count": 72
     },
     {
       "updateType": "Consultations",
