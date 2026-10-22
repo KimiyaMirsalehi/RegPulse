@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T21:27:22.948Z",
+  "generatedAt": "2026-10-22T11:23:36.005Z",
   "totalPublications": 418,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -207,7 +207,7 @@
       "institution": "Central Bank of Cyprus",
       "region": "Cyprus",
       "status": "success",
-      "parserMode": "source-empty-or-unavailable",
+      "parserMode": "html-list-empty",
       "itemCount": 0,
       "url": "https://www.centralbank.cy/en/announcements",
       "sourcePageUrl": "https://www.centralbank.cy/en/announcements",
@@ -17173,41 +17173,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "449a8c70ad91b32a",
-      "title": "InterestMe Financial Planning Limited (IMFP) and the appointed representative InterestMe Advisers Limited (IMA) enter administration",
-      "summary": "On 24 September 2026, IMFP and IMA entered administration. Robert Goodhew and Geoff Bouchier of Kroll Advisory Limited were appointed joint administrators for both firms. The joint administrators are responsible for managing the affairs of the firms during the administration process. They are officers of the court and need to comply with all insolvency law. IMFP is authorised by the FCA. IMA is an appointed representative of IMFP. The firms carry out regulated activities, including financial planning and advice on pensions, mortgages and wider financial planning matters. On 24 July 2026, IMFP agreed to a voluntary requirement which restricted the activities it can carry out.",
-      "url": "https://www.fca.org.uk/news/news-stories/imfp-appointed-representative-ima-enter-administration",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/news-stories/imfp-appointed-representative-ima-enter-administration",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "1c9761127d831705",
       "title": "Jarvis Investment Management Limited enters special administration",
       "summary": "On 14 October 2026, Jarvis Investment Management Limited (Jarvis Investment) entered special administration. Adam Stephens and Philip Hemming of S&W Partners LLP were appointed as special administrators. Jarvis Investment (FRN 116413) is FCA authorised and regulated to provide wealth management services. On 16 September 2022, Jarvis Investment agreed to a voluntary requirement with the FCA, which restricted the activities it could undertake without FCA consent.",
@@ -17238,6 +17203,41 @@
         }
       ],
       "link": "https://www.fca.org.uk/news/news-stories/jarvis-investment-management-limited-enters-special-administration",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "0c593a254b962939",
+      "title": "Leeds office move",
+      "summary": "We have signed an agreement for a new office at 2 Wellington Place, which will become our long-term home in Leeds from 2028. The new office will provide 36,097 sq ft of space for our growing Leeds presence. Our Leeds office, currently at 6 Queen Street, has continued to grow since opening in 2022. Securing a new permanent base reflects our commitment to the city and supports our 5-year strategy ambition to have 1,000 roles based outside London by 2030. There is still some time before the move, and we'll share more about our new office and plans closer to 2028.",
+      "url": "https://www.fca.org.uk/news/news-stories/leeds-office-move",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/leeds-office-move",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -17656,7 +17656,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -17680,7 +17680,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -17704,7 +17704,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "rss",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -17728,7 +17728,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -17752,7 +17752,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -17776,7 +17776,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -17800,7 +17800,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -17824,7 +17824,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -17848,7 +17848,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -17872,7 +17872,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -17896,7 +17896,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -17920,7 +17920,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -17944,7 +17944,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -17968,7 +17968,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -17992,7 +17992,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -18016,7 +18016,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -18040,7 +18040,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-21T21:27:22.948Z",
+      "publishedAt": "2026-10-22T11:23:36.005Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
