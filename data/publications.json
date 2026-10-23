@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:18:40.632Z",
+  "generatedAt": "2026-10-23T11:10:25.443Z",
   "totalPublications": 481,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 238
+      "count": 237
     },
     {
       "topic": "Basel / BCBS",
@@ -464,15 +464,15 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 49
+      "count": 50
+    },
+    {
+      "topic": "AML / Financial Crime",
+      "count": 36
     },
     {
       "topic": "Climate / ESG",
       "count": 36
-    },
-    {
-      "topic": "AML / Financial Crime",
-      "count": 35
     },
     {
       "topic": "Capital Requirements",
@@ -484,11 +484,11 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 24
+      "count": 23
     },
     {
       "topic": "Stress Testing",
-      "count": 21
+      "count": 22
     },
     {
       "topic": "Recovery / Resolution",
@@ -516,17 +516,17 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 8
+      "count": 7
     },
     {
       "topic": "Model Risk",
-      "count": 8
+      "count": 7
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 238
+      "count": 237
     },
     {
       "topic": "Basel / BCBS",
@@ -538,15 +538,15 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 49
+      "count": 50
+    },
+    {
+      "topic": "AML / Financial Crime",
+      "count": 36
     },
     {
       "topic": "Climate / ESG",
       "count": 36
-    },
-    {
-      "topic": "AML / Financial Crime",
-      "count": 35
     },
     {
       "topic": "Capital Requirements",
@@ -558,11 +558,11 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 24
+      "count": 23
     },
     {
       "topic": "Stress Testing",
-      "count": 21
+      "count": 22
     },
     {
       "topic": "Recovery / Resolution",
@@ -590,17 +590,17 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 8
+      "count": 7
     },
     {
       "topic": "Model Risk",
-      "count": 8
+      "count": 7
     }
   ],
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 132
+      "count": 133
     },
     {
       "keyword": "banking supervision",
@@ -632,15 +632,15 @@
     },
     {
       "keyword": "money laundering",
-      "count": 27
+      "count": 28
     },
     {
       "keyword": "anti money laundering",
-      "count": 22
+      "count": 23
     },
     {
       "keyword": "anti-money laundering",
-      "count": 22
+      "count": 23
     },
     {
       "keyword": "conduct",
@@ -683,7 +683,7 @@
       "count": 12
     },
     {
-      "keyword": "crypto",
+      "keyword": "disclosure",
       "count": 10
     },
     {
@@ -691,11 +691,11 @@
       "count": 10
     },
     {
-      "keyword": "digital euro",
+      "keyword": "crypto",
       "count": 9
     },
     {
-      "keyword": "disclosure",
+      "keyword": "digital euro",
       "count": 9
     },
     {
@@ -708,10 +708,6 @@
     },
     {
       "keyword": "esg",
-      "count": 7
-    },
-    {
-      "keyword": "internal models",
       "count": 7
     },
     {
@@ -731,6 +727,10 @@
       "count": 7
     },
     {
+      "keyword": "stress testing",
+      "count": 7
+    },
+    {
       "keyword": "crr",
       "count": 6
     },
@@ -739,15 +739,15 @@
       "count": 6
     },
     {
+      "keyword": "internal models",
+      "count": 6
+    },
+    {
       "keyword": "payment",
       "count": 6
     },
     {
       "keyword": "risk culture",
-      "count": 6
-    },
-    {
-      "keyword": "stress testing",
       "count": 6
     },
     {
@@ -875,10 +875,6 @@
       "count": 2
     },
     {
-      "keyword": "authorisation",
-      "count": 2
-    },
-    {
       "keyword": "cbdc",
       "count": 2
     },
@@ -888,10 +884,6 @@
     },
     {
       "keyword": "core principles for effective banking supervision",
-      "count": 2
-    },
-    {
-      "keyword": "cryptoasset",
       "count": 2
     },
     {
@@ -916,6 +908,14 @@
     },
     {
       "keyword": "mrel",
+      "count": 2
+    },
+    {
+      "keyword": "pillar 1",
+      "count": 2
+    },
+    {
+      "keyword": "pillar 2",
       "count": 2
     }
   ],
@@ -1000,6 +1000,131 @@
     }
   ],
   "publications": [
+    {
+      "id": "e48136268c8700cb",
+      "title": "ECB Consumer Expectations Survey results – September 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-23T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/shared/pdf/CES_aggregate_statistics_guide.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op287~ea7eebc23f.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "18f0ba9684cc5de5",
+      "title": "List of supervised entities - Cut-off date 1 September 2026",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202610.en.pdf",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-publications",
+      "sourceName": "ECB Banking Supervision Publications",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-23T08:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202610.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202610.en.pdf",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "6ee53b0318452c89",
+      "title": "Patrick Montagner: Stress testing in a changing risk environment",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261023~32ca63a9d1.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-23T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Stress Testing",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "stress testing",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "stress-testing",
+          "label": "Stress Testing",
+          "keywords": [
+            "stress testing"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261023~32ca63a9d1.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
     {
       "id": "445e31690978fa15",
       "title": "CP14/26 – Review of the Senior Managers and Certification Regime (SM&CR) – Phase 2",
@@ -3988,37 +4113,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "f971179f324bd064",
-      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-02T13:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.dep260928_digital_euro_innovation_call.en.pdf?d862730804413c55c2b6aac7350f3097",
-        "https://www.ecb.europa.eu/pub/pdf/legal/ecb.leg_gui_2026_26.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/legal/ecb.leg_gui_2026_27.en.pdf",
-        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202609_micarreview.en.pdf",
-        "https://www.ecb.europa.eu/paym/target/shared/pdf/MIB_members_2026.pdf",
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.geopolstresstest202608.en.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-05/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20Guidelines%20on%20definition%20of%20default.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
-    },
-    {
       "id": "6c9f60c5e937dd95",
       "title": "Households and non-financial corporations in the euro area: second quarter of 2026",
       "summary": "",
@@ -4269,10 +4363,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-10-01T13:30:00.000Z",
-      "pdfLinks": [
-        "http://www.opsi.gov.uk/si/si2009/pdf/uksi_20093056_en.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/banknotes/scottish-northern-ireland/scottish-and-northern-ireland-statement-of-penalty-policy-2018.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -6494,50 +6585,6 @@
         }
       ],
       "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260916_1~446a02f036.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "74b1af9cfd44dc32",
-      "title": "Sharon Donnery: One market, one rulebook: integration is Europe’s best simplification strategy",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260916~3467f1febf.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-16T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260916~3467f1febf.en.html",
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
@@ -10958,61 +11005,6 @@
         }
       ],
       "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisory_guide_egma_202606.en.pdf",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "653e9da29d00a135",
-      "title": "ECB guide to internal models",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisory_guide_egim_202606.en.pdf",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-publications",
-      "sourceName": "ECB Banking Supervision Publications",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-26T07:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisory_guide_egim_202606.en.pdf"
-      ],
-      "topics": [
-        "Basel / BCBS",
-        "Model Risk",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "internal models",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "model-risk",
-          "label": "Model Risk",
-          "keywords": [
-            "internal models"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisory_guide_egim_202606.en.pdf",
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
@@ -20075,6 +20067,43 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
+      "id": "787b372f95f25136",
+      "title": "Beyond borders: Regulating the risks we share",
+      "summary": "Speech by Ashley Alder, FCA Chair, at the Michael D. Gill Lecture on International Financial Regulatory Understanding and Cooperation. I wasn’t fortunate enough to work as closely with Mike as many of you in this room. But I knew him well enough during my time with the IOSCO board to appreciate someone who was kind and unassuming, whilst being absolutely determined to make lives better through his work. He personified the very best attributes of dedicated public service. In his 2024 lecture Andrew Bailey described Mike as a passionate internationalist, and reflected on what this meant for the UK after the Brexit referendum.",
+      "url": "https://www.fca.org.uk/news/speeches/beyond-borders-regulating-risks-we-share",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board",
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/speeches/beyond-borders-regulating-risks-we-share",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
       "id": "81547f447d34eb16",
       "title": "Building the future of finance in the age of AI",
       "summary": "Jessica Rusu, FCA chief data, information and intelligence officerat Bloomberg's UK Policy Series. The Mills ReviewThat is why we commissioned the Mills Review, published in July, focused on how AI could reshape retail financial services by 2030. Some developments we anticipated are already emerging, including the transition towards agentic finance, such as the launch of Meta’s Muse. Our response to the review is not to consult, study and report progress. Our focus is testing, assurance, monitoring and surveillance: directly with industry to understand how AI systems are being deployed. Whilst the Review focused on retail, the AI shift does not stop at the retail boundary.",
@@ -20213,10 +20242,10 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "8a8be4e92eae11e4",
-      "title": "FCA announces new Board appointments",
-      "summary": "Three new appointments have been made to our Board, bringing additional experience in public policy, financial services, regulation and corporate leadership as we continue to deliver our strategy. Lea Paterson CBE and Matthew Tobin have been appointed by the Treasury as non-executive directors, while deputy chief executive Sarah Pritchard has joined the Board as an executive member. Lea Paterson CBE has a career spanning economics, financial journalism, public policy and regulation. She is currently chair of the Senior Salaries Review Body, a Civil Service Commissioner and a board member of the Independent Parliamentary Standards Authority (IPSA).",
-      "url": "https://www.fca.org.uk/news/news-stories/fca-announces-new-board-appointments-lea-paterson-matthew-tobin-sarah-pritchard",
+      "id": "c2bb1a5671c5b840",
+      "title": "FCA calls on private market firms to manage conflicts of interest in line with rapid growth",
+      "summary": "Private market firms vary in how well they identify and manage conflicts of interest, according to an FCA review. Private markets refer to investments in assets, companies, or debt not listed or traded on public exchanges. They’ve grown significantly in recent years, and the UK is a leading international centre. Private markets play an increasingly important role in providing capital to businesses and opportunities for returns to investors. Private markets can give rise to conflicts that differ from those in public markets, and effective disclosure is important to enable investors to assess whether their interests are being protected.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-calls-private-market-firms-manage-conflicts-interest-line-rapid-growth",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -20228,32 +20257,39 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
-        "Governance"
+        "Governance",
+        "Reporting / Disclosure"
       ],
       "matchedKeywords": [
-        "board",
-        "conduct"
+        "conduct",
+        "disclosure"
       ],
       "topicMatches": [
         {
           "id": "governance",
           "label": "Governance",
           "keywords": [
-            "board",
             "conduct"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure"
           ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/news-stories/fca-announces-new-board-appointments-lea-paterson-matthew-tobin-sarah-pritchard",
+      "link": "https://www.fca.org.uk/news/press-releases/fca-calls-private-market-firms-manage-conflicts-interest-line-rapid-growth",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "29ae48b46bbc4550",
-      "title": "FCA opens the gateway to regulated crypto",
-      "summary": "From today, crypto firms can apply for authorisation from the FCA, marking a landmark moment as the UK takes a step closer towards becoming one of the most trusted places in the world to build and invest in cryptoasset businesses. For the first time, crypto firms operating in the UK will be brought into full FCA regulation, with clear standards covering consumer protection, safeguarding, market integrity and financial resilience. This is a significant milestone, not just for the industry, but it signals to those who invest in crypto that the UK is serious in giving them protections they have never had before.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-opens-gateway-regulated-crypto",
+      "id": "6a8fa58c5b2d86bd",
+      "title": "FCA restricts 6 firms following concerns over anti-money laundering controls",
+      "summary": "Restrictions have been placed on 6 unregulated lenders, known as Annex 1 firms, after the FCA raised concerns about their anti-money laundering policies, controls and procedures while assessing their applications. The restrictions were imposed by the FCA on each firm’s request and limit their ability to take on new customers or do new business with existing customers, including extending existing credit. This action forms part of the FCA’s enhanced oversight of Annex 1 firms. These firms operate in sectors that can present a heightened risk of money laundering and other financial crime and are required to register with the FCA for supervision under the Money Laundering Regulations.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-restricts-6-firms-following-concerns-over-anti-money-laundering-controls",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -20265,32 +20301,27 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
-        "Crypto / Digital Assets",
-        "Consumer Protection",
+        "AML / Financial Crime",
         "Governance",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
-        "crypto",
-        "cryptoasset",
-        "consumer protection",
+        "anti-money laundering",
+        "anti money laundering",
+        "money laundering",
+        "financial crime",
         "conduct",
-        "authorisation"
+        "supervision"
       ],
       "topicMatches": [
         {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
           "keywords": [
-            "crypto",
-            "cryptoasset"
-          ]
-        },
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "consumer protection"
+            "anti-money laundering",
+            "anti money laundering",
+            "money laundering",
+            "financial crime"
           ]
         },
         {
@@ -20304,55 +20335,11 @@
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
           "keywords": [
-            "authorisation"
+            "supervision"
           ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-opens-gateway-regulated-crypto",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "cc3f2d321f2381b0",
-      "title": "FCA secures bankruptcy order against Arthur Temlett",
-      "summary": "We asked the Court to make Arthur Temlett, trading as Abacus Insurance Consultants ('Abacus'), bankrupt. This is known as sequestration in Scotland. The Sheriff granted our application on 27 August 2026. Emma Porter of Aver Chartered Accountants ('Aver') was appointed as trustee. She will now assess Mr Temlett’s financial affairs and seek to distribute any recovered funds to creditors. Arthur Temlett is awaiting trial on embezzlement charges brought following an investigation by Police Scotland. On 21 January 2025, we took action to protect consumers by stopping Arthur Temlett from carrying out any regulated activities, including acting as an insurance broker.",
-      "url": "https://www.fca.org.uk/news/news-stories/fca-secures-bankruptcy-order-against-arthur-temlett",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "investigation"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "investigation"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/news-stories/fca-secures-bankruptcy-order-against-arthur-temlett",
+      "link": "https://www.fca.org.uk/news/press-releases/fca-restricts-6-firms-following-concerns-over-anti-money-laundering-controls",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -21122,7 +21109,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-22T21:18:40.632Z",
+      "publishedAt": "2026-10-23T11:10:25.443Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21146,7 +21133,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-22T21:18:40.632Z",
+      "publishedAt": "2026-10-23T11:10:25.443Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21170,7 +21157,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-22T21:18:40.632Z",
+      "publishedAt": "2026-10-23T11:10:25.443Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21194,7 +21181,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-22T21:18:40.632Z",
+      "publishedAt": "2026-10-23T11:10:25.443Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21218,7 +21205,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-22T21:18:40.632Z",
+      "publishedAt": "2026-10-23T11:10:25.443Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21242,7 +21229,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-22T21:18:40.632Z",
+      "publishedAt": "2026-10-23T11:10:25.443Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21266,7 +21253,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-22T21:18:40.632Z",
+      "publishedAt": "2026-10-23T11:10:25.443Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21290,7 +21277,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-22T21:18:40.632Z",
+      "publishedAt": "2026-10-23T11:10:25.443Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21314,7 +21301,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-22T21:18:40.632Z",
+      "publishedAt": "2026-10-23T11:10:25.443Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21338,7 +21325,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-22T21:18:40.632Z",
+      "publishedAt": "2026-10-23T11:10:25.443Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21362,7 +21349,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-22T21:18:40.632Z",
+      "publishedAt": "2026-10-23T11:10:25.443Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21386,7 +21373,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-22T21:18:40.632Z",
+      "publishedAt": "2026-10-23T11:10:25.443Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21410,7 +21397,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-22T21:18:40.632Z",
+      "publishedAt": "2026-10-23T11:10:25.443Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21434,7 +21421,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-22T21:18:40.632Z",
+      "publishedAt": "2026-10-23T11:10:25.443Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21447,19 +21434,19 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 121
+      "count": 122
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 89
+      "count": 87
     },
     {
       "updateType": "Publications / Reports",
-      "count": 81
+      "count": 82
     },
     {
       "updateType": "News",
-      "count": 66
+      "count": 67
     },
     {
       "updateType": "Consultations",
@@ -21471,7 +21458,7 @@
     },
     {
       "updateType": "Statistics / Data",
-      "count": 21
+      "count": 20
     },
     {
       "updateType": "Source Pages",
