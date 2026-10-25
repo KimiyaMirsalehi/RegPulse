@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:23:19.595Z",
+  "generatedAt": "2026-10-25T10:54:40.210Z",
   "totalPublications": 478,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -1000,6 +1000,62 @@
     }
   ],
   "publications": [
+    {
+      "id": "769985031b7b7690",
+      "title": "The EBA publishes its final draft technical standards on material acquisitions, material transfers, mergers and divisions under the Capital Requirements Directive",
+      "summary": "The European Banking Authority (EBA) today published its final draft Regulatory Technical Standards (RTS) and Implementing Technical Standards (ITSs) on material acquisitions, transfers of assets or liabilities, mergers and divisions involving credit institutions or (mixed) financial holding companies under the Capital Requirements Directive (CRD). The standards aim to support banking consolidation and deepen EU market integration by clarifying supervisory expectations, reducing regulatory uncertainty, and promoting a consistent prudential assessment framework across the European Union.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-draft-technical-standards-material-acquisitions-material-transfers-mergers",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-draft-technical-standards-material-acquisitions-material-transfers-mergers",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-10-26T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-07/cfd37e71-4ca4-483a-ab85-090ac8010535/Final%20Report%20on%20RTS%20and%20ITS%20material%20acquisitions%20mat%20transfers%20mergers%20divisions.pdf"
+      ],
+      "topics": [
+        "Capital Requirements",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "capital requirements",
+        "crd",
+        "supervisory",
+        "regulatory technical standards",
+        "implementing technical standards",
+        "rts",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital requirements",
+            "crd"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory",
+            "regulatory technical standards",
+            "implementing technical standards",
+            "rts",
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "21d9554ed4b15cfe",
       "title": "Piero Cipollone: Interview with Milano Finanza",
@@ -20874,64 +20930,6 @@
       "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
     },
     {
-      "id": "769985031b7b7690",
-      "title": "The EBA publishes its final draft technical standards on material acquisitions, material transfers, mergers and divisions under the Capital Requirements Directive",
-      "summary": "The European Banking Authority (EBA) today published its final draft Regulatory Technical Standards (RTS) and Implementing Technical Standards (ITSs) on material acquisitions, transfers of assets or liabilities, mergers and divisions involving credit institutions or (mixed) financial holding companies under the Capital Requirements Directive (CRD). The standards aim to support banking consolidation and deepen EU market integration by clarifying supervisory expectations, reducing regulatory uncertainty, and promoting a consistent prudential assessment framework across the European Union.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-draft-technical-standards-material-acquisitions-material-transfers-mergers",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-draft-technical-standards-material-acquisitions-material-transfers-mergers",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": null,
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/cfd37e71-4ca4-483a-ab85-090ac8010535/Final%20Report%20on%20RTS%20and%20ITS%20material%20acquisitions%20mat%20transfers%20mergers%20divisions.pdf"
-      ],
-      "topics": [
-        "Capital Requirements",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "capital requirements",
-        "crd",
-        "supervisory",
-        "regulatory technical standards",
-        "implementing technical standards",
-        "rts",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital requirements",
-            "crd"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory",
-            "regulatory technical standards",
-            "implementing technical standards",
-            "rts",
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance",
-      "originalPublishedAt": "2026-10-26T00:00:00.000Z",
-      "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
-    },
-    {
       "id": "c829e4e88b1eaf88",
       "title": "Three arrests in major FCA operation against criminal insider dealing ring",
       "summary": "The FCA has conducted a major operation to disrupt a suspected organised criminal group for engaging in insider dealing and money laundering. On 13 October, 3 individuals were arrested following a joint operation by the FCA and the National Crime Agency (NCA). More than 100 FCA and NCA staff took part in searches at 5 residential premises in London and Manchester. More than 30 mobile phones, laptops and tablets were seized in searches conducted by FCA investigators. All 3 suspects are in the process of being interviewed by the FCA at police stations in London and Manchester.",
@@ -21036,7 +21034,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-24T20:23:19.595Z",
+      "publishedAt": "2026-10-25T10:54:40.210Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21060,7 +21058,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-24T20:23:19.595Z",
+      "publishedAt": "2026-10-25T10:54:40.210Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21084,7 +21082,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-24T20:23:19.595Z",
+      "publishedAt": "2026-10-25T10:54:40.210Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21108,7 +21106,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-24T20:23:19.595Z",
+      "publishedAt": "2026-10-25T10:54:40.210Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21132,7 +21130,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-24T20:23:19.595Z",
+      "publishedAt": "2026-10-25T10:54:40.210Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21156,7 +21154,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-24T20:23:19.595Z",
+      "publishedAt": "2026-10-25T10:54:40.210Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21180,7 +21178,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-24T20:23:19.595Z",
+      "publishedAt": "2026-10-25T10:54:40.210Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21204,7 +21202,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-24T20:23:19.595Z",
+      "publishedAt": "2026-10-25T10:54:40.210Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21228,7 +21226,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-24T20:23:19.595Z",
+      "publishedAt": "2026-10-25T10:54:40.210Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21252,7 +21250,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-24T20:23:19.595Z",
+      "publishedAt": "2026-10-25T10:54:40.210Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21276,7 +21274,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-24T20:23:19.595Z",
+      "publishedAt": "2026-10-25T10:54:40.210Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21300,7 +21298,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-24T20:23:19.595Z",
+      "publishedAt": "2026-10-25T10:54:40.210Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21324,7 +21322,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-24T20:23:19.595Z",
+      "publishedAt": "2026-10-25T10:54:40.210Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21348,7 +21346,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-24T20:23:19.595Z",
+      "publishedAt": "2026-10-25T10:54:40.210Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
