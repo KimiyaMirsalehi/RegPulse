@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T20:30:46.539Z",
-  "totalPublications": 478,
+  "generatedAt": "2026-10-26T12:25:20.828Z",
+  "totalPublications": 479,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 5,
+      "itemCount": 6,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 239
+      "count": 240
     },
     {
       "topic": "Basel / BCBS",
@@ -460,7 +460,7 @@
     },
     {
       "topic": "Governance",
-      "count": 129
+      "count": 130
     },
     {
       "topic": "Reporting / Disclosure",
@@ -484,7 +484,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 23
+      "count": 22
     },
     {
       "topic": "Stress Testing",
@@ -508,25 +508,25 @@
     },
     {
       "topic": "Market Risk",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "AI",
-      "count": 8
-    },
-    {
-      "topic": "Consumer Protection",
-      "count": 7
+      "count": 9
     },
     {
       "topic": "Model Risk",
       "count": 7
+    },
+    {
+      "topic": "Consumer Protection",
+      "count": 6
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 239
+      "count": 240
     },
     {
       "topic": "Basel / BCBS",
@@ -534,7 +534,7 @@
     },
     {
       "topic": "Governance",
-      "count": 129
+      "count": 130
     },
     {
       "topic": "Reporting / Disclosure",
@@ -558,7 +558,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 23
+      "count": 22
     },
     {
       "topic": "Stress Testing",
@@ -582,19 +582,19 @@
     },
     {
       "topic": "Market Risk",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "AI",
-      "count": 8
-    },
-    {
-      "topic": "Consumer Protection",
-      "count": 7
+      "count": 9
     },
     {
       "topic": "Model Risk",
       "count": 7
+    },
+    {
+      "topic": "Consumer Protection",
+      "count": 6
     }
   ],
   "keywordCloud": [
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 90
+      "count": 91
     },
     {
       "keyword": "governance",
@@ -644,7 +644,7 @@
     },
     {
       "keyword": "conduct",
-      "count": 22
+      "count": 23
     },
     {
       "keyword": "capital requirements",
@@ -695,12 +695,12 @@
       "count": 9
     },
     {
-      "keyword": "digital euro",
+      "keyword": "supervisory reporting",
       "count": 9
     },
     {
-      "keyword": "supervisory reporting",
-      "count": 9
+      "keyword": "digital euro",
+      "count": 8
     },
     {
       "keyword": "guidelines",
@@ -803,6 +803,10 @@
       "count": 3
     },
     {
+      "keyword": "artificial intelligence",
+      "count": 3
+    },
+    {
       "keyword": "basel iii",
       "count": 3
     },
@@ -867,14 +871,6 @@
       "count": 3
     },
     {
-      "keyword": "var",
-      "count": 3
-    },
-    {
-      "keyword": "artificial intelligence",
-      "count": 2
-    },
-    {
       "keyword": "cbdc",
       "count": 2
     },
@@ -917,12 +913,16 @@
     {
       "keyword": "resolution planning",
       "count": 2
+    },
+    {
+      "keyword": "resolvability",
+      "count": 2
     }
   ],
   "regionSummary": [
     {
       "region": "EU",
-      "count": 264
+      "count": 265
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 80
+      "count": 81
     },
     {
       "institution": "European Banking Authority",
@@ -1000,6 +1000,188 @@
     }
   ],
   "publications": [
+    {
+      "id": "94a84b56378ce3b2",
+      "title": "Artificial intelligence in UK financial services - 2026",
+      "summary": "The Bank of England and Financial Conduct Authority conducted a fourth survey of artificial intelligence and machine learning in UK financial services.",
+      "url": "https://www.bankofengland.co.uk/report/2026/artificial-intelligence-in-uk-financial-services-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "AI",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "artificial intelligence",
+        "machine learning",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "artificial intelligence",
+            "machine learning"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/report/2026/artificial-intelligence-in-uk-financial-services-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "fdfa1b6f2ff92dcf",
+      "title": "Survey on the Access to Finance of Enterprises in the euro area - Third quarter of 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//stats/ecb_surveys/safe/html/ecb.safe202610.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-26T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/accesstofinancesofenterprises/pdf/ecb.safe202610.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/ecbu/eb202108.en.pdf",
+        "https://www.ecb.europa.eu/stats/accesstofinancesofenterprises/pdf/ecb.accesstofinancesmallmediumsizedenterprises201806.en.pdf",
+        "https://www.ecb.europa.eu/stats/pdf/surveys/sme/ecb.safemi.en.pdf",
+        "https://www.ecb.europa.eu/stats/accesstofinancesofenterprises/pdf/questionnaire/ecb.safeq202610.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//stats/ecb_surveys/safe/html/ecb.safe202610.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "de1e4e8e9257cf5f",
+      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-26T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/accesstofinancesofenterprises/pdf/questionnaire/ecb.safeq202610.en.pdf",
+        "https://www.ecb.europa.eu/stats/pdf/surveys/sme/ecb.safemi.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "3180359f68090853",
+      "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-26T05:00:00.000Z",
+      "pdfLinks": [
+        "https://documents1.worldbank.org/curated/en/099092925102517266/pdf/P180275-13b364e3-f045-47f2-97de-f9218682df98.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op333~1b97e436be.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op380.en.pdf",
+        "https://www.ngfs.net/system/files/import/ngfs/medias/documents/ngfs_conceptual-framework-on-nature-related-risks.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.thematicreviewcercompendiumgoodpractices052026.en.pdf",
+        "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds260910~fbf0ab9b8d.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "a0fd7fe4550f4081",
+      "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261026~c0106e3649.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-26T05:00:00.000Z",
+      "pdfLinks": [
+        "https://documents1.worldbank.org/curated/en/099092925102517266/pdf/P180275-13b364e3-f045-47f2-97de-f9218682df98.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op333~1b97e436be.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op380.en.pdf",
+        "https://www.ngfs.net/system/files/import/ngfs/medias/documents/ngfs_conceptual-framework-on-nature-related-risks.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.thematicreviewcercompendiumgoodpractices052026.en.pdf",
+        "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds260910~fbf0ab9b8d.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261026~c0106e3649.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
     {
       "id": "769985031b7b7690",
       "title": "The EBA publishes its final draft technical standards on material acquisitions, material transfers, mergers and divisions under the Capital Requirements Directive",
@@ -3560,10 +3742,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-10-07T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/other/SESFOD_2026_Q3_summary.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/other/SESFOD_2026Q3_survey_guidelines.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -3790,45 +3969,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "1f68ec018100111c",
-      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-06T13:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep251010_technical_annex_financial_stability_impact_digital_euro.en.pdf?f55d1581c257d73d86ad560edce18c17"
-      ],
-      "topics": [
-        "Crypto / Digital Assets"
-      ],
-      "matchedKeywords": [
-        "tokenisation",
-        "digital euro"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "tokenisation",
-            "digital euro"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "8e43767a8f9bae48",
       "title": "Funding the AI revolution: evidence from euro area sectors",
       "summary": "",
@@ -3887,29 +4027,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "cd14f52a33788fb3",
-      "title": "Philip R. Lane: Interview with Ansa",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-06T07:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "5c6aaadf3992903a",
@@ -3984,14 +4101,14 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "b7625f34f3edba92",
+      "id": "c9d49b786c16d61e",
       "title": "ECB monetary policy transmission to unilaterally euroised economies",
       "summary": "Leveraging the unique setting of unilateral euroisation, this paper examines the spillover effects of euro area monetary policy on Montenegro and Kosovo. Through the lens of a structural VAR model with block exogeneity, it shows that euro area monetary policy shocks can significantly influence output and inflation in these economies, albeit with a delayed response, while contributing only modestly to their overall business cycle fluctuations.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3293~a7c6243bcc.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -4016,9 +4133,9 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3293~a7c6243bcc.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "f6d1f4468ff42a89",
@@ -6740,50 +6857,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "1e32acbf0d8fcb91",
-      "title": "Sharon Donnery: A simpler, more usable macroprudential framework for Europe",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260916_1~446a02f036.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-16T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260916_1~446a02f036.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "4c31b664d0338cb5",
@@ -9566,41 +9639,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "f0ba7b9c72cea3cd",
-      "title": "Inflation thresholds and oil shock transmission in the UK: a self-exciting threshold VAR approach",
-      "summary": "Part of the Macro Technical Paper series designed to document models, analysis and conceptual frameworks for monetary policy preparation – they are written by Bank staff to encourage feedback and foster continued model development.",
-      "url": "https://www.bankofengland.co.uk/macro-technical-paper/2026/inflation-thresholds-and-oil-shock-transmission-in-the-uk",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-17T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Market Risk"
-      ],
-      "matchedKeywords": [
-        "var"
-      ],
-      "topicMatches": [
-        {
-          "id": "market-risk",
-          "label": "Market Risk",
-          "keywords": [
-            "var"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/macro-technical-paper/2026/inflation-thresholds-and-oil-shock-transmission-in-the-uk",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "5aff735adcd28d26",
@@ -20131,6 +20169,85 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
+      "id": "9cd741324720d327",
+      "title": "Chandler King (City) Limited enters creditors’ voluntary liquidation",
+      "summary": "On 17 September 2026, Chandler King (City) Limited (Chandler King) went into creditors’ voluntary liquidation. Grace Jones and Karyn Jones of Parker Andrews were appointed as joint liquidators. Chandler King, an FCA-authorised firm, was an independent financial adviser which advised on investments and pensions. On 28 April 2026, Chandler King agreed to a voluntary requirement with the FCA, which restricted its activities. Before entering liquidation, Chandler King applied to cancel its FCA permissions, which is subject to review by the FCA.",
+      "url": "https://www.fca.org.uk/news/news-stories/chandler-king-enters-creditors-voluntary-liquidation",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "conduct",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/chandler-king-enters-creditors-voluntary-liquidation",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "16cacbe77d221dbc",
+      "title": "Defence SMEs need banking services that work",
+      "summary": "The UK's most innovative businesses often start small. Before they can develop new technologies, win contracts or expand into new markets, they need access to banking services to help them operate, invest and grow. Access to financial services can be easy to take for granted. When those services work well they're almost invisible. However, when access becomes difficult or delayed, the effects can extend far beyond a single business. Small-to-medium sized enterprises (SMEs) operating in or providing services to the defence sector play an important role in innovation and growth. But these businesses do more than contribute to economic growth.",
+      "url": "https://www.fca.org.uk/news/blogs/defence-smes-need-banking-services-work",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/blogs/defence-smes-need-banking-services-work",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "2e23544a387e702d",
       "title": "EBA ESG risk dashboard shows stable climate risk exposures and continued improvements in data quality",
       "summary": "The European Banking Authority (EBA) today published its latest Environmental, Social and Governance (ESG) risk dashboard, showing continued stability in banks’ transition and physical climate risk indicators across the EU/EEA in second half of 2025. The results also indicate gradual improvements in the availability and quality of climate-related data, particularly for energy efficiency assessments of mortgage portfolios, supporting more robust climate risk monitoring in the banking sector.",
@@ -20323,50 +20440,6 @@
         }
       ],
       "link": "https://www.fca.org.uk/news/press-releases/fca-restricts-6-firms-following-concerns-over-anti-money-laundering-controls",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "e757f95843010c86",
-      "title": "Firms’ confidence, satisfaction and trust in the FCA rise",
-      "summary": "The latest FCA and Practitioner Panel survey shows rising levels of satisfaction, confidence and trust in the FCA among firms, alongside a strong understanding of Consumer Duty expectations. The FCA and Practitioner Panel annual survey of regulated firms provides valuable insights into how firms think we’re performing. The latest survey shows 79% of firms are highly satisfied with their relationship with the FCA, up from 74% last year. The proportion of firms rating the FCA as a highly effective regulator also increased from 69% to 76%, while 75% reported high levels of trust.",
-      "url": "https://www.fca.org.uk/news/news-stories/firms-confidence-satisfaction-and-trust-fca-rise",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Consumer Protection",
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "consumer duty",
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "consumer duty"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/news-stories/firms-confidence-satisfaction-and-trust-fca-rise",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
@@ -20716,41 +20789,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "a2799f833e09b18b",
-      "title": "Reforming UK capital markets to ensure they work well for our economy",
-      "summary": "Speech by Jon Relleen, director of infrastructure and exchanges, at the Reform of the UK Public and Private Capital Markets Summit 2026. The Economic Secretary to the Treasury has discussed the contribution of UK markets to economic growth. I want to build on that by talking about the FCA’s role in reforming capital market rules. The headline is that we've been very busy over the past few years. We’ve now completed major aspects of a multi-year programme of work, to ensure capital markets work well for our economy and support growth. This has already delivered positive changes. But there’s plenty more to come.",
-      "url": "https://www.fca.org.uk/news/speeches/reforming-uk-capital-markets-ensure-they-work-well-our-economy",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/speeches/reforming-uk-capital-markets-ensure-they-work-well-our-economy",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "a72a108d6fdf9626",
       "title": "Reshaping regulation, deliberately",
       "summary": "Speech by Sarah Pritchard, deputy chief executive, at Investment Association Annual Dinner 2026. Reform: more than writing rulesIn this sector, we’re just past peak rule making. The scale of change has been significant – and deliberate. But we’re not done yet. We want to see growth that benefits consumers, supports competitiveness and spurs innovation. Building a stronger retail investment culture takes more than piecemeal rule writing. It takes a strategic approach. One that starts with giving consumers the support they need to make informed financial decisions. And understand both the risks of acting – and the costs of not acting.",
@@ -21034,7 +21072,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-25T20:30:46.539Z",
+      "publishedAt": "2026-10-26T12:25:20.828Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21058,7 +21096,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-25T20:30:46.539Z",
+      "publishedAt": "2026-10-26T12:25:20.828Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21082,7 +21120,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-25T20:30:46.539Z",
+      "publishedAt": "2026-10-26T12:25:20.828Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21106,7 +21144,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-25T20:30:46.539Z",
+      "publishedAt": "2026-10-26T12:25:20.828Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21130,7 +21168,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-25T20:30:46.539Z",
+      "publishedAt": "2026-10-26T12:25:20.828Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21154,7 +21192,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-25T20:30:46.539Z",
+      "publishedAt": "2026-10-26T12:25:20.828Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21178,7 +21216,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-25T20:30:46.539Z",
+      "publishedAt": "2026-10-26T12:25:20.828Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21202,7 +21240,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-25T20:30:46.539Z",
+      "publishedAt": "2026-10-26T12:25:20.828Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21226,7 +21264,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-25T20:30:46.539Z",
+      "publishedAt": "2026-10-26T12:25:20.828Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21250,7 +21288,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-25T20:30:46.539Z",
+      "publishedAt": "2026-10-26T12:25:20.828Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21274,7 +21312,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-25T20:30:46.539Z",
+      "publishedAt": "2026-10-26T12:25:20.828Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21298,7 +21336,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-25T20:30:46.539Z",
+      "publishedAt": "2026-10-26T12:25:20.828Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21322,7 +21360,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-25T20:30:46.539Z",
+      "publishedAt": "2026-10-26T12:25:20.828Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21346,7 +21384,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-25T20:30:46.539Z",
+      "publishedAt": "2026-10-26T12:25:20.828Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21359,11 +21397,11 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 123
+      "count": 121
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 87
+      "count": 88
     },
     {
       "updateType": "Publications / Reports",
@@ -21371,7 +21409,7 @@
     },
     {
       "updateType": "News",
-      "count": 65
+      "count": 66
     },
     {
       "updateType": "Consultations",
@@ -21379,7 +21417,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 37
+      "count": 38
     },
     {
       "updateType": "Statistics / Data",
