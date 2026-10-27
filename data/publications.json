@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T11:45:01.894Z",
-  "totalPublications": 480,
+  "generatedAt": "2026-10-27T21:56:05.355Z",
+  "totalPublications": 479,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -117,7 +117,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "html-list-parser",
-      "itemCount": 3,
+      "itemCount": 2,
       "url": "https://www.eba.europa.eu/publications-and-media/publications",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
       "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 266
+      "count": 265
     },
     {
       "region": "UK",
@@ -952,7 +952,7 @@
     },
     {
       "institution": "European Banking Authority",
-      "count": 63
+      "count": 62
     },
     {
       "institution": "Bank of England",
@@ -12328,31 +12328,6 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "495278c810d2525b",
-      "title": "List of written procedures and their voting results from 20 April and",
-      "summary": "",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/86236934-e04b-4a92-95bd-c6b258180e3f/List%20of%20written%20procedures%20and%20their%20voting%20results%20from%2020%20April%20and%2010%20June%202026.pdf",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
-      "sourceId": "eba-publications",
-      "sourceName": "EBA Publications",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-10/86236934-e04b-4a92-95bd-c6b258180e3f/List%20of%20written%20procedures%20and%20their%20voting%20results%20from%2020%20April%20and%2010%20June%202026.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.eba.europa.eu/sites/default/files/2026-10/86236934-e04b-4a92-95bd-c6b258180e3f/List%20of%20written%20procedures%20and%20their%20voting%20results%20from%2020%20April%20and%2010%20June%202026.pdf",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "6efdb2ce85148003",
       "title": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
       "summary": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
@@ -20176,6 +20151,41 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
+      "id": "7b83d489653f9517",
+      "title": "Bullseye Financial Ltd enters administration",
+      "summary": "On 23 October 2026, Bullseye Financial Ltd (Bullseye Financial) entered administration. Robert Young of Azets Holdings Limited and Matthew Haw of RSM UK Restructuring Advisory LLP were appointed as joint administrators. The joint administrators are responsible for managing the affairs of the firm during the administration process. Bullseye Financial is authorised by the FCA. It served only professional investors, either managing investment portfolios for them within agreed limits or carrying out their instructions to buy or sell investments without giving investment advice. On 11 March 2026, Bullseye Financial agreed to a voluntary requirement to stop carrying out any regulated activity.",
+      "url": "https://www.fca.org.uk/news/news-stories/bullseye-financial-ltd-enters-administration",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/bullseye-financial-ltd-enters-administration",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "9cd741324720d327",
       "title": "Chandler King (City) Limited enters creditors’ voluntary liquidation",
       "summary": "On 17 September 2026, Chandler King (City) Limited (Chandler King) went into creditors’ voluntary liquidation. Grace Jones and Karyn Jones of Parker Andrews were appointed as joint liquidators. Chandler King, an FCA-authorised firm, was an independent financial adviser which advised on investments and pensions. On 28 April 2026, Chandler King agreed to a voluntary requirement with the FCA, which restricted its activities. Before entering liquidation, Chandler King applied to cancel its FCA permissions, which is subject to review by the FCA.",
@@ -20647,41 +20657,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "ec48e89bff07a995",
-      "title": "Looking at how we interact with whistleblowers",
-      "summary": "Just over a week ago, we received the incredibly sad news that a whistleblower, Simon Andriesz, who we had been in contact with over many years, had died. We’ve shared our condolences, and our thoughts are with his family and loved ones. We’re often in contact with people in challenging circumstances. They may be sharing information about a firm we regulate that they’re concerned about, or in the middle of a dispute affecting their financial security. The personal stress of those situations, and dealing with an official body like us, can be – and for many, is – significant.",
-      "url": "https://www.fca.org.uk/news/blogs/looking-how-we-interact-whistleblowers",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/blogs/looking-how-we-interact-whistleblowers",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "3374b183e0de33da",
       "title": "Market integrity in a digital age",
       "summary": "Speech by Nikhil Rathi, FCA chief executive at the Corporation of the City of London’s annual City Dinner, Mansion House. The success of the UK’s financial servicesIn August, flight cancellations left my sons and I with an extra day in Boston. A Red Sox game, perhaps? No, the Rathi boys – naturally – headed straight to…the Museum of American Finance. Funded by industry, the museum celebrates the role of finance in American life. Illuminating the powerful benefits of informed risk taking. Three sceptical boys engrossed for nearly 2 hours. I quite enjoyed it too. It struck me though how right George Bernard Shaw was: Britain and America are 2 countries separated by a common language.",
@@ -21079,7 +21054,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-27T11:45:01.894Z",
+      "publishedAt": "2026-10-27T21:56:05.355Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21103,7 +21078,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-27T11:45:01.894Z",
+      "publishedAt": "2026-10-27T21:56:05.355Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21127,7 +21102,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-27T11:45:01.894Z",
+      "publishedAt": "2026-10-27T21:56:05.355Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21151,7 +21126,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-27T11:45:01.894Z",
+      "publishedAt": "2026-10-27T21:56:05.355Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21175,7 +21150,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-27T11:45:01.894Z",
+      "publishedAt": "2026-10-27T21:56:05.355Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21199,7 +21174,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-27T11:45:01.894Z",
+      "publishedAt": "2026-10-27T21:56:05.355Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21223,7 +21198,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-27T11:45:01.894Z",
+      "publishedAt": "2026-10-27T21:56:05.355Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21247,7 +21222,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-27T11:45:01.894Z",
+      "publishedAt": "2026-10-27T21:56:05.355Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21271,7 +21246,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-27T11:45:01.894Z",
+      "publishedAt": "2026-10-27T21:56:05.355Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21295,7 +21270,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-27T11:45:01.894Z",
+      "publishedAt": "2026-10-27T21:56:05.355Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21319,7 +21294,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-27T11:45:01.894Z",
+      "publishedAt": "2026-10-27T21:56:05.355Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21343,7 +21318,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-27T11:45:01.894Z",
+      "publishedAt": "2026-10-27T21:56:05.355Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21367,7 +21342,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-27T11:45:01.894Z",
+      "publishedAt": "2026-10-27T21:56:05.355Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21391,7 +21366,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-27T11:45:01.894Z",
+      "publishedAt": "2026-10-27T21:56:05.355Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21412,7 +21387,7 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 82
+      "count": 81
     },
     {
       "updateType": "News",
