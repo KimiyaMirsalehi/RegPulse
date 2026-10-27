@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T22:24:36.177Z",
-  "totalPublications": 479,
+  "generatedAt": "2026-10-27T11:45:01.894Z",
+  "totalPublications": 480,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 6,
+      "itemCount": 7,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 240
+      "count": 239
     },
     {
       "topic": "Basel / BCBS",
@@ -496,7 +496,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 19
+      "count": 18
     },
     {
       "topic": "DORA / Operational Resilience",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 240
+      "count": 239
     },
     {
       "topic": "Basel / BCBS",
@@ -570,7 +570,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 19
+      "count": 18
     },
     {
       "topic": "DORA / Operational Resilience",
@@ -600,7 +600,7 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 133
+      "count": 132
     },
     {
       "keyword": "banking supervision",
@@ -659,10 +659,6 @@
       "count": 14
     },
     {
-      "keyword": "payments",
-      "count": 13
-    },
-    {
       "keyword": "resolution",
       "count": 13
     },
@@ -676,6 +672,10 @@
     },
     {
       "keyword": "liquidity",
+      "count": 12
+    },
+    {
+      "keyword": "payments",
       "count": 12
     },
     {
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 265
+      "count": 266
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 81
+      "count": 82
     },
     {
       "institution": "European Banking Authority",
@@ -1000,6 +1000,85 @@
     }
   ],
   "publications": [
+    {
+      "id": "456cb615dee8db37",
+      "title": "Monetary developments in the euro area: September 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2609~dd1bf1b2e4.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-statistical-press-releases",
+      "sourceName": "ECB Statistical Press Releases",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-27T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/pdf/md/ecb.md2609_annex~47041e404d.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2609~dd1bf1b2e4.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "1575df3ad36c6929",
+      "title": "The euro area bank lending survey - Third quarter of 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//stats/ecb_surveys/bank_lending_survey/html/ecb.blssurvey2026q3~c6a731e213.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-27T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.blssurvey2026q3~c6a731e213.en.pdf",
+        "https://www.ecb.europa.eu/stats/pdf/bls_user_guide_202604.en.pdf",
+        "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.bls_questionnaire.en.pdf",
+        "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.bls_annex2026q3.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//stats/ecb_surveys/bank_lending_survey/html/ecb.blssurvey2026q3~c6a731e213.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "3d37fc5c95197753",
+      "title": "October 2026 euro area bank lending survey",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-27T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.bls_questionnaire.en.pdf",
+        "https://www.ecb.europa.eu/stats/pdf/bls_user_guide_202604.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "94a84b56378ce3b2",
       "title": "Artificial intelligence in UK financial services - 2026",
@@ -3893,41 +3972,6 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "a598aae062e54096",
-      "title": "Frank Elderson: Effective supervision through timely remediation",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-06T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "e76ae85ccc6f1d37",
       "title": "Frank Elderson: Effective supervision through timely remediation",
       "summary": "",
@@ -4141,14 +4185,14 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "f6d1f4468ff42a89",
+      "id": "b435580f9643837c",
       "title": "Understanding inflation: insights from the term structure of inflation risks",
       "summary": "This paper investigates the information content of the term structure of inflation risks and its usefulness for understanding inflation dynamics. Using prices of traded zero-coupon inflation caps and floors, we develop a robust non-parametric methodology, combined with a Student’s t-copula, to estimate spot and forward risk-neutral densities at short-, medium-, and long-term horizons, i.e., long-horizon risks are identified from liquid instruments alone, at daily frequency, without forward-starting contracts.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3294~343f6d6c31.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -4173,9 +4217,9 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3294~343f6d6c31.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "3b0c47f6e90cb30b",
@@ -4398,9 +4442,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-10-02T15:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20261002a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance",
         "Supervision / Enforcement"
@@ -4444,10 +4486,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-10-02T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/pdf/ffi/ecb.eaefd_early2026q2_annex_1~7e37dfbf1d.en.pdf",
-        "https://www.ecb.europa.eu/press/pdf/ffi/ecb.eaefd_early2026q2_annex~1ff00dc3bd.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -9584,41 +9623,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "44443c11a4acc78e",
-      "title": "Payments statistics: second half of 2025",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/stats/paysec/html/ecb.pis2025h2~23986fb4a6.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-statistical-press-releases",
-      "sourceName": "ECB Statistical Press Releases",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-22T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "payments"
-      ],
-      "topicMatches": [
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "payments"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/stats/paysec/html/ecb.pis2025h2~23986fb4a6.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
     },
     {
       "id": "ccd2465e55fd6140",
@@ -21075,7 +21079,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-26T22:24:36.177Z",
+      "publishedAt": "2026-10-27T11:45:01.894Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21099,7 +21103,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-26T22:24:36.177Z",
+      "publishedAt": "2026-10-27T11:45:01.894Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21123,7 +21127,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-26T22:24:36.177Z",
+      "publishedAt": "2026-10-27T11:45:01.894Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21147,7 +21151,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-26T22:24:36.177Z",
+      "publishedAt": "2026-10-27T11:45:01.894Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21171,7 +21175,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-26T22:24:36.177Z",
+      "publishedAt": "2026-10-27T11:45:01.894Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21195,7 +21199,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-26T22:24:36.177Z",
+      "publishedAt": "2026-10-27T11:45:01.894Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21219,7 +21223,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-26T22:24:36.177Z",
+      "publishedAt": "2026-10-27T11:45:01.894Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21243,7 +21247,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-26T22:24:36.177Z",
+      "publishedAt": "2026-10-27T11:45:01.894Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21267,7 +21271,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-26T22:24:36.177Z",
+      "publishedAt": "2026-10-27T11:45:01.894Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21291,7 +21295,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-26T22:24:36.177Z",
+      "publishedAt": "2026-10-27T11:45:01.894Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21315,7 +21319,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-26T22:24:36.177Z",
+      "publishedAt": "2026-10-27T11:45:01.894Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21339,7 +21343,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-26T22:24:36.177Z",
+      "publishedAt": "2026-10-27T11:45:01.894Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21363,7 +21367,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-26T22:24:36.177Z",
+      "publishedAt": "2026-10-27T11:45:01.894Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21387,7 +21391,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-26T22:24:36.177Z",
+      "publishedAt": "2026-10-27T11:45:01.894Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21404,11 +21408,11 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 88
+      "count": 87
     },
     {
       "updateType": "Publications / Reports",
-      "count": 81
+      "count": 82
     },
     {
       "updateType": "News",
@@ -21420,7 +21424,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 38
+      "count": 39
     },
     {
       "updateType": "Statistics / Data",
