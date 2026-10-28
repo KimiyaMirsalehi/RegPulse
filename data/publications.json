@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T12:16:57.086Z",
-  "totalPublications": 479,
+  "generatedAt": "2026-10-28T22:19:12.943Z",
+  "totalPublications": 480,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -234,7 +234,7 @@
       "region": "US",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 10,
+      "itemCount": 11,
       "url": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
@@ -460,7 +460,7 @@
     },
     {
       "topic": "Governance",
-      "count": 130
+      "count": 131
     },
     {
       "topic": "Reporting / Disclosure",
@@ -534,7 +534,7 @@
     },
     {
       "topic": "Governance",
-      "count": 130
+      "count": 131
     },
     {
       "topic": "Reporting / Disclosure",
@@ -612,7 +612,7 @@
     },
     {
       "keyword": "board",
-      "count": 93
+      "count": 94
     },
     {
       "keyword": "its",
@@ -930,7 +930,7 @@
     },
     {
       "region": "US",
-      "count": 78
+      "count": 79
     },
     {
       "region": "Global",
@@ -964,7 +964,7 @@
     },
     {
       "institution": "Federal Reserve Board",
-      "count": 30
+      "count": 31
     },
     {
       "institution": "Financial Conduct Authority",
@@ -1000,6 +1000,43 @@
     }
   ],
   "publications": [
+    {
+      "id": "c2ceafc7d77fe248",
+      "title": "Federal Reserve issues FOMC statement",
+      "summary": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-28T18:00:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/monetarypolicy/files/monetary20261028a1.pdf"
+      ],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "d22b2ed8f7fcb24f",
       "title": "Euro area economic and financial developments by institutional sector: second quarter of 2026",
@@ -4387,9 +4424,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-10-02T20:45:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/orders20261002a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -7176,14 +7211,14 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "9116c7f19a38c2fc",
+      "id": "890e796b1f1a10b5",
       "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
       "summary": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-press",
-      "sourceName": "Federal Reserve Press Releases",
+      "sourceId": "federal-reserve-banking-reg",
+      "sourceName": "Federal Reserve Banking and Consumer Regulatory Policy",
       "institution": "Federal Reserve Board",
       "region": "US",
       "jurisdiction": "US",
@@ -7217,7 +7252,7 @@
         }
       ],
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
     },
@@ -21057,7 +21092,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-28T12:16:57.086Z",
+      "publishedAt": "2026-10-28T22:19:12.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21081,7 +21116,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-28T12:16:57.086Z",
+      "publishedAt": "2026-10-28T22:19:12.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21105,7 +21140,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-28T12:16:57.086Z",
+      "publishedAt": "2026-10-28T22:19:12.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21129,7 +21164,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-28T12:16:57.086Z",
+      "publishedAt": "2026-10-28T22:19:12.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21153,7 +21188,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-28T12:16:57.086Z",
+      "publishedAt": "2026-10-28T22:19:12.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21177,7 +21212,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-28T12:16:57.086Z",
+      "publishedAt": "2026-10-28T22:19:12.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21201,7 +21236,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-28T12:16:57.086Z",
+      "publishedAt": "2026-10-28T22:19:12.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21225,7 +21260,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-28T12:16:57.086Z",
+      "publishedAt": "2026-10-28T22:19:12.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21249,7 +21284,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-28T12:16:57.086Z",
+      "publishedAt": "2026-10-28T22:19:12.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21273,7 +21308,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-28T12:16:57.086Z",
+      "publishedAt": "2026-10-28T22:19:12.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21297,7 +21332,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-28T12:16:57.086Z",
+      "publishedAt": "2026-10-28T22:19:12.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21321,7 +21356,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-28T12:16:57.086Z",
+      "publishedAt": "2026-10-28T22:19:12.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21345,7 +21380,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-28T12:16:57.086Z",
+      "publishedAt": "2026-10-28T22:19:12.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21369,7 +21404,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-28T12:16:57.086Z",
+      "publishedAt": "2026-10-28T22:19:12.943Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21394,7 +21429,7 @@
     },
     {
       "updateType": "News",
-      "count": 66
+      "count": 67
     },
     {
       "updateType": "Consultations",
