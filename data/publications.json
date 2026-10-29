@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T12:23:30.673Z",
-  "totalPublications": 489,
+  "generatedAt": "2026-10-29T22:30:41.505Z",
+  "totalPublications": 491,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -117,7 +117,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "html-list-parser",
-      "itemCount": 2,
+      "itemCount": 3,
       "url": "https://www.eba.europa.eu/publications-and-media/publications",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
       "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
@@ -325,7 +325,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 14,
+      "itemCount": 15,
       "url": "https://www.ecb.europa.eu/rss/statpress.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -468,7 +468,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 38
+      "count": 39
     },
     {
       "topic": "Climate / ESG",
@@ -484,7 +484,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 23
+      "count": 24
     },
     {
       "topic": "Stress Testing",
@@ -492,7 +492,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 20
+      "count": 21
     },
     {
       "topic": "Recovery / Resolution",
@@ -542,7 +542,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 38
+      "count": 39
     },
     {
       "topic": "Climate / ESG",
@@ -558,7 +558,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 23
+      "count": 24
     },
     {
       "topic": "Stress Testing",
@@ -566,7 +566,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 20
+      "count": 21
     },
     {
       "topic": "Recovery / Resolution",
@@ -608,7 +608,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 103
+      "count": 102
     },
     {
       "keyword": "board",
@@ -667,6 +667,10 @@
       "count": 13
     },
     {
+      "keyword": "policy statement",
+      "count": 13
+    },
+    {
       "keyword": "resolution",
       "count": 13
     },
@@ -680,10 +684,6 @@
     },
     {
       "keyword": "payments",
-      "count": 12
-    },
-    {
-      "keyword": "policy statement",
       "count": 12
     },
     {
@@ -711,6 +711,10 @@
       "count": 7
     },
     {
+      "keyword": "fraud",
+      "count": 7
+    },
+    {
       "keyword": "operational resilience",
       "count": 7
     },
@@ -732,10 +736,6 @@
     },
     {
       "keyword": "crr",
-      "count": 6
-    },
-    {
-      "keyword": "fraud",
       "count": 6
     },
     {
@@ -799,6 +799,10 @@
       "count": 4
     },
     {
+      "keyword": "settlement",
+      "count": 4
+    },
+    {
       "keyword": "accountability",
       "count": 3
     },
@@ -856,10 +860,6 @@
     },
     {
       "keyword": "recovery plans",
-      "count": 3
-    },
-    {
-      "keyword": "settlement",
       "count": 3
     },
     {
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 274
+      "count": 276
     },
     {
       "region": "UK",
@@ -948,11 +948,11 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 82
+      "count": 83
     },
     {
       "institution": "European Banking Authority",
-      "count": 62
+      "count": 63
     },
     {
       "institution": "Bank of England",
@@ -1000,6 +1000,207 @@
     }
   ],
   "publications": [
+    {
+      "id": "b5c27b3880202d9c",
+      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "summary": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-29T20:30:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/orders20261029a1.pdf"
+      ],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "2018ae91b3bafa6a",
+      "title": "Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence",
+      "summary": "The Securities and Exchange Commission today charged two foreign-operated, Colorado-incorporated entities, BG Wealth Sharing Ltd and DSJ Exchange Pty Ltd, for orchestrating a fraud scheme that used false SEC filings to boost confidence in their…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-29T16:42:37.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime"
+      ],
+      "matchedKeywords": [
+        "fraud"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "fraud"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "9723f4fabdf9daa8",
+      "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-29T15:50:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/paym/pdf/consultations/Eurosystem_report_on_the_public_consultation_on_the_Appia_Roadmap.pdf"
+      ],
+      "topics": [
+        "Crypto / Digital Assets",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "tokenisation",
+        "settlement"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "tokenisation"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "settlement"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "60a84915bd62a98e",
+      "title": "Bank of England Weekly Report 28 October 2026",
+      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+      "url": "https://www.bankofengland.co.uk/weekly-report/2026/28-october-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-29T15:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/28-october-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "ff0661c35bf4f959",
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-29T14:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds261029~3abd26884e.en.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "ea4a2ace0cd7d94d",
+      "title": "Monetary policy decisions",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-29T13:15:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "7328fc83dc220de3",
       "title": "Consultation on supervisory expectations for central counterparties seeking to accept tokenised collateral",
@@ -1110,6 +1311,68 @@
       "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "8e1e70dfed62cc74",
+      "title": "ESMA publishes latest edition of its newsletter",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-45",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.esma.europa.eu/sites/default/files/2026-10/Newsletter_September___October_2026.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-45",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "e05a0ad931a8a985",
+      "title": "FLM' Keynote Speech - IADI Annual Conference",
+      "summary": "",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/21a97bf7-e039-494d-a71e-e48df08c344d/FLM%27%20Keynote%20Speech%20-%20IADI%20Annual%20Confrence%2029%20October%202026.pdf",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
+      "sourceId": "eba-publications",
+      "sourceName": "EBA Publications",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-10/21a97bf7-e039-494d-a71e-e48df08c344d/FLM%27%20Keynote%20Speech%20-%20IADI%20Annual%20Confrence%2029%20October%202026.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.eba.europa.eu/sites/default/files/2026-10/21a97bf7-e039-494d-a71e-e48df08c344d/FLM%27%20Keynote%20Speech%20-%20IADI%20Annual%20Confrence%2029%20October%202026.pdf",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "3a727483535e6243",
@@ -3418,32 +3681,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "c966048cbd73faeb",
-      "title": "Philip R. Lane: The AI opportunity for Europe",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-13T18:30:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpdps/ecb.dp32~90bd9a7638.en.pdf",
-        "https://www.kansascityfed.org/documents/18595/brunnermeier.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "1f93f0c44f8db4d9",
       "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
       "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
@@ -3548,43 +3785,6 @@
       ],
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "94f2b182dc7571ab",
-      "title": "European Supervisory Authorities set priorities for 2027",
-      "summary": "The Joint Committee of the European Supervisory Authorities (EBA, EIOPA and ESMA – t",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/european-supervisory-authorities-set-priorities-2027",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-10-13T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-10/JC_2026_21_-_Joint_Committee_Annual_Work_Programme_2027.pdf"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/european-supervisory-authorities-set-priorities-2027",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "23b6225a8fcb2fc9",
@@ -4013,14 +4213,14 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "e21b32526dc16918",
+      "id": "f9b18ebf2cc33c8c",
       "title": "Meeting of 9-10 September 2026",
       "summary": "",
       "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
+      "sourceId": "ecb-statistical-press-releases",
+      "sourceName": "ECB Statistical Press Releases",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -4031,9 +4231,9 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
     },
     {
       "id": "322dd8932f1d50f0",
@@ -4049,18 +4249,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-10-08T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2665~622858d454.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op281~05a7735b1c.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op328~2c44ee718e.en.pdf?7793485730460e4e0b4e170237eb7429",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3248~f871c3bd85.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2798~0608a462fb.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op340~0173592e52.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2537~002be51914.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3084~59464f2b92.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3237~617a2b8de5.en.pdf?7ebea83a8f52a6800ba4e9ddf3df0339",
-        "https://conference.nber.org/conf_papers/f240202.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Climate / ESG"
       ],
@@ -4128,29 +4317,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "99a9e51b82f0dd0d",
-      "title": "Piero Cipollone: Interview with Corriere della Sera",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-08T06:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "97c7302c4701439a",
       "title": "Private equity beyond the target: how buyouts reshape supply chains",
       "summary": "The impact of private equity buyouts on target firms is well documented, yet empirical evidence on the impact of buyouts across the supply chain remains scarce. We address this gap by using unique production network data to examine how supply chains contribute to the ability of private equity investors to create and extract value. We show that, on average, suppliers of firms backed by private equity outperform their peers because of increased demand for inputs from customers backed by private equity – rather than alternative mechanisms such as knowledge spillovers.",
@@ -4164,10 +4330,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-10-08T06:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/research-publications/resbull/2026/html/ecb.rb261008~e8cca8ed6f.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3234~f530727180.en.pdf?e56523c68420c4f7c18a362f7121b5d5"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -7287,41 +7450,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "73f631c7bd37cae3",
-      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-press",
-      "sourceName": "Federal Reserve Press Releases",
-      "institution": "Federal Reserve Board",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-16T18:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "board"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        }
-      ],
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "a3685b96d2e76b41",
       "title": "Federal Reserve issues FOMC statement",
       "summary": "Federal Reserve issues FOMC statement",
@@ -8017,41 +8145,6 @@
       "topicMatches": [],
       "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/august-2026",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "3b068821b42c08a9",
-      "title": "SEC Proposes Rescission of Political Contribution Rule for Investment Advisers",
-      "summary": "The Securities and Exchange Commission today issued a proposal to rescind its “pay-to-play” rule that prohibits investment advisers from providing compensated investment advisory services to a government client for two years…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-03T20:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
     },
@@ -9955,29 +10048,6 @@
       ],
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "0132f6cb5bdaa91a",
-      "title": "Bank of England Weekly Report 22 July 2026",
-      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2026/22-july-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-23T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/22-july-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "e1ce173fbd2be701",
@@ -21486,7 +21556,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-29T12:23:30.673Z",
+      "publishedAt": "2026-10-29T22:30:41.505Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21510,7 +21580,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T12:23:30.673Z",
+      "publishedAt": "2026-10-29T22:30:41.505Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21534,7 +21604,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T12:23:30.673Z",
+      "publishedAt": "2026-10-29T22:30:41.505Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21558,7 +21628,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T12:23:30.673Z",
+      "publishedAt": "2026-10-29T22:30:41.505Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21582,7 +21652,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T12:23:30.673Z",
+      "publishedAt": "2026-10-29T22:30:41.505Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21606,7 +21676,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T12:23:30.673Z",
+      "publishedAt": "2026-10-29T22:30:41.505Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21630,7 +21700,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T12:23:30.673Z",
+      "publishedAt": "2026-10-29T22:30:41.505Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21654,7 +21724,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T12:23:30.673Z",
+      "publishedAt": "2026-10-29T22:30:41.505Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21678,7 +21748,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T12:23:30.673Z",
+      "publishedAt": "2026-10-29T22:30:41.505Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21702,7 +21772,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T12:23:30.673Z",
+      "publishedAt": "2026-10-29T22:30:41.505Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21726,7 +21796,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T12:23:30.673Z",
+      "publishedAt": "2026-10-29T22:30:41.505Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21750,7 +21820,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T12:23:30.673Z",
+      "publishedAt": "2026-10-29T22:30:41.505Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21774,7 +21844,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T12:23:30.673Z",
+      "publishedAt": "2026-10-29T22:30:41.505Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21791,7 +21861,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 90
+      "count": 91
     },
     {
       "updateType": "Publications / Reports",
@@ -21811,7 +21881,7 @@
     },
     {
       "updateType": "Statistics / Data",
-      "count": 20
+      "count": 21
     },
     {
       "updateType": "Source Pages",
