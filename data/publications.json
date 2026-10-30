@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T12:15:26.079Z",
+  "generatedAt": "2026-10-30T21:58:33.782Z",
   "totalPublications": 490,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -472,7 +472,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 38
+      "count": 37
     },
     {
       "topic": "Capital Requirements",
@@ -487,12 +487,12 @@
       "count": 24
     },
     {
-      "topic": "Stress Testing",
+      "topic": "Payments / Open Finance",
       "count": 22
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 21
+      "topic": "Stress Testing",
+      "count": 22
     },
     {
       "topic": "Recovery / Resolution",
@@ -546,7 +546,7 @@
     },
     {
       "topic": "Climate / ESG",
-      "count": 38
+      "count": 37
     },
     {
       "topic": "Capital Requirements",
@@ -561,12 +561,12 @@
       "count": 24
     },
     {
-      "topic": "Stress Testing",
+      "topic": "Payments / Open Finance",
       "count": 22
     },
     {
-      "topic": "Payments / Open Finance",
-      "count": 21
+      "topic": "Stress Testing",
+      "count": 22
     },
     {
       "topic": "Recovery / Resolution",
@@ -628,7 +628,7 @@
     },
     {
       "keyword": "climate",
-      "count": 29
+      "count": 28
     },
     {
       "keyword": "money laundering",
@@ -1000,6 +1000,93 @@
     }
   ],
   "publications": [
+    {
+      "id": "ee67bede4797f0c9",
+      "title": "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U. S. Repo Transactions",
+      "summary": "The Securities and Exchange Commission took another step forward today to assist broker-dealers and other market participants on the path to central clearing of U. S. Treasury securities by issuing exemptive relief related to inter-affiliate repo…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-30T19:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "clearing"
+      ],
+      "topicMatches": [
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "clearing"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "d244fed40c2dbc7d",
+      "title": "Philip R. Lane: AI adoption in Europe",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-30T16:10:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3246~e9aa80d0b9.en.pdf",
+        "https://eu-st01.ext.exlibrisgroup.com/41ILO_INST/storage/alma/26/0B/A5/87/C9/57/C0/80/AE/F7/5A/24/04/C3/E7/AF/Research%20brief_FINAL_15May2025_21.05.25_1.pdf?AccessRightAllowDownload=true&amp;Expires=1793362696&amp;Signature=ZsSobnAZqyyRt46Qu8Y2SwUVj0LXszPqo5CBc9Ja51cEq7LePL54yM8XireMo4owdJ-WZSdvzRxcmDUU4v~xNWXMISdf-2-1h262VqkCsDmCwn-Wi-FTl3lFjilBX3q6Ebs9odVwn1rTLBFL3y2PlJ5MGOcvXBkyfBy~qap6rD9Gdkw6FBOEf0VnV-9G7bg7qOwH0eD0DHOQNeHCATSwoTUCERxdOHp8JD6UkMvTNDBqNhQgwTMg-IZmC1OSANBPqSFx9VDZ~XyGWjnJIc80vsdJXQ48xp9-jLC2~Vp5AoOaNZzDhWRt8TR3b9nQmT-SiI5daIZp8XJK1dcMsJhaoQ__&amp;Key-Pair-Id=APKAJ72OZCZ36VGVASIA",
+        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261030_annex~ffd5520fb0.en.pdf",
+        "https://www.lse.ac.uk/tii/assets/documents/Bridging-the-AI-Generational-Gap.pdf",
+        "https://www.ilo.org/sites/default/files/2025-05/WP140_web.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "39f418108bfe00a2",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-30T14:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
     {
       "id": "d4a9eca434a31687",
       "title": "Pedro Machado: Interview with Bloomberg",
@@ -2907,49 +2994,6 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "efaf66d079b5d6a2",
-      "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-19T06:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op380.en.pdf",
-        "https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_FullVolume.pdf",
-        "https://iea.blob.core.windows.net/assets/1c696cc3-e251-46a9-8d4d-9edb2a4e806a/Electrification.pdf",
-        "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op367~16f0cba571.en.pdf?4a16bb11f780582d2c8e1552b3a33d8d",
-        "https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en?filename=The%20future%20of%20European%20competitiveness%20_%20A%20competitiveness%20strategy%20for%20Europe.pdf",
-        "https://www.consilium.europa.eu/media/ny3j24sm/much-more-than-a-market-report-by-enrico-letta.pdf"
-      ],
-      "topics": [
-        "Climate / ESG"
-      ],
-      "matchedKeywords": [
-        "climate"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "93ab148a6f0c7c78",
       "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
       "summary": "",
@@ -3009,29 +3053,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "060c2359e6525902",
-      "title": "Christine Lagarde: IMFC Statement",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-17T05:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "c02065bf12bbc57a",
@@ -4208,9 +4229,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-10-09T13:01:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/domestic-and-foreign-insurer-corporate-bond-demand-and-monetary-policy.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -7974,29 +7993,6 @@
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "updateType": "Other",
       "updateTypeDetail": "Other update"
-    },
-    {
-      "id": "6bf062506540b31c",
-      "title": "SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme",
-      "summary": "The Securities and Exchange Commission today charged Ernest Ossei Boateng and two New Jersey-based companies he controls, Intercontinental Wealth Network LLC and I Wealth Network LP, for allegedly raising approximately $16 million from more than 200…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-10T17:45:22.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "b53a40cdfc2862c9",
@@ -21485,7 +21481,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-30T12:15:26.079Z",
+      "publishedAt": "2026-10-30T21:58:33.782Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21509,7 +21505,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-30T12:15:26.079Z",
+      "publishedAt": "2026-10-30T21:58:33.782Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21533,7 +21529,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-30T12:15:26.079Z",
+      "publishedAt": "2026-10-30T21:58:33.782Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21557,7 +21553,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-30T12:15:26.079Z",
+      "publishedAt": "2026-10-30T21:58:33.782Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21581,7 +21577,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-30T12:15:26.079Z",
+      "publishedAt": "2026-10-30T21:58:33.782Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21605,7 +21601,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-30T12:15:26.079Z",
+      "publishedAt": "2026-10-30T21:58:33.782Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21629,7 +21625,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-30T12:15:26.079Z",
+      "publishedAt": "2026-10-30T21:58:33.782Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21653,7 +21649,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-30T12:15:26.079Z",
+      "publishedAt": "2026-10-30T21:58:33.782Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21677,7 +21673,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-30T12:15:26.079Z",
+      "publishedAt": "2026-10-30T21:58:33.782Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21701,7 +21697,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-30T12:15:26.079Z",
+      "publishedAt": "2026-10-30T21:58:33.782Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21725,7 +21721,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-30T12:15:26.079Z",
+      "publishedAt": "2026-10-30T21:58:33.782Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21749,7 +21745,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-30T12:15:26.079Z",
+      "publishedAt": "2026-10-30T21:58:33.782Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21773,7 +21769,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-30T12:15:26.079Z",
+      "publishedAt": "2026-10-30T21:58:33.782Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21798,7 +21794,7 @@
     },
     {
       "updateType": "News",
-      "count": 71
+      "count": 70
     },
     {
       "updateType": "Consultations",
@@ -21810,7 +21806,7 @@
     },
     {
       "updateType": "Statistics / Data",
-      "count": 21
+      "count": 22
     },
     {
       "updateType": "Source Pages",
