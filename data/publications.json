@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T22:30:41.505Z",
-  "totalPublications": 491,
+  "generatedAt": "2026-10-30T12:15:26.079Z",
+  "totalPublications": 490,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -117,7 +117,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "html-list-parser",
-      "itemCount": 3,
+      "itemCount": 2,
       "url": "https://www.eba.europa.eu/publications-and-media/publications",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
       "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
@@ -460,7 +460,7 @@
     },
     {
       "topic": "Governance",
-      "count": 131
+      "count": 130
     },
     {
       "topic": "Reporting / Disclosure",
@@ -512,7 +512,7 @@
     },
     {
       "topic": "AI",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Model Risk",
@@ -520,7 +520,7 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 6
+      "count": 5
     }
   ],
   "topicsSummary": [
@@ -534,7 +534,7 @@
     },
     {
       "topic": "Governance",
-      "count": 131
+      "count": 130
     },
     {
       "topic": "Reporting / Disclosure",
@@ -586,7 +586,7 @@
     },
     {
       "topic": "AI",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Model Risk",
@@ -594,7 +594,7 @@
     },
     {
       "topic": "Consumer Protection",
-      "count": 6
+      "count": 5
     }
   ],
   "keywordCloud": [
@@ -624,7 +624,7 @@
     },
     {
       "keyword": "governance",
-      "count": 31
+      "count": 30
     },
     {
       "keyword": "climate",
@@ -807,10 +807,6 @@
       "count": 3
     },
     {
-      "keyword": "artificial intelligence",
-      "count": 3
-    },
-    {
       "keyword": "basel iii",
       "count": 3
     },
@@ -883,11 +879,11 @@
       "count": 2
     },
     {
-      "keyword": "cbdc",
+      "keyword": "artificial intelligence",
       "count": 2
     },
     {
-      "keyword": "complaints",
+      "keyword": "cbdc",
       "count": 2
     },
     {
@@ -917,12 +913,16 @@
     {
       "keyword": "greenwashing",
       "count": 2
+    },
+    {
+      "keyword": "mrel",
+      "count": 2
     }
   ],
   "regionSummary": [
     {
       "region": "EU",
-      "count": 276
+      "count": 275
     },
     {
       "region": "UK",
@@ -952,7 +952,7 @@
     },
     {
       "institution": "European Banking Authority",
-      "count": 63
+      "count": 62
     },
     {
       "institution": "Bank of England",
@@ -1000,6 +1000,204 @@
     }
   ],
   "publications": [
+    {
+      "id": "d4a9eca434a31687",
+      "title": "Pedro Machado: Interview with Bloomberg",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in261030~21a824d8f2.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-30T10:10:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in261030~21a824d8f2.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "a56a3adfa9716730",
+      "title": "The effects of geopolitical risk on sovereign debt holders in the euro area",
+      "summary": "We use confidential granular data on euro area sovereign bond holdings to examine the heterogeneous behavior of investor types in response to country-specific geopolitical risk shocks. By distinguishing investor categories and accounting for their bond holding dynamics over time, we provide an empirical assessment of how different bond holders react to geopolitics. The analysis employs country-level geopolitical risk indices of the country of sovereign bonds, and applies local projection methods to estimate the dynamic responses of various investor groups to geopolitical risk shocks. In the case of high-debt euro area countries, i.e.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3303~10146acd61.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-30T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3303~10146acd61.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3303~10146acd61.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "28fc3c6f820cc0ad",
+      "title": "Agents' summary of business conditions - October 2026",
+      "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
+      "url": "https://www.bankofengland.co.uk/agents-summary/2026/october-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-30T09:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "reporting"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/agents-summary/2026/october-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "114893fab4f908bb",
+      "title": "Monthly Decision Maker Panel data - October 2026",
+      "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
+      "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/october-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-30T09:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/october-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "7670c17e2903972c",
+      "title": "Main findings from the ECB’s recent contacts with non-financial companies",
+      "summary": "This box summarises the main findings from recent contacts between ECB staff and representatives of 64 leading non-financial companies operating in the euro area. According to these exchanges, which mainly took place between 28 September and 7 October 2026, activity continued to grow moderately in the third quarter with similar momentum expected for the fourth quarter. Growth was particularly focused in high-value manufacturing and IT services, while growth in consumer spending was relatively weak. Employment dynamics remained subdued, with many firms in cost-cutting mode.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_04~26727550fe.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_04~26727550fe.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "8845b575ebe19c85",
+      "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "7b3767e0b05da389",
+      "title": "The ECB Survey of Professional Forecasters - Fourth quarter of 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//stats/ecb_surveys/survey_of_professional_forecasters/html/ecb.spf2026q4.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/ecb_surveys/survey_of_professional_forecasters/pdf/ecb.spf2026q4.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//stats/ecb_surveys/survey_of_professional_forecasters/html/ecb.spf2026q4.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "b5c27b3880202d9c",
       "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
@@ -3600,36 +3798,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "52cae284df6626f5",
-      "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-14T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.thematicreviewcercompendiumgoodpractices052026.en.pdf",
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.202605_ECBreport_on_good_practices_for_climate_and_nature_stress_testing.en.pdf",
-        "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/economic-research/publications/specials/en/2026/may/2026-05-28-heat-AZ.pdf",
-        "https://www.ngfs.net/system/files/2025-09/NGFS_information%20note_Leveraging%20physical%20climate%20risk%20data.pdf",
-        "https://www.bankingsupervision.europa.eu/press/letterstobanks/shared/pdf/2026/ssm.2026_letter_on_AI_enabled_cybersecurity_threats.en.pdf",
-        "https://www.europarl.europa.eu/RegData/etudes/STUD/2026/784023/ECTI_STU(2026)784023_EN.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "8e8b31343e92b26e",
       "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
       "summary": "",
@@ -4065,9 +4233,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-10-09T13:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/sorting-into-entrepreneurial-teams.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4146,9 +4312,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-10-08T20:30:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20261008a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "AML / Financial Crime",
         "Governance",
@@ -4435,14 +4599,14 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "04183a517ce45ab4",
+      "id": "837ed9159d957a23",
       "title": "Monitoring banks’ vulnerabilities using stressed depletion indices",
       "summary": "We introduce two indicators to track the build-up of vulnerabilities in the euro area banking sector on a quarterly basis by leveraging the information collected in EU-wide solvency stress tests. First, we introduce an indicator of conditional capital depletion, the Stress Vulnerability Index (SVI), which quantifies potential losses under adverse scenarios when tail credit risk is highest. Second, we introduce an indicator of earnings vulnerability, the Profitability Vulnerability Index (PVI), which assesses the capacity of the banking sector to generate capital organically. While the two indices spike synchronously during systemic crises, they can also decouple.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3295~5961ce0e96.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -4478,34 +4642,9 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3295~5961ce0e96.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "bcead15b122e41da",
-      "title": "Survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//pub/pdf/other/SESFOD_2026_Q3_summary.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-07T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/other/SESFOD_2026_Q3_summary.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/other/SESFOD_2026_Q3_summary.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "13e812419dda5714",
@@ -4686,43 +4825,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "53fd8b8bc552675d",
-      "title": "The institutional and operational frameworks for macroprudential policy in the EU",
-      "summary": "After the global financial crisis, all EU countries have developed within their jurisdictions a dedicated macroprudential pillar of financial oversight, in line with EU regulations and recommendations. However, governance structures differ, reflecting country-specific rationales and path-dependent choices. This paper provides an overview of the various institutional and operational frameworks for macroprudential policy in EU countries. This overview aims to deliver insights on the key aspects of these frameworks and their impact on the use of macroprudential policy.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op400.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-06T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op400.en.pdf"
-      ],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "governance"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "governance"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op400.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "5c6aaadf3992903a",
@@ -6958,50 +7060,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "1a06758feea0e86f",
-      "title": "Claudia Buch: Digital innovation: hindrance or booster for banks’ business models?",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260922~6d21ed7918.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-22T14:15:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260922~6d21ed7918.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "1ac1a4fcad93281a",
       "title": "Pedro Machado: From going concern to gone concern: The supervision-resolution continuum after a decade of the Single Resolution Mechanism",
       "summary": "",
@@ -7101,43 +7159,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "6fa4c47077bf54c2",
-      "title": "Artificial intelligence and financial markets",
-      "summary": "Artificial intelligence is transforming financial markets by enabling investors and intermediaries to extract more information from increasingly abundant data through advances in algorithms and computing power. We discuss how AI changes information production and decision-making, labor demand, and financial intermediation, with a particular emphasis on securities markets. We then survey the implications of this transformation for market efficiency, competition, informational frictions, and financial stability.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp32~90bd9a7638.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-22T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp32~90bd9a7638.en.pdf"
-      ],
-      "topics": [
-        "AI"
-      ],
-      "matchedKeywords": [
-        "artificial intelligence"
-      ],
-      "topicMatches": [
-        {
-          "id": "ai",
-          "label": "AI",
-          "keywords": [
-            "artificial intelligence"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp32~90bd9a7638.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "afd0b69ce99a16ac",
@@ -9881,64 +9902,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "8e47f5569f68c4b7",
-      "title": "Agents' summary of business conditions - July 2026",
-      "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
-      "url": "https://www.bankofengland.co.uk/agents-summary/2026/july-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-24T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "reporting"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/agents-summary/2026/july-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "e9474a5ac373de91",
-      "title": "Monthly Decision Maker Panel data - July 2026",
-      "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
-      "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/july-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-24T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/july-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "d8849361c7230a13",
@@ -13115,31 +13078,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "e89d8910ae865b68",
-      "title": "EBA MB 2026 127 rev. 1 (Final Minutes MB conference call on",
-      "summary": "",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/0c9f0966-23a3-44fc-a11c-4d58bcf49686/EBA%20MB%202026%20127%20rev.%201%20%28Final%20Minutes%20MB%20conference%20call%20on%2029%20May%202026%29.pdf",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
-      "sourceId": "eba-publications",
-      "sourceName": "EBA Publications",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-05-29T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-10/0c9f0966-23a3-44fc-a11c-4d58bcf49686/EBA%20MB%202026%20127%20rev.%201%20%28Final%20Minutes%20MB%20conference%20call%20on%2029%20May%202026%29.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.eba.europa.eu/sites/default/files/2026-10/0c9f0966-23a3-44fc-a11c-4d58bcf49686/EBA%20MB%202026%20127%20rev.%201%20%28Final%20Minutes%20MB%20conference%20call%20on%2029%20May%202026%29.pdf",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/publications",
-      "updateType": "Events",
-      "updateTypeDetail": "Event / conference"
     },
     {
       "id": "1e01f4a9e4f08cfd",
@@ -20549,6 +20487,41 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
+      "id": "cf0aa2e513972b95",
+      "title": "Brits nearly twice as likely to spot pressure tactics in horror films as investment red flags",
+      "summary": "Investors are almost twice as likely to recognise pressure tactics in a horror film as they are when those tactics are used to promote an investment opportunity, new FCA data suggests. A survey of UK 18 to 40-year-olds who own or are considering investments found 65% spotted ‘this is your only chance’ as a classic horror warning sign. But when faced with a ‘last chance to buy’ investment opportunity, only 36% said it would make them more cautious, while 37% said they would feel pressure to buy quickly or risk missing out. The pattern also holds for other pressure tactics.",
+      "url": "https://www.fca.org.uk/news/press-releases/brits-nearly-twice-likely-spot-pressure-tactics-horror-films-investment-red-flags",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/press-releases/brits-nearly-twice-likely-spot-pressure-tactics-horror-films-investment-red-flags",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "81547f447d34eb16",
       "title": "Building the future of finance in the age of AI",
       "summary": "Jessica Rusu, FCA chief data, information and intelligence officerat Bloomberg's UK Policy Series. The Mills ReviewThat is why we commissioned the Mills Review, published in July, focused on how AI could reshape retail financial services by 2030. Some developments we anticipated are already emerging, including the transition towards agentic finance, such as the launch of Meta’s Muse. Our response to the review is not to consult, study and report progress. Our focus is testing, assurance, monitoring and surveillance: directly with industry to understand how AI systems are being deployed. Whilst the Review focused on retail, the AI shift does not stop at the retail boundary.",
@@ -21178,50 +21151,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "1bc1cc7bb9949316",
-      "title": "Motor finance legal challenge to be heard in February 2027",
-      "summary": "The Upper Tribunal has confirmed it will hear the legal challenges to our motor finance compensation scheme between 16 February and 3 March 2027. The scheme was challenged by 3 lenders - Volkswagen Financial Services, Mercedes Benz Financial Services, and Crédit Agricole Auto Finance - and by Consumer Voice, represented by Courmacs Legal. The scheme is currently partially suspended. However, firms must keep preparing for the scheme and progress complaints as far as possible. Our scheme is the quickest, fairest and most efficient way to compensate consumers and we will defend it robustly. Advice for lenders Lenders must comply with the scheme rules that remain in force.",
-      "url": "https://www.fca.org.uk/news/statements/motor-finance-legal-challenge-be-heard-february-2027",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Consumer Protection",
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "complaints",
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "complaints"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/statements/motor-finance-legal-challenge-be-heard-february-2027",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "45f7794652f01329",
       "title": "One year to go for T+1 settlement: the regulatory framework is complete, now let’s make it happen 16/10/2026 The European Union (EU) will switch to T+1 settlement on",
       "summary": ".",
@@ -21556,7 +21485,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-29T22:30:41.505Z",
+      "publishedAt": "2026-10-30T12:15:26.079Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21580,7 +21509,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T22:30:41.505Z",
+      "publishedAt": "2026-10-30T12:15:26.079Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21604,7 +21533,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T22:30:41.505Z",
+      "publishedAt": "2026-10-30T12:15:26.079Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21628,7 +21557,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T22:30:41.505Z",
+      "publishedAt": "2026-10-30T12:15:26.079Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21652,7 +21581,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T22:30:41.505Z",
+      "publishedAt": "2026-10-30T12:15:26.079Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21676,7 +21605,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T22:30:41.505Z",
+      "publishedAt": "2026-10-30T12:15:26.079Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21700,7 +21629,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T22:30:41.505Z",
+      "publishedAt": "2026-10-30T12:15:26.079Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21724,7 +21653,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T22:30:41.505Z",
+      "publishedAt": "2026-10-30T12:15:26.079Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21748,7 +21677,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T22:30:41.505Z",
+      "publishedAt": "2026-10-30T12:15:26.079Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21772,7 +21701,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T22:30:41.505Z",
+      "publishedAt": "2026-10-30T12:15:26.079Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21796,7 +21725,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T22:30:41.505Z",
+      "publishedAt": "2026-10-30T12:15:26.079Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21820,7 +21749,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T22:30:41.505Z",
+      "publishedAt": "2026-10-30T12:15:26.079Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21844,7 +21773,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-29T22:30:41.505Z",
+      "publishedAt": "2026-10-30T12:15:26.079Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21861,7 +21790,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 91
+      "count": 90
     },
     {
       "updateType": "Publications / Reports",
@@ -21869,7 +21798,7 @@
     },
     {
       "updateType": "News",
-      "count": 70
+      "count": 71
     },
     {
       "updateType": "Consultations",
@@ -21889,7 +21818,7 @@
     },
     {
       "updateType": "Events",
-      "count": 5
+      "count": 4
     },
     {
       "updateType": "Other",
