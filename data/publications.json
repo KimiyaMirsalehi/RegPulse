@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T21:05:29.460Z",
+  "generatedAt": "2026-11-01T12:47:21.906Z",
   "totalPublications": 490,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -1000,6 +1000,59 @@
     }
   ],
   "publications": [
+    {
+      "id": "f193d0194ce082a9",
+      "title": "​The EBA publishes a no-action letter and technical considerations to support the implementation of the market risk framework for EU banks",
+      "summary": "​The European Banking Authority (EBA) today published a no-action letter on the boundary between the banking book and the trading book and shared technical clarifications on issues linked to the European Commission’s Delegated Act modifying the calculation of own funds requirements for market risk based on the Fundamental Review of the Trading Book (FRTB) framework. The measures support a consistent and harmonised implementation of the revised framework across the EU.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-11-02T00:00:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-08/ca1f1829-aff0-4d8a-b1de-d0549a5cfe40/No%20Action%20Letter%20on%20the%20boundary%20in%20the%20context%20of%20the%203rd%20FRTB%20DA.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf"
+      ],
+      "topics": [
+        "Capital Requirements",
+        "Market Risk"
+      ],
+      "matchedKeywords": [
+        "own funds",
+        "market risk",
+        "trading book",
+        "frtb",
+        "fundamental review of the trading book"
+      ],
+      "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "own funds"
+          ]
+        },
+        {
+          "id": "market-risk",
+          "label": "Market Risk",
+          "keywords": [
+            "market risk",
+            "trading book",
+            "frtb",
+            "fundamental review of the trading book"
+          ]
+        }
+      ],
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "ee67bede4797f0c9",
       "title": "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U. S. Repo Transactions",
@@ -21276,61 +21329,6 @@
       "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
     },
     {
-      "id": "f193d0194ce082a9",
-      "title": "​The EBA publishes a no-action letter and technical considerations to support the implementation of the market risk framework for EU banks",
-      "summary": "​The European Banking Authority (EBA) today published a no-action letter on the boundary between the banking book and the trading book and shared technical clarifications on issues linked to the European Commission’s Delegated Act modifying the calculation of own funds requirements for market risk based on the Fundamental Review of the Trading Book (FRTB) framework. The measures support a consistent and harmonised implementation of the revised framework across the EU.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": null,
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-08/ca1f1829-aff0-4d8a-b1de-d0549a5cfe40/No%20Action%20Letter%20on%20the%20boundary%20in%20the%20context%20of%20the%203rd%20FRTB%20DA.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf"
-      ],
-      "topics": [
-        "Capital Requirements",
-        "Market Risk"
-      ],
-      "matchedKeywords": [
-        "own funds",
-        "market risk",
-        "trading book",
-        "frtb",
-        "fundamental review of the trading book"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "own funds"
-          ]
-        },
-        {
-          "id": "market-risk",
-          "label": "Market Risk",
-          "keywords": [
-            "market risk",
-            "trading book",
-            "frtb",
-            "fundamental review of the trading book"
-          ]
-        }
-      ],
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report",
-      "originalPublishedAt": "2026-11-02T00:00:00.000Z",
-      "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
-    },
-    {
       "id": "c829e4e88b1eaf88",
       "title": "Three arrests in major FCA operation against criminal insider dealing ring",
       "summary": "The FCA has conducted a major operation to disrupt a suspected organised criminal group for engaging in insider dealing and money laundering. On 13 October, 3 individuals were arrested following a joint operation by the FCA and the National Crime Agency (NCA). More than 100 FCA and NCA staff took part in searches at 5 residential premises in London and Manchester. More than 30 mobile phones, laptops and tablets were seized in searches conducted by FCA investigators. All 3 suspects are in the process of being interviewed by the FCA at police stations in London and Manchester.",
@@ -21481,7 +21479,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-10-31T21:05:29.460Z",
+      "publishedAt": "2026-11-01T12:47:21.906Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21505,7 +21503,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-31T21:05:29.460Z",
+      "publishedAt": "2026-11-01T12:47:21.906Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21529,7 +21527,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-31T21:05:29.460Z",
+      "publishedAt": "2026-11-01T12:47:21.906Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21553,7 +21551,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-31T21:05:29.460Z",
+      "publishedAt": "2026-11-01T12:47:21.906Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21577,7 +21575,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-31T21:05:29.460Z",
+      "publishedAt": "2026-11-01T12:47:21.906Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21601,7 +21599,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-31T21:05:29.460Z",
+      "publishedAt": "2026-11-01T12:47:21.906Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21625,7 +21623,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-31T21:05:29.460Z",
+      "publishedAt": "2026-11-01T12:47:21.906Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21649,7 +21647,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-31T21:05:29.460Z",
+      "publishedAt": "2026-11-01T12:47:21.906Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21673,7 +21671,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-31T21:05:29.460Z",
+      "publishedAt": "2026-11-01T12:47:21.906Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21697,7 +21695,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-31T21:05:29.460Z",
+      "publishedAt": "2026-11-01T12:47:21.906Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21721,7 +21719,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-31T21:05:29.460Z",
+      "publishedAt": "2026-11-01T12:47:21.906Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21745,7 +21743,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-31T21:05:29.460Z",
+      "publishedAt": "2026-11-01T12:47:21.906Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21769,7 +21767,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-10-31T21:05:29.460Z",
+      "publishedAt": "2026-11-01T12:47:21.906Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
