@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T21:45:30.419Z",
+  "generatedAt": "2026-11-02T14:55:40.103Z",
   "totalPublications": 490,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -456,7 +456,7 @@
     },
     {
       "topic": "Basel / BCBS",
-      "count": 136
+      "count": 135
     },
     {
       "topic": "Governance",
@@ -468,11 +468,11 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 39
+      "count": 37
     },
     {
       "topic": "Climate / ESG",
-      "count": 37
+      "count": 36
     },
     {
       "topic": "Capital Requirements",
@@ -496,7 +496,7 @@
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 20
+      "count": 19
     },
     {
       "topic": "DORA / Operational Resilience",
@@ -512,7 +512,7 @@
     },
     {
       "topic": "AI",
-      "count": 8
+      "count": 9
     },
     {
       "topic": "Model Risk",
@@ -530,7 +530,7 @@
     },
     {
       "topic": "Basel / BCBS",
-      "count": 136
+      "count": 135
     },
     {
       "topic": "Governance",
@@ -542,11 +542,11 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 39
+      "count": 37
     },
     {
       "topic": "Climate / ESG",
-      "count": 37
+      "count": 36
     },
     {
       "topic": "Capital Requirements",
@@ -570,7 +570,7 @@
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 20
+      "count": 19
     },
     {
       "topic": "DORA / Operational Resilience",
@@ -586,7 +586,7 @@
     },
     {
       "topic": "AI",
-      "count": 8
+      "count": 9
     },
     {
       "topic": "Model Risk",
@@ -628,11 +628,11 @@
     },
     {
       "keyword": "climate",
-      "count": 28
+      "count": 27
     },
     {
       "keyword": "money laundering",
-      "count": 28
+      "count": 26
     },
     {
       "keyword": "anti money laundering",
@@ -667,14 +667,6 @@
       "count": 13
     },
     {
-      "keyword": "policy statement",
-      "count": 13
-    },
-    {
-      "keyword": "resolution",
-      "count": 13
-    },
-    {
       "keyword": "disclosure",
       "count": 12
     },
@@ -684,6 +676,14 @@
     },
     {
       "keyword": "payments",
+      "count": 12
+    },
+    {
+      "keyword": "policy statement",
+      "count": 12
+    },
+    {
+      "keyword": "resolution",
       "count": 12
     },
     {
@@ -711,10 +711,6 @@
       "count": 7
     },
     {
-      "keyword": "fraud",
-      "count": 7
-    },
-    {
       "keyword": "operational resilience",
       "count": 7
     },
@@ -736,6 +732,10 @@
     },
     {
       "keyword": "crr",
+      "count": 6
+    },
+    {
+      "keyword": "fraud",
       "count": 6
     },
     {
@@ -855,10 +855,6 @@
       "count": 3
     },
     {
-      "keyword": "recovery plans",
-      "count": 3
-    },
-    {
       "keyword": "stablecoin",
       "count": 3
     },
@@ -912,6 +908,10 @@
     },
     {
       "keyword": "greenwashing",
+      "count": 2
+    },
+    {
+      "keyword": "machine learning",
       "count": 2
     },
     {
@@ -1000,6 +1000,184 @@
     }
   ],
   "publications": [
+    {
+      "id": "492f4c4061f79b09",
+      "title": "ECB perception of non-banks: a machine learning-based approach",
+      "summary": "This paper studies the European Central Bank’s (ECB) perception of non-bank financial intermediaries (NBFIs) and how this perception is publicly communicated. We construct a perception index based on ECB speeches over the period 1998–2025. Sentiment in references to non-banks is classified by a large language model that we fine-tune on our own hand-labeled dataset constructed for this purpose. The resulting index reveals a predominantly negative and declining perception over time, particularly since the Global Financial Crisis.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3304~9082a5f181.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-02T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3304~9082a5f181.en.pdf"
+      ],
+      "topics": [
+        "AI",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "large language model",
+        "machine learning",
+        "fine"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "large language model",
+            "machine learning"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "fine"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3304~9082a5f181.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "a5bbd4b8d800bbdb",
+      "title": "Catching the repricing wave: insights from daily online supermarket prices",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261102~871cc494e2.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-blog",
+      "sourceName": "ECB Blog",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-02T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb~44d02b04fd.wp3181en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261102~871cc494e2.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "ce4e949205e8d2d6",
+      "title": "PRA Regulatory Digest – October 2026",
+      "summary": "The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/october-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-02T10:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/october-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "b7a962ac68be67a4",
+      "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-02T09:30:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3143~d7ecb940a5.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op373.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op388.el.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2849~f36a4321ea.fr.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2864~bc6d7b989f.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3116~86b1c681b9.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3296~db309862b0.en.pdf?70e206f998ab30b4859912b11fec408e",
+        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261102_annex~d93ffa4477.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "49c0296ef9f44480",
+      "title": "Euro area bank interest rate statistics: September 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-statistical-press-releases",
+      "sourceName": "ECB Statistical Press Releases",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-02T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "f16f3f4bc6b0b0f4",
+      "title": "Monetary policy in times of high public debt",
+      "summary": "High public debt around the globe has revived concerns that it could impede central banks’ ability to control inflation. This article explains how public debt affects the work of central banks. They can still control inflation, but they must take public debt into account when setting rates, because debt affects the level of interest rates consistent with price stability.",
+      "url": "https://www.ecb.europa.eu//press/research-publications/resbull/2026/html/ecb.rb261102~023f804e59.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-research-bulletin",
+      "sourceName": "ECB Research Bulletin",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-02T07:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/research-publications/resbull/2026/html/ecb.rb261102~023f804e59.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpdps/ecb.dp26~de397a039d.en.pdf?97f3bf613574d51d6401e3f34850728d",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3038~2b0fe50cbb.sv.pdf?c4028e2ca9098e80c8efcafad423f2d1"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/research-publications/resbull/2026/html/ecb.rb261102~023f804e59.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/rbu.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
     {
       "id": "f193d0194ce082a9",
       "title": "​The EBA publishes a no-action letter and technical considerations to support the implementation of the market risk framework for EU banks",
@@ -2824,29 +3002,6 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "d742adc036186188",
-      "title": "Frank Elderson: Interview with Die Presse",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-20T07:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "84bf63c6aa567a0c",
       "title": "Frank Elderson: Interview with Die Presse",
       "summary": "",
@@ -4132,9 +4287,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-10-12T07:13:34.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-10/2500fd3b-78b4-4ebc-9316-0c8e209047a4/Final%20Report%20Amending%20RTS%20on%20Prudential%20Requirements%20CSDR.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -4208,9 +4361,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-10-09T14:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/publications/files/scf26.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -4245,9 +4396,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-10-09T13:02:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/navigating-climate-policy-shocks-optimal-monetary-policy-responses.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Climate / ESG"
       ],
@@ -4646,14 +4795,14 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "b168a009b271a3d8",
+      "id": "bddbbcaf08b08817",
       "title": "Does shareholder diversification enhance firm investment resilience? Evidence from the euro area",
       "summary": "This paper develops novel firm-level measures of shareholder geographical concentration and examines how elevated home bias in equity holdings affects investment resilience in the euro area. We combine security-level holdings data from the ECB’s Securities Holdings Statistics (SHS-S) with firm-level financial-statement data from Compustat, and document that equity ownership remains strongly concentrated domestically, with limited cross-border diversification within the monetary union.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3296~db309862b0.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -4666,9 +4815,9 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3296~db309862b0.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "837ed9159d957a23",
@@ -7233,43 +7382,6 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "afd0b69ce99a16ac",
-      "title": "Monetary policy transmission by securitising banks",
-      "summary": "This paper studies whether securitisation affects monetary policy transmission via banks. Using granular loan-level data from the euro area, we show that banks actively engaged in securitisation adjust credit supply more strongly in response to monetary policy shocks than a matched sample of non-securitising banks. This is because securitisation expands banks’ lending capacity, but by increasing reliance on investors whose required returns and risk appetite are more sensitive to monetary policy conditions.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3289~670b45de09.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-22T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3289~670b45de09.en.pdf"
-      ],
-      "topics": [
-        "Basel / BCBS"
-      ],
-      "matchedKeywords": [
-        "securitisation"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "securitisation"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3289~670b45de09.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
       "id": "b89bb19d23e135fe",
       "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
       "summary": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
@@ -9114,29 +9226,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "eb9cad94ac778204",
-      "title": "From oil to electrons: lessons from the 1970s energy crises",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260807~b7ab24866e.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-blog",
-      "sourceName": "ECB Blog",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-07T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260807~b7ab24866e.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "36d18ab90394383f",
       "title": "The EBA amends Guidelines on the definition of default",
       "summary": "The European Banking Authority (EBA) published today its final Report amending the Guidelines on the application of the definition of default. The Report introduces targeted amendments to better reflect specific aspects of non recourse factoring. It also confirms that the 1% threshold applied to reductions in net present value loss (NPV threshold) in debt restructuring remains appropriate for prudential default recognition. Pagination First page Previous page Page 1 Page 2 Page",
@@ -9870,29 +9959,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/rbu.html",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "f1c71abc3582f6db",
-      "title": "Euro area economic and financial developments by institutional sector: first quarter of 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_full2026q1~ec756b7b1a.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-statistical-press-releases",
-      "sourceName": "ECB Statistical Press Releases",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-27T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_full2026q1~ec756b7b1a.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
     },
     {
       "id": "249924a27b3a6f46",
@@ -14509,52 +14575,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "ce556e862c006bb5",
-      "title": "PS10/26 – Amendments to Resolution Assessment threshold and Recovery Plans review frequency",
-      "summary": "Policy statement 10/26",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/resolution-assessment-threshold-and-recovery-plans-review-policy-statement",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-03-26T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement",
-        "Recovery / Resolution"
-      ],
-      "matchedKeywords": [
-        "policy statement",
-        "recovery plans",
-        "resolution"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "policy statement"
-          ]
-        },
-        {
-          "id": "resolution-recovery",
-          "label": "Recovery / Resolution",
-          "keywords": [
-            "recovery plans",
-            "resolution"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/resolution-assessment-threshold-and-recovery-plans-review-policy-statement",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "1cf4f5b92e2d22bb",
       "title": "PS11/26 – Disclosure: resolvability resources, capital distribution constraints and the basis for firm Pillar 3 disclosure",
       "summary": "Policy statement 11/26",
@@ -15581,43 +15601,6 @@
       ],
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "d0f52faf6cab541c",
-      "title": "From words to deeds – incorporating climate risks into sovereign credit ratings",
-      "summary": "We investigate the impact of climate risks on sovereign credit ratings worldwide. Our analysis shows that higher temperature anomalies and more frequent natural disasters – measures of physical risk – correlate with lower credit ratings. We find that long-term shifts in climate patterns (“chronic risk”) primarily affect advanced economies, while the increased frequency and severity of extreme weather events (“acute risk”) matters more for emerging economies. However, the estimated impact of both types of risk on credit ratings is low and the economic effects are negligible.",
-      "url": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb250730~ebfb33d43c.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-research-bulletin",
-      "sourceName": "ECB Research Bulletin",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2025-07-30T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Climate / ESG"
-      ],
-      "matchedKeywords": [
-        "climate",
-        "physical risk"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate",
-            "physical risk"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb250730~ebfb33d43c.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/rbu.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "45176d53fa2505fa",
@@ -20729,6 +20712,43 @@
       "updateTypeDetail": "News / announcement"
     },
     {
+      "id": "2e159baac0acd643",
+      "title": "Demands for disguised remuneration scheme loan repayments",
+      "summary": "We have seen demands being made for people to repay loans, or purported loans, provided as part of disguised remuneration schemes. Disguised remuneration schemes saw people – often contractors, consultants and agency workers – paid for their work through loans instead of regular salaries as a way to avoid tax. HMRC has sought to tackle this tax avoidance through what has been termed the loan charge and published guidance for those affected. Questions have been raised about the regulatory status of these loans and whether they were ever intended to be repaid. Some of those affected dispute liability for the amounts being claimed and challenge whether the debts can be legally enforced.",
+      "url": "https://www.fca.org.uk/news/statements/demands-disguised-remuneration-scheme-loan-repayments",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "remuneration",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "remuneration",
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/statements/demands-disguised-remuneration-scheme-loan-repayments",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "2e23544a387e702d",
       "title": "EBA ESG risk dashboard shows stable climate risk exposures and continued improvements in data quality",
       "summary": "The European Banking Authority (EBA) today published its latest Environmental, Social and Governance (ESG) risk dashboard, showing continued stability in banks’ transition and physical climate risk indicators across the EU/EEA in second half of 2025. The results also indicate gradual improvements in the availability and quality of climate-related data, particularly for energy efficiency assessments of mortgage portfolios, supporting more robust climate risk monitoring in the banking sector.",
@@ -20897,6 +20917,41 @@
         }
       ],
       "link": "https://www.fca.org.uk/news/news-stories/fca-encourages-former-verus-financial-services-limited-customers-check-if-they-can-claim-fscs",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "24ab74df9c126ee5",
+      "title": "FCA publishes terms of reference for independent review concerning Mr Andriesz",
+      "summary": "We have published the terms of reference for the review into our handling of interactions with Mr Simon Andriesz, a whistleblower who made protected disclosures to the FCA. We shared our condolences following Mr Andriesz's tragic death and our thoughts remain with his family and loved ones. The review was commissioned by our non-executive directors. It is being conducted by Lea Paterson CBE, an independent non-executive director of the FCA. When we announced the review, we said it would examine how we interacted with Mr Andriesz.",
+      "url": "https://www.fca.org.uk/news/statements/fca-publishes-terms-reference-independent-review-concerning-mr-andriesz",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/statements/fca-publishes-terms-reference-independent-review-concerning-mr-andriesz",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
@@ -21329,96 +21384,6 @@
       "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
     },
     {
-      "id": "c829e4e88b1eaf88",
-      "title": "Three arrests in major FCA operation against criminal insider dealing ring",
-      "summary": "The FCA has conducted a major operation to disrupt a suspected organised criminal group for engaging in insider dealing and money laundering. On 13 October, 3 individuals were arrested following a joint operation by the FCA and the National Crime Agency (NCA). More than 100 FCA and NCA staff took part in searches at 5 residential premises in London and Manchester. More than 30 mobile phones, laptops and tablets were seized in searches conducted by FCA investigators. All 3 suspects are in the process of being interviewed by the FCA at police stations in London and Manchester.",
-      "url": "https://www.fca.org.uk/news/press-releases/three-arrests-major-fca-operation-against-criminal-insider-dealing-ring",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime",
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "money laundering",
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "money laundering"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/three-arrests-major-fca-operation-against-criminal-insider-dealing-ring",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "ae478cf7ac37ddec",
-      "title": "Two plead guilty after clients lose £2m in fraud case",
-      "summary": "Two people who worked at financial advice firms have pleaded guilty to fraud after 4 clients lost £2m. Kerry Nelson, the director of Nexus Independent Financial Advisers Limited and Nexus Investment Managers Limited, and Jacqueline Stephens, the firms' business operations manager, admitted all charges brought by the FCA at Portsmouth Crown Court. They admitted defrauding clients between January 2019 and January 2023 and using false documents as part of the fraud. Nelson has also admitted a money laundering offence after money was withdrawn from the firms, which she used to fund her extravagant lifestyle.",
-      "url": "https://www.fca.org.uk/news/press-releases/two-plead-guilty-after-clients-lose-2m-fraud-case",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime",
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "money laundering",
-        "fraud",
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "money laundering",
-            "fraud"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/two-plead-guilty-after-clients-lose-2m-fraud-case",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "db179e7fe59e750f",
       "title": "What does 'fair value' look like in practice? Three years into the Consumer Duty, here’s what we’ve learned.",
       "summary": "Fair value is a simple yet important principle at the heart of the Consumer Duty: the price customers pay should be reasonable, relative to the benefits they get. But applying that principle in practice requires judgement. Three years into the Consumer Duty, we’re seeing clear differences between firms that have embedded fair value into their approach and those that still need to strengthen their assessments, evidence and monitoring. We recently reviewed how firms across the consumer finance market assess, evidence and monitor fair value.",
@@ -21479,7 +21444,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-11-01T21:45:30.419Z",
+      "publishedAt": "2026-11-02T14:55:40.103Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21503,7 +21468,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-01T21:45:30.419Z",
+      "publishedAt": "2026-11-02T14:55:40.103Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21527,7 +21492,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-01T21:45:30.419Z",
+      "publishedAt": "2026-11-02T14:55:40.103Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21551,7 +21516,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-01T21:45:30.419Z",
+      "publishedAt": "2026-11-02T14:55:40.103Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21575,7 +21540,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-01T21:45:30.419Z",
+      "publishedAt": "2026-11-02T14:55:40.103Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21599,7 +21564,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-01T21:45:30.419Z",
+      "publishedAt": "2026-11-02T14:55:40.103Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21623,7 +21588,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-01T21:45:30.419Z",
+      "publishedAt": "2026-11-02T14:55:40.103Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21647,7 +21612,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-01T21:45:30.419Z",
+      "publishedAt": "2026-11-02T14:55:40.103Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21671,7 +21636,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-01T21:45:30.419Z",
+      "publishedAt": "2026-11-02T14:55:40.103Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21695,7 +21660,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-01T21:45:30.419Z",
+      "publishedAt": "2026-11-02T14:55:40.103Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21719,7 +21684,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-01T21:45:30.419Z",
+      "publishedAt": "2026-11-02T14:55:40.103Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21743,7 +21708,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-01T21:45:30.419Z",
+      "publishedAt": "2026-11-02T14:55:40.103Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21767,7 +21732,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-01T21:45:30.419Z",
+      "publishedAt": "2026-11-02T14:55:40.103Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21784,11 +21749,11 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 90
+      "count": 89
     },
     {
       "updateType": "Publications / Reports",
-      "count": 85
+      "count": 87
     },
     {
       "updateType": "News",
@@ -21804,7 +21769,7 @@
     },
     {
       "updateType": "Statistics / Data",
-      "count": 22
+      "count": 21
     },
     {
       "updateType": "Source Pages",
