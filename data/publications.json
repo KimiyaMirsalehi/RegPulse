@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T22:58:30.467Z",
+  "generatedAt": "2026-11-04T13:52:43.705Z",
   "totalPublications": 490,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 242
+      "count": 241
     },
     {
       "topic": "Basel / BCBS",
@@ -476,7 +476,7 @@
     },
     {
       "topic": "Capital Requirements",
-      "count": 29
+      "count": 28
     },
     {
       "topic": "Credit Risk",
@@ -488,7 +488,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 23
+      "count": 24
     },
     {
       "topic": "Stress Testing",
@@ -504,11 +504,11 @@
     },
     {
       "topic": "Liquidity",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "AI",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "Market Risk",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 242
+      "count": 241
     },
     {
       "topic": "Basel / BCBS",
@@ -550,7 +550,7 @@
     },
     {
       "topic": "Capital Requirements",
-      "count": 29
+      "count": 28
     },
     {
       "topic": "Credit Risk",
@@ -562,7 +562,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 23
+      "count": 24
     },
     {
       "topic": "Stress Testing",
@@ -578,11 +578,11 @@
     },
     {
       "topic": "Liquidity",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "AI",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "Market Risk",
@@ -616,7 +616,7 @@
     },
     {
       "keyword": "its",
-      "count": 92
+      "count": 91
     },
     {
       "keyword": "reporting",
@@ -667,12 +667,8 @@
       "count": 13
     },
     {
-      "keyword": "liquidity",
-      "count": 12
-    },
-    {
       "keyword": "payments",
-      "count": 12
+      "count": 13
     },
     {
       "keyword": "transparency",
@@ -680,6 +676,10 @@
     },
     {
       "keyword": "disclosure",
+      "count": 11
+    },
+    {
+      "keyword": "liquidity",
       "count": 11
     },
     {
@@ -1000,6 +1000,130 @@
     }
   ],
   "publications": [
+    {
+      "id": "b1d7ca056bdd7872",
+      "title": "Christine Lagarde: A warning from Europe's hot summer",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261104~78299c3eaf.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-blog",
+      "sourceName": "ECB Blog",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-04T11:00:00.000Z",
+      "pdfLinks": [
+        "https://climate.ec.europa.eu/document/download/476ef20a-0c66-4be2-a104-70ba96622477_en?filename=com_2026_720_en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op380.en.pdf",
+        "https://eepublicdownloads.blob.core.windows.net/public-cdn-container/tyndp-documents/TYNDP2024/foropinion/Infrastructure_Gaps_Report.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261104~78299c3eaf.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "15fce42fa642ce2d",
+      "title": "Deep-π*: a neural network estimate of trend inflation",
+      "summary": "Most empirical models of trend inflation treat it as a latent random walk driven by unobserved shocks, so they cannot say which economic conditions move it. Deep- π*makes the innovations to the trend a possibly nonlinear function of a large number of macroeconomic indicators, estimated with neural networks, so that Shapley values can be used to attribute every movement of the trend to the indicators behind it. Two complementary loss functions define a current trend, which fits inflation today, and a forward-looking trend, which best predicts inflation over the next year. In US data, employment-related variables were the largest contributors to the post-pandemic rise of the current trend.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3307~d3d2e0c5e4.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-04T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3307~d3d2e0c5e4.en.pdf"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "matchedKeywords": [
+        "neural network",
+        "neural networks"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "neural network",
+            "neural networks"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3307~d3d2e0c5e4.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "617bb73001eac112",
+      "title": "Response to the RPIB consultation on the Design of the Future Retail Payments Infrastructure",
+      "summary": "Consultation Response",
+      "url": "https://www.bankofengland.co.uk/paper/2026/cp/response-to-the-rpib-consultation",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-04T10:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "payments"
+      ],
+      "topicMatches": [
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payments"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/paper/2026/cp/response-to-the-rpib-consultation",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
+    {
+      "id": "f70ec456cd4e7bd1",
+      "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-04T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "2b614068879d6b18",
       "title": "CP15/26 – Northern Ireland Credit Unions: Implementing legislative changes",
@@ -3027,44 +3151,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "b4b881626aea70d8",
-      "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-21T04:15:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/ire/focus/ecb.irebox202106_06~10e831c124.en.pdf",
-        "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr983.pdf"
-      ],
-      "topics": [
-        "Liquidity"
-      ],
-      "matchedKeywords": [
-        "liquidity"
-      ],
-      "topicMatches": [
-        {
-          "id": "liquidity",
-          "label": "Liquidity",
-          "keywords": [
-            "liquidity"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "35c0352faa63a57f",
       "title": "SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers",
       "summary": "The U. S. Securities and Exchange Commission (SEC) and the French Autorité des Marchés Financiers (AMF) announced that they have entered into a Memorandum of Understanding (MOU) designed to facilitate consultation and information-sharing in the…",
@@ -4092,14 +4178,14 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "f77ffc62aff89f23",
+      "id": "d3aabae5b3c7187b",
       "title": "The heterogeneous bank lending channel of monetary policy",
       "summary": "How does heterogeneity in banks’ interest-rate risk exposure shape monetary policy transmission? We develop a quantitative macroeconomic model of heterogeneous banks to answer this question. We establish an irrelevance result: differences in interest-rate risk exposure between fixed- and variable-rate banking systems matter for transmission only when bank solvency concerns become relevant. Calibrating the model to the euro area, we show that idiosyncratic default risk pushes a substantial share of banks toward the solvency threshold, making heterogeneity quantitatively important.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3299~01776adb36.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -4133,9 +4219,9 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3299~01776adb36.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "c97fb73da4096a3e",
@@ -4211,9 +4297,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-10-14T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA35-243228190-8325_Report_on_cross_border_data_collection.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -5920,31 +6004,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "1a8dd39c954f9f0b",
-      "title": "Monetary policy surprises with imperfect information",
-      "summary": "High-frequency interest rate surprises around Fed announcements do not identify monetary policy (MP) shocks if markets are imperfectly informed. Instead, they can also reflect central bank information (CBI) shocks, when the Fed assesses the economy differently, and Fed-response-to-news (FRN) shocks, when markets misperceive the policy rule. The literature treats these as competing explanations; we show they are distinct, and jointly identify all three from the co-movement of interest rate and equity surprises, their predictability from public news, and heteroskedasticity between FOMC and non-FOMC communication. CBI effects are robust at daily and monthly frequencies; FRN matters only daily.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3292~76d878a0cf.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-01T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3292~76d878a0cf.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3292~76d878a0cf.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "cbef0ae971313bb7",
@@ -8974,29 +9033,6 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "dc2362c2330d8654",
-      "title": "The AI boom: rational enthusiasm or the next dot-com bubble?",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-blog",
-      "sourceName": "ECB Blog",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-17T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "10d526b7e3ff0580",
       "title": "Outsourcing and competition in the banking sector: the rise of Cloud Service Providers",
       "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
@@ -10029,41 +10065,6 @@
       "sourceFeedUrl": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "84f98b84be7bc7cf",
-      "title": "The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital buffer using a parsimonious agent-based framework",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-24T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Capital Requirements"
-      ],
-      "matchedKeywords": [
-        "capital buffer"
-      ],
-      "topicMatches": [
-        {
-          "id": "capital-requirements",
-          "label": "Capital Requirements",
-          "keywords": [
-            "capital buffer"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "d8849361c7230a13",
@@ -20409,6 +20410,41 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
+      "id": "33951bfd4eb9623d",
+      "title": "Act now to be resilient in the quantum future",
+      "summary": "Quantum computing will bring significant opportunities to the UK financial sector, but firms need to act now to prepare for a world where a viable hostile quantum computer could break today’s widely used cryptography standards. The financial sector depends on secure information and communication. Cryptography – of which encryption is just one part – helps firms protect their clients’ data, verify who they are dealing with, and maintain trust in their systems. Sufficiently powerful quantum computers pose a real threat to that security.",
+      "url": "https://www.fca.org.uk/news/blogs/act-now-be-resilient-quantum-future",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/blogs/act-now-be-resilient-quantum-future",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "787b372f95f25136",
       "title": "Beyond borders: Regulating the risks we share",
       "summary": "Speech by Ashley Alder, FCA Chair, at the Michael D. Gill Lecture on International Financial Regulatory Understanding and Cooperation. I wasn’t fortunate enough to work as closely with Mike as many of you in this room. But I knew him well enough during my time with the IOSCO board to appreciate someone who was kind and unassuming, whilst being absolutely determined to make lives better through his work. He personified the very best attributes of dedicated public service. In his 2024 lecture Andrew Bailey described Mike as a passionate internationalist, and reflected on what this meant for the UK after the Brexit referendum.",
@@ -21077,50 +21113,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "0db980e954cf3f09",
-      "title": "LIBOR/EURIBOR-related bans",
-      "summary": "The FCA has reviewed its regulatory action against individuals whose convictions have recently been overturned by the Court of Appeal. As these convictions formed the basis on which the FCA took its action, we have revoked the bans of Colin Bermingham, Philippe Moryoussef, Jonathan Mathew and Christian Bittar and removed the associated Final Notices from FCA channels. The FCA will take no further action against these individuals in relation to this matter. This follows our decision last year to discontinue proceedings against Tom Hayes and revoke Carlo Palombo’s ban after the Supreme Court quashed their criminal convictions.",
-      "url": "https://www.fca.org.uk/news/statements/libor-euribor-related-bans",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/statements/libor-euribor-related-bans",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "3374b183e0de33da",
       "title": "Market integrity in a digital age",
       "summary": "Speech by Nikhil Rathi, FCA chief executive at the Corporation of the City of London’s annual City Dinner, Mansion House. The success of the UK’s financial servicesIn August, flight cancellations left my sons and I with an extra day in Boston. A Red Sox game, perhaps? No, the Rathi boys – naturally – headed straight to…the Museum of American Finance. Funded by industry, the museum celebrates the role of finance in American life. Illuminating the powerful benefits of informed risk taking. Three sceptical boys engrossed for nearly 2 hours. I quite enjoyed it too. It struck me though how right George Bernard Shaw was: Britain and America are 2 countries separated by a common language.",
@@ -21400,7 +21392,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-11-03T22:58:30.467Z",
+      "publishedAt": "2026-11-04T13:52:43.705Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21424,7 +21416,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-03T22:58:30.467Z",
+      "publishedAt": "2026-11-04T13:52:43.705Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21448,7 +21440,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-03T22:58:30.467Z",
+      "publishedAt": "2026-11-04T13:52:43.705Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21472,7 +21464,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-03T22:58:30.467Z",
+      "publishedAt": "2026-11-04T13:52:43.705Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21496,7 +21488,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-03T22:58:30.467Z",
+      "publishedAt": "2026-11-04T13:52:43.705Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21520,7 +21512,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-03T22:58:30.467Z",
+      "publishedAt": "2026-11-04T13:52:43.705Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21544,7 +21536,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-03T22:58:30.467Z",
+      "publishedAt": "2026-11-04T13:52:43.705Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21568,7 +21560,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-03T22:58:30.467Z",
+      "publishedAt": "2026-11-04T13:52:43.705Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21592,7 +21584,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-03T22:58:30.467Z",
+      "publishedAt": "2026-11-04T13:52:43.705Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21616,7 +21608,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-03T22:58:30.467Z",
+      "publishedAt": "2026-11-04T13:52:43.705Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21640,7 +21632,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-03T22:58:30.467Z",
+      "publishedAt": "2026-11-04T13:52:43.705Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21664,7 +21656,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-03T22:58:30.467Z",
+      "publishedAt": "2026-11-04T13:52:43.705Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21688,7 +21680,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-03T22:58:30.467Z",
+      "publishedAt": "2026-11-04T13:52:43.705Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21717,11 +21709,11 @@
     },
     {
       "updateType": "Consultations",
-      "count": 45
+      "count": 46
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 38
+      "count": 37
     },
     {
       "updateType": "Statistics / Data",
