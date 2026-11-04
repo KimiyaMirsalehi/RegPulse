@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:52:43.705Z",
+  "generatedAt": "2026-11-04T23:18:04.871Z",
   "totalPublications": 490,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -460,7 +460,7 @@
     },
     {
       "topic": "Governance",
-      "count": 130
+      "count": 129
     },
     {
       "topic": "Reporting / Disclosure",
@@ -500,7 +500,7 @@
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 16
+      "count": 15
     },
     {
       "topic": "Liquidity",
@@ -534,7 +534,7 @@
     },
     {
       "topic": "Governance",
-      "count": 130
+      "count": 129
     },
     {
       "topic": "Reporting / Disclosure",
@@ -574,7 +574,7 @@
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 16
+      "count": 15
     },
     {
       "topic": "Liquidity",
@@ -612,7 +612,7 @@
     },
     {
       "keyword": "board",
-      "count": 94
+      "count": 93
     },
     {
       "keyword": "its",
@@ -692,7 +692,7 @@
     },
     {
       "keyword": "resolution",
-      "count": 10
+      "count": 9
     },
     {
       "keyword": "supervisory reporting",
@@ -1001,6 +1001,29 @@
   ],
   "publications": [
     {
+      "id": "25e0c5ca61c55c80",
+      "title": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
+      "summary": "The Securities and Exchange Commission today adopted amendments to the rules that define which registered investment companies, investment advisers, and business development companies qualify as small entities for purposes of the Regulatory Flexibility…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-04T16:28:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "b1d7ca056bdd7872",
       "title": "Christine Lagarde: A warning from Europe's hot summer",
       "summary": "",
@@ -1026,6 +1049,31 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "102fc63257954831",
+      "title": "Knowledge gaps, behaviour parity: gender differences in financial literacy in Europe",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pubbydate/2026/html/ecb.fln_gender_differences.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-04T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/other/ecb.fln_gender_differences.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pubbydate/2026/html/ecb.fln_gender_differences.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "15fce42fa642ce2d",
@@ -3916,31 +3964,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "d0f930f340de7c29",
-      "title": "ESCB SSM Shared Values Charter 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//pub/pdf/other/ESCB-SSM-Shared-Values-Charter-2026.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-15T07:30:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/other/ESCB-SSM-Shared-Values-Charter-2026.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/other/ESCB-SSM-Shared-Values-Charter-2026.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "b6a1c5a21bb55b1d",
       "title": "ESMA updates its manual on transparency with new guidance for OTC derivatives and tick-size regime",
       "summary": "The European Securities and Markets Authority (ESMA), the EU regulator and supervisor, has updated its",
@@ -4118,10 +4141,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-10-14T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/october/ps1926app1.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/october/ps1926app4.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -8034,52 +8054,6 @@
       ],
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "67b29767ebd07b0d",
-      "title": "Joint Readout of Principals’ Meeting of U. S. and UK Authorities Regarding Central Counterparty Resolution",
-      "summary": "Senior officials from the Securities and Exchange Commission, Federal Deposit Insurance Corporation, Commodity Futures Trading Commission, Federal Reserve Board, and Bank of England convened for a tabletop exercise on Sept. 3, 2026, to discuss certain…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-87-joint-readout-principals-meeting-us-uk-authorities-regarding-central-counterparty-resolution",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-11T15:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Recovery / Resolution"
-      ],
-      "matchedKeywords": [
-        "board",
-        "resolution",
-        "deposit insurance"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        },
-        {
-          "id": "resolution-recovery",
-          "label": "Recovery / Resolution",
-          "keywords": [
-            "resolution",
-            "deposit insurance"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-87-joint-readout-principals-meeting-us-uk-authorities-regarding-central-counterparty-resolution",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "890e796b1f1a10b5",
@@ -21392,7 +21366,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-11-04T13:52:43.705Z",
+      "publishedAt": "2026-11-04T23:18:04.871Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21416,7 +21390,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-04T13:52:43.705Z",
+      "publishedAt": "2026-11-04T23:18:04.871Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21440,7 +21414,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-04T13:52:43.705Z",
+      "publishedAt": "2026-11-04T23:18:04.871Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21464,7 +21438,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-04T13:52:43.705Z",
+      "publishedAt": "2026-11-04T23:18:04.871Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21488,7 +21462,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-04T13:52:43.705Z",
+      "publishedAt": "2026-11-04T23:18:04.871Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21512,7 +21486,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-04T13:52:43.705Z",
+      "publishedAt": "2026-11-04T23:18:04.871Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21536,7 +21510,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-04T13:52:43.705Z",
+      "publishedAt": "2026-11-04T23:18:04.871Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21560,7 +21534,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-04T13:52:43.705Z",
+      "publishedAt": "2026-11-04T23:18:04.871Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21584,7 +21558,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-04T13:52:43.705Z",
+      "publishedAt": "2026-11-04T23:18:04.871Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21608,7 +21582,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-04T13:52:43.705Z",
+      "publishedAt": "2026-11-04T23:18:04.871Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21632,7 +21606,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-04T13:52:43.705Z",
+      "publishedAt": "2026-11-04T23:18:04.871Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21656,7 +21630,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-04T13:52:43.705Z",
+      "publishedAt": "2026-11-04T23:18:04.871Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21680,7 +21654,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-04T13:52:43.705Z",
+      "publishedAt": "2026-11-04T23:18:04.871Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21697,7 +21671,7 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 89
+      "count": 90
     },
     {
       "updateType": "Publications / Reports",
@@ -21705,7 +21679,7 @@
     },
     {
       "updateType": "News",
-      "count": 68
+      "count": 67
     },
     {
       "updateType": "Consultations",
