@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T13:49:43.536Z",
-  "totalPublications": 489,
+  "generatedAt": "2026-11-06T22:47:20.058Z",
+  "totalPublications": 490,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 7,
+      "itemCount": 8,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -464,7 +464,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 54
+      "count": 53
     },
     {
       "topic": "AML / Financial Crime",
@@ -538,7 +538,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 54
+      "count": 53
     },
     {
       "topic": "AML / Financial Crime",
@@ -672,7 +672,7 @@
     },
     {
       "keyword": "transparency",
-      "count": 13
+      "count": 12
     },
     {
       "keyword": "crypto",
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 274
+      "count": 275
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 83
+      "count": 84
     },
     {
       "institution": "European Banking Authority",
@@ -1000,6 +1000,81 @@
     }
   ],
   "publications": [
+    {
+      "id": "8a1f1e0777cf56d3",
+      "title": "Letter from the ECB President to Mr Eero Heinäluoma and Mr Jonás Fernández, MEPs, on AI-related financing",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter261106_Heinaluoma_Fernandez~6e406be51f.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-06T15:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter261106_Heinaluoma_Fernandez~6e406be51f.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter261106_Heinaluoma_Fernandez~6e406be51f.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "c149d664cd6fe24b",
+      "title": "Price efficiency in securities lending",
+      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+      "url": "https://www.bankofengland.co.uk/working-paper/2026/price-efficiency-in-securities-lending",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-06T14:01:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/price-efficiency-in-securities-lending.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/price-efficiency-in-securities-lending",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "f005fe9ca3391469",
+      "title": "The aggregate and distributional implications of credit shocks on housing and rental markets",
+      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+      "url": "https://www.bankofengland.co.uk/working-paper/2026/the-aggregate-and-distributional-implications-of-credit-shocks-on-housing-and-rental-markets",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-06T14:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/the-aggregate-and-distributional-implications-of-credit-shocks-on-housing-and-rental-markets.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/the-aggregate-and-distributional-implications-of-credit-shocks-on-housing-and-rental-markets",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
     {
       "id": "c66a747be3656847",
       "title": "The EBA outlines next steps on supervisory reporting simplification and extends implementation timelines following consultation feedback on the ITS",
@@ -1391,8 +1466,9 @@
         "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/november/monetary-policy-report-november-2026.pdf",
         "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2821~f008e5cb9c.en.pdf?06bb134ae9fa3c4e75099724f2d46311",
         "https://escoe-website.s3.amazonaws.com/wp-content/uploads/2026/06/11101113/Cliodhna-Taylor-ESCoE-Conference-Component-Hours-Worked-2026-May.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/november/opening-remarks-november-2026.pdf",
         "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/november/mpr-november-2026-press-conference-slides.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/november/opening-remarks-november-2026.pdf"
+        "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/november/mpr-press-conference-transcript-november-2026.pdf"
       ],
       "topics": [
         "Supervision / Enforcement"
@@ -3950,15 +4026,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-10-19T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op380.en.pdf",
-        "https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_FullVolume.pdf",
-        "https://iea.blob.core.windows.net/assets/1c696cc3-e251-46a9-8d4d-9edb2a4e806a/Electrification.pdf",
-        "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op367~16f0cba571.en.pdf?4a16bb11f780582d2c8e1552b3a33d8d",
-        "https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en?filename=The%20future%20of%20European%20competitiveness%20_%20A%20competitiveness%20strategy%20for%20Europe.pdf",
-        "https://www.consilium.europa.eu/media/ny3j24sm/much-more-than-a-market-report-by-enrico-letta.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Climate / ESG",
@@ -4260,14 +4328,14 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "b7ac0c73258be1b0",
+      "id": "d79eb960aed4b8f4",
       "title": "When less is more: behavioral effects of CBDC holding limits",
       "summary": "Holding limits are a central design feature of proposed retail central bank digital currencies (CBDC). While such limits mechanically prevent individuals from exceeding a maximum balance, they may also generate behavioral responses whose directions are a priori unclear. We conducted an incentivized online experiment with participants from four euro-area countries, exogenously varying the presence and level of a holding limit to causally separate direct mechanical effects from behavioral effects. We find that behavioral responses increase holdings of the means of payment subject to the holding limit, consistent with an attraction effect.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3300~0277bae3af.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -4301,9 +4369,9 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3300~0277bae3af.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "a616d03dd132900c",
@@ -9558,29 +9626,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "0c49bad352348220",
-      "title": "Bank of England Weekly Report 5 August 2026",
-      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2026/5-august-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-06T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/5-august-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "8dd44e6f4adb5176",
       "title": "​The EBA consults on reporting framework for validation and monitoring of ISDA Standard Initial Margin Model",
       "summary": "​The European Banking Authority (EBA) is consulting on a new reporting framework to support the validation and ongoing monitoring of initial margin models based on the ‘Standard Initial Margin Model’ (SIMM) developed by the International Swaps and Derivatives Association (ISDA). The proposed reporting requirements will provide the EBA with information necessary to effectively perform its role as central validator of pro forma models under EMIR, while ensuring a proportionate approach for reporting entities. The consultation runs until 2 November 2026.",
@@ -9623,41 +9668,6 @@
       ],
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "c44399a4ce33db46",
-      "title": "Asset Purchase Facility Quarterly Report - 2026 Q2",
-      "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
-      "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-04T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "transparency"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "transparency"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "2ade9d9479668c39",
@@ -21402,7 +21412,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-11-06T13:49:43.536Z",
+      "publishedAt": "2026-11-06T22:47:20.058Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21426,7 +21436,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-06T13:49:43.536Z",
+      "publishedAt": "2026-11-06T22:47:20.058Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21450,7 +21460,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-06T13:49:43.536Z",
+      "publishedAt": "2026-11-06T22:47:20.058Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21474,7 +21484,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-06T13:49:43.536Z",
+      "publishedAt": "2026-11-06T22:47:20.058Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21498,7 +21508,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-06T13:49:43.536Z",
+      "publishedAt": "2026-11-06T22:47:20.058Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21522,7 +21532,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-06T13:49:43.536Z",
+      "publishedAt": "2026-11-06T22:47:20.058Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21546,7 +21556,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-06T13:49:43.536Z",
+      "publishedAt": "2026-11-06T22:47:20.058Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21570,7 +21580,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-06T13:49:43.536Z",
+      "publishedAt": "2026-11-06T22:47:20.058Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21594,7 +21604,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-06T13:49:43.536Z",
+      "publishedAt": "2026-11-06T22:47:20.058Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21618,7 +21628,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-06T13:49:43.536Z",
+      "publishedAt": "2026-11-06T22:47:20.058Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21642,7 +21652,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-06T13:49:43.536Z",
+      "publishedAt": "2026-11-06T22:47:20.058Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21666,7 +21676,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-06T13:49:43.536Z",
+      "publishedAt": "2026-11-06T22:47:20.058Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21690,7 +21700,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-06T13:49:43.536Z",
+      "publishedAt": "2026-11-06T22:47:20.058Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21711,7 +21721,7 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 89
+      "count": 87
     },
     {
       "updateType": "News",
@@ -21723,7 +21733,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 37
+      "count": 40
     },
     {
       "updateType": "Statistics / Data",
