@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T12:34:32.059Z",
+  "generatedAt": "2026-11-07T21:31:31.427Z",
   "totalPublications": 490,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -1000,6 +1000,29 @@
     }
   ],
   "publications": [
+    {
+      "id": "1ac2c644a260a245",
+      "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-07T14:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
     {
       "id": "8a1f1e0777cf56d3",
       "title": "Letter from the ECB President to Mr Eero Heinäluoma and Mr Jonás Fernández, MEPs, on AI-related financing",
@@ -3188,36 +3211,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "3180359f68090853",
-      "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-26T05:00:00.000Z",
-      "pdfLinks": [
-        "https://documents1.worldbank.org/curated/en/099092925102517266/pdf/P180275-13b364e3-f045-47f2-97de-f9218682df98.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op333~1b97e436be.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op380.en.pdf",
-        "https://www.ngfs.net/system/files/import/ngfs/medias/documents/ngfs_conceptual-framework-on-nature-related-risks.pdf",
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.thematicreviewcercompendiumgoodpractices052026.en.pdf",
-        "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds260910~fbf0ab9b8d.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "a0fd7fe4550f4081",
       "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
       "summary": "",
@@ -3751,7 +3744,10 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-10-20T09:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/ecbu/eb202402.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2875~e585ae652b.en.pdf"
+      ],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -21409,7 +21405,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-11-07T12:34:32.059Z",
+      "publishedAt": "2026-11-07T21:31:31.427Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21433,7 +21429,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-07T12:34:32.059Z",
+      "publishedAt": "2026-11-07T21:31:31.427Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21457,7 +21453,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-07T12:34:32.059Z",
+      "publishedAt": "2026-11-07T21:31:31.427Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21481,7 +21477,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-07T12:34:32.059Z",
+      "publishedAt": "2026-11-07T21:31:31.427Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21505,7 +21501,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-07T12:34:32.059Z",
+      "publishedAt": "2026-11-07T21:31:31.427Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21529,7 +21525,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-07T12:34:32.059Z",
+      "publishedAt": "2026-11-07T21:31:31.427Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21553,7 +21549,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-07T12:34:32.059Z",
+      "publishedAt": "2026-11-07T21:31:31.427Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21577,7 +21573,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-07T12:34:32.059Z",
+      "publishedAt": "2026-11-07T21:31:31.427Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21601,7 +21597,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-07T12:34:32.059Z",
+      "publishedAt": "2026-11-07T21:31:31.427Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21625,7 +21621,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-07T12:34:32.059Z",
+      "publishedAt": "2026-11-07T21:31:31.427Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21649,7 +21645,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-07T12:34:32.059Z",
+      "publishedAt": "2026-11-07T21:31:31.427Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21673,7 +21669,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-07T12:34:32.059Z",
+      "publishedAt": "2026-11-07T21:31:31.427Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21697,7 +21693,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-07T12:34:32.059Z",
+      "publishedAt": "2026-11-07T21:31:31.427Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21710,7 +21706,7 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 119
+      "count": 120
     },
     {
       "updateType": "Rules / Standards / Guidance",
@@ -21722,7 +21718,7 @@
     },
     {
       "updateType": "News",
-      "count": 68
+      "count": 67
     },
     {
       "updateType": "Consultations",
