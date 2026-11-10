@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T01:16:03.405Z",
-  "totalPublications": 490,
+  "generatedAt": "2026-11-10T14:26:27.581Z",
+  "totalPublications": 491,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 8,
+      "itemCount": 9,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -452,11 +452,11 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 246
+      "count": 247
     },
     {
       "topic": "Basel / BCBS",
-      "count": 135
+      "count": 136
     },
     {
       "topic": "Governance",
@@ -464,7 +464,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 55
+      "count": 56
     },
     {
       "topic": "AML / Financial Crime",
@@ -480,7 +480,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 26
+      "count": 27
     },
     {
       "topic": "Credit Risk",
@@ -526,11 +526,11 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 246
+      "count": 247
     },
     {
       "topic": "Basel / BCBS",
-      "count": 135
+      "count": 136
     },
     {
       "topic": "Governance",
@@ -538,7 +538,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 55
+      "count": 56
     },
     {
       "topic": "AML / Financial Crime",
@@ -554,7 +554,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 26
+      "count": 27
     },
     {
       "topic": "Credit Risk",
@@ -608,11 +608,11 @@
     },
     {
       "keyword": "supervisory",
-      "count": 103
+      "count": 102
     },
     {
       "keyword": "its",
-      "count": 93
+      "count": 94
     },
     {
       "keyword": "board",
@@ -672,10 +672,14 @@
     },
     {
       "keyword": "transparency",
-      "count": 12
+      "count": 13
     },
     {
       "keyword": "crypto",
+      "count": 11
+    },
+    {
+      "keyword": "policy statement",
       "count": 11
     },
     {
@@ -687,8 +691,8 @@
       "count": 10
     },
     {
-      "keyword": "policy statement",
-      "count": 10
+      "keyword": "digital euro",
+      "count": 9
     },
     {
       "keyword": "liquidity",
@@ -697,10 +701,6 @@
     {
       "keyword": "resolution",
       "count": 9
-    },
-    {
-      "keyword": "digital euro",
-      "count": 8
     },
     {
       "keyword": "esg",
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 275
+      "count": 276
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 84
+      "count": 85
     },
     {
       "institution": "European Banking Authority",
@@ -1000,6 +1000,198 @@
     }
   ],
   "publications": [
+    {
+      "id": "fba2f84cedbe2325",
+      "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "pdfLinks": [
+        "https://commission.europa.eu/document/download/5445de81-9481-4335-9902-9756159ba614_en?filename=one-europe-one-market-roadmap.pdf",
+        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.dep260925_pilot_pspkickoff_workshop_agenda.en.pdf",
+        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.dep261023_Item_1_ECB_Presentation_Market_Rollout_Plan_Discussion.en.pdf?20127cda8c37f3a44aa94cd546291850",
+        "https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.derdgpr260706_RDG_Progress_Report_July_2026.en.pdf"
+      ],
+      "topics": [
+        "Crypto / Digital Assets"
+      ],
+      "matchedKeywords": [
+        "digital euro"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "digital euro"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "54e080b6e8ff40da",
+      "title": "Bank competitiveness and its role for monetary policy",
+      "summary": "Banks are at the heart of the EU economy, making them a key channel for monetary policy transmission. However, institutional factors continue to lead to fragmentation in the sector, constraining scale, efficiency and competitiveness. As shown by Altavilla et al. (2024), more competitive banks are more resilient to shocks and transmit monetary policy more effectively. The competitiveness of euro area banks has improved in recent years, reflecting stronger balance sheets and higher intermediation margins, but pockets of cost inefficiency and issues of scale remain, leaving further room for improvement.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_07~5cefb128e2.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-10T13:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2937~7e22f4dc25.de.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op376.en.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_07~5cefb128e2.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "126a0700e18bd179",
+      "title": "Asset Purchase Facility Quarterly Report - 2026 Q3",
+      "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
+      "url": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q3",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-10T12:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/weekly-report/2019/23-january-2019.pdf?la=en&amp;hash=6AE3283070DD922C1B2A76CB080DC7596583F561",
+        "http://www.bankofengland.co.uk/-/media/BoE/Files/letter/2009/governor-letter-050309.pdf",
+        "https://webarchive.nationalarchives.gov.uk/ukgwa/+/http:/www.hm-treasury.gov.uk/d/chxletter_boe050309.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/markets/asset-purchase-facility/joint-bank-dmo-statement-on-gilt-lending.pdf"
+      ],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "transparency"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "transparency"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q3",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "e44c5c23ceb2caab",
+      "title": "PS20/26 – Amendments to the Large Exposures Framework – Part 2",
+      "summary": "Policy statement 20/26",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/amendments-to-the-large-exposures-framework-part-2-policy-statement",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-10T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/november/ps2026app1.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/regulatory-reporting/banking/2026/november/annex-ix-instructions-for-reporting-on-large-exposures-and-concentration-risk.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2026/november/ps2026app4.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "large exposures",
+        "policy statement"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "large exposures"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/amendments-to-the-large-exposures-framework-part-2-policy-statement",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "eb67d73faa9fa889",
+      "title": "Industrial policy in the EU: new opportunities, old risks?",
+      "summary": "Motivated by the renewed use of industrial policy, this article examines the conditions under which sector-specific interventions can support productivity, competitiveness, and economic resilience. While industrial policy may be justified where market failures or dependencies are well-identified, selective intervention entails risks of distortion through rent-seeking and resource misallocation. These risks are particularly relevant in the EU, where uncoordinated industrial policy is implemented in a multi-country Single Market with heterogeneous institutions and bank-based financial structures.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202607_01~3ac9592e8b.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-10T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op369~246a103ed8.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3185~74a163e02b.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202607_01~3ac9592e8b.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "69574311d34ed522",
       "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
@@ -3511,61 +3703,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "fdfa1b6f2ff92dcf",
-      "title": "Survey on the Access to Finance of Enterprises in the euro area - Third quarter of 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//stats/ecb_surveys/safe/html/ecb.safe202610.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-26T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/stats/accesstofinancesofenterprises/pdf/ecb.safe202610.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/ecbu/eb202108.en.pdf",
-        "https://www.ecb.europa.eu/stats/accesstofinancesofenterprises/pdf/ecb.accesstofinancesmallmediumsizedenterprises201806.en.pdf",
-        "https://www.ecb.europa.eu/stats/pdf/surveys/sme/ecb.safemi.en.pdf",
-        "https://www.ecb.europa.eu/stats/accesstofinancesofenterprises/pdf/questionnaire/ecb.safeq202610.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//stats/ecb_surveys/safe/html/ecb.safe202610.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "de1e4e8e9257cf5f",
-      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-26T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/stats/accesstofinancesofenterprises/pdf/questionnaire/ecb.safeq202610.en.pdf",
-        "https://www.ecb.europa.eu/stats/pdf/surveys/sme/ecb.safemi.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "a0fd7fe4550f4081",
       "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
       "summary": "",
@@ -4070,11 +4207,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-10-21T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op371.en.pdf?f80ec8ae70bf291a160a0b89674bf747",
-        "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/24/T3/Files/be2403-art09e.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3180~6e06816794.en.pdf?9954f6aba905d8c673ae5b7d06a158d5"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4325,14 +4458,14 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "3ae1d35af223b5b6",
+      "id": "b694b269d19cbe64",
       "title": "Headwind or tailwind? How banks interpret borrowers’ AI exposure",
       "summary": "General-purpose technologies create large opportunities but make their distribution across firms difficult to assess in real time. We use banks as interpreters of the rise of generative AI by studying lender-specific probability-of-default (PD) estimates for private firms in four large euro-area economies. As public attention to AI rises after ChatGPT, banks lower assessed default risk for borrowers in highly AI-exposed industries by about 5%. The reassessment is weaker for labor-intensive firms and stronger among lenders with pre-existing industry expertise.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3302~7ff8a286bc.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -4368,9 +4501,9 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3302~7ff8a286bc.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "93ab148a6f0c7c78",
@@ -9642,29 +9775,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "2cd4a9eadfc1a0f9",
-      "title": "Bank of England Weekly Report 12 August 2026",
-      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2026/12-august-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-13T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/12-august-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "9d31e627bbbe642e",
       "title": "The EBA clarifies its Product Oversight and Governance Guidelines which address greenwashing risks in ESG products",
       "summary": "The European Banking Authority (EBA) today published revised Guidelines on product oversight and governance (POG) for retail banking products. They clarify requirements for products with environmental, social and governance (ESG) features whenever offered and sold to consumers and address greenwashing risks. The Guidelines aim to ensure that financial institutions apply robust standards when designing and distributing ESG-related retail products, with a view to reducing the risk of consumers being misled or sold products that do not meet their needs.",
@@ -14718,41 +14828,6 @@
       ],
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "6a6dcbf2791f8434",
-      "title": "SS9/17 - Recovery planning",
-      "summary": "Supervisory Statement 9/17",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2017/recovery-planning-ss",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-03-26T10:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2017/recovery-planning-ss",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "5da279dfc4401c10",
@@ -21476,7 +21551,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-11-10T01:16:03.405Z",
+      "publishedAt": "2026-11-10T14:26:27.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21500,7 +21575,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T01:16:03.405Z",
+      "publishedAt": "2026-11-10T14:26:27.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21524,7 +21599,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T01:16:03.405Z",
+      "publishedAt": "2026-11-10T14:26:27.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21548,7 +21623,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T01:16:03.405Z",
+      "publishedAt": "2026-11-10T14:26:27.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21572,7 +21647,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T01:16:03.405Z",
+      "publishedAt": "2026-11-10T14:26:27.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21596,7 +21671,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T01:16:03.405Z",
+      "publishedAt": "2026-11-10T14:26:27.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21620,7 +21695,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T01:16:03.405Z",
+      "publishedAt": "2026-11-10T14:26:27.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21644,7 +21719,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T01:16:03.405Z",
+      "publishedAt": "2026-11-10T14:26:27.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21668,7 +21743,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T01:16:03.405Z",
+      "publishedAt": "2026-11-10T14:26:27.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21692,7 +21767,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T01:16:03.405Z",
+      "publishedAt": "2026-11-10T14:26:27.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21716,7 +21791,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T01:16:03.405Z",
+      "publishedAt": "2026-11-10T14:26:27.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21740,7 +21815,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T01:16:03.405Z",
+      "publishedAt": "2026-11-10T14:26:27.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21764,7 +21839,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T01:16:03.405Z",
+      "publishedAt": "2026-11-10T14:26:27.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21788,7 +21863,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T01:16:03.405Z",
+      "publishedAt": "2026-11-10T14:26:27.581Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21805,11 +21880,11 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 95
+      "count": 96
     },
     {
       "updateType": "Publications / Reports",
-      "count": 86
+      "count": 85
     },
     {
       "updateType": "News",
@@ -21821,7 +21896,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 40
+      "count": 41
     },
     {
       "updateType": "Statistics / Data",
