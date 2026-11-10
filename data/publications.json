@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T14:26:27.581Z",
+  "generatedAt": "2026-11-10T22:55:57.112Z",
   "totalPublications": 491,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 247
+      "count": 249
     },
     {
       "topic": "Basel / BCBS",
@@ -464,7 +464,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 56
+      "count": 55
     },
     {
       "topic": "AML / Financial Crime",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 247
+      "count": 249
     },
     {
       "topic": "Basel / BCBS",
@@ -538,7 +538,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 56
+      "count": 55
     },
     {
       "topic": "AML / Financial Crime",
@@ -612,7 +612,7 @@
     },
     {
       "keyword": "its",
-      "count": 94
+      "count": 96
     },
     {
       "keyword": "board",
@@ -664,7 +664,7 @@
     },
     {
       "keyword": "enforcement",
-      "count": 13
+      "count": 14
     },
     {
       "keyword": "payments",
@@ -1000,6 +1000,80 @@
     }
   ],
   "publications": [
+    {
+      "id": "b89b47769a10bf94",
+      "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-10T16:45:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2609~e49d2ad922.en.pdf",
+        "https://www.kansascityfed.org/documents/18595/brunnermeier.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3047~cb0f0cf37f.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2759~085f242f95.en.pdf?1150dcc83fa64ec7fd7ff28a9b9420f3",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3298~06485c09a7.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2994~6c2bcefa86.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op372.en.pdf?26bfe8b1d35c90ecc2021976222bdca8",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3292~76d878a0cf.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3141~689cedc7ab.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1707.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2249~543dd2fbd3.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/annrep/ecb.ar2021~14d7439b2d.en.pdf",
+        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261030_annex~ffd5520fb0.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "b50606f21cf951c7",
+      "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
+      "summary": "The Securities and Exchange Commission today provided its enforcement results for the past fiscal year which ended September 30. Throughout the fiscal year, the SEC’s Division of Enforcement remained focused on its fundamental responsibility: protecting…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
+      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
+      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
+      "sourceId": "sec-press",
+      "sourceName": "SEC Press Releases",
+      "institution": "U.S. Securities and Exchange Commission",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-10T16:15:35.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "enforcement",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement",
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
+      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "fba2f84cedbe2325",
       "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
@@ -3629,32 +3703,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "3d37fc5c95197753",
-      "title": "October 2026 euro area bank lending survey",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-27T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.bls_questionnaire.en.pdf",
-        "https://www.ecb.europa.eu/stats/pdf/bls_user_guide_202604.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "94a84b56378ce3b2",
@@ -8612,41 +8660,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
-    },
-    {
-      "id": "c47c0f5d62d8ef0d",
-      "title": "SEC Grants Exemptive Relief from Certain Inline XBRL Filing or Submission Requirements",
-      "summary": "The Securities and Exchange Commission issued an order granting exemptive relief from certain Inline XBRL requirements adopted on Dec. 16, 2024. More specifically, the Commission is granting exemptive relief from filing or submitting the following in…",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-88-sec-grants-exemptive-relief-certain-inline-xbrl-filing-or-submission-requirements",
-      "sourcePageUrl": "https://www.sec.gov/about/rss-feeds",
-      "officialSourcePage": "https://www.sec.gov/about/rss-feeds",
-      "sourceId": "sec-press",
-      "sourceName": "SEC Press Releases",
-      "institution": "U.S. Securities and Exchange Commission",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-14T16:47:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "xbrl"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "xbrl"
-          ]
-        }
-      ],
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-88-sec-grants-exemptive-relief-certain-inline-xbrl-filing-or-submission-requirements",
-      "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "d1fc2fc86d6dc340",
@@ -21245,10 +21258,10 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "3374b183e0de33da",
-      "title": "Market integrity in a digital age",
-      "summary": "Speech by Nikhil Rathi, FCA chief executive at the Corporation of the City of London’s annual City Dinner, Mansion House. The success of the UK’s financial servicesIn August, flight cancellations left my sons and I with an extra day in Boston. A Red Sox game, perhaps? No, the Rathi boys – naturally – headed straight to…the Museum of American Finance. Funded by industry, the museum celebrates the role of finance in American life. Illuminating the powerful benefits of informed risk taking. Three sceptical boys engrossed for nearly 2 hours. I quite enjoyed it too. It struck me though how right George Bernard Shaw was: Britain and America are 2 countries separated by a common language.",
-      "url": "https://www.fca.org.uk/news/speeches/market-integrity-digital-age",
+      "id": "38d7dd6ebee59df7",
+      "title": "Man sentenced over £154m fake takeover bid targeting UK-listed company",
+      "summary": "Christopher Woolcott has today been given a 2-year prison sentence, suspended for 2 years, after staging a £154m fake takeover bid for Touchstone Exploration Inc. He was also ordered to complete 200 hours of unpaid work and to pay costs of £4,627.73. Mr Woolcott built a sizeable stake in Touchstone, an oil and gas listed company. He then launched a bogus bid to drive up its share price. To give the bid credibility, Mr Woolcott invented several identities, forged takeover documents using Chat GPT and met Touchstone’s chief executive at a central London hotel under a false name. Touchstone ultimately determined that the bid was not legitimate.",
+      "url": "https://www.fca.org.uk/news/press-releases/man-sentenced-over-154m-fake-takeover-bid-targeting-uk-listed-company",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -21260,10 +21273,12 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
-        "Governance"
+        "Governance",
+        "Supervision / Enforcement"
       ],
       "matchedKeywords": [
-        "conduct"
+        "conduct",
+        "its"
       ],
       "topicMatches": [
         {
@@ -21272,12 +21287,19 @@
           "keywords": [
             "conduct"
           ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/speeches/market-integrity-digital-age",
+      "link": "https://www.fca.org.uk/news/press-releases/man-sentenced-over-154m-fake-takeover-bid-targeting-uk-listed-company",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "93af7d7e28db1e29",
@@ -21551,7 +21573,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-11-10T14:26:27.581Z",
+      "publishedAt": "2026-11-10T22:55:57.112Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21575,7 +21597,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T14:26:27.581Z",
+      "publishedAt": "2026-11-10T22:55:57.112Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21599,7 +21621,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T14:26:27.581Z",
+      "publishedAt": "2026-11-10T22:55:57.112Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21623,7 +21645,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T14:26:27.581Z",
+      "publishedAt": "2026-11-10T22:55:57.112Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21647,7 +21669,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T14:26:27.581Z",
+      "publishedAt": "2026-11-10T22:55:57.112Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21671,7 +21693,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T14:26:27.581Z",
+      "publishedAt": "2026-11-10T22:55:57.112Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21695,7 +21717,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T14:26:27.581Z",
+      "publishedAt": "2026-11-10T22:55:57.112Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21719,7 +21741,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T14:26:27.581Z",
+      "publishedAt": "2026-11-10T22:55:57.112Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21743,7 +21765,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T14:26:27.581Z",
+      "publishedAt": "2026-11-10T22:55:57.112Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21767,7 +21789,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T14:26:27.581Z",
+      "publishedAt": "2026-11-10T22:55:57.112Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21791,7 +21813,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T14:26:27.581Z",
+      "publishedAt": "2026-11-10T22:55:57.112Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21815,7 +21837,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T14:26:27.581Z",
+      "publishedAt": "2026-11-10T22:55:57.112Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21839,7 +21861,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T14:26:27.581Z",
+      "publishedAt": "2026-11-10T22:55:57.112Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21863,7 +21885,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T14:26:27.581Z",
+      "publishedAt": "2026-11-10T22:55:57.112Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21876,11 +21898,11 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 119
+      "count": 118
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 96
+      "count": 98
     },
     {
       "updateType": "Publications / Reports",
@@ -21888,7 +21910,7 @@
     },
     {
       "updateType": "News",
-      "count": 67
+      "count": 66
     },
     {
       "updateType": "Consultations",
