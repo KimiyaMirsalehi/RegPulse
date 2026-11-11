@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T22:55:57.112Z",
-  "totalPublications": 491,
+  "generatedAt": "2026-11-11T13:41:33.185Z",
+  "totalPublications": 490,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 9,
+      "itemCount": 8,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 249
+      "count": 248
     },
     {
       "topic": "Basel / BCBS",
@@ -480,11 +480,11 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 27
+      "count": 28
     },
     {
       "topic": "Credit Risk",
-      "count": 25
+      "count": 26
     },
     {
       "topic": "Payments / Open Finance",
@@ -508,7 +508,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "Market Risk",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 249
+      "count": 248
     },
     {
       "topic": "Basel / BCBS",
@@ -554,11 +554,11 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 27
+      "count": 28
     },
     {
       "topic": "Credit Risk",
-      "count": 25
+      "count": 26
     },
     {
       "topic": "Payments / Open Finance",
@@ -582,7 +582,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "Market Risk",
@@ -612,7 +612,7 @@
     },
     {
       "keyword": "its",
-      "count": 96
+      "count": 95
     },
     {
       "keyword": "board",
@@ -691,11 +691,11 @@
       "count": 10
     },
     {
-      "keyword": "digital euro",
-      "count": 9
+      "keyword": "liquidity",
+      "count": 10
     },
     {
-      "keyword": "liquidity",
+      "keyword": "digital euro",
       "count": 9
     },
     {
@@ -859,6 +859,10 @@
       "count": 3
     },
     {
+      "keyword": "stablecoins",
+      "count": 3
+    },
+    {
       "keyword": "taxonomy",
       "count": 3
     },
@@ -913,16 +917,12 @@
     {
       "keyword": "fine",
       "count": 2
-    },
-    {
-      "keyword": "greenwashing",
-      "count": 2
     }
   ],
   "regionSummary": [
     {
       "region": "EU",
-      "count": 276
+      "count": 275
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 85
+      "count": 84
     },
     {
       "institution": "European Banking Authority",
@@ -1000,6 +1000,143 @@
     }
   ],
   "publications": [
+    {
+      "id": "29cdb5958616130c",
+      "title": "Who holds stablecoins? New evidence on euro area consumer holdings",
+      "summary": "This box looks at whether stablecoins are on the rise in the euro area and what the implications are for financial stability, using data from the ECB’s Consumer Expectations Survey. It highlights the transactional nature of stablecoins and the risks posed by an increase in consumer holdings. While current exposures remain limited, the analysis underscores the importance of monitoring the use of stablecoins and the potential spillover effects on consumer confidence and financial markets.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_08~f4ddf0117c.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-11T13:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3199~ad552b59ec.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op287~ea7eebc23f.en.pdf",
+        "https://www.bancaditalia.it/pubblicazioni/mercati-infrastrutture-e-sistemi-di-pagamento/approfondimenti/2026-086/N.86-MISP.pdf?language_id=1",
+        "https://www.esrb.europa.eu/pub/pdf/reports/esrb.report202510_cryptoassets.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/ire/focus/ecb.irebox202206_05~9f49f44d15.en.pdf"
+      ],
+      "topics": [
+        "Crypto / Digital Assets"
+      ],
+      "matchedKeywords": [
+        "stablecoins"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "stablecoins"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_08~f4ddf0117c.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "6d1d05759ec1987b",
+      "title": "How the sovereign debt crisis shaped wealth inequality in the euro area",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261111~ee77dcd0d0.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-blog",
+      "sourceName": "ECB Blog",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-11T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpsps/ecb.sps53.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261111~ee77dcd0d0.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "b95bbdb79e8b89dd",
+      "title": "The real and financial effects of local corporate tax increases: evidence from linked firm–bank data",
+      "summary": "We study how local corporate tax increases affect firms’ financing and real activity. In Portugal, municipalities independently set a surtax on corporate income, generating plausibly exogenous variation across space and time. We link the universe of corporate balance sheets and profit-and-loss statements to loan-level data from the Bank of Portugal’s credit registry, allowing us to track firms’ liquidity, leverage, borrowing costs, and credit quality alongside revenues, employment, and productivity. We estimate local-projection difference-in-differences models that address staggered treatment timing and dynamic responses.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3309~4e8af93b3a.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-11T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3309~4e8af93b3a.en.pdf"
+      ],
+      "topics": [
+        "Liquidity",
+        "Credit Risk"
+      ],
+      "matchedKeywords": [
+        "liquidity",
+        "credit quality"
+      ],
+      "topicMatches": [
+        {
+          "id": "liquidity",
+          "label": "Liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        },
+        {
+          "id": "credit-risk",
+          "label": "Credit Risk",
+          "keywords": [
+            "credit quality"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3309~4e8af93b3a.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "dc24d6fd2f3b8706",
+      "title": "The role of refining costs and margins in HICP energy inflation",
+      "summary": "Energy market developments continue to be shaped by the conflict in the Middle East. Global refinery runs have fallen significantly compared to previous years, driven by reduced refinery activity in the Middle East, Russia and Asia. The constrained supply of crude oil and refined products has led to a persistent global increase in refining margins and costs, particularly for diesel.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_05~d82730508f.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-11T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3062~abe560353f.cs.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_05~d82730508f.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "b89b47769a10bf94",
       "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
@@ -3094,29 +3231,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "7670c17e2903972c",
-      "title": "Main findings from the ECB’s recent contacts with non-financial companies",
-      "summary": "This box summarises the main findings from recent contacts between ECB staff and representatives of 64 leading non-financial companies operating in the euro area. According to these exchanges, which mainly took place between 28 September and 7 October 2026, activity continued to grow moderately in the third quarter with similar momentum expected for the fourth quarter. Growth was particularly focused in high-value manufacturing and IT services, while growth in consumer spending was relatively weak. Employment dynamics remained subdued, with many firms in cost-cutting mode.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_04~26727550fe.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-30T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_04~26727550fe.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "8845b575ebe19c85",
       "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
       "summary": "",
@@ -3138,31 +3252,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "7b3767e0b05da389",
-      "title": "The ECB Survey of Professional Forecasters - Fourth quarter of 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//stats/ecb_surveys/survey_of_professional_forecasters/html/ecb.spf2026q4.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-30T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/stats/ecb_surveys/survey_of_professional_forecasters/pdf/ecb.spf2026q4.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//stats/ecb_surveys/survey_of_professional_forecasters/html/ecb.spf2026q4.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "b5c27b3880202d9c",
@@ -3675,34 +3764,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
-    },
-    {
-      "id": "1575df3ad36c6929",
-      "title": "The euro area bank lending survey - Third quarter of 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//stats/ecb_surveys/bank_lending_survey/html/ecb.blssurvey2026q3~c6a731e213.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-27T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.blssurvey2026q3~c6a731e213.en.pdf",
-        "https://www.ecb.europa.eu/stats/pdf/bls_user_guide_202604.en.pdf",
-        "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.bls_questionnaire.en.pdf",
-        "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/pdf/ecb.bls_annex2026q3.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//stats/ecb_surveys/bank_lending_survey/html/ecb.blssurvey2026q3~c6a731e213.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "94a84b56378ce3b2",
@@ -6342,43 +6403,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "b435580f9643837c",
-      "title": "Understanding inflation: insights from the term structure of inflation risks",
-      "summary": "This paper investigates the information content of the term structure of inflation risks and its usefulness for understanding inflation dynamics. Using prices of traded zero-coupon inflation caps and floors, we develop a robust non-parametric methodology, combined with a Student’s t-copula, to estimate spot and forward risk-neutral densities at short-, medium-, and long-term horizons, i.e., long-horizon risks are identified from liquid instruments alone, at daily frequency, without forward-starting contracts.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3294~343f6d6c31.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-05T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3294~343f6d6c31.en.pdf"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3294~343f6d6c31.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "77acc403622b20af",
@@ -9500,29 +9524,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
-    },
-    {
-      "id": "c249513066fd12b8",
-      "title": "AI adoption and the productivity promise: what workers report",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260826~e1c1a89999.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-blog",
-      "sourceName": "ECB Blog",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-26T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260826~e1c1a89999.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "678133c9ff2e6c55",
@@ -21573,7 +21574,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-11-10T22:55:57.112Z",
+      "publishedAt": "2026-11-11T13:41:33.185Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21597,7 +21598,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T22:55:57.112Z",
+      "publishedAt": "2026-11-11T13:41:33.185Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21621,7 +21622,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T22:55:57.112Z",
+      "publishedAt": "2026-11-11T13:41:33.185Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21645,7 +21646,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T22:55:57.112Z",
+      "publishedAt": "2026-11-11T13:41:33.185Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21669,7 +21670,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T22:55:57.112Z",
+      "publishedAt": "2026-11-11T13:41:33.185Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21693,7 +21694,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T22:55:57.112Z",
+      "publishedAt": "2026-11-11T13:41:33.185Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21717,7 +21718,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T22:55:57.112Z",
+      "publishedAt": "2026-11-11T13:41:33.185Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21741,7 +21742,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T22:55:57.112Z",
+      "publishedAt": "2026-11-11T13:41:33.185Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21765,7 +21766,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T22:55:57.112Z",
+      "publishedAt": "2026-11-11T13:41:33.185Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21789,7 +21790,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T22:55:57.112Z",
+      "publishedAt": "2026-11-11T13:41:33.185Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21813,7 +21814,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T22:55:57.112Z",
+      "publishedAt": "2026-11-11T13:41:33.185Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21837,7 +21838,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T22:55:57.112Z",
+      "publishedAt": "2026-11-11T13:41:33.185Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21861,7 +21862,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T22:55:57.112Z",
+      "publishedAt": "2026-11-11T13:41:33.185Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21885,7 +21886,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-10T22:55:57.112Z",
+      "publishedAt": "2026-11-11T13:41:33.185Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21918,7 +21919,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 41
+      "count": 40
     },
     {
       "updateType": "Statistics / Data",
