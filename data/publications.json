@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T22:31:59.095Z",
+  "generatedAt": "2026-11-16T14:57:40.084Z",
   "totalPublications": 494,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 246
+      "count": 251
     },
     {
       "topic": "Basel / BCBS",
@@ -460,26 +460,26 @@
     },
     {
       "topic": "Governance",
-      "count": 129
+      "count": 128
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 54
+      "count": 55
     },
     {
       "topic": "Climate / ESG",
-      "count": 39
+      "count": 40
     },
     {
       "topic": "AML / Financial Crime",
       "count": 38
     },
     {
-      "topic": "Crypto / Digital Assets",
+      "topic": "Capital Requirements",
       "count": 28
     },
     {
-      "topic": "Capital Requirements",
+      "topic": "Crypto / Digital Assets",
       "count": 27
     },
     {
@@ -496,11 +496,11 @@
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 17
+      "count": 18
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 14
+      "count": 15
     },
     {
       "topic": "AI",
@@ -508,25 +508,25 @@
     },
     {
       "topic": "Liquidity",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "Market Risk",
       "count": 8
     },
     {
-      "topic": "Consumer Protection",
-      "count": 6
+      "topic": "Model Risk",
+      "count": 7
     },
     {
-      "topic": "Model Risk",
+      "topic": "Consumer Protection",
       "count": 6
     }
   ],
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 246
+      "count": 251
     },
     {
       "topic": "Basel / BCBS",
@@ -534,26 +534,26 @@
     },
     {
       "topic": "Governance",
-      "count": 129
+      "count": 128
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 54
+      "count": 55
     },
     {
       "topic": "Climate / ESG",
-      "count": 39
+      "count": 40
     },
     {
       "topic": "AML / Financial Crime",
       "count": 38
     },
     {
-      "topic": "Crypto / Digital Assets",
+      "topic": "Capital Requirements",
       "count": 28
     },
     {
-      "topic": "Capital Requirements",
+      "topic": "Crypto / Digital Assets",
       "count": 27
     },
     {
@@ -570,11 +570,11 @@
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 17
+      "count": 18
     },
     {
       "topic": "Recovery / Resolution",
-      "count": 14
+      "count": 15
     },
     {
       "topic": "AI",
@@ -582,25 +582,25 @@
     },
     {
       "topic": "Liquidity",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "Market Risk",
       "count": 8
     },
     {
-      "topic": "Consumer Protection",
-      "count": 6
+      "topic": "Model Risk",
+      "count": 7
     },
     {
-      "topic": "Model Risk",
+      "topic": "Consumer Protection",
       "count": 6
     }
   ],
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 133
+      "count": 132
     },
     {
       "keyword": "banking supervision",
@@ -608,11 +608,11 @@
     },
     {
       "keyword": "supervisory",
-      "count": 102
+      "count": 104
     },
     {
       "keyword": "its",
-      "count": 96
+      "count": 98
     },
     {
       "keyword": "board",
@@ -624,11 +624,11 @@
     },
     {
       "keyword": "governance",
-      "count": 32
+      "count": 31
     },
     {
       "keyword": "climate",
-      "count": 29
+      "count": 30
     },
     {
       "keyword": "money laundering",
@@ -652,7 +652,7 @@
     },
     {
       "keyword": "capital requirements",
-      "count": 16
+      "count": 17
     },
     {
       "keyword": "consultation paper",
@@ -663,6 +663,10 @@
       "count": 14
     },
     {
+      "keyword": "disclosure",
+      "count": 13
+    },
+    {
       "keyword": "enforcement",
       "count": 13
     },
@@ -671,8 +675,8 @@
       "count": 13
     },
     {
-      "keyword": "disclosure",
-      "count": 12
+      "keyword": "policy statement",
+      "count": 13
     },
     {
       "keyword": "transparency",
@@ -680,11 +684,11 @@
     },
     {
       "keyword": "crypto",
-      "count": 11
+      "count": 10
     },
     {
-      "keyword": "policy statement",
-      "count": 11
+      "keyword": "liquidity",
+      "count": 10
     },
     {
       "keyword": "supervisory reporting",
@@ -692,10 +696,6 @@
     },
     {
       "keyword": "digital euro",
-      "count": 9
-    },
-    {
-      "keyword": "liquidity",
       "count": 9
     },
     {
@@ -715,6 +715,10 @@
       "count": 7
     },
     {
+      "keyword": "implementing technical standards",
+      "count": 7
+    },
+    {
       "keyword": "operational resilience",
       "count": 7
     },
@@ -725,10 +729,6 @@
     {
       "keyword": "stress testing",
       "count": 7
-    },
-    {
-      "keyword": "implementing technical standards",
-      "count": 6
     },
     {
       "keyword": "nature related",
@@ -763,10 +763,6 @@
       "count": 5
     },
     {
-      "keyword": "mica",
-      "count": 5
-    },
-    {
       "keyword": "own funds",
       "count": 5
     },
@@ -783,11 +779,19 @@
       "count": 4
     },
     {
+      "keyword": "artificial intelligence",
+      "count": 4
+    },
+    {
       "keyword": "counterparty credit risk",
       "count": 4
     },
     {
       "keyword": "crd",
+      "count": 4
+    },
+    {
+      "keyword": "cybersecurity",
       "count": 4
     },
     {
@@ -800,6 +804,10 @@
     },
     {
       "keyword": "final report",
+      "count": 4
+    },
+    {
+      "keyword": "mica",
       "count": 4
     },
     {
@@ -823,10 +831,6 @@
       "count": 3
     },
     {
-      "keyword": "artificial intelligence",
-      "count": 3
-    },
-    {
       "keyword": "basel iii",
       "count": 3
     },
@@ -847,15 +851,7 @@
       "count": 3
     },
     {
-      "keyword": "cybersecurity",
-      "count": 3
-    },
-    {
       "keyword": "disclosure requirements",
-      "count": 3
-    },
-    {
-      "keyword": "ict risks",
       "count": 3
     },
     {
@@ -868,10 +864,6 @@
     },
     {
       "keyword": "market risk",
-      "count": 3
-    },
-    {
-      "keyword": "stablecoin",
       "count": 3
     },
     {
@@ -916,6 +908,14 @@
     },
     {
       "keyword": "greenwashing",
+      "count": 2
+    },
+    {
+      "keyword": "ict risks",
+      "count": 2
+    },
+    {
+      "keyword": "large language model",
       "count": 2
     }
   ],
@@ -1000,6 +1000,627 @@
     }
   ],
   "publications": [
+    {
+      "id": "ba1b7f9aedab48c3",
+      "title": "Frank Elderson: Smart supervision for small banks",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "634f309469343c2b",
+      "title": "Frank Elderson: Smart supervision for small banks",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in261116~bd5da4f398.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in261116~bd5da4f398.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "234c63cbfe20acb8",
+      "title": "Ensuring the resilience of CCPs: near-final policy statement",
+      "summary": "Near-final policy statement",
+      "url": "https://www.bankofengland.co.uk/paper/2026/ps/ensuring-the-resilience-of-ccps-near-final-policy-statement",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-16T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bis.org/bcbs/publ/d590.pdf",
+        "https://www.bis.org/cpmi/publ/d226.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/near-final-fmi-rulebook-uk-ccps-instrument-2027.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/near-final-fmi-rulebook-uk-ccps-interpretation-and-general-provisions-instrument-2027.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/near-final-fmi-rulebook-overseas-ccps-instrument-2027.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/near-final-fmi-rulebook-glossary-instrument-2027.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/illustrative-purposes-only-annex-n-collateral-part.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/ensuring-the-resilience-of-ccps-annex-transposition-table.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/draft-recognised-clearing-house-rule-4-revocation-instrument-2026.pdf",
+        "https://assets.publishing.service.gov.uk/media/687111c62557debd867cc042/CCP__Amdt__Regs_consultation_draft_9_july_2025.pdf",
+        "https://assets.publishing.service.gov.uk/media/687111e8a08d3a3ca3b67ae1/Systemic_importance_criteria_SI_consultation_draft_9_july_2025.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/ensuring-the-resilience-of-ccps-near-final-policy-statement",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "f37de57b3a24a0a4",
+      "title": "Near-final statement of policy: The Bank of England’s approach to comparable compliance permissions",
+      "summary": "Near-final statement of policy",
+      "url": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-comparable-compliance",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-16T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/near-final-fmi-rulebook-overseas-ccps-instrument-2027.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-comparable-compliance",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "8d11c1256f6daea5",
+      "title": "Near-final Statement of Policy: The Bank of England’s approach to permissions in relation to CCP rules (disclosure, outsourcing and interoperability arrangements permissions)",
+      "summary": "Near-final statement of policy",
+      "url": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-sop-boes-approach-to-permissions-in-relation-to-ccp-rules",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-16T11:00:00.000Z",
+      "pdfLinks": [
+        "https://cm-boe.prod-sc-cms-platform-des.azure.cloud.boe.bankofengland.co.uk/-/media/boe/files/paper/2026/near-final-fmi-rulebook-uk-ccps-instrument-2027.pdf?sc_mode=normal"
+      ],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "outsourcing",
+        "disclosure"
+      ],
+      "topicMatches": [
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "outsourcing"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-sop-boes-approach-to-permissions-in-relation-to-ccp-rules",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "ac7147691c9ceb3b",
+      "title": "Near-final statement of policy: The Bank of England’s approach to supervisory processes (model changes, recognition orders and variations of recognition orders) and margin permissions",
+      "summary": "Near-final statement of policy",
+      "url": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-supervisory-processes-and-margin-permissions",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-16T11:00:00.000Z",
+      "pdfLinks": [
+        "https://cm-boe.prod-sc-cms-platform-des.azure.cloud.boe.bankofengland.co.uk/-/media/boe/files/paper/2026/near-final-fmi-rulebook-uk-ccps-instrument-2027.pdf?sc_mode=normal"
+      ],
+      "topics": [
+        "Model Risk",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "model changes",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "model-risk",
+          "label": "Model Risk",
+          "keywords": [
+            "model changes"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-supervisory-processes-and-margin-permissions",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "c750e288f91c94cd",
+      "title": "Near-final statement of policy: The Bank of England’s approach to tiering non-UK CCPs",
+      "summary": "Near-final statement of policy",
+      "url": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-tiering-non-uk-ccps",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-16T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2021/boes-approach-to-tiering-incoming-central-counterparties-under-emir-article-25-sop.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/near-final-fmi-rulebook-overseas-ccps-instrument-2027.pdf",
+        "https://assets.publishing.service.gov.uk/media/687111c62557debd867cc042/CCP__Amdt__Regs_consultation_draft_9_july_2025.pdf",
+        "https://assets.publishing.service.gov.uk/media/687111e8a08d3a3ca3b67ae1/Systemic_importance_criteria_SI_consultation_draft_9_july_2025.pdf",
+        "https://www.bankofengland.co.uk/eu-withdrawal/-/media/boe/files/financial-stability/financial-market-infrastructure-supervision/list-of-third-country-ccps.pdf?la=en&amp;hash=8C96A829A5F570A235A4944912AFA278A8728399&amp;hash=8C96A829A5F570A235A4944912AFA278A8728399"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-tiering-non-uk-ccps",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "8c7e40aec49c54e3",
+      "title": "Near-final supervisory statement on CCP margin",
+      "summary": "Near-final supervisory statement",
+      "url": "https://www.bankofengland.co.uk/paper/2026/ss/near-final-supervisory-statement-on-ccp-margin",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-16T11:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/paper/2026/ss/near-final-supervisory-statement-on-ccp-margin",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "5f2807a84fb36265",
+      "title": "Statement of policy: The Bank of England’s approach to rule permissions and waivers",
+      "summary": "Statement of policy",
+      "url": "https://www.bankofengland.co.uk/paper/2026/sop/statement-of-policy-the-boes-approach-to-rule-permissions-waivers",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-16T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/financial-stability/financial-market-infrastructure-supervision/fmi-ctp-application-form.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/statement-of-policy-the-boes-approach-to-rule-permissions-waivers",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "a434551e9e62d80c",
+      "title": "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
+      "summary": "Statement of policy",
+      "url": "https://www.bankofengland.co.uk/paper/2026/sop/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-16T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/appendix-mobilisation-application-form-nov-2026.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/near-final-fmi-rulebook-uk-ccps-instrument-2027.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2024/iorep-appendix1.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "0d850d04ba709fde",
+      "title": "The Bank of England’s approach to rule permissions and waivers: Policy statement",
+      "summary": "Policy statement",
+      "url": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-approach-to-rule-permissions-and-waivers-ps",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-16T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/statistics/data-collection/pl/conf.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "policy statement"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-approach-to-rule-permissions-and-waivers-ps",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "d71db5dd09e07943",
+      "title": "The Bank of England’s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+      "summary": "Policy statement",
+      "url": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps-ps",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-16T11:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2026/appendix-mobilisation-application-form-nov-2026.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "policy statement",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "policy statement",
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps-ps",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "14c0a3b992659bb8",
+      "title": "The impact of default waterfall positioning on pro-rata second skin-in-the-game requirements for central counterparties",
+      "summary": "Technical note",
+      "url": "https://www.bankofengland.co.uk/paper/2026/the-impact-of-default-waterfall-positioning-on-pro-rata-second-ssitg-requirements-for-ccp",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-16T11:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/paper/2026/the-impact-of-default-waterfall-positioning-on-pro-rata-second-ssitg-requirements-for-ccp",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "0d09c22d2598dd1b",
+      "title": "Decoding the cyber-AI nexus",
+      "summary": "The rapid evolution of artificial intelligence (AI) is reshaping the cyber-threat landscape, with significant implications for financial stability in the euro area. This special feature explores the complex interplay between AI and cybersecurity, highlighting how advanced AI models are enabling attackers and defenders alike to enhance their capabilities. Highly capable and agentic AI systems are increasing the scale, speed and sophistication of attacks while also introducing new vulnerabilities. These include AI models themselves being exposed to novel types of attack and AI agents failing to act as their human operators intend.",
+      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202611_02~8cca80a3c3.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-16T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.fsb.org/uploads/P130423-3.pdf",
+        "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/02/oecd-framework-for-the-classification-of-ai-systems_336a8b57/cb6d9eca-en.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/reports/esrb.report200219_systemiccyberrisk~101a09685e.en.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/reports/esrb.SystemiCyberRisk.220127~b6655fa027.en.pdf",
+        "https://www.imf.org/-/media/files/publications/sdn/2020/english/sdnea2020007.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/warnings/esrb.warning260625_on_systemic_cyber_risks_stemming_from_frontier_ai_models~ef424708cf.en.pdf",
+        "https://www.fsb.org/uploads/P310826.pdf",
+        "https://metr.org/hugging-face-incident-report-aug-2026.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2026-06/JC_2026_16_ESAs_2025_report_on_major_ICT-related_incidents.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-06/237ad40d-8ab0-4b2f-9fa1-5d6694829ff4/Risk%20Assessment%20Report%20-%20Spring%202026.pdf"
+      ],
+      "topics": [
+        "AI",
+        "DORA / Operational Resilience"
+      ],
+      "matchedKeywords": [
+        "artificial intelligence",
+        "ai systems",
+        "ai models",
+        "cybersecurity"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "artificial intelligence",
+            "ai systems",
+            "ai models"
+          ]
+        },
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "cybersecurity"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202611_02~8cca80a3c3.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "5c1c9f5fdc195e7e",
+      "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-16T08:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "73abde031a2dcc46",
+      "title": "EBA supports further progress on the Banking Union, including on deposit insurance",
+      "summary": "The EBA supports further progress on the Banking Union, including on deposit insurance, as a key step towards a more efficient and resilient European banking system. 13 NOVEMBER 2026 ​The EBA supports the NGFS Declaration on the macro-financial dimension of the energy transition on the occasion of COP31 ​As an active member of the Network for Greening the Financial System (NGFS), the European Banking Authority (EBA) welcomes the publication of the NGFS Declaration on the macro-financial dimension of the energy transition on the occasion of the 2026 United Nations Climate Change Conference (COP31) in Antalya, Türkiye.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-supports-further-progress-banking-union-including-deposit-insurance",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-supports-further-progress-banking-union-including-deposit-insurance",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG",
+        "Recovery / Resolution"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "deposit insurance"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate"
+          ]
+        },
+        {
+          "id": "resolution-recovery",
+          "label": "Recovery / Resolution",
+          "keywords": [
+            "deposit insurance"
+          ]
+        }
+      ],
+      "updateType": "Events",
+      "updateTypeDetail": "Event / conference"
+    },
+    {
+      "id": "ffb332fbe3b8af2f",
+      "title": "The impact of monetary policy on productivity",
+      "summary": "This occasional paper extends previous analyses by the WGF Expert Group on Productivity of the impact of monetary policy on productivity by exploring new interactions, particularly the influence of market power and the role of productivity in the transmission of monetary policy through the banking system. Using a consistent definition of monetary policy shocks throughout the report and several large-scale micro distribution exercises across euro area countries, our study examines the short-run procyclical effects of monetary policy shocks on productivity through investment decisions.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op402.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-15T23:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op402.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op402.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
     {
       "id": "376eb6600ab932d1",
       "title": "Agencies extend comment period for proposed third-party risk management guidance",
@@ -2367,31 +2988,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "8a1f1e0777cf56d3",
-      "title": "Letter from the ECB President to Mr Eero Heinäluoma and Mr Jonás Fernández, MEPs, on AI-related financing",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter261106_Heinaluoma_Fernandez~6e406be51f.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-11-06T15:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter261106_Heinaluoma_Fernandez~6e406be51f.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter261106_Heinaluoma_Fernandez~6e406be51f.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "c149d664cd6fe24b",
       "title": "Price efficiency in securities lending",
       "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
@@ -2828,7 +3424,14 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-11-05T12:00:00.000Z",
-      "pdfLinks": [],
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/november/monetary-policy-report-november-2026.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2821~f008e5cb9c.en.pdf?06bb134ae9fa3c4e75099724f2d46311",
+        "https://escoe-website.s3.amazonaws.com/wp-content/uploads/2026/06/11101113/Cliodhna-Taylor-ESCoE-Conference-Component-Hours-Worked-2026-May.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/november/opening-remarks-november-2026.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/november/mpr-november-2026-press-conference-slides.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/november/mpr-press-conference-transcript-november-2026.pdf"
+      ],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -3019,31 +3622,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
-      "id": "102fc63257954831",
-      "title": "Knowledge gaps, behaviour parity: gender differences in financial literacy in Europe",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pubbydate/2026/html/ecb.fln_gender_differences.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-11-04T11:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/other/ecb.fln_gender_differences.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pubbydate/2026/html/ecb.fln_gender_differences.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "f35ae20aeb553fdd",
@@ -3532,10 +4110,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-11-02T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-08/ca1f1829-aff0-4d8a-b1de-d0549a5cfe40/No%20Action%20Letter%20on%20the%20boundary%20in%20the%20context%20of%20the%203rd%20FRTB%20DA.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements",
         "Market Risk"
@@ -3618,13 +4193,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-10-30T16:10:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3246~e9aa80d0b9.en.pdf",
-        "https://eu-st01.ext.exlibrisgroup.com/41ILO_INST/storage/alma/26/0B/A5/87/C9/57/C0/80/AE/F7/5A/24/04/C3/E7/AF/Research%20brief_FINAL_15May2025_21.05.25_1.pdf?AccessRightAllowDownload=true&amp;Expires=1793362696&amp;Signature=ZsSobnAZqyyRt46Qu8Y2SwUVj0LXszPqo5CBc9Ja51cEq7LePL54yM8XireMo4owdJ-WZSdvzRxcmDUU4v~xNWXMISdf-2-1h262VqkCsDmCwn-Wi-FTl3lFjilBX3q6Ebs9odVwn1rTLBFL3y2PlJ5MGOcvXBkyfBy~qap6rD9Gdkw6FBOEf0VnV-9G7bg7qOwH0eD0DHOQNeHCATSwoTUCERxdOHp8JD6UkMvTNDBqNhQgwTMg-IZmC1OSANBPqSFx9VDZ~XyGWjnJIc80vsdJXQ48xp9-jLC2~Vp5AoOaNZzDhWRt8TR3b9nQmT-SiI5daIZp8XJK1dcMsJhaoQ__&amp;Key-Pair-Id=APKAJ72OZCZ36VGVASIA",
-        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261030_annex~ffd5520fb0.en.pdf",
-        "https://www.lse.ac.uk/tii/assets/documents/Bridging-the-AI-Generational-Gap.pdf",
-        "https://www.ilo.org/sites/default/files/2025-05/WP140_web.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -3820,9 +4389,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-10-29T20:30:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/orders20261029a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance"
       ],
@@ -3892,9 +4459,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-10-29T15:50:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/paym/pdf/consultations/Eurosystem_report_on_the_public_consultation_on_the_Appia_Roadmap.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Crypto / Digital Assets",
         "Payments / Open Finance"
@@ -3948,66 +4513,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "ff0661c35bf4f959",
-      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-29T14:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds261029~3abd26884e.en.pdf"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "policy statement"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "policy statement"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "ea4a2ace0cd7d94d",
-      "title": "Monetary policy decisions",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-29T13:15:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "7328fc83dc220de3",
       "title": "Consultation on supervisory expectations for central counterparties seeking to accept tokenised collateral",
       "summary": "Consultation paper",
@@ -4021,12 +4526,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-10-29T10:00:00.000Z",
-      "pdfLinks": [
-        "https://assets.publishing.service.gov.uk/media/6a510e8b2467584757371d58/Digital_Markets_Champion_Report.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/letter/2025/letter-from-chancellor-to-governor-fmic.pdf",
-        "https://www.fca.org.uk/publication/call-for-input/tokenised-gold-opportunities-risks-uk-wholesale-markets.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/financial-stability/financial-market-infrastructure-supervision/the-boes-approach-to-fmi-supervision.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -7692,50 +8192,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "acef1380787c9be5",
-      "title": "Sharon Donnery: Interview with banko.ro",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260930~04503f5461.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-30T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260930~04503f5461.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "931d3ca18e7f294c",
       "title": "News // Financial Policy Committee (FPC)",
       "summary": "",
@@ -7761,7 +8217,7 @@
     {
       "id": "2870d4ec639ce9a2",
       "title": "​The EBA publishes its 2027 Work Programme",
-      "summary": "​The European Banking Authority (EBA) published today its Work Programme outlining the key areas of focus and deliverables for 2027. The Programme also marks the first step towards a broader medium-term strategy to position the EBA as a next-generation regulator, a body developing supervision at new frontiers, and a provider of services to the supervisory and resolution community. 25 SEPTEMBER 2026 EU/EEA banks display strength amid a challenging risk environment The European Banking Authority (EBA) today published its Risk Dashboard for the second quarter of 2026. It summarises the main risks and vulnerabilities of the EU/EEA banking sector based on supervisory reporting data.",
+      "summary": "​The European Banking Authority (EBA) published today its Work Programme outlining the key areas of focus and deliverables for 2027. The Programme also marks the first step towards a broader medium-term strategy to position the EBA as a next-generation regulator, a body developing supervision at new frontiers, and a provider of services to the supervisory and resolution community. Pagination Current page 1 Page 2 Page 3 Page 4 Page 5 Page 6 Page 7 <li class=",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2027-work-programme",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2027-work-programme",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -7776,27 +8232,16 @@
       "publishedAt": "2026-09-30T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
-        "Reporting / Disclosure",
         "Supervision / Enforcement",
         "Recovery / Resolution"
       ],
       "matchedKeywords": [
-        "reporting",
-        "supervisory reporting",
         "supervision",
         "supervisory",
         "its",
         "resolution"
       ],
       "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting",
-            "supervisory reporting"
-          ]
-        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -8047,7 +8492,7 @@
     {
       "id": "e2346809aa57dd3b",
       "title": "EU/EEA banks display strength amid a challenging risk environment",
-      "summary": "The European Banking Authority (EBA) today published its Risk Dashboard for the second quarter of 2026. It summarises the main risks and vulnerabilities of the EU/EEA banking sector based on supervisory reporting data. Pagination Current page 1 Page 2 Page 3 Page 4 Page 5 Page 6 Page 7 <span class=\"visually-hid",
+      "summary": "The European Banking Authority (EBA) today published its Risk Dashboard for the second quarter of 2026. It summarises the main risks and vulnerabilities of the EU/EEA banking sector based on supervisory reporting data. 25 SEPTEMBER 2026 The EBA consults on revised technical standards for joint decisions on institution-specific capital and liquidity requirements The European Banking Authority (EBA) today started a public consultation on proposed revisions to the Implementing Technical Standards (ITS) governing the joint decision process for institution-specific prudential requirements foreseen by Article 113 of the Capital Requirements Directive.",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eueea-banks-display-strength-amid-challenging-risk-environment",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eueea-banks-display-strength-amid-challenging-risk-environment",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -8062,16 +8507,35 @@
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Capital Requirements",
+        "Liquidity",
         "Reporting / Disclosure",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "capital requirements",
+        "liquidity",
         "reporting",
         "supervisory reporting",
         "supervisory",
+        "implementing technical standards",
         "its"
       ],
       "topicMatches": [
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital requirements"
+          ]
+        },
+        {
+          "id": "liquidity",
+          "label": "Liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        },
         {
           "id": "reporting-disclosure",
           "label": "Reporting / Disclosure",
@@ -8085,12 +8549,13 @@
           "label": "Supervision / Enforcement",
           "keywords": [
             "supervisory",
+            "implementing technical standards",
             "its"
           ]
         }
       ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "786576526700f51a",
@@ -9101,29 +9566,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "381de1281fcb7e3e",
-      "title": "Bank of England/Savanta Inflation Attitudes Survey - August 2026",
-      "summary": "This quarterly survey, conducted by Savanta on our behalf, assesses public attitudes to inflation, opinions about the Bank and awareness of our work.",
-      "url": "https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/august-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-11T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/august-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "1e0f6c1bf3d88899",
       "title": "Preparing for the unknown: lessons from the ECB’s reverse stress test on geopolitical risk Geopolitical risks are difficult to predict and can affect banks in many ways. The ECB’s 2026 reverse stress test highlights how banks can better understand their vulnerabilities, prepare for adverse scenarios and strengthen their resilience.",
       "summary": "English 6 July 2026 Streamlining supervision, safeguarding resilience: tangible progress on our reform agenda ECB Banking Supervision is turning its reform agenda into concrete progress: making supervision more efficient, more effective and more risk-based, while continuing to preserve banks’ resilience. English 26 June 2026 Simpler guidance, more effective supervision European banking supervision has reviewed over 130 publications to make them more concise and user friendly. Around 40 will be discontinued, others have been revised in a targeted manner, and several are undergoing a more in-depth review, including the guide on governance and risk culture.",
@@ -9227,29 +9669,6 @@
       "updateTypeDetail": "Other update"
     },
     {
-      "id": "b53a40cdfc2862c9",
-      "title": "Bank of England Weekly Report 9 September 2026",
-      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2026/9-september-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-10T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/9-september-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "6b1241e9efa94918",
       "title": "The EBA responds to the European Commission’s non-adoption of draft amending technical standards on prior permission",
       "summary": "The EBA acknowledges the European Commission’s non-adoption of the targeted amendments of the Commission Delegated Regulation (EU) No 241/2014 aimed at shortening the application period for reducing own funds and eligible liabilities instruments. 27 AUGUST 2026 ​The EBA responds to the European Parliament’s observations made in the 2024 Discharge report ​The European Banking Authority (EBA) today published an Opinion in response to the observations made by European Parliament in its 2024 Discharge Report covering all agencies, including the EBA. The EBA welcomes the overall positive feedback from the European Parliament.",
@@ -9329,98 +9748,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "01c110938cf233ff",
-      "title": "Macroeconomic dynamics of the output floor",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/macroeconomic-dynamics-of-the-output-floor",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-04T13:01:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/macroeconomic-dynamics-of-the-output-floor",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "1449432e843d3b02",
-      "title": "Innovation, financial frictions, and persistent effects of monetary policy",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/innovation-financial-frictions-and-persistent-effects-of-monetary-policy",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-04T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/innovation-financial-frictions-and-persistent-effects-of-monetary-policy",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "da41cb26531280c6",
-      "title": "Monthly Decision Maker Panel data - August 2026",
-      "summary": "The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.",
-      "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/august-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-04T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/august-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "f5ddcc954a66b5fe",
-      "title": "Bank of England Weekly Report 2 September 2026",
-      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2026/2-september-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-03T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/2-september-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "93a9223339d76280",
       "title": "​Joint Board of Appeal dismisses appeal against the EBA",
       "summary": "​The Joint Board of Appeal of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) has issued a decision stating that an appeal brought by an individual against the European Banking Authority (EBA) is inadmissible. 9 JULY 2026 ​The EBA releases the final technical package for its 4.3 reporting framework to support Third-Country Branches reporting and AML Authority risk assessment data collection ​The European Banking Authority (EBA) today published the final technical package for version 4.3 of its reporting framework.",
@@ -9483,29 +9810,6 @@
       ],
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "d4225cde6e86a251",
-      "title": "Frontier AI: Harness engineering",
-      "summary": "This article outlines the practical considerations involved in designing harnesses that can apply frontier AI capability to cyber defence in a controlled and usable way.",
-      "url": "https://www.bankofengland.co.uk/research/fintech/frontier-ai-information-sharing-forum/frontier-ai-harness-engineering",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-02T11:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/research/fintech/frontier-ai-information-sharing-forum/frontier-ai-harness-engineering",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "f43060dc0513cef8",
@@ -9642,98 +9946,6 @@
       ],
       "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.mepletter260828_Zacharia~3469e469a9.en.pdf",
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "7c293107c668b4e2",
-      "title": "How do firms cope with economic shocks in real time?",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/how-do-firms-cope-with-economic-shocks-in-real-time",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-28T13:02:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/how-do-firms-cope-with-economic-shocks-in-real-time",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "50aaa082cea05d00",
-      "title": "Locking in the rate or staying flexible? Mortgage refinancing around an interest rate shock",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/locking-in-the-rate-or-staying-flexible-mortgage-refinancing-around-an-interest-rate-shock",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-28T13:01:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/locking-in-the-rate-or-staying-flexible-mortgage-refinancing-around-an-interest-rate-shock",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "52b707b01266cdf6",
-      "title": "A welfare analysis of the central bank balance sheet",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/a-welfare-analysis-of-the-central-bank-balance-sheet",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-28T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/a-welfare-analysis-of-the-central-bank-balance-sheet",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
-      "id": "cc2c89fe28b4de78",
-      "title": "Bank of England Weekly Report 26 August 2026",
-      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2026/26-august-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-08-27T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/26-august-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
     },
@@ -9945,7 +10157,7 @@
     {
       "id": "9d31e627bbbe642e",
       "title": "The EBA clarifies its Product Oversight and Governance Guidelines which address greenwashing risks in ESG products",
-      "summary": "The European Banking Authority (EBA) today published revised Guidelines on product oversight and governance (POG) for retail banking products. They clarify requirements for products with environmental, social and governance (ESG) features whenever offered and sold to consumers and address greenwashing risks. The Guidelines aim to ensure that financial institutions apply robust standards when designing and distributing ESG-related retail products, with a view to reducing the risk of consumers being misled or sold products that do not meet their needs.",
+      "summary": "The European Banking Authority (EBA) today published revised Guidelines on product oversight and governance (POG) for retail banking products. They clarify requirements for products with environmental, social and governance (ESG) features whenever offered and sold to consumers and address greenwashing risks. The Guidelines aim to ensure that financial institutions apply robust standards when designing and distributing ESG-related retail products, with a view to reducing the risk of consumers being misled or sold products that do not meet their needs. Pagination First page Previous page Page 1 Page </s",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -10205,73 +10417,9 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "d5c7c99d268fd00f",
-      "title": "EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a statement calling for a cross-sectoral, risk-based and consistent supervisory approach to mitigate the ICT risks stemming from frontier AI models. Pagination First page Previous page Page 1 Current page 2 Page 3 <li class=\"pager__item",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision-mitigate-ict-risks-frontier",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision-mitigate-ict-risks-frontier",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "AI",
-        "DORA / Operational Resilience",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "ai models",
-        "ict risks",
-        "governance",
-        "supervision",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "ai",
-          "label": "AI",
-          "keywords": [
-            "ai models"
-          ]
-        },
-        {
-          "id": "dora-operational-resilience",
-          "label": "DORA / Operational Resilience",
-          "keywords": [
-            "ict risks"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "governance"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "supervisory"
-          ]
-        }
-      ],
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "02ac4a670639ba2a",
       "title": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251. 31 JULY 2026 EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a statement calling for a cross-sectoral, risk-based and consistent supervisory approach to mitigate the ICT risks stemming from frontier AI models.",
+      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251. Pagination First page Previous page Page 1 Current page 2 Page 3 <a href=\"?page=3\" class=\"pager__link\" title=\"Go to p",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -10286,16 +10434,9 @@
       "publishedAt": "2026-08-03T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
-        "AI",
-        "DORA / Operational Resilience",
-        "Governance",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
-        "ai models",
-        "ict risks",
-        "governance",
-        "supervision",
         "supervisory",
         "final report",
         "regulatory technical standards",
@@ -10303,31 +10444,9 @@
       ],
       "topicMatches": [
         {
-          "id": "ai",
-          "label": "AI",
-          "keywords": [
-            "ai models"
-          ]
-        },
-        {
-          "id": "dora-operational-resilience",
-          "label": "DORA / Operational Resilience",
-          "keywords": [
-            "ict risks"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "governance"
-          ]
-        },
-        {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
           "keywords": [
-            "supervision",
             "supervisory",
             "final report",
             "regulatory technical standards",
@@ -10496,6 +10615,81 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "89e27edc4a9633ec",
+      "title": "EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector",
+      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a statement calling for a cross-sectoral, risk-based and consistent supervisory approach to mitigate the ICT risks stemming from frontier AI models. 31 JULY 2026 The EBA-ECB-EIOPA “Data Point Model Alliance” consults on improvements to their data dictionary metamodel to better support statistical and supervisory reporting The Data Point Model Alliance, a joint initiative of the EBA, ECB and EIOPA, is committed to making financial sector statistical and supervisory reporting across the EU simpler, smarter and more proportionate.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision-mitigate-ict-risks-frontier",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision-mitigate-ict-risks-frontier",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-07-31T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "AI",
+        "DORA / Operational Resilience",
+        "Governance",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "ai models",
+        "ict risks",
+        "governance",
+        "reporting",
+        "supervisory reporting",
+        "supervision",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "ai models"
+          ]
+        },
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "ict risks"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting",
+            "supervisory reporting"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ],
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "c9f9c5f67d9ec3f3",
@@ -12024,7 +12218,7 @@
     {
       "id": "aa298ab3622dc965",
       "title": "EU deposit guarantee scheme funds to protect depositors against bank failures continue to grow and have reached a volume of €85bn, the EBA observes",
-      "summary": "The European Banking Authority (EBA) today published end-2025 data on two key concepts and indicators in the DGSD, namely financial means available to, and covered deposits protected by DGSs. This annual publication, covering each Member State, enhances transparency and accountability across the EU to the benefit of depositors, markets, policymakers, DGSs and Members States. Pagination First page Previous page Page 1 Page 2 <span class=\"vi",
+      "summary": "The European Banking Authority (EBA) today published end-2025 data on two key concepts and indicators in the DGSD, namely financial means available to, and covered deposits protected by DGSs. This annual publication, covering each Member State, enhances transparency and accountability across the EU to the benefit of depositors, markets, policymakers, DGSs and Members States.",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eu-deposit-guarantee-scheme-funds-protect-depositors-against-bank-failures-continue-grow-and-have",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eu-deposit-guarantee-scheme-funds-protect-depositors-against-bank-failures-continue-grow-and-have",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -13505,7 +13699,7 @@
     {
       "id": "5901250f7213d65a",
       "title": "ESAs publish the first report on DORA major ICT-related incidents",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA) today published their first annual overview of major ICT-related incidents in the EU financial sector based on a reporting mechanism established by the Digital Operational Resilience Act (DORA). It shows that ICT risks are increasingly borderless and interconnected. The authorities also note that the recent evolution of highly capable AI-driven tools should encourage financial entities to strengthen cybersecurity measures to maintain their resilience going forward.",
+      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA) today published their first annual overview of major ICT-related incidents in the EU financial sector based on a reporting mechanism established by the Digital Operational Resilience Act (DORA). It shows that ICT risks are increasingly borderless and interconnected. The authorities also note that the recent evolution of highly capable AI-driven tools should encourage financial entities to strengthen cybersecurity measures to maintain their resilience going forward. Pagination First page Previous page Page 1 Page 2 <a hr",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-publish-first-report-dora-major-ict-related-incidents",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-publish-first-report-dora-major-ict-related-incidents",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -13587,54 +13781,6 @@
       "sourceFeedUrl": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "d93b6e8f5e64cfce",
-      "title": "​The EBA and the New York State Department of Financial Services sign a Memorandum of Understanding to foster cooperation in the supervision of international stablecoin activities",
-      "summary": "​The European Banking Authority (EBA) has signed a Memorandum of Understanding (MoU) with the New York State Department of Financial Services (NYDFS) under the Markets in Crypto-Assets Regulation (MiCA). The agreement aims to strengthen cooperation in the supervision of entities engaged in cross-border stablecoin activities. Pagination First page Previous page Page 1 Page 2 <s",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-and-new-york-state-department-financial-services-sign-memorandum-understanding-foster",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-and-new-york-state-department-financial-services-sign-memorandum-understanding-foster",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-06-02T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Crypto / Digital Assets",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "crypto",
-        "stablecoin",
-        "mica",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "crypto",
-            "stablecoin",
-            "mica"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "ab4fcb5fa6e362eb",
@@ -21609,7 +21755,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-11-15T22:31:59.095Z",
+      "publishedAt": "2026-11-16T14:57:40.084Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21633,7 +21779,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-15T22:31:59.095Z",
+      "publishedAt": "2026-11-16T14:57:40.084Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21657,7 +21803,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-15T22:31:59.095Z",
+      "publishedAt": "2026-11-16T14:57:40.084Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21681,7 +21827,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-15T22:31:59.095Z",
+      "publishedAt": "2026-11-16T14:57:40.084Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21705,7 +21851,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-15T22:31:59.095Z",
+      "publishedAt": "2026-11-16T14:57:40.084Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21729,7 +21875,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-15T22:31:59.095Z",
+      "publishedAt": "2026-11-16T14:57:40.084Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21753,7 +21899,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-15T22:31:59.095Z",
+      "publishedAt": "2026-11-16T14:57:40.084Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21777,7 +21923,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-15T22:31:59.095Z",
+      "publishedAt": "2026-11-16T14:57:40.084Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21801,7 +21947,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-15T22:31:59.095Z",
+      "publishedAt": "2026-11-16T14:57:40.084Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21825,7 +21971,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-15T22:31:59.095Z",
+      "publishedAt": "2026-11-16T14:57:40.084Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21849,7 +21995,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-15T22:31:59.095Z",
+      "publishedAt": "2026-11-16T14:57:40.084Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21873,7 +22019,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-15T22:31:59.095Z",
+      "publishedAt": "2026-11-16T14:57:40.084Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21897,7 +22043,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-15T22:31:59.095Z",
+      "publishedAt": "2026-11-16T14:57:40.084Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21921,7 +22067,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-15T22:31:59.095Z",
+      "publishedAt": "2026-11-16T14:57:40.084Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21938,23 +22084,23 @@
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 98
+      "count": 105
     },
     {
       "updateType": "Publications / Reports",
-      "count": 88
+      "count": 82
     },
     {
       "updateType": "News",
-      "count": 66
+      "count": 67
     },
     {
       "updateType": "Consultations",
-      "count": 42
+      "count": 44
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 41
+      "count": 36
     },
     {
       "updateType": "Statistics / Data",
@@ -21970,7 +22116,7 @@
     },
     {
       "updateType": "Events",
-      "count": 3
+      "count": 4
     }
   ]
 }
