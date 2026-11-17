@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T01:40:55.313Z",
-  "totalPublications": 494,
+  "generatedAt": "2026-11-17T15:35:58.873Z",
+  "totalPublications": 493,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 12,
+      "itemCount": 11,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 251
+      "count": 249
     },
     {
       "topic": "Basel / BCBS",
@@ -464,15 +464,15 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 55
-    },
-    {
-      "topic": "Climate / ESG",
-      "count": 40
+      "count": 53
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 38
+      "count": 39
+    },
+    {
+      "topic": "Climate / ESG",
+      "count": 39
     },
     {
       "topic": "Capital Requirements",
@@ -508,7 +508,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Market Risk",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 251
+      "count": 249
     },
     {
       "topic": "Basel / BCBS",
@@ -538,15 +538,15 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 55
-    },
-    {
-      "topic": "Climate / ESG",
-      "count": 40
+      "count": 53
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 38
+      "count": 39
+    },
+    {
+      "topic": "Climate / ESG",
+      "count": 39
     },
     {
       "topic": "Capital Requirements",
@@ -582,7 +582,7 @@
     },
     {
       "topic": "Liquidity",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Market Risk",
@@ -612,15 +612,15 @@
     },
     {
       "keyword": "its",
-      "count": 98
+      "count": 96
     },
     {
       "keyword": "board",
-      "count": 92
+      "count": 91
     },
     {
       "keyword": "reporting",
-      "count": 34
+      "count": 33
     },
     {
       "keyword": "governance",
@@ -628,11 +628,11 @@
     },
     {
       "keyword": "climate",
-      "count": 30
+      "count": 29
     },
     {
       "keyword": "money laundering",
-      "count": 27
+      "count": 28
     },
     {
       "keyword": "anti money laundering",
@@ -663,10 +663,6 @@
       "count": 14
     },
     {
-      "keyword": "disclosure",
-      "count": 13
-    },
-    {
       "keyword": "enforcement",
       "count": 13
     },
@@ -679,15 +675,19 @@
       "count": 13
     },
     {
+      "keyword": "disclosure",
+      "count": 12
+    },
+    {
       "keyword": "transparency",
       "count": 12
     },
     {
-      "keyword": "crypto",
-      "count": 10
+      "keyword": "liquidity",
+      "count": 11
     },
     {
-      "keyword": "liquidity",
+      "keyword": "crypto",
       "count": 10
     },
     {
@@ -731,14 +731,6 @@
       "count": 7
     },
     {
-      "keyword": "nature related",
-      "count": 6
-    },
-    {
-      "keyword": "nature-related",
-      "count": 6
-    },
-    {
       "keyword": "pillar 3",
       "count": 6
     },
@@ -760,6 +752,14 @@
     },
     {
       "keyword": "internal models",
+      "count": 5
+    },
+    {
+      "keyword": "nature related",
+      "count": 5
+    },
+    {
+      "keyword": "nature-related",
       "count": 5
     },
     {
@@ -922,7 +922,7 @@
   "regionSummary": [
     {
       "region": "EU",
-      "count": 279
+      "count": 278
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 88
+      "count": 87
     },
     {
       "institution": "European Banking Authority",
@@ -1000,6 +1000,54 @@
     }
   ],
   "publications": [
+    {
+      "id": "5bd5d044f0a226a8",
+      "title": "Monetary policy, segmented capital markets and innovation",
+      "summary": "We identify a novel mechanism linking monetary policy, innovation, and capital-market segmentation. When capital markets are imperfectly integrated, contractionary monetary policy tightens the financing constraints of externally financed firms, amplifying the decline in innovation induced by tighter financial conditions; monetary easing operates in reverse. Using granular euro-area firm-level data on balance sheets and patenting, matched with bank-level and credit-registry information, we show that monetary policy affects innovation through financing constraints. The effects are strongest for firms with high intangible intensity and for firms operating in AI-related sectors.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3311~66cc2a4d65.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-17T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3311~66cc2a4d65.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3311~66cc2a4d65.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "8f2b751b51737892",
+      "title": "Eleventh edition of the Regulatory Initiatives Grid",
+      "summary": "Eleventh edition of the Grid published by the Financial Services Regulatory Initiatives Forum",
+      "url": "https://www.bankofengland.co.uk/report/regulatory-initiatives-grid",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-17T07:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/report/regulatory-initiatives-grid",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "ba1b7f9aedab48c3",
       "title": "Frank Elderson: Smart supervision for small banks",
@@ -2872,60 +2920,6 @@
       "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "b9cb5c683aff98e5",
-      "title": "From recognition to integration: the ECB’s progress on climate and nature-related risks and the role of its climate change centre",
-      "summary": "The ECB climate change centre (CCC) was established in 2021 to design and steer the ECB’s response to climate-related risks. During its first five years, the centre has evolved from a dedicated coordination hub into a facilitator of the integration of climate and nature-related risks into the ECB’s overall analytical and risk framework. It has thereby supported the institution’s progression from “recognition to integration” in addressing climate and nature-related risks. This article reviews the developments and achievements of the CCC and discusses how it continues to support the climate-related work of the ECB in response to a changing economic, policy and environmental landscape.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202607_02~410d791050.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-11-09T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op380.en.pdf",
-        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.thematicreviewcerreport112022~2eb322a79c.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op367~16f0cba571.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3237~617a2b8de5.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op271~36775d43c8.en.pdf"
-      ],
-      "topics": [
-        "Climate / ESG",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "climate",
-        "nature-related",
-        "nature related",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate",
-            "nature-related",
-            "nature related"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202607_02~410d791050.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "ea03f62073004f0c",
@@ -7078,31 +7072,6 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "bddbbcaf08b08817",
-      "title": "Does shareholder diversification enhance firm investment resilience? Evidence from the euro area",
-      "summary": "This paper develops novel firm-level measures of shareholder geographical concentration and examines how elevated home bias in equity holdings affects investment resilience in the euro area. We combine security-level holdings data from the ECB’s Securities Holdings Statistics (SHS-S) with firm-level financial-statement data from Compustat, and document that equity ownership remains strongly concentrated domestically, with limited cross-border diversification within the monetary union.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3296~db309862b0.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-07T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3296~db309862b0.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3296~db309862b0.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
       "id": "13e812419dda5714",
       "title": "Patrick Montagner: Interview with Les Echos",
       "summary": "",
@@ -9530,41 +9499,6 @@
       "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "e0c839c5125ad224",
-      "title": "Agents' summary of business conditions - September 2026",
-      "summary": "We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.",
-      "url": "https://www.bankofengland.co.uk/agents-summary/2026/september-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-11T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Reporting / Disclosure"
-      ],
-      "matchedKeywords": [
-        "reporting"
-      ],
-      "topicMatches": [
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/agents-summary/2026/september-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "1e0f6c1bf3d88899",
@@ -20764,43 +20698,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "787b372f95f25136",
-      "title": "Beyond borders: Regulating the risks we share",
-      "summary": "Speech by Ashley Alder, FCA Chair, at the Michael D. Gill Lecture on International Financial Regulatory Understanding and Cooperation. I wasn’t fortunate enough to work as closely with Mike as many of you in this room. But I knew him well enough during my time with the IOSCO board to appreciate someone who was kind and unassuming, whilst being absolutely determined to make lives better through his work. He personified the very best attributes of dedicated public service. In his 2024 lecture Andrew Bailey described Mike as a passionate internationalist, and reflected on what this meant for the UK after the Brexit referendum.",
-      "url": "https://www.fca.org.uk/news/speeches/beyond-borders-regulating-risks-we-share",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "board",
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board",
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/speeches/beyond-borders-regulating-risks-we-share",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "cf0aa2e513972b95",
       "title": "Brits nearly twice as likely to spot pressure tactics in horror films as investment red flags",
       "summary": "Investors are almost twice as likely to recognise pressure tactics in a horror film as they are when those tactics are used to promote an investment opportunity, new FCA data suggests. A survey of UK 18 to 40-year-olds who own or are considering investments found 65% spotted ‘this is your only chance’ as a classic horror warning sign. But when faced with a ‘last chance to buy’ investment opportunity, only 36% said it would make them more cautious, while 37% said they would feel pressure to buy quickly or risk missing out. The pattern also holds for other pressure tactics.",
@@ -20869,50 +20766,6 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "9cd741324720d327",
-      "title": "Chandler King (City) Limited enters creditors’ voluntary liquidation",
-      "summary": "On 17 September 2026, Chandler King (City) Limited (Chandler King) went into creditors’ voluntary liquidation. Grace Jones and Karyn Jones of Parker Andrews were appointed as joint liquidators. Chandler King, an FCA-authorised firm, was an independent financial adviser which advised on investments and pensions. On 28 April 2026, Chandler King agreed to a voluntary requirement with the FCA, which restricted its activities. Before entering liquidation, Chandler King applied to cancel its FCA permissions, which is subject to review by the FCA.",
-      "url": "https://www.fca.org.uk/news/news-stories/chandler-king-enters-creditors-voluntary-liquidation",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "conduct",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/news-stories/chandler-king-enters-creditors-voluntary-liquidation",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "16cacbe77d221dbc",
@@ -21083,10 +20936,10 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "c2bb1a5671c5b840",
-      "title": "FCA calls on private market firms to manage conflicts of interest in line with rapid growth",
-      "summary": "Private market firms vary in how well they identify and manage conflicts of interest, according to an FCA review. Private markets refer to investments in assets, companies, or debt not listed or traded on public exchanges. They’ve grown significantly in recent years, and the UK is a leading international centre. Private markets play an increasingly important role in providing capital to businesses and opportunities for returns to investors. Private markets can give rise to conflicts that differ from those in public markets, and effective disclosure is important to enable investors to assess whether their interests are being protected.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-calls-private-market-firms-manage-conflicts-interest-line-rapid-growth",
+      "id": "69e7ecee9a20bef5",
+      "title": "FCA charges individual with money laundering",
+      "summary": "The FCA has charged Raymond Fieldhouse with a money laundering offence. Mr Fieldhouse is accused of laundering over £1.42m made from investment scams between 1 June 2017 and 1 August 2018. Mr Fieldhouse appeared at Stockport Magistrates’ Court on 17 November 2026 where he did not enter a plea. He was remanded in custody until his plea and trial preparation hearing on 22 December 2026 at Southwark Crown Court. Notes to editorsRaymond Fieldhouse was born on 29 April 1982. His nationality is British/Venezuelan. Mr Fieldhouse is accused of money laundering, contrary to section 327 of the Proceeds of Crime Act 2002. Fighting financial is a priority in the FCA’s 5-year strategy.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-charges-individual-money-laundering",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -21098,33 +20951,33 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
-        "Governance",
-        "Reporting / Disclosure"
+        "AML / Financial Crime",
+        "Governance"
       ],
       "matchedKeywords": [
-        "conduct",
-        "disclosure"
+        "money laundering",
+        "conduct"
       ],
       "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "money laundering"
+          ]
+        },
         {
           "id": "governance",
           "label": "Governance",
           "keywords": [
             "conduct"
           ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "disclosure"
-          ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-calls-private-market-firms-manage-conflicts-interest-line-rapid-growth",
+      "link": "https://www.fca.org.uk/news/press-releases/fca-charges-individual-money-laundering",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "4c9bc14087dd4d8d",
@@ -21395,6 +21248,50 @@
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "b2c6d756802ba5dc",
+      "title": "Getting the full picture of trading in UK shares",
+      "summary": "Why a complete picture mattersIn today’s market, firms can choose where and how they trade. Previous analysis has found that this competitive landscape benefits firms in wholesale markets. However, trading in UK shares has become more dispersed across venues and different ways of executing trades. Better information about market-wide activity helps firms assess liquidity, make investment decisions and understand trading costs. However, obtaining a complete picture of that activity has become more difficult. As we set out in CP26/30, overall trading activity in UK equity markets has been robust over recent years (see figure 1).",
+      "url": "https://www.fca.org.uk/news/blogs/getting-full-picture-trading-uk-shares",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Liquidity",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "liquidity",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "liquidity",
+          "label": "Liquidity",
+          "keywords": [
+            "liquidity"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/blogs/getting-full-picture-trading-uk-shares",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "405e5a4208304d1e",
@@ -21742,6 +21639,41 @@
       "updateTypeDetail": "Publication / report"
     },
     {
+      "id": "2f3e9390dbc9ab1e",
+      "title": "What we’re learning from firms engaging with our innovation services",
+      "summary": "Three themes stand out: the growing use of AI, innovation crossing traditional sector boundaries, and financial inclusion. As firms develop new products, services and business models, many engage with us through our Regulatory Sandbox and Innovation Pathways to understand how regulation applies to their proposition or to test innovative ideas in a controlled environment. Looking across applications lets us observe emerging trends. It helps us understand how technologies are evolving, and identify emerging regulatory questions. In turn, this supports our wider work and helps us keep pace with developments across financial services.",
+      "url": "https://www.fca.org.uk/news/blogs/what-were-learning-firms-engaging-our-innovation-services",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/blogs/what-were-learning-firms-engaging-our-innovation-services",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "34235643e4835526",
       "title": "Basel Committee / BIS Updates: official source page",
       "summary": "Open the official Basel Committee / BIS Updates source page for the latest publications, announcements and regulatory updates.",
@@ -21756,7 +21688,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-11-17T01:40:55.313Z",
+      "publishedAt": "2026-11-17T15:35:58.873Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21780,7 +21712,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-17T01:40:55.313Z",
+      "publishedAt": "2026-11-17T15:35:58.873Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21804,7 +21736,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-17T01:40:55.313Z",
+      "publishedAt": "2026-11-17T15:35:58.873Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21828,7 +21760,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-17T01:40:55.313Z",
+      "publishedAt": "2026-11-17T15:35:58.873Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21852,7 +21784,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-17T01:40:55.313Z",
+      "publishedAt": "2026-11-17T15:35:58.873Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21876,7 +21808,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-17T01:40:55.313Z",
+      "publishedAt": "2026-11-17T15:35:58.873Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21900,7 +21832,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-17T01:40:55.313Z",
+      "publishedAt": "2026-11-17T15:35:58.873Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21924,7 +21856,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-17T01:40:55.313Z",
+      "publishedAt": "2026-11-17T15:35:58.873Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21948,7 +21880,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-17T01:40:55.313Z",
+      "publishedAt": "2026-11-17T15:35:58.873Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21972,7 +21904,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-17T01:40:55.313Z",
+      "publishedAt": "2026-11-17T15:35:58.873Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21996,7 +21928,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-17T01:40:55.313Z",
+      "publishedAt": "2026-11-17T15:35:58.873Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22020,7 +21952,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-17T01:40:55.313Z",
+      "publishedAt": "2026-11-17T15:35:58.873Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22044,7 +21976,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-17T01:40:55.313Z",
+      "publishedAt": "2026-11-17T15:35:58.873Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22068,7 +22000,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-17T01:40:55.313Z",
+      "publishedAt": "2026-11-17T15:35:58.873Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22081,11 +22013,11 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 118
+      "count": 117
     },
     {
       "updateType": "Rules / Standards / Guidance",
-      "count": 105
+      "count": 103
     },
     {
       "updateType": "Publications / Reports",
@@ -22093,15 +22025,15 @@
     },
     {
       "updateType": "News",
-      "count": 67
+      "count": 69
     },
     {
       "updateType": "Consultations",
-      "count": 44
+      "count": 45
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 36
+      "count": 35
     },
     {
       "updateType": "Statistics / Data",
