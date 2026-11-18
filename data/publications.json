@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T15:14:18.618Z",
+  "generatedAt": "2026-11-18T23:57:58.074Z",
   "totalPublications": 494,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -1000,6 +1000,43 @@
     }
   ],
   "publications": [
+    {
+      "id": "2b7f8175bcc2426b",
+      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "summary": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-18T19:00:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20261028.pdf"
+      ],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "583ca613f75c6951",
       "title": "​The EBA reports growing market share of third-country bank subsidiaries in the EU and reduced foreign currency mismatches",
@@ -2007,10 +2044,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-11-13T21:15:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20261113a1.pdf",
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20261113a2.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "DORA / Operational Resilience",
         "Governance"
@@ -4115,9 +4149,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-11-03T10:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3215~2034b1e0ae.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -8475,41 +8507,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "996055ded84686a2",
-      "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-      "summary": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-press",
-      "sourceName": "Federal Reserve Press Releases",
-      "institution": "Federal Reserve Board",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-25T20:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "board"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "board"
-          ]
-        }
-      ],
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "716f81b501feb4a9",
@@ -21718,7 +21715,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-11-18T15:14:18.618Z",
+      "publishedAt": "2026-11-18T23:57:58.074Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21742,7 +21739,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T15:14:18.618Z",
+      "publishedAt": "2026-11-18T23:57:58.074Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21766,7 +21763,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T15:14:18.618Z",
+      "publishedAt": "2026-11-18T23:57:58.074Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21790,7 +21787,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T15:14:18.618Z",
+      "publishedAt": "2026-11-18T23:57:58.074Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21814,7 +21811,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T15:14:18.618Z",
+      "publishedAt": "2026-11-18T23:57:58.074Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21838,7 +21835,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T15:14:18.618Z",
+      "publishedAt": "2026-11-18T23:57:58.074Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21862,7 +21859,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T15:14:18.618Z",
+      "publishedAt": "2026-11-18T23:57:58.074Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21886,7 +21883,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T15:14:18.618Z",
+      "publishedAt": "2026-11-18T23:57:58.074Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21910,7 +21907,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T15:14:18.618Z",
+      "publishedAt": "2026-11-18T23:57:58.074Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21934,7 +21931,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T15:14:18.618Z",
+      "publishedAt": "2026-11-18T23:57:58.074Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21958,7 +21955,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T15:14:18.618Z",
+      "publishedAt": "2026-11-18T23:57:58.074Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21982,7 +21979,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T15:14:18.618Z",
+      "publishedAt": "2026-11-18T23:57:58.074Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22006,7 +22003,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T15:14:18.618Z",
+      "publishedAt": "2026-11-18T23:57:58.074Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
