@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T00:38:40.458Z",
-  "totalPublications": 478,
+  "generatedAt": "2026-11-18T15:14:18.618Z",
+  "totalPublications": 494,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -116,12 +116,12 @@
       "institution": "European Banking Authority",
       "region": "EU",
       "status": "success",
-      "parserMode": "html-list-empty",
-      "itemCount": 0,
+      "parserMode": "html-list-parser",
+      "itemCount": 1,
       "url": "https://www.eba.europa.eu/publications-and-media/publications",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
       "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
-      "message": "Official source page is available. No clean dated items were extracted today, so the source page is shown as a direct link."
+      "message": "Parsed successfully from official HTML list page."
     },
     {
       "id": "esma-news",
@@ -220,12 +220,12 @@
       "institution": "Federal Reserve Board",
       "region": "US",
       "status": "success",
-      "parserMode": "rss",
-      "itemCount": 0,
+      "parserMode": "rss-parser",
+      "itemCount": 20,
       "url": "https://www.federalreserve.gov/feeds/press_all.xml",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "message": "Official source page is available. No clean dated items were extracted today, so the source page is shown as a direct link."
+      "message": "Parsed successfully."
     },
     {
       "id": "federal-reserve-banking-reg",
@@ -234,7 +234,7 @@
       "region": "US",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 15,
+      "itemCount": 11,
       "url": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 11,
+      "itemCount": 12,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -452,7 +452,7 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 247
     },
     {
       "topic": "Basel / BCBS",
@@ -460,19 +460,19 @@
     },
     {
       "topic": "Governance",
-      "count": 112
+      "count": 128
     },
     {
       "topic": "Reporting / Disclosure",
       "count": 53
     },
     {
-      "topic": "Climate / ESG",
+      "topic": "AML / Financial Crime",
       "count": 39
     },
     {
-      "topic": "AML / Financial Crime",
-      "count": 38
+      "topic": "Climate / ESG",
+      "count": 39
     },
     {
       "topic": "Capital Requirements",
@@ -488,7 +488,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 23
+      "count": 24
     },
     {
       "topic": "Stress Testing",
@@ -504,7 +504,7 @@
     },
     {
       "topic": "AI",
-      "count": 12
+      "count": 14
     },
     {
       "topic": "Liquidity",
@@ -526,7 +526,7 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 244
+      "count": 247
     },
     {
       "topic": "Basel / BCBS",
@@ -534,19 +534,19 @@
     },
     {
       "topic": "Governance",
-      "count": 112
+      "count": 128
     },
     {
       "topic": "Reporting / Disclosure",
       "count": 53
     },
     {
-      "topic": "Climate / ESG",
+      "topic": "AML / Financial Crime",
       "count": 39
     },
     {
-      "topic": "AML / Financial Crime",
-      "count": 38
+      "topic": "Climate / ESG",
+      "count": 39
     },
     {
       "topic": "Capital Requirements",
@@ -562,7 +562,7 @@
     },
     {
       "topic": "Payments / Open Finance",
-      "count": 23
+      "count": 24
     },
     {
       "topic": "Stress Testing",
@@ -578,7 +578,7 @@
     },
     {
       "topic": "AI",
-      "count": 12
+      "count": 14
     },
     {
       "topic": "Liquidity",
@@ -600,7 +600,7 @@
   "keywordCloud": [
     {
       "keyword": "supervision",
-      "count": 132
+      "count": 133
     },
     {
       "keyword": "banking supervision",
@@ -612,11 +612,11 @@
     },
     {
       "keyword": "its",
-      "count": 96
+      "count": 95
     },
     {
       "keyword": "board",
-      "count": 75
+      "count": 91
     },
     {
       "keyword": "reporting",
@@ -632,7 +632,7 @@
     },
     {
       "keyword": "money laundering",
-      "count": 27
+      "count": 28
     },
     {
       "keyword": "anti money laundering",
@@ -656,7 +656,7 @@
     },
     {
       "keyword": "consultation paper",
-      "count": 14
+      "count": 15
     },
     {
       "keyword": "stress test",
@@ -667,11 +667,15 @@
       "count": 13
     },
     {
-      "keyword": "policy statement",
-      "count": 13
+      "keyword": "disclosure",
+      "count": 12
     },
     {
-      "keyword": "disclosure",
+      "keyword": "enforcement",
+      "count": 12
+    },
+    {
+      "keyword": "policy statement",
       "count": 12
     },
     {
@@ -683,11 +687,11 @@
       "count": 11
     },
     {
-      "keyword": "crypto",
-      "count": 10
+      "keyword": "supervisory reporting",
+      "count": 11
     },
     {
-      "keyword": "supervisory reporting",
+      "keyword": "crypto",
       "count": 10
     },
     {
@@ -699,19 +703,15 @@
       "count": 9
     },
     {
-      "keyword": "enforcement",
+      "keyword": "fraud",
       "count": 8
     },
     {
       "keyword": "esg",
-      "count": 8
+      "count": 7
     },
     {
       "keyword": "guidelines",
-      "count": 8
-    },
-    {
-      "keyword": "fraud",
       "count": 7
     },
     {
@@ -719,7 +719,7 @@
       "count": 7
     },
     {
-      "keyword": "operational resilience",
+      "keyword": "payment",
       "count": 7
     },
     {
@@ -727,7 +727,7 @@
       "count": 7
     },
     {
-      "keyword": "payment",
+      "keyword": "operational resilience",
       "count": 6
     },
     {
@@ -745,6 +745,14 @@
     {
       "keyword": "rts",
       "count": 6
+    },
+    {
+      "keyword": "ai models",
+      "count": 5
+    },
+    {
+      "keyword": "artificial intelligence",
+      "count": 5
     },
     {
       "keyword": "crr",
@@ -771,14 +779,6 @@
       "count": 5
     },
     {
-      "keyword": "ai models",
-      "count": 4
-    },
-    {
-      "keyword": "artificial intelligence",
-      "count": 4
-    },
-    {
       "keyword": "counterparty credit risk",
       "count": 4
     },
@@ -787,15 +787,7 @@
       "count": 4
     },
     {
-      "keyword": "cybersecurity",
-      "count": 4
-    },
-    {
       "keyword": "deposit guarantee",
-      "count": 4
-    },
-    {
-      "keyword": "dora",
       "count": 4
     },
     {
@@ -808,10 +800,6 @@
     },
     {
       "keyword": "reverse stress",
-      "count": 4
-    },
-    {
-      "keyword": "sanctions",
       "count": 4
     },
     {
@@ -851,7 +839,15 @@
       "count": 3
     },
     {
+      "keyword": "cybersecurity",
+      "count": 3
+    },
+    {
       "keyword": "disclosure requirements",
+      "count": 3
+    },
+    {
+      "keyword": "dora",
       "count": 3
     },
     {
@@ -864,6 +860,10 @@
     },
     {
       "keyword": "market risk",
+      "count": 3
+    },
+    {
+      "keyword": "sanctions",
       "count": 3
     },
     {
@@ -895,14 +895,6 @@
       "count": 2
     },
     {
-      "keyword": "digital operational resilience",
-      "count": 2
-    },
-    {
-      "keyword": "digital operational resilience act",
-      "count": 2
-    },
-    {
       "keyword": "financial crime",
       "count": 2
     },
@@ -911,18 +903,26 @@
       "count": 2
     },
     {
-      "keyword": "greenwashing",
+      "keyword": "ict risks",
       "count": 2
     },
     {
-      "keyword": "ict risks",
+      "keyword": "large language model",
+      "count": 2
+    },
+    {
+      "keyword": "payment systems",
+      "count": 2
+    },
+    {
+      "keyword": "pillar 1",
       "count": 2
     }
   ],
   "regionSummary": [
     {
       "region": "EU",
-      "count": 278
+      "count": 279
     },
     {
       "region": "UK",
@@ -930,7 +930,7 @@
     },
     {
       "region": "US",
-      "count": 64
+      "count": 79
     },
     {
       "region": "Global",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 87
+      "count": 88
     },
     {
       "institution": "European Banking Authority",
@@ -963,6 +963,10 @@
       "count": 50
     },
     {
+      "institution": "Federal Reserve Board",
+      "count": 31
+    },
+    {
       "institution": "Financial Conduct Authority",
       "count": 28
     },
@@ -973,10 +977,6 @@
     {
       "institution": "Consumer Financial Protection Bureau",
       "count": 23
-    },
-    {
-      "institution": "Federal Reserve Board",
-      "count": 16
     },
     {
       "institution": "European Securities and Markets Authority",
@@ -1000,6 +1000,304 @@
     }
   ],
   "publications": [
+    {
+      "id": "583ca613f75c6951",
+      "title": "​The EBA reports growing market share of third-country bank subsidiaries in the EU and reduced foreign currency mismatches",
+      "summary": "​The European Banking Authority (EBA) today published two Reports on the market share of subsidiaries of non-EU banks in the EU, as well as on EU banks’ assets and liabilities in foreign currencies. As of December 2025, subsidiaries of third country banking groups accounted for 10.22% of total EU banking assets, up from 9.8% a year earlier. The Reports also show that EU banks increased foreign currency funding to 25.3% of total funding, up from 24.8% as of December 2024, helping to reduce currency mismatches and largely eliminate the mismatch in US dollar positions.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-reports-growing-market-share-third-country-bank-subsidiaries-eu-and-reduced-foreign-currency",
+      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
+      "officialSourcePage": "https://www.eba.europa.eu/news-press",
+      "sourceId": "eba-news",
+      "sourceName": "EBA News & Press",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-18T11:32:00.000Z",
+      "pdfLinks": [
+        "https://www.eba.europa.eu/sites/default/files/2026-11/71b9ce4f-3841-42cc-af67-7eec3bc8256c/EBA%20Report%20on%20analysis%20on%20market%20share%20of%20subsidiaries%20of%20third%20country%20banking%20groups.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-11/b6bc9ad9-8e54-4e28-be0c-9cc1367c38d1/EBA%20report%20on%20the%20analysis%20on%20EU%20banks%20funding.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-reports-growing-market-share-third-country-bank-subsidiaries-eu-and-reduced-foreign-currency",
+      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "c14c45ce6441384b",
+      "title": "CP16/26 – Clarifying the Prudential Regulation Authority’s approach to the implementation of the O-SII buffer",
+      "summary": "Consultation paper 16/26",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/clarifying-the-pra-approach-to-the-implementation-of-the-o-sii-buffer-consultation-paper",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-18T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2026/november/cp1626app1.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "consultation paper"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "consultation paper"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/clarifying-the-pra-approach-to-the-implementation-of-the-o-sii-buffer-consultation-paper",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
+    {
+      "id": "fca77a9e3ca76ec3",
+      "title": "Boris Vujčić: Financial Stability Review - November 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-18T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "6fe7444645822ddc",
+      "title": "Financial stability implications of AI adoption in the financial industry and the real economy",
+      "summary": "The rapid adoption of artificial intelligence (AI) is reshaping the financial industry as well as the broader economy, creating both opportunities and risks. Banks and asset managers, which represent key channels of financial intermediation in the euro area, are increasingly using AI for tasks such as credit scoring, fraud detection and portfolio management. While AI adoption can support innovation and enhance operational efficiency, it may also introduce new risks and amplify existing vulnerabilities, including a reliance on a small number of technology providers that creates concentration and third-party dependencies across the financial system.",
+      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202611_01~dd6e15a84a.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-18T09:00:00.000Z",
+      "pdfLinks": [
+        "https://ec.europa.eu/eurostat/documents/7870049/23260410/KS-01-26-009-EN-N.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2025-09/146b3558-d026-47bf-a872-f05e93ed30d2/Rising%20application%20of%20AI%20in%20EU%20banking%20and%20payments%20sector.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2026-02/ESMA50-481369926-30599_TRV_Risk_Analysis_AI_adoption_and_trends_in_securities_markets.pdf",
+        "https://www.europarl.europa.eu/RegData/etudes/STUD/2025/778576/ECTI_STU(2025)778576_EN.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpdps/ecb.dp32~90bd9a7638.en.pdf",
+        "https://www.fsb.org/uploads/P14112024.pdf",
+        "https://www.iosco.org/library/pubdocs/pdf/IOSCOPD788.pdf",
+        "https://ediss.sub.uni-hamburg.de/bitstream/ediss/11340/2/A%20Azzutti%20%282024%29%20AI%20and%20Market%20Manipulation.pdf",
+        "https://www.fsb.org/uploads/P151026-1.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisory_guide_egim_202606.en.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2025-11/d8b999ce-a1d9-4964-9606-971bbc2aaf89/AI%20Act%20implications%20for%20the%20EU%20banking%20sector.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/warnings/esrb.warning260625_on_systemic_cyber_risks_stemming_from_frontier_ai_models~ef424708cf.en.pdf"
+      ],
+      "topics": [
+        "AI",
+        "AML / Financial Crime"
+      ],
+      "matchedKeywords": [
+        "artificial intelligence",
+        "fraud"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "artificial intelligence"
+          ]
+        },
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "fraud"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202611_01~dd6e15a84a.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "26a070c8fcaf8934",
+      "title": "Financial Stability Review, November 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-18T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/pdf/ecb.fsr202611~e03b919d36.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2185.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1426.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/other/financialstabilityreview201106en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/other/financialstabilityreview201511.en.pdf",
+        "https://www.bundesbank.de/resource/blob/752458/9ca020554db6dc2cb0ebcab5134fe2ce/472B63F073F071307366337C94F8C870/2018-07-16-dkp-27-data.pdf",
+        "https://glennrudebusch.com/wp-content/uploads/2012_EJ_Christensen-Rudebusch_The-Response-of-Interest-Rates-to-US-and-UK-Quantitative-Easing.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/occasional/esrb.op23~07d5c3eef2.en.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/reports/esrb.report202505_syntheticSTSsecuritisation.en.pdf",
+        "https://www.bis.org/bcbs/publ/d607.pdf",
+        "https://www.bis.org/publ/qtrpdf/r_qt2603c.pdf",
+        "https://www.ecb.europa.eu/press/govcstatement/pdf/ecb.govcstatement202607~332019a7e2.sk.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/other/ecb.simplification_supervisory_reporting_framework202512.en.pdf",
+        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.sv.pdf",
+        "https://www.bankingsupervision.europa.eu/press/letterstobanks/shared/pdf/2026/ssm.2026_letter_on_AI_enabled_cybersecurity_threats.en.pdf",
+        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202609_micarreview.pt.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3025~c975fbec45.en.pdf",
+        "https://www.fsb.org/uploads/P040226.pdf",
+        "https://www.eiopa.europa.eu/document/download/a2bb1c3c-b86b-419f-b6ab-b46cf5b5b239_en?filename=Factsheet%20-%20EEA%20%28re%29insurers%E2%80%99%20private%20asset%20exposures%20-%202025%20Q4.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/recommendations/esrb.recommendation220125_on_reform_of_money_market_funds~30936c5629.en.pdf",
+        "https://www.ecb.europa.eu/press/intro/publications/pdf/ecb.ebaecb202605.de.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-09/bd7199ea-b953-4bd9-bcc8-4851feefa983/20260917_CfA_Private%20Credit_Annex.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "8e30984711c39d4e",
+      "title": "Financial stability risks from large IPOs, equity issuance and passive investing",
+      "summary": "A new wave of equity issuance, concentrated in AI-related sectors, has brought public equity financing back to the forefront of capital markets. SpaceX’s record initial public offering (IPO) has led the way, with OpenAI and Anthropic planning to follow. This special feature assesses the financial stability implications of large IPOs and equity issuance in general, as well as how these interact with the trend towards passive investing. Primary equity financing supports financial stability by absorbing losses and limiting leverage at the firm level, but aggregate equity issuance is highly cyclical and strongly influenced by investor sentiment.",
+      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202611_03~46e116aeb8.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-18T09:00:00.000Z",
+      "pdfLinks": [
+        "https://site.warrington.ufl.edu/ritter/files/IPOs-Age-of-Companies-Going-Public.pdf",
+        "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-research/ipo-surge-a-red-flag-for-markets/redacted-report.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202611_03~46e116aeb8.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "23fe452aebb1d3be",
+      "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-18T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "c8f2f897145df4ff",
+      "title": "DRSP supervisory responsibilities remain unchanged following ESMA assessment",
+      "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/drsp-supervisory-responsibilities-remain-unchanged-following-esma-assessment",
+      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
+      "sourceId": "esma-news",
+      "sourceName": "ESMA News",
+      "institution": "European Securities and Markets Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.esma.europa.eu/press-news/esma-news/drsp-supervisory-responsibilities-remain-unchanged-following-esma-assessment",
+      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "9603271b73e836cd",
+      "title": "Oversight Forum Members",
+      "summary": "",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/0d89a975-9434-460e-be43-e0270428ef39/OF%20Members.xlsx",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
+      "sourceId": "eba-publications",
+      "sourceName": "EBA Publications",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.eba.europa.eu/sites/default/files/2026-11/0d89a975-9434-460e-be43-e0270428ef39/OF%20Members.xlsx",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
     {
       "id": "d3507edbc2ffa5b0",
       "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
@@ -1547,7 +1845,7 @@
     {
       "id": "0d09c22d2598dd1b",
       "title": "Decoding the cyber-AI nexus",
-      "summary": "The rapid evolution of artificial intelligence (AI) is reshaping the cyber-threat landscape, with significant implications for financial stability in the euro area. This special feature explores the complex interplay between AI and cybersecurity, highlighting how advanced AI models are enabling attackers and defenders alike to enhance their capabilities. Highly capable and agentic AI systems are increasing the scale, speed and sophistication of attacks while also introducing new vulnerabilities. These include AI models themselves being exposed to novel types of attack and AI agents failing to act as their human operators intend.",
+      "summary": "The rapid evolution of artificial intelligence (AI) is reshaping the cyber threat landscape, with significant implications for financial stability in the euro area. This special feature explores the complex interplay between AI and cybersecurity, highlighting how advanced AI models are enabling attackers and defenders alike to enhance their capabilities. Highly capable and agentic AI systems are increasing the scale, speed and sophistication of attacks while also introducing new vulnerabilities. These include AI models themselves being exposed to novel types of attack and AI agents failing to act as their human operators intend.",
       "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202611_02~8cca80a3c3.en.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -1696,14 +1994,14 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "dab6e0578f661e04",
+      "id": "376eb6600ab932d1",
       "title": "Agencies extend comment period for proposed third-party risk management guidance",
       "summary": "Agencies extend comment period for proposed third-party risk management guidance",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-banking-reg",
-      "sourceName": "Federal Reserve Banking and Consumer Regulatory Policy",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
       "institution": "Federal Reserve Board",
       "region": "US",
       "jurisdiction": "US",
@@ -1740,9 +2038,9 @@
         }
       ],
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "ad61fab7687e391a",
@@ -1925,6 +2223,136 @@
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "f77a8f8ac203ec62",
+      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-12T18:30:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/other20261112a1.pdf",
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/other20261112a2.pdf"
+      ],
+      "topics": [
+        "Governance",
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "board",
+        "payment",
+        "payment services"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payment",
+            "payment services"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "b2d3568cb534652f",
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-12T17:45:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "0770ba5ee062d0c1",
+      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-12T16:00:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20261112a1.pdf"
+      ],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
     },
@@ -2503,30 +2931,41 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "eb67d73faa9fa889",
-      "title": "Industrial policy in the EU: new opportunities, old risks?",
-      "summary": "Motivated by the renewed use of industrial policy, this article examines the conditions under which sector-specific interventions can support productivity, competitiveness, and economic resilience. While industrial policy may be justified where market failures or dependencies are well-identified, selective intervention entails risks of distortion through rent-seeking and resource misallocation. These risks are particularly relevant in the EU, where uncoordinated industrial policy is implemented in a multi-country Single Market with heterogeneous institutions and bank-based financial structures.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202607_01~3ac9592e8b.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
+      "id": "69574311d34ed522",
+      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
       "sourceType": "rss",
-      "publishedAt": "2026-11-10T09:00:00.000Z",
+      "publishedAt": "2026-11-09T21:00:00.000Z",
       "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op369~246a103ed8.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3185~74a163e02b.en.pdf"
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/orders20261109a1.pdf"
       ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202607_01~3ac9592e8b.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "4dd71a3d33b1a76c",
@@ -2590,32 +3029,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "1b20eca4e6fed1e4",
-      "title": "Extreme summer weather: what does it mean for euro area construction output?",
-      "summary": "Summer 2026 brought repeated episodes of extreme heat to large parts of the euro area. This box assesses the implications for euro area construction output. Survey data from the European Commission show that the share of construction firms citing weather as a factor limiting their activity was exceptionally high, reaching a record level in August and remaining elevated in September. Estimates based on country and sector data suggest that such disruption lowers construction output temporarily, with losses in a given month typically made up in the following month. This summer’s weather is estimated to have lowered construction output by around 0.2% in July, 0.3% in August and 0.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_02~349926a04e.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-11-09T13:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3203~063779fe18.en.pdf",
-        "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40dgreports/%40dcomm/%40publ/documents/publication/wcms_711919.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_02~349926a04e.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "45c0a43efdf62b85",
       "title": "Written overview for the exchange of views of the Chair of the Supervisory Board of the ECB with the Eurogroup on 9 November 2026",
       "summary": "",
@@ -2673,14 +3086,14 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "9b0aa3ff3028892f",
+      "id": "03ace84b96a12e82",
       "title": "Unlocking supervisory effectiveness in credit risk: insights from the ECB’s supervisory findings and measures",
       "summary": "This paper provides an assessment of supervisory effectiveness in credit risk using confidential data from ECB Banking Supervision. The analysis covers 8,106 supervisory measures issued and closed between 2016 and 2025. A central contribution is the construction of a measure level indicator of supervisory effectiveness based on large language model (LLM) analysis of supervisory narratives and closure justifications. The indicator captures whether supervisory measures resulted in full remediation of the underlying deficiencies. Using logistic and duration models, we examine the characteristics of findings, measures, and banks associated with remediation outcomes and remediation speed.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3308~a6e82e37aa.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
+      "sourceId": "ecb-working-papers",
+      "sourceName": "ECB Working Papers",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2736,9 +3149,9 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3308~a6e82e37aa.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "0fa6779f1bb01967",
@@ -3134,6 +3547,52 @@
       ],
       "updateType": "Speeches / Interviews / Blogs",
       "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "2df658e5486c75f8",
+      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "summary": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-05T16:00:00.000Z",
+      "pdfLinks": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20210304a1.pdf"
+      ],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "0d2d89f6f5c12718",
@@ -3681,19 +4140,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-11-03T08:45:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/sintra/ecb.forumcentbankpub2026_Giannetti_paper.en.pdf",
-        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.en.pdf",
-        "https://www.imf.org/-/media/files/publications/wp/2018/wp18206.pdf",
-        "https://www.imf.org/-/media/files/publications/wp/2026/english/wpiea2026094-source-pdf.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op387.en.pdf",
-        "https://www.nber.org/system/files/working_papers/w16896/w16896.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2025-10/b8e0ef8e-2d49-43fc-b917-dbca3423588c/Report%20on%20the%20efficiency%20of%20the%20regulatory%20and%20supervisory%20framework.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3249~d8b9cf2aed.en.pdf?65166d13ac394790ba9a8b8ac0c2b005",
-        "https://www.europarl.europa.eu/RegData/etudes/STUD/2024/741527/IPOL_STU(2024)741527_EN.pdf",
-        "https://www.imf.org/-/media/files/publications/wp/2018/wp1808.pdf",
-        "https://www.imf.org/external/pubs/ft/sdn/2016/sdn1604.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Supervision / Enforcement"
@@ -3785,9 +4232,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-11-02T10:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb~44d02b04fd.wp3181en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -3833,16 +4278,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-11-02T09:30:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3143~d7ecb940a5.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op373.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op388.el.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2849~f36a4321ea.fr.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2864~bc6d7b989f.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3116~86b1c681b9.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3296~db309862b0.en.pdf?70e206f998ab30b4859912b11fec408e",
-        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261102_annex~d93ffa4477.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -3888,11 +4324,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-11-02T07:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/press/research-publications/resbull/2026/html/ecb.rb261102~023f804e59.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpdps/ecb.dp26~de397a039d.en.pdf?97f3bf613574d51d6401e3f34850728d",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3038~2b0fe50cbb.sv.pdf?c4028e2ca9098e80c8efcafad423f2d1"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -3904,7 +4336,7 @@
     {
       "id": "f193d0194ce082a9",
       "title": "​The EBA publishes a no-action letter and technical considerations to support the implementation of the market risk framework for EU banks",
-      "summary": "​The European Banking Authority (EBA) today published a no-action letter on the boundary between the banking book and the trading book and shared technical clarifications on issues linked to the European Commission’s Delegated Act modifying the calculation of own funds requirements for market risk based on the Fundamental Review of the Trading Book (FRTB) framework. The measures support a consistent and harmonised implementation of the revised framework across the EU.",
+      "summary": "​The European Banking Authority (EBA) today published a no-action letter on the boundary between the banking book and the trading book and shared technical clarifications on issues linked to the European Commission’s Delegated Act modifying the calculation of own funds requirements for market risk based on the Fundamental Review of the Trading Book (FRTB) framework. The measures support a consistent and harmonised implementation of the revised framework across the EU. Pagination First page Previous page Page 1 Current page 2 <li class=\"pager__item pager__item",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -3917,10 +4349,7 @@
       "jurisdiction": "EU",
       "sourceType": "html-list",
       "publishedAt": "2026-11-02T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-08/ca1f1829-aff0-4d8a-b1de-d0549a5cfe40/No%20Action%20Letter%20on%20the%20boundary%20in%20the%20context%20of%20the%203rd%20FRTB%20DA.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements",
         "Market Risk"
@@ -4003,13 +4432,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-10-30T16:10:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3246~e9aa80d0b9.en.pdf",
-        "https://eu-st01.ext.exlibrisgroup.com/41ILO_INST/storage/alma/26/0B/A5/87/C9/57/C0/80/AE/F7/5A/24/04/C3/E7/AF/Research%20brief_FINAL_15May2025_21.05.25_1.pdf?AccessRightAllowDownload=true&amp;Expires=1793362696&amp;Signature=ZsSobnAZqyyRt46Qu8Y2SwUVj0LXszPqo5CBc9Ja51cEq7LePL54yM8XireMo4owdJ-WZSdvzRxcmDUU4v~xNWXMISdf-2-1h262VqkCsDmCwn-Wi-FTl3lFjilBX3q6Ebs9odVwn1rTLBFL3y2PlJ5MGOcvXBkyfBy~qap6rD9Gdkw6FBOEf0VnV-9G7bg7qOwH0eD0DHOQNeHCATSwoTUCERxdOHp8JD6UkMvTNDBqNhQgwTMg-IZmC1OSANBPqSFx9VDZ~XyGWjnJIc80vsdJXQ48xp9-jLC2~Vp5AoOaNZzDhWRt8TR3b9nQmT-SiI5daIZp8XJK1dcMsJhaoQ__&amp;Key-Pair-Id=APKAJ72OZCZ36VGVASIA",
-        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261030_annex~ffd5520fb0.en.pdf",
-        "https://www.lse.ac.uk/tii/assets/documents/Bridging-the-AI-Generational-Gap.pdf",
-        "https://www.ilo.org/sites/default/files/2025-05/WP140_web.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4017,29 +4440,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
-    },
-    {
-      "id": "39f418108bfe00a2",
-      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-30T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
     },
     {
       "id": "d4a9eca434a31687",
@@ -4169,25 +4569,37 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "8845b575ebe19c85",
-      "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
+      "id": "b5c27b3880202d9c",
+      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "summary": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
       "sourceType": "rss",
-      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "publishedAt": "2026-10-29T20:30:00.000Z",
       "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
       "updateType": "News",
       "updateTypeDetail": "News / announcement"
     },
@@ -4435,6 +4847,41 @@
       ],
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "c2ceafc7d77fe248",
+      "title": "Federal Reserve issues FOMC statement",
+      "summary": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-28T18:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "d22b2ed8f7fcb24f",
@@ -5017,6 +5464,52 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
+      "id": "0d61c47135706a94",
+      "title": "​The EBA classifies USDC as the first significant e-money token in the European Union",
+      "summary": "​The European Banking Authority (EBA) has classified USDC, issued by Circle Internet Financial Europe SAS, as a significant e-money token (EMT) under the Markets in Crypto Assets Regulation (MiCA), following its assessment of the criteria set out in the Regulation. There are currently 45 EMTs in the European Union, which have been notified under MiCA, and USDC is the first one to be classified as being significant.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-classifies-usdc-first-significant-e-money-token-european-union",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-classifies-usdc-first-significant-e-money-token-european-union",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Crypto / Digital Assets",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "crypto",
+        "mica",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "crypto",
+            "mica"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "35c0352faa63a57f",
       "title": "SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers",
       "summary": "The U. S. Securities and Exchange Commission (SEC) and the French Autorité des Marchés Financiers (AMF) announced that they have entered into a Memorandum of Understanding (MOU) designed to facilitate consultation and information-sharing in the…",
@@ -5359,6 +5852,50 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
+      "id": "c02065bf12bbc57a",
+      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-16T15:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "bd9ad4ec75f582cd",
       "title": "ESMA finalises the review of guidelines on the delay in disclosure of inside information",
       "summary": "The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator",
@@ -5683,96 +6220,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "f833e74849512f15",
-      "title": "ESMA's third Sanctions Report highlights the need for greater convergence in enforcement",
-      "summary": "The European Securities and Markets Authority (ESMA), the EU's financial markets reg",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esmas-third-sanctions-report-highlights-need-greater-convergence-enforcement",
-      "sourcePageUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "officialSourcePage": "https://www.esma.europa.eu/press-news/esma-news",
-      "sourceId": "esma-news",
-      "sourceName": "ESMA News",
-      "institution": "European Securities and Markets Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "AML / Financial Crime",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "sanctions",
-        "enforcement"
-      ],
-      "topicMatches": [
-        {
-          "id": "aml-financial-crime",
-          "label": "AML / Financial Crime",
-          "keywords": [
-            "sanctions"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "enforcement"
-          ]
-        }
-      ],
-      "link": "https://www.esma.europa.eu/press-news/esma-news/esmas-third-sanctions-report-highlights-need-greater-convergence-enforcement",
-      "sourceFeedUrl": "https://www.esma.europa.eu/press-news/esma-news",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "30caed5f145ca51e",
-      "title": "​The EBA classifies USDC as the first significant e-money token in the European Union",
-      "summary": "​The European Banking Authority (EBA) has classified USDC, issued by Circle Internet Financial Europe SAS, as a significant e-money token (EMT) under the Markets in Crypto Assets Regulation (MiCA), following its assessment of the criteria set out in the Regulation. There are currently 45 EMTs in the European Union, which have been notified under MiCA, and USDC is the first one to be classified as being significant.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-classifies-usdc-first-significant-e-money-token-european-union",
-      "sourcePageUrl": "https://www.eba.europa.eu/news-press",
-      "officialSourcePage": "https://www.eba.europa.eu/news-press",
-      "sourceId": "eba-news",
-      "sourceName": "EBA News & Press",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-14T14:36:49.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Crypto / Digital Assets",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "crypto",
-        "mica",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "crypto",
-            "mica"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-classifies-usdc-first-significant-e-money-token-european-union",
-      "sourceFeedUrl": "https://www.eba.europa.eu/news-press/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "edf9b66eb3a638ae",
       "title": "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding",
       "summary": "The Securities and Exchange Commission’s Small Business Capital Formation Advisory Committee announced that it will hold a meeting on Tuesday, October 27, 2026, at 10 a.m. to continue discussing IPO modernization and explore potential policy…",
@@ -6016,6 +6463,41 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
+      "id": "1f93f0c44f8db4d9",
+      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-13T18:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "380853151f316c08",
       "title": "European Supervisory Authorities set priorities for 2027",
       "summary": "The Joint Committee of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) published today its Annual Work Programme for 2027, setting out its priorities for addressing cross-sectoral risks and strengthening coordination across the European Union's financial sector. 12 OCTOBER 2026 ​The EBA releases the final technical package for release 4.4 of its reporting and Pillar 3 disclosure framework ​The European Banking Authority (EBA) today released the final technical package for version 4.4 of its reporting and disclosure framework, covering IFRS 18 reporting, Pillar 3 ESG disclosures and other technical amendments.",
@@ -6253,6 +6735,41 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
+      "id": "6a66cde74e853556",
+      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-09T14:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "2e6e0199d2b57538",
       "title": "Navigating climate policy shocks: optimal monetary policy responses",
       "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
@@ -6336,7 +6853,7 @@
     {
       "id": "72e4174b935db5cf",
       "title": "EBA CRR3/CRD6 dashboard shows banks maintain capital levels well above minimum requirements under the fully loaded Basel III framework",
-      "summary": "The European Banking Authority (EBA) today published its CRR3/CRD6 dashboard as of Q2 2026 for 129 banks at the highest level of consolidation across the EU/EEA. EU/EEA banks maintain capital levels well above minimum requirements under the fully loaded CRR3 framework, with an average Common Equity Tier 1 (CET1) ratio projected at 15.1%, despite an increased impact of the output floor compared with previous editions. 30 SEPTEMBER 2026 ​The EBA publishes its 2027 Work Programme ​The European Banking Authority (EBA) published today its Work Programme outlining the key areas of focus and deliverables for 2027.",
+      "summary": "The European Banking Authority (EBA) today published its CRR3/CRD6 dashboard as of Q2 2026 for 129 banks at the highest level of consolidation across the EU/EEA. EU/EEA banks maintain capital levels well above minimum requirements under the fully loaded CRR3 framework, with an average Common Equity Tier 1 (CET1) ratio projected at 15.1%, despite an increased impact of the output floor compared with previous editions. Pagination Current page 1 Page 2 Page 3 Page 4 Page 5 Page 6 <a href=\"?page=6",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-crr3crd6-dashboard-shows-banks-maintain-capital-levels-well-above-minimum-requirements-under",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-crr3crd6-dashboard-shows-banks-maintain-capital-levels-well-above-minimum-requirements-under",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -6388,6 +6905,61 @@
       ],
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "74dd6e6753e8205f",
+      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-08T20:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "AML / Financial Crime",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "money laundering",
+        "suspicious activity",
+        "board",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "money laundering",
+            "suspicious activity"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "b60cad2e612a0965",
@@ -6538,6 +7110,41 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/rbu.html",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "6b21996e367193de",
+      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-07T18:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "57be94ef9f5a8605",
@@ -6755,6 +7362,41 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
+      "id": "5c6aaadf3992903a",
+      "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+      "summary": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-05T20:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
       "id": "d67b299355cbf9b6",
       "title": "SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week",
       "summary": "The Securities and Exchange Commission, in coordination with other U. S. and global financial regulators, today issued a joint investor bulletin as part of World Investor Week (WIW). The bulletin encourages investors to be resilient in changing…",
@@ -6858,14 +7500,49 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "111ea0d54162d80c",
+      "id": "b8ffb776dd7249cf",
+      "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-02T20:45:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
+    {
+      "id": "e8197884ef23a9a2",
       "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
       "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-banking-reg",
-      "sourceName": "Federal Reserve Banking and Consumer Regulatory Policy",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
       "institution": "Federal Reserve Board",
       "region": "US",
       "jurisdiction": "US",
@@ -6897,9 +7574,53 @@
         }
       ],
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "ef06685128575772",
+      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "summary": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-10-02T15:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "board",
+        "enforcement"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "enforcement"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "6c9f60c5e937dd95",
@@ -7455,14 +8176,14 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "f4d2188c04dd9502",
+      "id": "0740058b6618108a",
       "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
       "summary": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-banking-reg",
-      "sourceName": "Federal Reserve Banking and Consumer Regulatory Policy",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
       "institution": "Federal Reserve Board",
       "region": "US",
       "jurisdiction": "US",
@@ -7523,7 +8244,7 @@
         }
       ],
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
     },
@@ -7576,7 +8297,7 @@
     {
       "id": "2870d4ec639ce9a2",
       "title": "​The EBA publishes its 2027 Work Programme",
-      "summary": "​The European Banking Authority (EBA) published today its Work Programme outlining the key areas of focus and deliverables for 2027. The Programme also marks the first step towards a broader medium-term strategy to position the EBA as a next-generation regulator, a body developing supervision at new frontiers, and a provider of services to the supervisory and resolution community. Pagination Current page 1 Page 2 Page 3 Page 4 Page 5 Page 6 Page 7 <li class=",
+      "summary": "​The European Banking Authority (EBA) published today its Work Programme outlining the key areas of focus and deliverables for 2027. The Programme also marks the first step towards a broader medium-term strategy to position the EBA as a next-generation regulator, a body developing supervision at new frontiers, and a provider of services to the supervisory and resolution community. 25 SEPTEMBER 2026 EU/EEA banks display strength amid a challenging risk environment The European Banking Authority (EBA) today published its Risk Dashboard for the second quarter of 2026. It summarises the main risks and vulnerabilities of the EU/EEA banking sector based on supervisory reporting data.",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2027-work-programme",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2027-work-programme",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -7591,16 +8312,27 @@
       "publishedAt": "2026-09-30T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "Reporting / Disclosure",
         "Supervision / Enforcement",
         "Recovery / Resolution"
       ],
       "matchedKeywords": [
+        "reporting",
+        "supervisory reporting",
         "supervision",
         "supervisory",
         "its",
         "resolution"
       ],
       "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting",
+            "supervisory reporting"
+          ]
+        },
         {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
@@ -7622,14 +8354,14 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "8f7b15041afa2b88",
+      "id": "bede23e1d74813e9",
       "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
       "summary": "Agencies publish resolution plan feedback letters for 15 banking organizations",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
       "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
       "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceId": "federal-reserve-banking-reg",
-      "sourceName": "Federal Reserve Banking and Consumer Regulatory Policy",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
       "institution": "Federal Reserve Board",
       "region": "US",
       "jurisdiction": "US",
@@ -7661,9 +8393,9 @@
         }
       ],
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_bcreg.xml",
-      "updateType": "Other",
-      "updateTypeDetail": "Other update"
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "20f7801526ae41a8",
@@ -7743,6 +8475,41 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "996055ded84686a2",
+      "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "summary": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
+      "sourceId": "federal-reserve-press",
+      "sourceName": "Federal Reserve Press Releases",
+      "institution": "Federal Reserve Board",
+      "region": "US",
+      "jurisdiction": "US",
+      "sourceType": "rss",
+      "publishedAt": "2026-09-25T20:30:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "board"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "board"
+          ]
+        }
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "716f81b501feb4a9",
@@ -9444,63 +10211,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "9d31e627bbbe642e",
-      "title": "The EBA clarifies its Product Oversight and Governance Guidelines which address greenwashing risks in ESG products",
-      "summary": "The European Banking Authority (EBA) today published revised Guidelines on product oversight and governance (POG) for retail banking products. They clarify requirements for products with environmental, social and governance (ESG) features whenever offered and sold to consumers and address greenwashing risks. The Guidelines aim to ensure that financial institutions apply robust standards when designing and distributing ESG-related retail products, with a view to reducing the risk of consumers being misled or sold products that do not meet their needs. Pagination First page Previous page Page 1 Page </s",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-08-12T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Climate / ESG",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "esg",
-        "greenwashing",
-        "governance",
-        "guidelines",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "esg",
-            "greenwashing"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "governance"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "guidelines",
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "4dbefb4938cac6db",
       "title": "Legal Framework for Banking Supervision Volume I",
       "summary": "",
@@ -9706,9 +10416,84 @@
       "updateTypeDetail": "Publication / report"
     },
     {
+      "id": "d5c7c99d268fd00f",
+      "title": "EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector",
+      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a statement calling for a cross-sectoral, risk-based and consistent supervisory approach to mitigate the ICT risks stemming from frontier AI models. 31 JULY 2026 The EBA-ECB-EIOPA “Data Point Model Alliance” consults on improvements to their data dictionary metamodel to better support statistical and supervisory reporting The Data Point Model Alliance, a joint initiative of the EBA, ECB and EIOPA, is committed to making financial sector statistical and supervisory reporting across the EU simpler, smarter and more proportionate.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision-mitigate-ict-risks-frontier",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision-mitigate-ict-risks-frontier",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "AI",
+        "DORA / Operational Resilience",
+        "Governance",
+        "Reporting / Disclosure",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "ai models",
+        "ict risks",
+        "governance",
+        "reporting",
+        "supervisory reporting",
+        "supervision",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "ai models"
+          ]
+        },
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "ict risks"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance"
+          ]
+        },
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "reporting",
+            "supervisory reporting"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ],
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
+    {
       "id": "02ac4a670639ba2a",
       "title": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251. Pagination First page Previous page Page 1 Current page 2 Page 3 <a href=\"?page=3\" class=\"pager__link\" title=\"Go to p",
+      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251. 31 JULY 2026 EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a statement calling for a cross-sectoral, risk-based and consistent supervisory approach to mitigate the ICT risks stemming from frontier AI models.",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -9723,9 +10508,16 @@
       "publishedAt": "2026-08-03T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
+        "AI",
+        "DORA / Operational Resilience",
+        "Governance",
         "Supervision / Enforcement"
       ],
       "matchedKeywords": [
+        "ai models",
+        "ict risks",
+        "governance",
+        "supervision",
         "supervisory",
         "final report",
         "regulatory technical standards",
@@ -9733,9 +10525,31 @@
       ],
       "topicMatches": [
         {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "ai models"
+          ]
+        },
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "ict risks"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance"
+          ]
+        },
+        {
           "id": "supervision-enforcement",
           "label": "Supervision / Enforcement",
           "keywords": [
+            "supervision",
             "supervisory",
             "final report",
             "regulatory technical standards",
@@ -9904,81 +10718,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
-    },
-    {
-      "id": "89e27edc4a9633ec",
-      "title": "EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a statement calling for a cross-sectoral, risk-based and consistent supervisory approach to mitigate the ICT risks stemming from frontier AI models. 31 JULY 2026 The EBA-ECB-EIOPA “Data Point Model Alliance” consults on improvements to their data dictionary metamodel to better support statistical and supervisory reporting The Data Point Model Alliance, a joint initiative of the EBA, ECB and EIOPA, is committed to making financial sector statistical and supervisory reporting across the EU simpler, smarter and more proportionate.",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision-mitigate-ict-risks-frontier",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision-mitigate-ict-risks-frontier",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-07-31T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "AI",
-        "DORA / Operational Resilience",
-        "Governance",
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "ai models",
-        "ict risks",
-        "governance",
-        "reporting",
-        "supervisory reporting",
-        "supervision",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "ai",
-          "label": "AI",
-          "keywords": [
-            "ai models"
-          ]
-        },
-        {
-          "id": "dora-operational-resilience",
-          "label": "DORA / Operational Resilience",
-          "keywords": [
-            "ict risks"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "governance"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting",
-            "supervisory reporting"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision",
-            "supervisory"
-          ]
-        }
-      ],
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
     },
     {
       "id": "c9f9c5f67d9ec3f3",
@@ -11413,7 +12152,7 @@
     {
       "id": "a591e9c397ba8e4d",
       "title": "The EBA launches consultation on key performance indicators of Taxonomy disclosures",
-      "summary": "The European Banking Authority (EBA) today published a Discussion Paper on certain key performance indicators (KPIs) and other aspects of the Disclosures Delegated Act, under Article 8 of the Taxonomy Regulation. The aim is to consult the public on potential measures to simplify and enhance the usability of information disclosed by credit institutions and investment firms. The consultation is open until 12 August 2026. 30 JUNE 2026 The EBA clarifies its Product Oversight and Governance Guidelines which address greenwashing risks in ESG products The European Banking Authority (EBA) today published revised Guidelines on product oversight and governance (POG) for retail banking products.",
+      "summary": "The European Banking Authority (EBA) today published a Discussion Paper on certain key performance indicators (KPIs) and other aspects of the Disclosures Delegated Act, under Article 8 of the Taxonomy Regulation. The aim is to consult the public on potential measures to simplify and enhance the usability of information disclosed by credit institutions and investment firms. The consultation is open until 12 August 2026. Pagination First page Previous page Page 1 Page 2 Current page",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-consultation-key-performance-indicators-taxonomy-disclosures",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-consultation-key-performance-indicators-taxonomy-disclosures",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -11428,41 +12167,17 @@
       "publishedAt": "2026-07-01T00:00:00.000Z",
       "pdfLinks": [],
       "topics": [
-        "Climate / ESG",
-        "Governance",
-        "Supervision / Enforcement"
+        "Climate / ESG"
       ],
       "matchedKeywords": [
-        "esg",
-        "greenwashing",
-        "taxonomy",
-        "governance",
-        "guidelines",
-        "its"
+        "taxonomy"
       ],
       "topicMatches": [
         {
           "id": "climate-esg",
           "label": "Climate / ESG",
           "keywords": [
-            "esg",
-            "greenwashing",
             "taxonomy"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "governance"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "guidelines",
-            "its"
           ]
         }
       ],
@@ -11556,6 +12271,63 @@
       ],
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "6bc061b1bebe2989",
+      "title": "The EBA clarifies its Product Oversight and Governance Guidelines which address greenwashing risks in ESG products",
+      "summary": "The European Banking Authority (EBA) today published revised Guidelines on product oversight and governance (POG) for retail banking products. They clarify requirements for products with environmental, social and governance (ESG) features whenever offered and sold to consumers and address greenwashing risks. The Guidelines aim to ensure that financial institutions apply robust standards when designing and distributing ESG-related retail products, with a view to reducing the risk of consumers being misled or sold products that do not meet their needs.",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "esg",
+        "greenwashing",
+        "governance",
+        "guidelines",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "esg",
+            "greenwashing"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "guidelines",
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "e820c92985d43c90",
@@ -12945,7 +13717,7 @@
     {
       "id": "81280c43905502a5",
       "title": "​The EBA launches Discussion Paper on Pillar 3 Data Hub for small banks",
-      "summary": "​The European Banking Authority (EBA) today published a Discussion Paper which proposes a simplified process for small and non-complex institutions (SNCIs) when implementing the Pillar 3 Data Hub (P3DH). The objective is to gather stakeholder feedback on a streamlined approach under which the EBA would collect and perform the calculation and publication of Pillar 3 disclosures for SNCIs, thereby reducing the burden for the latter.",
+      "summary": "​The European Banking Authority (EBA) today published a Discussion Paper which proposes a simplified process for small and non-complex institutions (SNCIs) when implementing the Pillar 3 Data Hub (P3DH). The objective is to gather stakeholder feedback on a streamlined approach under which the EBA would collect and perform the calculation and publication of Pillar 3 disclosures for SNCIs, thereby reducing the burden for the latter. Pagination First page Previous page Page 1 Page 2",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-discussion-paper-pillar-3-data-hub-small-banks",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-discussion-paper-pillar-3-data-hub-small-banks",
       "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
@@ -12984,69 +13756,6 @@
       ],
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "5901250f7213d65a",
-      "title": "ESAs publish the first report on DORA major ICT-related incidents",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA) today published their first annual overview of major ICT-related incidents in the EU financial sector based on a reporting mechanism established by the Digital Operational Resilience Act (DORA). It shows that ICT risks are increasingly borderless and interconnected. The authorities also note that the recent evolution of highly capable AI-driven tools should encourage financial entities to strengthen cybersecurity measures to maintain their resilience going forward. Pagination First page Previous page Page 1 Page 2 <a hr",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-publish-first-report-dora-major-ict-related-incidents",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-publish-first-report-dora-major-ict-related-incidents",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "DORA / Operational Resilience",
-        "Reporting / Disclosure",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "dora",
-        "digital operational resilience",
-        "digital operational resilience act",
-        "operational resilience",
-        "ict risks",
-        "cybersecurity",
-        "reporting",
-        "supervisory"
-      ],
-      "topicMatches": [
-        {
-          "id": "dora-operational-resilience",
-          "label": "DORA / Operational Resilience",
-          "keywords": [
-            "dora",
-            "digital operational resilience",
-            "digital operational resilience act",
-            "operational resilience",
-            "ict risks",
-            "cybersecurity"
-          ]
-        },
-        {
-          "id": "reporting-disclosure",
-          "label": "Reporting / Disclosure",
-          "keywords": [
-            "reporting"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervisory"
-          ]
-        }
-      ],
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "87096b9f6acbc596",
@@ -14030,41 +14739,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "bde087d589e89a30",
-      "title": "PS8/26 – Financial Services Compensation Scheme – Management Expenses Levy Limit (MELL) 2026/27",
-      "summary": "Policy statement 8/26",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/financial-services-compensation-scheme-management-expenses-levy-limit-2026-27-policy-statement",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-03-31T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "policy statement"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "policy statement"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/financial-services-compensation-scheme-management-expenses-levy-limit-2026-27-policy-statement",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
     },
     {
       "id": "6b447ad3036d4c2e",
@@ -20122,41 +20796,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "16cacbe77d221dbc",
-      "title": "Defence SMEs need banking services that work",
-      "summary": "The UK's most innovative businesses often start small. Before they can develop new technologies, win contracts or expand into new markets, they need access to banking services to help them operate, invest and grow. Access to financial services can be easy to take for granted. When those services work well they're almost invisible. However, when access becomes difficult or delayed, the effects can extend far beyond a single business. Small-to-medium sized enterprises (SMEs) operating in or providing services to the defence sector play an important role in innovation and growth. But these businesses do more than contribute to economic growth.",
-      "url": "https://www.fca.org.uk/news/blogs/defence-smes-need-banking-services-work",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/blogs/defence-smes-need-banking-services-work",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "2e159baac0acd643",
       "title": "Demands for disguised remuneration scheme loan repayments",
       "summary": "We have seen demands being made for people to repay loans, or purported loans, provided as part of disguised remuneration schemes. Disguised remuneration schemes saw people – often contractors, consultants and agency workers – paid for their work through loans instead of regular salaries as a way to avoid tax. HMRC has sought to tackle this tax avoidance through what has been termed the loan charge and published guidance for those affected. Questions have been raised about the regulatory status of these loans and whether they were ever intended to be repaid. Some of those affected dispute liability for the amounts being claimed and challenge whether the debts can be legally enforced.",
@@ -20650,6 +21289,41 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
+      "id": "059daf01b48ec9c8",
+      "title": "Helping more people break the cycle of persistent credit card debt",
+      "summary": "Credit cards are a useful financial tool for many – offering flexibility and helping people manage spending and cash flow. But if customers only make low repayments over a long period, they can end up in debt for years while racking up interest and charges. The persistent debt rules we introduced in 2018 aimed to tackle this. They said that lenders had to identify customers who, over an 18-month period, paid more in interest, fees and charges than towards their balance. Lenders had to contact these customers and encourage them to increase repayments if they could afford it, and if they were still struggling, lenders had to take additional steps to help them repay their balances sustainably.",
+      "url": "https://www.fca.org.uk/news/blogs/helping-more-people-break-cycle-persistent-credit-card-debt",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/blogs/helping-more-people-break-cycle-persistent-credit-card-debt",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
       "id": "405e5a4208304d1e",
       "title": "Looking back to move forward: why reviewing our rules matters",
       "summary": "Markets evolve. Consumer behaviour changes. Technology creates new opportunities and risks. Rules that were appropriate when they were introduced may need to be updated, simplified or, in some cases, removed altogether. That is why the FCA regularly reviews its rules.",
@@ -21044,7 +21718,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-11-18T00:38:40.458Z",
+      "publishedAt": "2026-11-18T15:14:18.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21068,31 +21742,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T00:38:40.458Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "isSourceLandingCard": true,
-      "updateType": "Source Pages",
-      "updateTypeDetail": "Official source page"
-    },
-    {
-      "id": "40670b6c0c0a28e2",
-      "title": "EBA Publications: official source page",
-      "summary": "Open the official EBA Publications source page for the latest publications, announcements and regulatory updates.",
-      "url": "https://www.eba.europa.eu/publications-and-media/publications",
-      "link": "https://www.eba.europa.eu/publications-and-media/publications",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/publications",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/publications",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/publications",
-      "sourceId": "eba-publications",
-      "sourceName": "EBA Publications",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": "2026-11-18T00:38:40.458Z",
+      "publishedAt": "2026-11-18T15:14:18.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21116,7 +21766,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T00:38:40.458Z",
+      "publishedAt": "2026-11-18T15:14:18.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21140,7 +21790,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T00:38:40.458Z",
+      "publishedAt": "2026-11-18T15:14:18.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21164,7 +21814,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T00:38:40.458Z",
+      "publishedAt": "2026-11-18T15:14:18.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21188,7 +21838,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T00:38:40.458Z",
+      "publishedAt": "2026-11-18T15:14:18.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21212,7 +21862,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T00:38:40.458Z",
+      "publishedAt": "2026-11-18T15:14:18.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21236,7 +21886,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T00:38:40.458Z",
+      "publishedAt": "2026-11-18T15:14:18.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21260,7 +21910,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T00:38:40.458Z",
+      "publishedAt": "2026-11-18T15:14:18.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21284,7 +21934,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T00:38:40.458Z",
+      "publishedAt": "2026-11-18T15:14:18.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21308,31 +21958,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T00:38:40.458Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "isSourceLandingCard": true,
-      "updateType": "Source Pages",
-      "updateTypeDetail": "Official source page"
-    },
-    {
-      "id": "fecbe2bd16ce8224",
-      "title": "Federal Reserve Press Releases: official source page",
-      "summary": "Open the official Federal Reserve Press Releases source page for the latest publications, announcements and regulatory updates.",
-      "url": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "link": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourcePageUrl": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "officialSourcePage": "https://www.federalreserve.gov/feeds/feeds.htm",
-      "sourceFeedUrl": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "sourceId": "federal-reserve-press",
-      "sourceName": "Federal Reserve Press Releases",
-      "institution": "Federal Reserve Board",
-      "region": "US",
-      "jurisdiction": "US",
-      "sourceType": "rss",
-      "publishedAt": "2026-11-18T00:38:40.458Z",
+      "publishedAt": "2026-11-18T15:14:18.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21356,7 +21982,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T00:38:40.458Z",
+      "publishedAt": "2026-11-18T15:14:18.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21380,7 +22006,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T00:38:40.458Z",
+      "publishedAt": "2026-11-18T15:14:18.618Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21401,31 +22027,31 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 81
+      "count": 84
     },
     {
       "updateType": "News",
-      "count": 52
+      "count": 68
     },
     {
       "updateType": "Consultations",
-      "count": 45
+      "count": 46
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 35
+      "count": 36
     },
     {
       "updateType": "Statistics / Data",
-      "count": 19
+      "count": 18
     },
     {
       "updateType": "Source Pages",
-      "count": 15
+      "count": 13
     },
     {
       "updateType": "Other",
-      "count": 7
+      "count": 5
     },
     {
       "updateType": "Events",
