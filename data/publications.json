@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T23:57:58.074Z",
+  "generatedAt": "2026-11-19T15:21:54.423Z",
   "totalPublications": 494,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -452,11 +452,11 @@
   "topicSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 247
+      "count": 246
     },
     {
       "topic": "Basel / BCBS",
-      "count": 137
+      "count": 138
     },
     {
       "topic": "Governance",
@@ -476,14 +476,14 @@
     },
     {
       "topic": "Capital Requirements",
-      "count": 28
-    },
-    {
-      "topic": "Crypto / Digital Assets",
-      "count": 26
+      "count": 29
     },
     {
       "topic": "Credit Risk",
+      "count": 25
+    },
+    {
+      "topic": "Crypto / Digital Assets",
       "count": 25
     },
     {
@@ -491,20 +491,20 @@
       "count": 24
     },
     {
+      "topic": "DORA / Operational Resilience",
+      "count": 21
+    },
+    {
       "topic": "Stress Testing",
       "count": 21
     },
     {
-      "topic": "DORA / Operational Resilience",
-      "count": 18
+      "topic": "AI",
+      "count": 15
     },
     {
       "topic": "Recovery / Resolution",
       "count": 15
-    },
-    {
-      "topic": "AI",
-      "count": 14
     },
     {
       "topic": "Liquidity",
@@ -526,11 +526,11 @@
   "topicsSummary": [
     {
       "topic": "Supervision / Enforcement",
-      "count": 247
+      "count": 246
     },
     {
       "topic": "Basel / BCBS",
-      "count": 137
+      "count": 138
     },
     {
       "topic": "Governance",
@@ -550,14 +550,14 @@
     },
     {
       "topic": "Capital Requirements",
-      "count": 28
-    },
-    {
-      "topic": "Crypto / Digital Assets",
-      "count": 26
+      "count": 29
     },
     {
       "topic": "Credit Risk",
+      "count": 25
+    },
+    {
+      "topic": "Crypto / Digital Assets",
       "count": 25
     },
     {
@@ -565,20 +565,20 @@
       "count": 24
     },
     {
+      "topic": "DORA / Operational Resilience",
+      "count": 21
+    },
+    {
       "topic": "Stress Testing",
       "count": 21
     },
     {
-      "topic": "DORA / Operational Resilience",
-      "count": 18
+      "topic": "AI",
+      "count": 15
     },
     {
       "topic": "Recovery / Resolution",
       "count": 15
-    },
-    {
-      "topic": "AI",
-      "count": 14
     },
     {
       "topic": "Liquidity",
@@ -608,7 +608,7 @@
     },
     {
       "keyword": "supervisory",
-      "count": 104
+      "count": 105
     },
     {
       "keyword": "its",
@@ -652,19 +652,19 @@
     },
     {
       "keyword": "capital requirements",
-      "count": 17
+      "count": 18
     },
     {
       "keyword": "consultation paper",
       "count": 15
     },
     {
-      "keyword": "stress test",
+      "keyword": "payments",
       "count": 14
     },
     {
-      "keyword": "payments",
-      "count": 13
+      "keyword": "stress test",
+      "count": 14
     },
     {
       "keyword": "disclosure",
@@ -692,7 +692,7 @@
     },
     {
       "keyword": "crypto",
-      "count": 10
+      "count": 9
     },
     {
       "keyword": "digital euro",
@@ -719,6 +719,10 @@
       "count": 7
     },
     {
+      "keyword": "operational resilience",
+      "count": 7
+    },
+    {
       "keyword": "payment",
       "count": 7
     },
@@ -727,7 +731,7 @@
       "count": 7
     },
     {
-      "keyword": "operational resilience",
+      "keyword": "artificial intelligence",
       "count": 6
     },
     {
@@ -751,11 +755,11 @@
       "count": 5
     },
     {
-      "keyword": "artificial intelligence",
+      "keyword": "crr",
       "count": 5
     },
     {
-      "keyword": "crr",
+      "keyword": "cyber resilience",
       "count": 5
     },
     {
@@ -803,10 +807,6 @@
       "count": 4
     },
     {
-      "keyword": "settlement",
-      "count": 4
-    },
-    {
       "keyword": "third party risk",
       "count": 4
     },
@@ -832,10 +832,6 @@
     },
     {
       "keyword": "climate risk",
-      "count": 3
-    },
-    {
-      "keyword": "cyber resilience",
       "count": 3
     },
     {
@@ -867,6 +863,10 @@
       "count": 3
     },
     {
+      "keyword": "settlement",
+      "count": 3
+    },
+    {
       "keyword": "stablecoins",
       "count": 3
     },
@@ -883,11 +883,11 @@
       "count": 2
     },
     {
-      "keyword": "core principles for effective banking supervision",
+      "keyword": "complaints",
       "count": 2
     },
     {
-      "keyword": "cryptoasset",
+      "keyword": "core principles for effective banking supervision",
       "count": 2
     },
     {
@@ -1000,6 +1000,433 @@
     }
   ],
   "publications": [
+    {
+      "id": "9f38650c3f8071e4",
+      "title": "Sharon Donnery: Strong, but not immune: resilience in an age of uncertainty",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in261119~44f86306fd.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-19T15:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in261119~44f86306fd.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "85c5efa11ce75752",
+      "title": "Bank of England Weekly Report 18 November 2026",
+      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
+      "url": "https://www.bankofengland.co.uk/weekly-report/2026/18-november-2026",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-19T14:12:46.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/18-november-2026",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "604842eb4d9cfa5f",
+      "title": "Claudia Buch: Introductory statement",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261119~e75c4ff195.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-19T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisory_guides240503_riskreporting.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/annex/ssm.pr230417_annex.en.pdf",
+        "https://www.bankingsupervision.europa.eu/press/speeches/date/2026/html/ssm.sp261119_slides~4f275b1859.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261119~e75c4ff195.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "9f4d5cd480754228",
+      "title": "Effective practices: Cyber risk and resilience management relating to artificial intelligence (AI)",
+      "summary": "This joint PRA, FCA and Bank publication highlights effective practices to manage cyber resilience and risks relating to artificial intelligence (AI) for firms and financial market infrastructures.",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-artificial-intelligence",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-19T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu/press/letterstobanks/shared/pdf/2026/ssm.2026_letter_on_AI_enabled_cybersecurity_threats.en.pdf",
+        "https://www.ncsc.gov.uk/sites/default/files/2026-06/Five-Eyes-cyber-security-agencies-statement-ai-shift.pdf"
+      ],
+      "topics": [
+        "AI",
+        "DORA / Operational Resilience"
+      ],
+      "matchedKeywords": [
+        "artificial intelligence",
+        "cyber resilience"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "artificial intelligence"
+          ]
+        },
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "cyber resilience"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-artificial-intelligence",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "60cc01a88c218d5c",
+      "title": "Effective practices: Cyber risk and resilience management relating to quantum computing",
+      "summary": "This joint PRA, FCA and Bank publication highlights effective practices to manage cyber resilience and risks relating to quantum computing for firms and financial market infrastructures.",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-quantum-computing",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-19T10:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "DORA / Operational Resilience"
+      ],
+      "matchedKeywords": [
+        "cyber resilience"
+      ],
+      "topicMatches": [
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "cyber resilience"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/effective-practices-cyber-risk-and-resilience-management-relating-to-quantum-computing",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "509bf10d95dc13b4",
+      "title": "Transatlantic securitisation gap revisited: comparing EU and US securitisation architectures",
+      "summary": "This paper revisits the transatlantic gap in securitisation issuance. In comparing the securitisation frameworks in the European Union (EU) and United States, we adopt a granular approach, distinguishing between instrument types and considering the broader funding and risk transfer frameworks in which securitisation operates. We conclude that the apparent gap in terms of scale stems from methodological and structural differences in how securitisation is defined and measured across jurisdictions, rather than from a structurally weaker or less developed EU securitisation market.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op403.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-19T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op403.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS"
+      ],
+      "matchedKeywords": [
+        "securitisation"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "securitisation"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op403.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "d3b954417f9ee60c",
+      "title": "ECB keeps capital requirements broadly stable for 2027, focuses its priorities on banks’ financial and operational resilience",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr261119~4cb883c88e.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-press",
+      "sourceName": "ECB Banking Supervision Press",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-19T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "DORA / Operational Resilience",
+        "Basel / BCBS",
+        "Capital Requirements",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "operational resilience",
+        "banking supervision",
+        "capital requirements",
+        "supervision",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "operational resilience"
+          ]
+        },
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "capital-requirements",
+          "label": "Capital Requirements",
+          "keywords": [
+            "capital requirements"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision",
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr261119~4cb883c88e.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "efb7dbb0818c3548",
+      "title": "Euro area monthly balance of payments: September 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261119~9319ec6fea.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-statistical-press-releases",
+      "sourceName": "ECB Statistical Press Releases",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-19T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/stats/bop/2026/html/ecb.bp261119_annex~946171b84f.en.pdf"
+      ],
+      "topics": [
+        "Payments / Open Finance"
+      ],
+      "matchedKeywords": [
+        "payments"
+      ],
+      "topicMatches": [
+        {
+          "id": "payments-open-finance",
+          "label": "Payments / Open Finance",
+          "keywords": [
+            "payments"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261119~9319ec6fea.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "e7b76952a3ac7414",
+      "title": "Supervisory priorities 2027-29",
+      "summary": "",
+      "url": "https://www.bankingsupervision.europa.eu//framework/supervisory-policy/html/ssm.supervisory_priorities202611.en.html",
+      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
+      "sourceId": "ecb-supervision-publications",
+      "sourceName": "ECB Banking Supervision Publications",
+      "institution": "ECB Banking Supervision",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-19T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisory_priorities202611.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.202011finalguideonclimate-relatedandenvironmentalrisks~58213f6564.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.thematicreviewcercompendiumgoodpractices052026.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.202605_ECBreport_on_good_practices_for_climate_and_nature_stress_testing.de.pdf",
+        "https://www.bankingsupervision.europa.eu/press/letterstobanks/shared/pdf/2026/ssm.2026_letter_on_AI_enabled_cybersecurity_threats.en.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/warnings/esrb.warning260625_on_systemic_cyber_risks_stemming_from_frontier_ai_models~ef424708cf.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisory_guides240503_riskreporting.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.Report_2025_CCR-ES_202508.en.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.geopolstresstest202608.en.pdf",
+        "https://www.bis.org/publ/bisbull129.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "banking supervision",
+        "supervision",
+        "supervisory"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "banking supervision"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "supervision",
+            "supervisory"
+          ]
+        }
+      ],
+      "link": "https://www.bankingsupervision.europa.eu//framework/supervisory-policy/html/ssm.supervisory_priorities202611.en.html",
+      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "66dd95d20c0dbba0",
+      "title": "CP17/26 and GC26/9 – Cyber risk and resilience management",
+      "summary": "Consultation paper 17/26",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/cyber-risk-and-resilience-management-consultation-paper",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-19T08:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "consultation paper"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "consultation paper"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/cyber-risk-and-resilience-management-consultation-paper",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Consultations",
+      "updateTypeDetail": "Consultation / discussion paper"
+    },
     {
       "id": "2b7f8175bcc2426b",
       "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
@@ -2839,44 +3266,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "54e080b6e8ff40da",
-      "title": "Bank competitiveness and its role for monetary policy",
-      "summary": "Banks are at the heart of the EU economy, making them a key channel for monetary policy transmission. However, institutional factors continue to lead to fragmentation in the sector, constraining scale, efficiency and competitiveness. As shown by Altavilla et al. (2024), more competitive banks are more resilient to shocks and transmit monetary policy more effectively. The competitiveness of euro area banks has improved in recent years, reflecting stronger balance sheets and higher intermediation margins, but pockets of cost inefficiency and issues of scale remain, leaving further room for improvement.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_07~5cefb128e2.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-11-10T13:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2937~7e22f4dc25.de.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op376.en.pdf"
-      ],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_07~5cefb128e2.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
       "id": "126a0700e18bd179",
       "title": "Asset Purchase Facility Quarterly Report - 2026 Q3",
       "summary": "In the interests of openness and transparency, we publish a quarterly report on the transactions carried out as part of the Asset Purchase Facility. The reports are published shortly after the end of each quarter.",
@@ -3835,11 +4224,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-11-05T08:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/pub/pdf/sintra/ecb.forumcentbankpub2024_Primiceri_paper.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/sintra/ecb.forumcentbankpub2025_Pelizzon_paper.en.pdf",
-        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261105_1_annex~5467909548.en.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -3862,9 +4247,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-11-05T07:30:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu/paym/pdf/consultations/Eurosystem_report_on_the_public_consultation_on_the_Appia_Roadmap.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -3910,11 +4293,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-11-04T11:00:00.000Z",
-      "pdfLinks": [
-        "https://climate.ec.europa.eu/document/download/476ef20a-0c66-4be2-a104-70ba96622477_en?filename=com_2026_720_en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op380.en.pdf",
-        "https://eepublicdownloads.blob.core.windows.net/public-cdn-container/tyndp-documents/TYNDP2024/foropinion/Infrastructure_Gaps_Report.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -4034,12 +4413,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-11-03T10:00:00.000Z",
-      "pdfLinks": [
-        "https://www.economy-ni.gov.uk/sites/default/files/2026-05/The%20Credit%20Union%20%28Modernisation%20and%20Reform%29%20Public%20Consultation%20-%20Next%20Steps.PDF",
-        "https://www.niassembly.gov.uk/globalassets/documents/legislation/bills/executive-bills/mandate-2022-2027/credit-unions-amendment-bill/credit-unions-amendment-bill---as-introduced---fpv.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2026/november/cp1526app1.pdf",
-        "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2026/november/cp1526app2.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Supervision / Enforcement"
       ],
@@ -4099,9 +4473,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-11-03T10:00:00.000Z",
-      "pdfLinks": [
-        "https://www.niassembly.gov.uk/globalassets/documents/legislation/bills/executive-bills/mandate-2022-2027/credit-unions-amendment-bill/credit-unions-amendment-bill---as-introduced---fpv.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -7327,50 +7699,6 @@
       "updateTypeDetail": "Statistics / data"
     },
     {
-      "id": "e76ae85ccc6f1d37",
-      "title": "Frank Elderson: Effective supervision through timely remediation",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261006~8887da2bd4.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-06T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261006~8887da2bd4.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "8e43767a8f9bae48",
       "title": "Funding the AI revolution: evidence from euro area sectors",
       "summary": "",
@@ -7910,50 +8238,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "65ba75fd01dc73f4",
-      "title": "Patrick Montagner: Remaining vigilant in a changing risk environment",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261001_1~039634f271.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-01T10:15:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261001_1~039634f271.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
-    },
-    {
       "id": "cbef0ae971313bb7",
       "title": "PRA Regulatory Digest – September 2026",
       "summary": "The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.",
@@ -7998,50 +8282,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
-    },
-    {
-      "id": "a2faf4ec7d75c4ec",
-      "title": "Pedro Machado: The exit test: why the single market in banking depends on how banks fail",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261001~6a72b2ab07.en.html",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-press",
-      "sourceName": "ECB Banking Supervision Press",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-01T07:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261001~6a72b2ab07.en.html",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/press.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "5f7b422438722e9a",
@@ -9336,29 +9576,6 @@
       "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
       "updateType": "Statistics / Data",
       "updateTypeDetail": "Statistics / data"
-    },
-    {
-      "id": "f24d104555c50c98",
-      "title": "Bank of England Weekly Report 16 September 2026",
-      "summary": "Our weekly report contains the latest data on our assets and liabilities. We publish it every Thursday.",
-      "url": "https://www.bankofengland.co.uk/weekly-report/2026/16-september-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-17T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/16-september-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "963f7310bd42f2e6",
@@ -10692,29 +10909,6 @@
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "4e9c19acf4cca7de",
-      "title": "Euro area bank interest rate statistics: June 2026",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260731~208a979498.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-statistical-press-releases",
-      "sourceName": "ECB Statistical Press Releases",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-07-31T08:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260731~208a979498.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/statpress.html",
-      "updateType": "Statistics / Data",
-      "updateTypeDetail": "Statistics / data"
     },
     {
       "id": "c9f9c5f67d9ec3f3",
@@ -12458,52 +12652,6 @@
         }
       ],
       "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.listofsupervisedentities202606.en.pdf",
-      "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "2b1e6e98ede6ba0d",
-      "title": "ECB Guide on materiality assessment (EGMA)",
-      "summary": "",
-      "url": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisory_guide_egma_202606.en.pdf",
-      "sourcePageUrl": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "officialSourcePage": "https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html",
-      "sourceId": "ecb-supervision-publications",
-      "sourceName": "ECB Banking Supervision Publications",
-      "institution": "ECB Banking Supervision",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-06-26T07:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisory_guide_egma_202606.en.pdf"
-      ],
-      "topics": [
-        "Basel / BCBS",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "banking supervision",
-        "supervision"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "banking supervision"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "supervision"
-          ]
-        }
-      ],
-      "link": "https://www.bankingsupervision.europa.eu//ecb/pub/pdf/ssm.supervisory_guide_egma_202606.en.pdf",
       "sourceFeedUrl": "https://www.bankingsupervision.europa.eu/rss/pub.html",
       "updateType": "Publications / Reports",
       "updateTypeDetail": "Publication / report"
@@ -14655,87 +14803,6 @@
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Consultations",
       "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "2b0a02b611a112de",
-      "title": "Prudential Regulation Authority Business Plan 2026/27",
-      "summary": "The 2026/27 Business Plan sets out the workplan for each of our strategic priorities and our strategy to advance our primary and secondary objectives. This year’s business plan confirms the PRA’s continued focus on safety and soundness and policyholder protection, alongside a proportionate and efficient approach to regulation.",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/pra-business-plan-2026-27",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-17T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/pra-business-plan-2026-27",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
-      "id": "8e2094f580ba4f1a",
-      "title": "CP6/26 – High loan to income lending",
-      "summary": "Consultation paper 6/26",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/high-loan-to-income-lending-consultation-paper",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-01T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "consultation paper"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "consultation paper"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/high-loan-to-income-lending-consultation-paper",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
-      "id": "42ee8d1dcde09530",
-      "title": "PRA Regulatory Digest – March 2026",
-      "summary": "The PRA Regulatory Digest is for people working in the UK financial services industry and highlights key regulatory news and publications delivered for the month.",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/march-2026",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-01T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/regulatory-digest/2026/march-2026",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "6b447ad3036d4c2e",
@@ -20758,41 +20825,6 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "7b83d489653f9517",
-      "title": "Bullseye Financial Ltd enters administration",
-      "summary": "On 23 October 2026, Bullseye Financial Ltd (Bullseye Financial) entered administration. Robert Young of Azets Holdings Limited and Matthew Haw of RSM UK Restructuring Advisory LLP were appointed as joint administrators. The joint administrators are responsible for managing the affairs of the firm during the administration process. Bullseye Financial is authorised by the FCA. It served only professional investors, either managing investment portfolios for them within agreed limits or carrying out their instructions to buy or sell investments without giving investment advice. On 11 March 2026, Bullseye Financial agreed to a voluntary requirement to stop carrying out any regulated activity.",
-      "url": "https://www.fca.org.uk/news/news-stories/bullseye-financial-ltd-enters-administration",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Governance"
-      ],
-      "matchedKeywords": [
-        "conduct"
-      ],
-      "topicMatches": [
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/news-stories/bullseye-financial-ltd-enters-administration",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "2e159baac0acd643",
       "title": "Demands for disguised remuneration scheme loan repayments",
       "summary": "We have seen demands being made for people to repay loans, or purported loans, provided as part of disguised remuneration schemes. Disguised remuneration schemes saw people – often contractors, consultants and agency workers – paid for their work through loans instead of regular salaries as a way to avoid tax. HMRC has sought to tackle this tax avoidance through what has been termed the loan charge and published guidance for those affected. Questions have been raised about the regulatory status of these loans and whether they were ever intended to be repaid. Some of those affected dispute liability for the amounts being claimed and challenge whether the debts can be legally enforced.",
@@ -20972,10 +21004,10 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "4c9bc14087dd4d8d",
-      "title": "FCA encourages former Verus Financial Services Limited customers to check if they can claim with FSCS",
-      "summary": "Compensation may be available to former Verus customers through the Financial Services Compensation Scheme (FSCS), subject to assessment. If you were a customer of Verus Financial Services Limited, you can now check to see if you can claim for compensation on the FSCS website. The FCA is supporting the FSCS as it assesses claims against Verus Financial Services Limited and decides whether individual claims are eligible for compensation. Verus was an independent financial adviser firm providing investment, pension, mortgage, equity release and insurance advice.",
-      "url": "https://www.fca.org.uk/news/news-stories/fca-encourages-former-verus-financial-services-limited-customers-check-if-they-can-claim-fscs",
+      "id": "287033d78d7182ed",
+      "title": "FCA launches world-first platform giving firms new insight into AI innovation",
+      "summary": "New resource brings together real-world examples of AI adoption across financial services, helping firms identify emerging trends and opportunities. The FCA has launched a world-first AI Spotlight Observatory that provides firms, academics and innovators with a comprehensive view of how AI is being adopted across financial services. Based on practical use cases from more than 200 organisations and spanning 150 areas of activity, the online platform highlights how firms are using AI across the industry and where trends are developing.",
+      "url": "https://www.fca.org.uk/news/press-releases/fca-launches-world-first-platform-giving-firms-new-insight-ai-innovation",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -21001,10 +21033,10 @@
           ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/news-stories/fca-encourages-former-verus-financial-services-limited-customers-check-if-they-can-claim-fscs",
+      "link": "https://www.fca.org.uk/news/press-releases/fca-launches-world-first-platform-giving-firms-new-insight-ai-innovation",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "7159d84e8f4d53db",
@@ -21116,61 +21148,6 @@
         }
       ],
       "link": "https://www.fca.org.uk/news/press-releases/fca-sets-expectations-firms-making-car-finance-settlement-offers",
-      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "bb1e6262b961d758",
-      "title": "FCA stops HTX's crypto promotions",
-      "summary": "The FCA has secured High Court undertakings to ensure that HTX (formerly Huobi), a global crypto exchange, will not knowingly promote cryptoasset services unlawfully to UK consumers. The FCA took legal action against HTX in October 2025 for breaking UK financial promotion rules. HTX had failed repeatedly to engage with the FCA. Following the commencement of proceedings, HTX took steps to exit the UK. The FCA and Huobi Global S. A. have now reached a settlement in the case. HTX is no longer active in the UK. Consumers can no longer make deposits, and new UK users cannot sign up to the platform. HTX will not target, solicit or actively seek to engage UK consumers.",
-      "url": "https://www.fca.org.uk/news/press-releases/fca-stops-htxs-crypto-promotions",
-      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
-      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
-      "sourceId": "fca-news",
-      "sourceName": "FCA News",
-      "institution": "Financial Conduct Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Crypto / Digital Assets",
-        "Governance",
-        "Payments / Open Finance"
-      ],
-      "matchedKeywords": [
-        "crypto",
-        "cryptoasset",
-        "conduct",
-        "settlement"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "crypto",
-            "cryptoasset"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "conduct"
-          ]
-        },
-        {
-          "id": "payments-open-finance",
-          "label": "Payments / Open Finance",
-          "keywords": [
-            "settlement"
-          ]
-        }
-      ],
-      "link": "https://www.fca.org.uk/news/press-releases/fca-stops-htxs-crypto-promotions",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
@@ -21316,6 +21293,50 @@
         }
       ],
       "link": "https://www.fca.org.uk/news/blogs/helping-more-people-break-cycle-persistent-credit-card-debt",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "093341c424ff360f",
+      "title": "Insurance firms called on to improve claims handling",
+      "summary": "The FCA and Financial Ombudsman Service have published a report setting out what insurers need to focus on to ensure claims are dealt with promptly, clearly and fairly. We are helping firms learn from Financial Ombudsman complaints and strengthen their claims handling in line with our existing rules to improve service quality for insurance customers. The report highlights where claims handling can improve and explains the key rules firms need to meet. Building on findings in our 2025 review of home and travel insurance, it calls on insurers to:Keep claims moving. Give customers clear and timely updates. Take responsibility when problems arise with third parties working on their behalf.",
+      "url": "https://www.fca.org.uk/news/news-stories/insurance-firms-called-improve-claims-handling",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Consumer Protection",
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "complaints",
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "consumer-protection",
+          "label": "Consumer Protection",
+          "keywords": [
+            "complaints"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/news-stories/insurance-firms-called-improve-claims-handling",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
@@ -21504,6 +21525,41 @@
       "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
     },
     {
+      "id": "98b7a5a814fa2fb5",
+      "title": "The courage to change",
+      "summary": "Speech by Sarah Pritchard, deputy chief executive, at TheCityUK National Conference 2026. Our willingness to do things differently in this country has helped make our financial services sector one of the most innovative in the world. We didn’t get here by accident. It took ambitious firms, given the right amount of room to experiment. The FCA recognised the importance of pushing the boundaries with Project Innovate in 2014. And the world’s first Regulatory Sandbox in 2016, allowing firms to test innovative ideas with dedicated FCA support. By 2024, fintech was the most significant job source in UK financial services.",
+      "url": "https://www.fca.org.uk/news/speeches/courage-change",
+      "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
+      "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
+      "sourceId": "fca-news",
+      "sourceName": "FCA News",
+      "institution": "Financial Conduct Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": null,
+      "pdfLinks": [],
+      "topics": [
+        "Governance"
+      ],
+      "matchedKeywords": [
+        "conduct"
+      ],
+      "topicMatches": [
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "conduct"
+          ]
+        }
+      ],
+      "link": "https://www.fca.org.uk/news/speeches/courage-change",
+      "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
       "id": "7ad6c7cab3a93ca4",
       "title": "The EBA consults on revised technical standards for the reclassification of investment firms as credit institutions",
       "summary": "The European Banking Authority (EBA) today launched a consultation on three draft Regulatory Technical Standards (RTS) on the reclassification of investment firms as credit institutions, when they exceed the EUR 30 billion total assets threshold. The proposals clarify how total assets should be calculated against this threshold, how investment firms should report this information to competent authorities, and the conditions under which competent authorities can decide to grant a waiver. The revised RTS reflect the 2024 amendments to the Capital Requirements Directive (CRD) and contribute to a more proportionate and risk-based application of the framework for investment firms.",
@@ -21620,10 +21676,10 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "db179e7fe59e750f",
-      "title": "What does 'fair value' look like in practice? Three years into the Consumer Duty, here’s what we’ve learned.",
-      "summary": "Fair value is a simple yet important principle at the heart of the Consumer Duty: the price customers pay should be reasonable, relative to the benefits they get. But applying that principle in practice requires judgement. Three years into the Consumer Duty, we’re seeing clear differences between firms that have embedded fair value into their approach and those that still need to strengthen their assessments, evidence and monitoring. We recently reviewed how firms across the consumer finance market assess, evidence and monitor fair value.",
-      "url": "https://www.fca.org.uk/news/blogs/fair-value-look-practice-three-years-consumer-duty",
+      "id": "73a368a3f9be432d",
+      "title": "UK financial watchdogs clarify cyber expectations as attacks rise",
+      "summary": "UK’s financial regulators are proposing new guidance to help financial services firms prepare for and recover from cyber incidents as threats grow. The Bank of England’s most recent Systemic Risk Survey cited cyber as one of the risks that would have the greatest impact on the UK financial system. October 2026 saw the second-highest monthly number of cyber incidents reported to the FCA in 5 years, and the highest in the past 18 months, 52% above the previous high recorded in May 2025.",
+      "url": "https://www.fca.org.uk/news/press-releases/uk-financial-watchdogs-clarify-cyber-expectations-attacks-rise",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -21635,23 +21691,12 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
-        "Consumer Protection",
         "Governance"
       ],
       "matchedKeywords": [
-        "consumer duty",
-        "consumer finance",
         "conduct"
       ],
       "topicMatches": [
-        {
-          "id": "consumer-protection",
-          "label": "Consumer Protection",
-          "keywords": [
-            "consumer duty",
-            "consumer finance"
-          ]
-        },
         {
           "id": "governance",
           "label": "Governance",
@@ -21660,10 +21705,10 @@
           ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/blogs/fair-value-look-practice-three-years-consumer-duty",
+      "link": "https://www.fca.org.uk/news/press-releases/uk-financial-watchdogs-clarify-cyber-expectations-attacks-rise",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "2f3e9390dbc9ab1e",
@@ -21715,7 +21760,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-11-18T23:57:58.074Z",
+      "publishedAt": "2026-11-19T15:21:54.423Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21739,7 +21784,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T23:57:58.074Z",
+      "publishedAt": "2026-11-19T15:21:54.423Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21763,7 +21808,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T23:57:58.074Z",
+      "publishedAt": "2026-11-19T15:21:54.423Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21787,7 +21832,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T23:57:58.074Z",
+      "publishedAt": "2026-11-19T15:21:54.423Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21811,7 +21856,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T23:57:58.074Z",
+      "publishedAt": "2026-11-19T15:21:54.423Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21835,7 +21880,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T23:57:58.074Z",
+      "publishedAt": "2026-11-19T15:21:54.423Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21859,7 +21904,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T23:57:58.074Z",
+      "publishedAt": "2026-11-19T15:21:54.423Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21883,7 +21928,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T23:57:58.074Z",
+      "publishedAt": "2026-11-19T15:21:54.423Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21907,7 +21952,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T23:57:58.074Z",
+      "publishedAt": "2026-11-19T15:21:54.423Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21931,7 +21976,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T23:57:58.074Z",
+      "publishedAt": "2026-11-19T15:21:54.423Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21955,7 +22000,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T23:57:58.074Z",
+      "publishedAt": "2026-11-19T15:21:54.423Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21979,7 +22024,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T23:57:58.074Z",
+      "publishedAt": "2026-11-19T15:21:54.423Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22003,7 +22048,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-18T23:57:58.074Z",
+      "publishedAt": "2026-11-19T15:21:54.423Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22024,11 +22069,11 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 84
+      "count": 83
     },
     {
       "updateType": "News",
-      "count": 68
+      "count": 69
     },
     {
       "updateType": "Consultations",
