@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T23:45:00.813Z",
-  "totalPublications": 487,
+  "generatedAt": "2026-11-21T14:19:48.539Z",
+  "totalPublications": 498,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -25,12 +25,12 @@
       "institution": "European Central Bank",
       "region": "EU",
       "status": "success",
-      "parserMode": "rss",
-      "itemCount": 0,
+      "parserMode": "rss-parser",
+      "itemCount": 15,
       "url": "https://www.ecb.europa.eu/rss/pub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "message": "Official source page is available. No clean dated items were extracted today, so the source page is shown as a direct link."
+      "message": "Parsed successfully."
     },
     {
       "id": "ecb-governing-council-statements",
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 15,
+      "itemCount": 12,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -456,7 +456,7 @@
     },
     {
       "topic": "Basel / BCBS",
-      "count": 136
+      "count": 137
     },
     {
       "topic": "Governance",
@@ -468,7 +468,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 39
+      "count": 40
     },
     {
       "topic": "Climate / ESG",
@@ -479,11 +479,11 @@
       "count": 29
     },
     {
-      "topic": "Credit Risk",
-      "count": 25
+      "topic": "Crypto / Digital Assets",
+      "count": 26
     },
     {
-      "topic": "Crypto / Digital Assets",
+      "topic": "Credit Risk",
       "count": 25
     },
     {
@@ -492,19 +492,19 @@
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 20
+      "count": 21
     },
     {
       "topic": "Stress Testing",
       "count": 20
     },
     {
-      "topic": "Recovery / Resolution",
+      "topic": "AI",
       "count": 15
     },
     {
-      "topic": "AI",
-      "count": 12
+      "topic": "Recovery / Resolution",
+      "count": 15
     },
     {
       "topic": "Liquidity",
@@ -530,7 +530,7 @@
     },
     {
       "topic": "Basel / BCBS",
-      "count": 136
+      "count": 137
     },
     {
       "topic": "Governance",
@@ -542,7 +542,7 @@
     },
     {
       "topic": "AML / Financial Crime",
-      "count": 39
+      "count": 40
     },
     {
       "topic": "Climate / ESG",
@@ -553,11 +553,11 @@
       "count": 29
     },
     {
-      "topic": "Credit Risk",
-      "count": 25
+      "topic": "Crypto / Digital Assets",
+      "count": 26
     },
     {
-      "topic": "Crypto / Digital Assets",
+      "topic": "Credit Risk",
       "count": 25
     },
     {
@@ -566,19 +566,19 @@
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 20
+      "count": 21
     },
     {
       "topic": "Stress Testing",
       "count": 20
     },
     {
-      "topic": "Recovery / Resolution",
+      "topic": "AI",
       "count": 15
     },
     {
-      "topic": "AI",
-      "count": 12
+      "topic": "Recovery / Resolution",
+      "count": 15
     },
     {
       "topic": "Liquidity",
@@ -699,15 +699,15 @@
       "count": 9
     },
     {
+      "keyword": "fraud",
+      "count": 9
+    },
+    {
       "keyword": "resolution",
       "count": 9
     },
     {
       "keyword": "esg",
-      "count": 8
-    },
-    {
-      "keyword": "fraud",
       "count": 8
     },
     {
@@ -731,8 +731,16 @@
       "count": 7
     },
     {
+      "keyword": "artificial intelligence",
+      "count": 6
+    },
+    {
       "keyword": "risk culture",
       "count": 6
+    },
+    {
+      "keyword": "ai models",
+      "count": 5
     },
     {
       "keyword": "crr",
@@ -775,10 +783,6 @@
       "count": 5
     },
     {
-      "keyword": "ai models",
-      "count": 4
-    },
-    {
       "keyword": "counterparty credit risk",
       "count": 4
     },
@@ -811,10 +815,6 @@
       "count": 3
     },
     {
-      "keyword": "artificial intelligence",
-      "count": 3
-    },
-    {
       "keyword": "basel iii",
       "count": 3
     },
@@ -824,6 +824,10 @@
     },
     {
       "keyword": "carbon",
+      "count": 3
+    },
+    {
+      "keyword": "cybersecurity",
       "count": 3
     },
     {
@@ -859,6 +863,10 @@
       "count": 3
     },
     {
+      "keyword": "stablecoins",
+      "count": 3
+    },
+    {
       "keyword": "taxonomy",
       "count": 3
     },
@@ -880,10 +888,6 @@
     },
     {
       "keyword": "core principles for effective banking supervision",
-      "count": 2
-    },
-    {
-      "keyword": "cybersecurity",
       "count": 2
     },
     {
@@ -913,16 +917,12 @@
     {
       "keyword": "payment systems",
       "count": 2
-    },
-    {
-      "keyword": "pillar 1",
-      "count": 2
     }
   ],
   "regionSummary": [
     {
       "region": "EU",
-      "count": 270
+      "count": 281
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 77
+      "count": 88
     },
     {
       "institution": "European Banking Authority",
@@ -1627,6 +1627,43 @@
       "updateTypeDetail": "Publication / report"
     },
     {
+      "id": "509bf10d95dc13b4",
+      "title": "Transatlantic securitisation gap revisited: comparing EU and US securitisation architectures",
+      "summary": "This paper revisits the transatlantic gap in securitisation issuance. In comparing the securitisation frameworks in the European Union (EU) and United States, we adopt a granular approach, distinguishing between instrument types and considering the broader funding and risk transfer frameworks in which securitisation operates. We conclude that the apparent gap in terms of scale stems from methodological and structural differences in how securitisation is defined and measured across jurisdictions, rather than from a structurally weaker or less developed EU securitisation market.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op403.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-19T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op403.en.pdf"
+      ],
+      "topics": [
+        "Basel / BCBS"
+      ],
+      "matchedKeywords": [
+        "securitisation"
+      ],
+      "topicMatches": [
+        {
+          "id": "basel-framework",
+          "label": "Basel / BCBS",
+          "keywords": [
+            "securitisation"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op403.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
       "id": "d3b954417f9ee60c",
       "title": "ECB keeps capital requirements broadly stable for 2027, focuses its priorities on banks’ financial and operational resilience",
       "summary": "",
@@ -1945,6 +1982,135 @@
       "updateTypeDetail": "Publication / report"
     },
     {
+      "id": "6fe7444645822ddc",
+      "title": "Financial stability implications of AI adoption in the financial industry and the real economy",
+      "summary": "The rapid adoption of artificial intelligence (AI) is reshaping the financial industry as well as the broader economy, creating both opportunities and risks. Banks and asset managers, which represent key channels of financial intermediation in the euro area, are increasingly using AI for tasks such as credit scoring, fraud detection and portfolio management. While AI adoption can support innovation and enhance operational efficiency, it may also introduce new risks and amplify existing vulnerabilities, including a reliance on a small number of technology providers that creates concentration and third-party dependencies across the financial system.",
+      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202611_01~dd6e15a84a.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-18T09:00:00.000Z",
+      "pdfLinks": [
+        "https://ec.europa.eu/eurostat/documents/7870049/23260410/KS-01-26-009-EN-N.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2025-09/146b3558-d026-47bf-a872-f05e93ed30d2/Rising%20application%20of%20AI%20in%20EU%20banking%20and%20payments%20sector.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2026-02/ESMA50-481369926-30599_TRV_Risk_Analysis_AI_adoption_and_trends_in_securities_markets.pdf",
+        "https://www.europarl.europa.eu/RegData/etudes/STUD/2025/778576/ECTI_STU(2025)778576_EN.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpdps/ecb.dp32~90bd9a7638.en.pdf",
+        "https://www.fsb.org/uploads/P14112024.pdf",
+        "https://www.iosco.org/library/pubdocs/pdf/IOSCOPD788.pdf",
+        "https://ediss.sub.uni-hamburg.de/bitstream/ediss/11340/2/A%20Azzutti%20%282024%29%20AI%20and%20Market%20Manipulation.pdf",
+        "https://www.fsb.org/uploads/P151026-1.pdf",
+        "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisory_guide_egim_202606.en.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2025-11/d8b999ce-a1d9-4964-9606-971bbc2aaf89/AI%20Act%20implications%20for%20the%20EU%20banking%20sector.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/warnings/esrb.warning260625_on_systemic_cyber_risks_stemming_from_frontier_ai_models~ef424708cf.en.pdf"
+      ],
+      "topics": [
+        "AI",
+        "AML / Financial Crime"
+      ],
+      "matchedKeywords": [
+        "artificial intelligence",
+        "fraud"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "artificial intelligence"
+          ]
+        },
+        {
+          "id": "aml-financial-crime",
+          "label": "AML / Financial Crime",
+          "keywords": [
+            "fraud"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202611_01~dd6e15a84a.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "26a070c8fcaf8934",
+      "title": "Financial Stability Review, November 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-18T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/pdf/ecb.fsr202611~e03b919d36.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2185.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1426.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/other/financialstabilityreview201106en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/other/financialstabilityreview201511.en.pdf",
+        "https://www.bundesbank.de/resource/blob/752458/9ca020554db6dc2cb0ebcab5134fe2ce/472B63F073F071307366337C94F8C870/2018-07-16-dkp-27-data.pdf",
+        "https://glennrudebusch.com/wp-content/uploads/2012_EJ_Christensen-Rudebusch_The-Response-of-Interest-Rates-to-US-and-UK-Quantitative-Easing.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/occasional/esrb.op23~07d5c3eef2.en.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/reports/esrb.report202505_syntheticSTSsecuritisation.en.pdf",
+        "https://www.bis.org/bcbs/publ/d607.pdf",
+        "https://www.bis.org/publ/qtrpdf/r_qt2603c.pdf",
+        "https://www.ecb.europa.eu/press/govcstatement/pdf/ecb.govcstatement202607~332019a7e2.sk.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/other/ecb.simplification_supervisory_reporting_framework202512.en.pdf",
+        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202604.sv.pdf",
+        "https://www.bankingsupervision.europa.eu/press/letterstobanks/shared/pdf/2026/ssm.2026_letter_on_AI_enabled_cybersecurity_threats.en.pdf",
+        "https://www.ecb.europa.eu/press/consultationresponse/pdf/ecb.conresp202609_micarreview.pt.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3025~c975fbec45.en.pdf",
+        "https://www.fsb.org/uploads/P040226.pdf",
+        "https://www.eiopa.europa.eu/document/download/a2bb1c3c-b86b-419f-b6ab-b46cf5b5b239_en?filename=Factsheet%20-%20EEA%20%28re%29insurers%E2%80%99%20private%20asset%20exposures%20-%202025%20Q4.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/recommendations/esrb.recommendation220125_on_reform_of_money_market_funds~30936c5629.en.pdf",
+        "https://www.ecb.europa.eu/press/intro/publications/pdf/ecb.ebaecb202605.de.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-09/bd7199ea-b953-4bd9-bcc8-4851feefa983/20260917_CfA_Private%20Credit_Annex.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "8e30984711c39d4e",
+      "title": "Financial stability risks from large IPOs, equity issuance and passive investing",
+      "summary": "A new wave of equity issuance, concentrated in AI-related sectors, has brought public equity financing back to the forefront of capital markets. SpaceX’s record initial public offering (IPO) has led the way, with OpenAI and Anthropic planning to follow. This special feature assesses the financial stability implications of large IPOs and equity issuance in general, as well as how these interact with the trend towards passive investing. Primary equity financing supports financial stability by absorbing losses and limiting leverage at the firm level, but aggregate equity issuance is highly cyclical and strongly influenced by investor sentiment.",
+      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202611_03~46e116aeb8.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-18T09:00:00.000Z",
+      "pdfLinks": [
+        "https://site.warrington.ufl.edu/ritter/files/IPOs-Age-of-Companies-Going-Public.pdf",
+        "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-research/ipo-surge-a-red-flag-for-markets/redacted-report.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202611_03~46e116aeb8.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
       "id": "23fe452aebb1d3be",
       "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
       "summary": "",
@@ -2051,14 +2217,14 @@
       "updateTypeDetail": "News / announcement"
     },
     {
-      "id": "0c95e3f9aef8b851",
+      "id": "5bd5d044f0a226a8",
       "title": "Monetary policy, segmented capital markets and innovation",
       "summary": "We identify a novel mechanism linking monetary policy, innovation, and capital-market segmentation. When capital markets are imperfectly integrated, contractionary monetary policy tightens the financing constraints of externally financed firms, amplifying the decline in innovation induced by tighter financial conditions; monetary easing operates in reverse. Using granular euro-area firm-level data on balance sheets and patenting, matched with bank-level and credit-registry information, we show that monetary policy affects innovation through financing constraints. The effects are strongest for firms with high intangible intensity and for firms operating in AI-related sectors.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3311~66cc2a4d65.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -2071,9 +2237,9 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3311~66cc2a4d65.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "8f2b751b51737892",
@@ -2570,6 +2736,65 @@
       "updateTypeDetail": "Publication / report"
     },
     {
+      "id": "0d09c22d2598dd1b",
+      "title": "Decoding the cyber-AI nexus",
+      "summary": "The rapid evolution of artificial intelligence (AI) is reshaping the cyber threat landscape, with significant implications for financial stability in the euro area. This special feature explores the complex interplay between AI and cybersecurity, highlighting how advanced AI models are enabling attackers and defenders alike to enhance their capabilities. Highly capable and agentic AI systems are increasing the scale, speed and sophistication of attacks while also introducing new vulnerabilities. These include AI models themselves being exposed to novel types of attack and AI agents failing to act as their human operators intend.",
+      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202611_02~8cca80a3c3.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-16T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.fsb.org/uploads/P130423-3.pdf",
+        "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/02/oecd-framework-for-the-classification-of-ai-systems_336a8b57/cb6d9eca-en.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/reports/esrb.report200219_systemiccyberrisk~101a09685e.en.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/reports/esrb.SystemiCyberRisk.220127~b6655fa027.en.pdf",
+        "https://www.imf.org/-/media/files/publications/sdn/2020/english/sdnea2020007.pdf",
+        "https://www.esrb.europa.eu/pub/pdf/warnings/esrb.warning260625_on_systemic_cyber_risks_stemming_from_frontier_ai_models~ef424708cf.en.pdf",
+        "https://www.fsb.org/uploads/P310826.pdf",
+        "https://metr.org/hugging-face-incident-report-aug-2026.pdf",
+        "https://www.esma.europa.eu/sites/default/files/2026-06/JC_2026_16_ESAs_2025_report_on_major_ICT-related_incidents.pdf",
+        "https://www.eba.europa.eu/sites/default/files/2026-06/237ad40d-8ab0-4b2f-9fa1-5d6694829ff4/Risk%20Assessment%20Report%20-%20Spring%202026.pdf"
+      ],
+      "topics": [
+        "AI",
+        "DORA / Operational Resilience"
+      ],
+      "matchedKeywords": [
+        "artificial intelligence",
+        "ai systems",
+        "ai models",
+        "cybersecurity"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "artificial intelligence",
+            "ai systems",
+            "ai models"
+          ]
+        },
+        {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "cybersecurity"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202611_02~8cca80a3c3.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
       "id": "5c1c9f5fdc195e7e",
       "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
       "summary": "",
@@ -2635,6 +2860,31 @@
       ],
       "updateType": "Events",
       "updateTypeDetail": "Event / conference"
+    },
+    {
+      "id": "ffb332fbe3b8af2f",
+      "title": "The impact of monetary policy on productivity",
+      "summary": "This occasional paper extends previous analyses by the WGF Expert Group on Productivity of the impact of monetary policy on productivity by exploring new interactions, particularly the influence of market power and the role of productivity in the transmission of monetary policy through the banking system. Using a consistent definition of monetary policy shocks throughout the report and several large-scale micro distribution exercises across euro area countries, our study examines the short-run procyclical effects of monetary policy shocks on productivity through investment decisions.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op402.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-15T23:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op402.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op402.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
     },
     {
       "id": "376eb6600ab932d1",
@@ -3057,14 +3307,14 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "e4fb82b634cbb395",
+      "id": "18b1bddddc224902",
       "title": "The macroeconomic effects of defence spending: what impact beyond GDP?",
       "summary": "This paper estimates the macroeconomic effects of defence spending for a panel of up to 27 EU member states over 1999–2025 using Panel Local Projections. We look beyond the output multiplier that dominates the literature to trace the price implications of defence spending and the demand-side channels through which effects operate. A key methodological contribution is a country-specific order-date adjustment for capital expenditure, constructed from the SIPRI Arms Transfers Database, which shifts the estimated (unitary) peak GDP multiplier from around year one to approximately year three to four. Under this specification, the HICP inflation response is higher and occurs earlier.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3310~6ef5699d9a.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -3077,9 +3327,121 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3310~6ef5699d9a.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "6e6aa6b9dc8633cb",
+      "title": "Artificial intelligence and European firms: the cost of market-based financing",
+      "summary": "This box examines how exposure to artificial intelligence (AI) is reflected in the market-based financing conditions of European firms. Using a novel firm-level measure of AI exposure derived from the earnings call transcripts of STOXX Europe 600 constituents, we show that AI exposure extends beyond a narrow set of infrastructure providers and hyperscalers, encompassing a broader range of firms that adopt AI for product innovation or productivity gains. Panel regressions show that AI-exposed firms earn a robust equity return premium of around 1.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_06~a36e367caf.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-12T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3093~458d28b4bc.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op395.en.pdf"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "topicMatches": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "keywords": [
+            "artificial intelligence"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_06~a36e367caf.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "c41bcfa1d83260f5",
+      "title": "Economic Bulletin Issue 7, 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/html/eb202607.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-12T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/ecbu/eb202607.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/ecbu/ecb.eb_annex202607~f276349687.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/html/eb202607.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
       "updateType": "Working Papers / Research",
       "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "e5052aecbb0815dc",
+      "title": "Narratives and risks: a quantitative toolkit to evaluate scenarios applied to the Middle East conflict",
+      "summary": "This box introduces a new quantitative methodology to evaluate alternative scenarios around the Eurosystem/ECB staff baseline projections, with a focus on their empirical plausibility. In a first step, the methodology constructs joint predictive distributions capturing temporal and cross-variable dynamics for euro area real GDP growth and HICP inflation. It then assesses the empirical plausibility of scenario outcomes by computing the likelihood of each scenario relative to that of the baseline against historical patterns.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_01~63d20abac5.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-12T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op371.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_01~63d20abac5.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "caa0e7eff13667ec",
+      "title": "What share of public services employment is contributed by the private sector?",
+      "summary": "This box examines the composition of “public services” employment in the euro area. This sector has contributed disproportionately to aggregate employment growth in recent years. Drawing on the ECB Consumer Expectations Survey and Eurostat’s EU Labour Force Survey, we show that only around half of the 6.9 million public services jobs created since 2008 can be attributed to the public sector. Within public services, health and social work is the dominant driver, yet this is also the least “publicly provided” sub-sector.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_03~efdc9cea95.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-12T09:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_03~efdc9cea95.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "b9f568088015f2bb",
@@ -3126,6 +3488,47 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
+      "id": "29cdb5958616130c",
+      "title": "Who holds stablecoins? New evidence on euro area consumer holdings",
+      "summary": "This box looks at whether stablecoins are on the rise in the euro area and what the implications are for financial stability, using data from the ECB’s Consumer Expectations Survey. It highlights the transactional nature of stablecoins and the risks posed by an increase in consumer holdings. While current exposures remain limited, the analysis underscores the importance of monitoring the use of stablecoins and the potential spillover effects on consumer confidence and financial markets.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_08~f4ddf0117c.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-11T13:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3199~ad552b59ec.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op287~ea7eebc23f.en.pdf",
+        "https://www.bancaditalia.it/pubblicazioni/mercati-infrastrutture-e-sistemi-di-pagamento/approfondimenti/2026-086/N.86-MISP.pdf?language_id=1",
+        "https://www.esrb.europa.eu/pub/pdf/reports/esrb.report202510_cryptoassets.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/ire/focus/ecb.irebox202206_05~9f49f44d15.en.pdf"
+      ],
+      "topics": [
+        "Crypto / Digital Assets"
+      ],
+      "matchedKeywords": [
+        "stablecoins"
+      ],
+      "topicMatches": [
+        {
+          "id": "crypto-digital-assets",
+          "label": "Crypto / Digital Assets",
+          "keywords": [
+            "stablecoins"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_08~f4ddf0117c.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
       "id": "6d1d05759ec1987b",
       "title": "How the sovereign debt crisis shaped wealth inequality in the euro area",
       "summary": "",
@@ -3151,14 +3554,14 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "dbe3914e517d25af",
+      "id": "b95bbdb79e8b89dd",
       "title": "The real and financial effects of local corporate tax increases: evidence from linked firm–bank data",
       "summary": "We study how local corporate tax increases affect firms’ financing and real activity. In Portugal, municipalities independently set a surtax on corporate income, generating plausibly exogenous variation across space and time. We link the universe of corporate balance sheets and profit-and-loss statements to loan-level data from the Bank of Portugal’s credit registry, allowing us to track firms’ liquidity, leverage, borrowing costs, and credit quality alongside revenues, employment, and productivity. We estimate local-projection difference-in-differences models that address staggered treatment timing and dynamic responses.",
       "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3309~4e8af93b3a.en.pdf",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
       "institution": "European Central Bank",
       "region": "EU",
       "jurisdiction": "EU",
@@ -3192,9 +3595,34 @@
         }
       ],
       "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3309~4e8af93b3a.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "dc24d6fd2f3b8706",
+      "title": "The role of refining costs and margins in HICP energy inflation",
+      "summary": "Energy market developments continue to be shaped by the conflict in the Middle East. Global refinery runs have fallen significantly compared to previous years, driven by reduced refinery activity in the Middle East, Russia and Asia. The constrained supply of crude oil and refined products has led to a persistent global increase in refining margins and costs, particularly for diesel.",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_05~d82730508f.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-11T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3062~abe560353f.cs.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_05~d82730508f.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
     },
     {
       "id": "b89b47769a10bf94",
@@ -3760,9 +4188,7 @@
       "jurisdiction": "UK",
       "sourceType": "rss",
       "publishedAt": "2026-11-06T14:00:00.000Z",
-      "pdfLinks": [
-        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/the-aggregate-and-distributional-implications-of-credit-shocks-on-housing-and-rental-markets.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
       "topicMatches": [],
@@ -3785,10 +4211,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-11-06T12:14:56.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-07/5ebd21e8-52f4-4b99-acbc-f7d725c3694e/Opinion%20Finrep%20IFRS%2018%20-%20interim%20period.pdf",
-        "https://www.eba.europa.eu/sites/default/files/2026-08/363c9362-68f8-43ad-bf66-8a86c63e6b8e/3rd%20FRTB%20DA%20-%20Technical%20issues%20and%20Supervisory%20Benchmarking.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Reporting / Disclosure",
         "Supervision / Enforcement"
@@ -3934,13 +4357,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-11-06T00:00:00.000Z",
-      "pdfLinks": [
-        "https://www.imf.org/-/media/files/publications/gfsr/2026/october/english/text.pdf",
-        "https://www.fsb.org/uploads/P060526.pdf",
-        "https://www.esrb.europa.eu/pub/pdf/asc/esrb.ascreport202512_AIandsystemicrisk.en.pdf",
-        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3233~9e3ea8a772.en.pdf",
-        "https://www.fsb.org/uploads/P030717-4.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Basel / BCBS",
         "Supervision / Enforcement"
@@ -4030,9 +4447,7 @@
       "jurisdiction": "US",
       "sourceType": "rss",
       "publishedAt": "2026-11-05T16:00:00.000Z",
-      "pdfLinks": [
-        "https://www.federalreserve.gov/newsevents/pressreleases/files/enf20210304a1.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Governance",
         "Supervision / Enforcement"
@@ -4099,9 +4514,7 @@
       "jurisdiction": "EU",
       "sourceType": "rss",
       "publishedAt": "2026-11-05T12:22:03.000Z",
-      "pdfLinks": [
-        "https://www.eba.europa.eu/sites/default/files/2026-11/3c8b1810-c335-499a-803f-6d795ce3d196/Final%20report%20on%20Guidelines%20on%20internal%20governance.pdf"
-      ],
+      "pdfLinks": [],
       "topics": [
         "Capital Requirements",
         "Governance",
@@ -21477,7 +21890,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-11-20T23:45:00.813Z",
+      "publishedAt": "2026-11-21T14:19:48.539Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21501,7 +21914,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-20T23:45:00.813Z",
+      "publishedAt": "2026-11-21T14:19:48.539Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21525,31 +21938,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-20T23:45:00.813Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "isSourceLandingCard": true,
-      "updateType": "Source Pages",
-      "updateTypeDetail": "Official source page"
-    },
-    {
-      "id": "96a1564f875a8ed6",
-      "title": "ECB Publications: official source page",
-      "summary": "Open the official ECB Publications source page for the latest publications, announcements and regulatory updates.",
-      "url": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "link": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-11-20T23:45:00.813Z",
+      "publishedAt": "2026-11-21T14:19:48.539Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21573,7 +21962,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-20T23:45:00.813Z",
+      "publishedAt": "2026-11-21T14:19:48.539Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21597,7 +21986,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-20T23:45:00.813Z",
+      "publishedAt": "2026-11-21T14:19:48.539Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21621,7 +22010,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-20T23:45:00.813Z",
+      "publishedAt": "2026-11-21T14:19:48.539Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21645,7 +22034,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-20T23:45:00.813Z",
+      "publishedAt": "2026-11-21T14:19:48.539Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21669,7 +22058,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-20T23:45:00.813Z",
+      "publishedAt": "2026-11-21T14:19:48.539Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21693,7 +22082,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-20T23:45:00.813Z",
+      "publishedAt": "2026-11-21T14:19:48.539Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21717,7 +22106,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-20T23:45:00.813Z",
+      "publishedAt": "2026-11-21T14:19:48.539Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21741,7 +22130,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-20T23:45:00.813Z",
+      "publishedAt": "2026-11-21T14:19:48.539Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21765,7 +22154,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-20T23:45:00.813Z",
+      "publishedAt": "2026-11-21T14:19:48.539Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21789,7 +22178,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-20T23:45:00.813Z",
+      "publishedAt": "2026-11-21T14:19:48.539Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21809,11 +22198,11 @@
       "count": 105
     },
     {
-      "updateType": "News",
-      "count": 70
+      "updateType": "Publications / Reports",
+      "count": 83
     },
     {
-      "updateType": "Publications / Reports",
+      "updateType": "News",
       "count": 70
     },
     {
@@ -21822,7 +22211,7 @@
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 38
+      "count": 37
     },
     {
       "updateType": "Statistics / Data",
@@ -21830,7 +22219,7 @@
     },
     {
       "updateType": "Source Pages",
-      "count": 14
+      "count": 13
     },
     {
       "updateType": "Other",
