@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T17:30:37.950Z",
+  "generatedAt": "2026-11-24T03:52:10.674Z",
   "totalPublications": 497,
   "sourceCount": 34,
   "successfulSources": 34,
@@ -1000,6 +1000,63 @@
     }
   ],
   "publications": [
+    {
+      "id": "2e23544a387e702d",
+      "title": "EBA ESG risk dashboard shows stable climate risk exposures and continued improvements in data quality",
+      "summary": "The European Banking Authority (EBA) today published its latest Environmental, Social and Governance (ESG) risk dashboard, showing continued stability in banks’ transition and physical climate risk indicators across the EU/EEA in second half of 2025. The results also indicate gradual improvements in the availability and quality of climate-related data, particularly for energy efficiency assessments of mortgage portfolios, supporting more robust climate risk monitoring in the banking sector. Pagination First page Previous page Page 1 Current page 2",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-esg-risk-dashboard-shows-stable-climate-risk-exposures-and-continued-improvements-data-quality",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-esg-risk-dashboard-shows-stable-climate-risk-exposures-and-continued-improvements-data-quality",
+      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
+      "sourceId": "eba-press-releases",
+      "sourceName": "EBA Press Releases",
+      "institution": "European Banking Authority",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "html-list",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Climate / ESG",
+        "Governance",
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "climate",
+        "climate risk",
+        "esg",
+        "governance",
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "climate-esg",
+          "label": "Climate / ESG",
+          "keywords": [
+            "climate",
+            "climate risk",
+            "esg"
+          ]
+        },
+        {
+          "id": "governance",
+          "label": "Governance",
+          "keywords": [
+            "governance"
+          ]
+        },
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
     {
       "id": "97b60e0f507b9d63",
       "title": "Philip R. Lane: Climate change and monetary policy",
@@ -20956,65 +21013,6 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "2e23544a387e702d",
-      "title": "EBA ESG risk dashboard shows stable climate risk exposures and continued improvements in data quality",
-      "summary": "The European Banking Authority (EBA) today published its latest Environmental, Social and Governance (ESG) risk dashboard, showing continued stability in banks’ transition and physical climate risk indicators across the EU/EEA in second half of 2025. The results also indicate gradual improvements in the availability and quality of climate-related data, particularly for energy efficiency assessments of mortgage portfolios, supporting more robust climate risk monitoring in the banking sector. Pagination First page Previous page Page 1 Current page 2",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-esg-risk-dashboard-shows-stable-climate-risk-exposures-and-continued-improvements-data-quality",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-esg-risk-dashboard-shows-stable-climate-risk-exposures-and-continued-improvements-data-quality",
-      "sourcePageUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "officialSourcePage": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceFeedUrl": "https://www.eba.europa.eu/publications-and-media/press-releases",
-      "sourceId": "eba-press-releases",
-      "sourceName": "EBA Press Releases",
-      "institution": "European Banking Authority",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "html-list",
-      "publishedAt": null,
-      "pdfLinks": [],
-      "topics": [
-        "Climate / ESG",
-        "Governance",
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "climate",
-        "climate risk",
-        "esg",
-        "governance",
-        "its"
-      ],
-      "topicMatches": [
-        {
-          "id": "climate-esg",
-          "label": "Climate / ESG",
-          "keywords": [
-            "climate",
-            "climate risk",
-            "esg"
-          ]
-        },
-        {
-          "id": "governance",
-          "label": "Governance",
-          "keywords": [
-            "governance"
-          ]
-        },
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "its"
-          ]
-        }
-      ],
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance",
-      "originalPublishedAt": "2026-11-25T00:00:00.000Z",
-      "dateCorrectionReason": "Future date removed because it was likely an effective/application date, not a publication date."
-    },
-    {
       "id": "451ff6bfd7efd309",
       "title": "FCA acts to protect consumers facing demands for disguised remuneration scheme loan repayments",
       "summary": "We've intervened and Ethica Resolve Limited (Ethica), an FCA authorised firm that services and collects debt on behalf of creditors, has agreed to restrictions. These follow demands it made for people to repay loans, or purported loans, provided as part of disguised remuneration schemes. Ethica is acting on behalf of West 28th Street Limited (West 28), which bought disguised remuneration loans from a third party. West 28 is not authorised or regulated by the FCA. Disguised remuneration schemes saw people – often contractors, consultants and agency workers – paid for their work through loans instead of regular salaries. HMRC has published guidance for those affected.",
@@ -21889,7 +21887,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-11-23T17:30:37.950Z",
+      "publishedAt": "2026-11-24T03:52:10.674Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21913,7 +21911,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-23T17:30:37.950Z",
+      "publishedAt": "2026-11-24T03:52:10.674Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21937,7 +21935,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-23T17:30:37.950Z",
+      "publishedAt": "2026-11-24T03:52:10.674Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21961,7 +21959,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-23T17:30:37.950Z",
+      "publishedAt": "2026-11-24T03:52:10.674Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21985,7 +21983,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-23T17:30:37.950Z",
+      "publishedAt": "2026-11-24T03:52:10.674Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22009,7 +22007,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-23T17:30:37.950Z",
+      "publishedAt": "2026-11-24T03:52:10.674Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22033,7 +22031,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-23T17:30:37.950Z",
+      "publishedAt": "2026-11-24T03:52:10.674Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22057,7 +22055,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-23T17:30:37.950Z",
+      "publishedAt": "2026-11-24T03:52:10.674Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22081,7 +22079,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-23T17:30:37.950Z",
+      "publishedAt": "2026-11-24T03:52:10.674Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22105,7 +22103,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-23T17:30:37.950Z",
+      "publishedAt": "2026-11-24T03:52:10.674Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22129,7 +22127,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-23T17:30:37.950Z",
+      "publishedAt": "2026-11-24T03:52:10.674Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22153,7 +22151,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-23T17:30:37.950Z",
+      "publishedAt": "2026-11-24T03:52:10.674Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22177,7 +22175,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-23T17:30:37.950Z",
+      "publishedAt": "2026-11-24T03:52:10.674Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
