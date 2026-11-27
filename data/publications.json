@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T01:31:54.666Z",
-  "totalPublications": 495,
+  "generatedAt": "2026-11-27T16:21:34.417Z",
+  "totalPublications": 494,
   "sourceCount": 34,
   "successfulSources": 34,
   "warningSources": 0,
@@ -207,7 +207,7 @@
       "institution": "Central Bank of Cyprus",
       "region": "Cyprus",
       "status": "success",
-      "parserMode": "html-list-empty",
+      "parserMode": "source-empty-or-unavailable",
       "itemCount": 0,
       "url": "https://www.centralbank.cy/en/announcements",
       "sourcePageUrl": "https://www.centralbank.cy/en/announcements",
@@ -338,7 +338,7 @@
       "region": "EU",
       "status": "success",
       "parserMode": "rss-parser",
-      "itemCount": 12,
+      "itemCount": 11,
       "url": "https://www.ecb.europa.eu/rss/wppub.html",
       "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
       "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
@@ -456,7 +456,7 @@
     },
     {
       "topic": "Basel / BCBS",
-      "count": 138
+      "count": 137
     },
     {
       "topic": "Governance",
@@ -464,7 +464,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 52
+      "count": 53
     },
     {
       "topic": "AML / Financial Crime",
@@ -480,7 +480,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 27
+      "count": 25
     },
     {
       "topic": "Credit Risk",
@@ -492,7 +492,7 @@
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 20
+      "count": 21
     },
     {
       "topic": "Stress Testing",
@@ -530,7 +530,7 @@
     },
     {
       "topic": "Basel / BCBS",
-      "count": 138
+      "count": 137
     },
     {
       "topic": "Governance",
@@ -538,7 +538,7 @@
     },
     {
       "topic": "Reporting / Disclosure",
-      "count": 52
+      "count": 53
     },
     {
       "topic": "AML / Financial Crime",
@@ -554,7 +554,7 @@
     },
     {
       "topic": "Crypto / Digital Assets",
-      "count": 27
+      "count": 25
     },
     {
       "topic": "Credit Risk",
@@ -566,7 +566,7 @@
     },
     {
       "topic": "DORA / Operational Resilience",
-      "count": 20
+      "count": 21
     },
     {
       "topic": "Stress Testing",
@@ -612,7 +612,7 @@
     },
     {
       "keyword": "its",
-      "count": 96
+      "count": 97
     },
     {
       "keyword": "board",
@@ -659,7 +659,7 @@
       "count": 15
     },
     {
-      "keyword": "consultation paper",
+      "keyword": "disclosure",
       "count": 13
     },
     {
@@ -671,7 +671,7 @@
       "count": 13
     },
     {
-      "keyword": "disclosure",
+      "keyword": "consultation paper",
       "count": 12
     },
     {
@@ -699,12 +699,12 @@
       "count": 10
     },
     {
-      "keyword": "digital euro",
+      "keyword": "guidelines",
       "count": 9
     },
     {
-      "keyword": "guidelines",
-      "count": 9
+      "keyword": "digital euro",
+      "count": 8
     },
     {
       "keyword": "resolution",
@@ -725,6 +725,10 @@
     {
       "keyword": "stress testing",
       "count": 7
+    },
+    {
+      "keyword": "cyber resilience",
+      "count": 6
     },
     {
       "keyword": "operational resilience",
@@ -755,10 +759,6 @@
       "count": 5
     },
     {
-      "keyword": "cyber resilience",
-      "count": 5
-    },
-    {
       "keyword": "nature related",
       "count": 5
     },
@@ -772,10 +772,6 @@
     },
     {
       "keyword": "pillar 3",
-      "count": 5
-    },
-    {
-      "keyword": "stablecoins",
       "count": 5
     },
     {
@@ -804,6 +800,10 @@
     },
     {
       "keyword": "reverse stress",
+      "count": 4
+    },
+    {
+      "keyword": "stablecoins",
       "count": 4
     },
     {
@@ -848,10 +848,6 @@
     },
     {
       "keyword": "sanctions",
-      "count": 3
-    },
-    {
-      "keyword": "securitisation",
       "count": 3
     },
     {
@@ -917,12 +913,16 @@
     {
       "keyword": "pillar 1",
       "count": 2
+    },
+    {
+      "keyword": "pillar 2",
+      "count": 2
     }
   ],
   "regionSummary": [
     {
       "region": "EU",
-      "count": 279
+      "count": 278
     },
     {
       "region": "UK",
@@ -948,7 +948,7 @@
     },
     {
       "institution": "European Central Bank",
-      "count": 87
+      "count": 86
     },
     {
       "institution": "European Banking Authority",
@@ -1000,6 +1000,202 @@
     }
   ],
   "publications": [
+    {
+      "id": "25c47ef9399c9484",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-27T14:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "Statistics / Data",
+      "updateTypeDetail": "Statistics / data"
+    },
+    {
+      "id": "03af601a77aeca50",
+      "title": "Government bond issuance surprises and the term structure of interest rates in the UK",
+      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
+      "url": "https://www.bankofengland.co.uk/working-paper/2026/government-bond-issuance-surprises-and-the-term-structure-of-interest-rates-in-the-uk",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-publications",
+      "sourceName": "BoE Publications",
+      "institution": "Bank of England",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-27T14:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2026/government-bond-issuance-surprises-and-the-term-structure-of-interest-rates-in-the-uk.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/government-bond-issuance-surprises-and-the-term-structure-of-interest-rates-in-the-uk",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
+      "updateType": "Working Papers / Research",
+      "updateTypeDetail": "Working paper / research"
+    },
+    {
+      "id": "4a403b75957ac984",
+      "title": "2026 list of UK headquartered Global Systemically Important Institutions (G-SIIs)",
+      "summary": "The PRA disclosure of UK headquartered G-SIIs for 2026",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/2026-list-of-uk-headquartered-gsiis",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-27T10:00:00.000Z",
+      "pdfLinks": [],
+      "topics": [
+        "Reporting / Disclosure"
+      ],
+      "matchedKeywords": [
+        "disclosure"
+      ],
+      "topicMatches": [
+        {
+          "id": "reporting-disclosure",
+          "label": "Reporting / Disclosure",
+          "keywords": [
+            "disclosure"
+          ]
+        }
+      ],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/2026-list-of-uk-headquartered-gsiis",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "e0ca3eccde49613c",
+      "title": "2026 Other Systemically Important Institutions (O-SIIs) buffer rates",
+      "summary": "For ring-fenced banks, large domestic banks and large building societies",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/o-sii-buffer-rates-for-ring-fenced-banks-and-large-building-societies",
+      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
+      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
+      "sourceId": "boe-prudential-publications",
+      "sourceName": "BoE Prudential Regulation Publications",
+      "institution": "Bank of England / Prudential Regulation Authority",
+      "region": "UK",
+      "jurisdiction": "UK",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-27T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/paper/2016/the-financial-policy-committees-framework-for-the-systemic-risk-buffer.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/november/o-sii-buffer-rates-for-ring-fenced-banks-and-large-building-societies",
+      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
+      "updateType": "Publications / Reports",
+      "updateTypeDetail": "Publication / report"
+    },
+    {
+      "id": "d800b3835a8be808",
+      "title": "AI, jobs and prices: what euro area consumers expect",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261127~81118f8ec0.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-blog",
+      "sourceName": "ECB Blog",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-27T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op287~ea7eebc23f.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261127~81118f8ec0.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
+    },
+    {
+      "id": "23301d6e9414f04c",
+      "title": "Synthetic controls meet Lucas! Unifying causal effects and structural decompositions",
+      "summary": "This paper merges two large literatures in macroeconomics, Synthetic Control Method (SCM) and Dynamic Stochastic General Equilibrium (DSGE) models, into a single framework. SCM effectively estimates causal treatment effects but lacks insights into underlying economic mechanisms, and it does not offer a framework for policy analysis: its estimated effect is a reduced-form object that shifts with the policy regime, leaving it exposed to the Lucas critique.",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3313~bef94fc3fa.en.pdf",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-publications",
+      "sourceName": "ECB Publications",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-27T10:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3313~bef94fc3fa.en.pdf"
+      ],
+      "topics": [
+        "Supervision / Enforcement"
+      ],
+      "matchedKeywords": [
+        "its"
+      ],
+      "topicMatches": [
+        {
+          "id": "supervision-enforcement",
+          "label": "Supervision / Enforcement",
+          "keywords": [
+            "its"
+          ]
+        }
+      ],
+      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3313~bef94fc3fa.en.pdf",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
+      "updateType": "Rules / Standards / Guidance",
+      "updateTypeDetail": "Rule / standard / guidance"
+    },
+    {
+      "id": "61ae984ee132baff",
+      "title": "ECB Consumer Expectations Survey results – October 2026",
+      "summary": "",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
+      "sourceId": "ecb-press",
+      "sourceName": "ECB Press",
+      "institution": "European Central Bank",
+      "region": "EU",
+      "jurisdiction": "EU",
+      "sourceType": "rss",
+      "publishedAt": "2026-11-27T09:00:00.000Z",
+      "pdfLinks": [
+        "https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/shared/pdf/CES_aggregate_statistics_guide.en.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op287~ea7eebc23f.en.pdf"
+      ],
+      "topics": [],
+      "matchedKeywords": [],
+      "topicMatches": [],
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
+      "updateType": "News",
+      "updateTypeDetail": "News / announcement"
+    },
     {
       "id": "2639553a26b564ca",
       "title": "Bank of England Weekly Report 25 November 2026",
@@ -4501,41 +4697,6 @@
       "updateTypeDetail": "Speech / interview / blog"
     },
     {
-      "id": "29cdb5958616130c",
-      "title": "Who holds stablecoins? New evidence on euro area consumer holdings",
-      "summary": "This box looks at whether stablecoins are on the rise in the euro area and what the implications are for financial stability, using data from the ECB’s Consumer Expectations Survey. It highlights the transactional nature of stablecoins and the risks posed by an increase in consumer holdings. While current exposures remain limited, the analysis underscores the importance of monitoring the use of stablecoins and the potential spillover effects on consumer confidence and financial markets.",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_08~f4ddf0117c.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-publications",
-      "sourceName": "ECB Publications",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-11-11T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Crypto / Digital Assets"
-      ],
-      "matchedKeywords": [
-        "stablecoins"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "stablecoins"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_08~f4ddf0117c.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/pub.html",
-      "updateType": "Publications / Reports",
-      "updateTypeDetail": "Publication / report"
-    },
-    {
       "id": "6d1d05759ec1987b",
       "title": "How the sovereign debt crisis shaped wealth inequality in the euro area",
       "summary": "",
@@ -4605,29 +4766,6 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "b89b47769a10bf94",
-      "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-11-10T16:45:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
-    },
-    {
       "id": "b50606f21cf951c7",
       "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
       "summary": "The Securities and Exchange Commission today provided its enforcement results for the past fiscal year which ended September 30. Throughout the fiscal year, the SEC’s Division of Enforcement remained focused on its fundamental responsibility: protecting…",
@@ -4663,41 +4801,6 @@
       "sourceFeedUrl": "https://www.sec.gov/news/pressreleases.rss",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "fba2f84cedbe2325",
-      "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-press",
-      "sourceName": "ECB Press",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Crypto / Digital Assets"
-      ],
-      "matchedKeywords": [
-        "digital euro"
-      ],
-      "topicMatches": [
-        {
-          "id": "crypto-digital-assets",
-          "label": "Crypto / Digital Assets",
-          "keywords": [
-            "digital euro"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/press.html",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
     },
     {
       "id": "126a0700e18bd179",
@@ -7932,31 +8035,6 @@
       "updateTypeDetail": "Working paper / research"
     },
     {
-      "id": "c97fb73da4096a3e",
-      "title": "What analysts hear and why it matters for monetary policy",
-      "summary": "We introduce a novel measure of how European Central Bank (ECB) monetary policy is interpreted by analysts at major investment banks. We construct a “policy interpretation shock” based on the language used in analysts’ reports covering monetary policy decisions by the ECB’s Governing Council (GovC). The main identifying assumption is that changes in the way analysts report on policy communication by the GovC—that is, the change in the policy tone from the preview report to the recap report—reflect unexpected information revealed by the policy event.",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3298~06485c09a7.en.pdf",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-working-papers",
-      "sourceName": "ECB Working Papers",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-10-14T09:00:00.000Z",
-      "pdfLinks": [
-        "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3298~06485c09a7.en.pdf"
-      ],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3298~06485c09a7.en.pdf",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/wppub.html",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
       "id": "7855481a0cb76423",
       "title": "CFPB Announces New Initiative to Address OCC-Uncovered Debanking by Large Banks",
       "summary": "Today, the Consumer Financial Protection Bureau (CFPB) announced the next step in its work to advance President Trump’s fight against the debanking of businesses and individuals on the basis of their constitutionally protected rights",
@@ -9781,29 +9859,6 @@
       "updateTypeDetail": "Rule / standard / guidance"
     },
     {
-      "id": "716f81b501feb4a9",
-      "title": "Inflation composition and monetary stabilization",
-      "summary": "Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.",
-      "url": "https://www.bankofengland.co.uk/working-paper/2026/inflation-composition-and-monetary-stabilization",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-publications",
-      "sourceName": "BoE Publications",
-      "institution": "Bank of England",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-25T13:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/inflation-composition-and-monetary-stabilization",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/publications",
-      "updateType": "Working Papers / Research",
-      "updateTypeDetail": "Working paper / research"
-    },
-    {
       "id": "3b4b5a64eb401afa",
       "title": "The PRA held a captive insurance industry roundtable",
       "summary": "On 17 September 2026, the PRA hosted a roundtable in relation to CP11/26 – A tailored regime for captive insurance.",
@@ -10865,41 +10920,6 @@
       ],
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "f43060dc0513cef8",
-      "title": "Can synthetic securitisation support economic growth?",
-      "summary": "",
-      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260902~4ea10b9f9a.en.html",
-      "sourcePageUrl": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "officialSourcePage": "https://www.ecb.europa.eu/home/html/rss.en.html",
-      "sourceId": "ecb-blog",
-      "sourceName": "ECB Blog",
-      "institution": "European Central Bank",
-      "region": "EU",
-      "jurisdiction": "EU",
-      "sourceType": "rss",
-      "publishedAt": "2026-09-02T09:00:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Basel / BCBS"
-      ],
-      "matchedKeywords": [
-        "securitisation"
-      ],
-      "topicMatches": [
-        {
-          "id": "basel-framework",
-          "label": "Basel / BCBS",
-          "keywords": [
-            "securitisation"
-          ]
-        }
-      ],
-      "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260902~4ea10b9f9a.en.html",
-      "sourceFeedUrl": "https://www.ecb.europa.eu/rss/blog.html",
-      "updateType": "Speeches / Interviews / Blogs",
-      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "42cabba0a8815cb3",
@@ -14593,41 +14613,6 @@
       "updateTypeDetail": "Consultation / discussion paper"
     },
     {
-      "id": "ccc7ec42e5a76e46",
-      "title": "CP8/26 – Funded reinsurance",
-      "summary": "Consultation paper 8/26",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/funded-reinsurance-consultation-paper",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-29T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [
-        "Supervision / Enforcement"
-      ],
-      "matchedKeywords": [
-        "consultation paper"
-      ],
-      "topicMatches": [
-        {
-          "id": "supervision-enforcement",
-          "label": "Supervision / Enforcement",
-          "keywords": [
-            "consultation paper"
-          ]
-        }
-      ],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/funded-reinsurance-consultation-paper",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Consultations",
-      "updateTypeDetail": "Consultation / discussion paper"
-    },
-    {
       "id": "fb53af274a973e4d",
       "title": "SoP14/24 – The Prudential Regulation Authority’s approach to cost benefit analysis",
       "summary": "Statement of Policy 14/24",
@@ -14646,29 +14631,6 @@
       "matchedKeywords": [],
       "topicMatches": [],
       "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/sop1424-pra-approach-to-cost-benefit-analysis-statement-of-policy",
-      "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
-      "updateType": "Rules / Standards / Guidance",
-      "updateTypeDetail": "Rule / standard / guidance"
-    },
-    {
-      "id": "b15ce6fec336b344",
-      "title": "The PRA’s Standard Cost Model",
-      "summary": "Technical Note",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/pra-standard-cost-model",
-      "sourcePageUrl": "https://www.bankofengland.co.uk/rss",
-      "officialSourcePage": "https://www.bankofengland.co.uk/rss",
-      "sourceId": "boe-prudential-publications",
-      "sourceName": "BoE Prudential Regulation Publications",
-      "institution": "Bank of England / Prudential Regulation Authority",
-      "region": "UK",
-      "jurisdiction": "UK",
-      "sourceType": "rss",
-      "publishedAt": "2026-04-29T08:30:00.000Z",
-      "pdfLinks": [],
-      "topics": [],
-      "matchedKeywords": [],
-      "topicMatches": [],
-      "link": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/pra-standard-cost-model",
       "sourceFeedUrl": "https://www.bankofengland.co.uk/rss/prudential-regulation-publications",
       "updateType": "Rules / Standards / Guidance",
       "updateTypeDetail": "Rule / standard / guidance"
@@ -20958,10 +20920,10 @@
       "updateTypeDetail": "Publication / report"
     },
     {
-      "id": "451ff6bfd7efd309",
-      "title": "FCA acts to protect consumers facing demands for disguised remuneration scheme loan repayments",
-      "summary": "We've intervened and Ethica Resolve Limited (Ethica), an FCA authorised firm that services and collects debt on behalf of creditors, has agreed to restrictions. These follow demands it made for people to repay loans, or purported loans, provided as part of disguised remuneration schemes. Ethica is acting on behalf of West 28th Street Limited (West 28), which bought disguised remuneration loans from a third party. West 28 is not authorised or regulated by the FCA. Disguised remuneration schemes saw people – often contractors, consultants and agency workers – paid for their work through loans instead of regular salaries. HMRC has published guidance for those affected.",
-      "url": "https://www.fca.org.uk/news/statements/fca-acts-protect-consumers-demands-disguised-remuneration-scheme-loan-repayments",
+      "id": "2af8dd7b1fdb15d2",
+      "title": "Cyber resilience: building confidence as threats evolve",
+      "summary": "Speech by Mark Francis, director of specialists at the Cyber Security in Financial Services Summit. There is no shortage of material for a speech about cyber security at the moment. Recent months have provided some stark reminders of just how interconnected our digital economy has become. Major outages affecting Microsoft and Google have shown how problems in one part of the system can reverberate widely. We are seeing that changing environment reflected in our own data too. Last month was the highest month for cyber incidents reported to the FCA in the past 18 months, and the second highest in the past 5 years. And those numbers sit against a broader shift in the operating environment.",
+      "url": "https://www.fca.org.uk/news/speeches/cyber-resilience-building-confidence-threats-evolve",
       "sourcePageUrl": "https://www.fca.org.uk/what-we-publish",
       "officialSourcePage": "https://www.fca.org.uk/what-we-publish",
       "sourceId": "fca-news",
@@ -20973,26 +20935,35 @@
       "publishedAt": null,
       "pdfLinks": [],
       "topics": [
+        "DORA / Operational Resilience",
         "Governance"
       ],
       "matchedKeywords": [
-        "remuneration",
+        "cyber resilience",
+        "cyber security",
         "conduct"
       ],
       "topicMatches": [
         {
+          "id": "dora-operational-resilience",
+          "label": "DORA / Operational Resilience",
+          "keywords": [
+            "cyber resilience",
+            "cyber security"
+          ]
+        },
+        {
           "id": "governance",
           "label": "Governance",
           "keywords": [
-            "remuneration",
             "conduct"
           ]
         }
       ],
-      "link": "https://www.fca.org.uk/news/statements/fca-acts-protect-consumers-demands-disguised-remuneration-scheme-loan-repayments",
+      "link": "https://www.fca.org.uk/news/speeches/cyber-resilience-building-confidence-threats-evolve",
       "sourceFeedUrl": "https://www.fca.org.uk/news/rss.xml",
-      "updateType": "News",
-      "updateTypeDetail": "News / announcement"
+      "updateType": "Speeches / Interviews / Blogs",
+      "updateTypeDetail": "Speech / interview / blog"
     },
     {
       "id": "69e7ecee9a20bef5",
@@ -21746,7 +21717,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "rss",
-      "publishedAt": "2026-11-27T01:31:54.666Z",
+      "publishedAt": "2026-11-27T16:21:34.417Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21770,7 +21741,7 @@
       "region": "Cyprus",
       "jurisdiction": "Cyprus",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-27T01:31:54.666Z",
+      "publishedAt": "2026-11-27T16:21:34.417Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21794,7 +21765,7 @@
       "region": "EU",
       "jurisdiction": "EU",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-27T01:31:54.666Z",
+      "publishedAt": "2026-11-27T16:21:34.417Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21818,7 +21789,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-27T01:31:54.666Z",
+      "publishedAt": "2026-11-27T16:21:34.417Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21842,7 +21813,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-27T01:31:54.666Z",
+      "publishedAt": "2026-11-27T16:21:34.417Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21866,7 +21837,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-27T01:31:54.666Z",
+      "publishedAt": "2026-11-27T16:21:34.417Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21890,7 +21861,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-27T01:31:54.666Z",
+      "publishedAt": "2026-11-27T16:21:34.417Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21914,7 +21885,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-27T01:31:54.666Z",
+      "publishedAt": "2026-11-27T16:21:34.417Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21938,7 +21909,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-27T01:31:54.666Z",
+      "publishedAt": "2026-11-27T16:21:34.417Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21962,7 +21933,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-27T01:31:54.666Z",
+      "publishedAt": "2026-11-27T16:21:34.417Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -21986,7 +21957,7 @@
       "region": "UK",
       "jurisdiction": "UK",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-27T01:31:54.666Z",
+      "publishedAt": "2026-11-27T16:21:34.417Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22010,7 +21981,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-27T01:31:54.666Z",
+      "publishedAt": "2026-11-27T16:21:34.417Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22034,7 +22005,7 @@
       "region": "Global",
       "jurisdiction": "Global",
       "sourceType": "html-list",
-      "publishedAt": "2026-11-27T01:31:54.666Z",
+      "publishedAt": "2026-11-27T16:21:34.417Z",
       "pdfLinks": [],
       "topics": [],
       "matchedKeywords": [],
@@ -22047,7 +22018,7 @@
   "updateTypeSummary": [
     {
       "updateType": "Speeches / Interviews / Blogs",
-      "count": 117
+      "count": 118
     },
     {
       "updateType": "Rules / Standards / Guidance",
@@ -22055,23 +22026,23 @@
     },
     {
       "updateType": "Publications / Reports",
-      "count": 86
+      "count": 87
     },
     {
       "updateType": "News",
-      "count": 74
+      "count": 72
     },
     {
       "updateType": "Consultations",
-      "count": 42
+      "count": 41
     },
     {
       "updateType": "Working Papers / Research",
-      "count": 36
+      "count": 35
     },
     {
       "updateType": "Statistics / Data",
-      "count": 16
+      "count": 17
     },
     {
       "updateType": "Source Pages",
